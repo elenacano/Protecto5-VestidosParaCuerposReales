@@ -1,0 +1,602 @@
+{
+    "status": true,
+    "timestamp": 1730394387951,
+    "data": {
+        "id": 206563450,
+        "name": "Mango bardot stripe midi dress in blue",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>For your weekend mood board</li><li>Stripe design</li><li>Bardot neck</li><li>Button-through front</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango bardot stripe midi dress in blue",
+                "pdpUrl": "https://www.asos.com/mango/mango-bardot-stripe-midi-dress-in-blue/prd/206563450"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Niebieska sukienka midi w paski z dekoltem bardot",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-niebieska-sukienka-midi-w-paski-z-dekoltem-bardot/prd/206563450"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango off the shoulder striped midi dress in blue",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-off-the-shoulder-striped-midi-dress-in-blue/prd/206563450"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue \u00e0 rayures et encolure Bardot - Bleu",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-a-rayures-et-encolure-bardot-bleu/prd/206563450"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Bl\u00e5randig midikl\u00e4nning i bardotstil",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-blarandig-midiklanning-i-bardotstil/prd/206563450"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi azul a rayas con escote Bardot de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-azul-a-rayas-con-escote-bardot-de-mango/prd/206563450"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Bardot-midikjole med striber i bl\u00e5",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-bardot-midikjole-med-striber-i-bla/prd/206563450"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi blu a righe con scollo alla Bardot",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-blu-a-righe-con-scollo-alla-bardot/prd/206563450"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Gestreiftes Midikleid in Blau mit Carmen-Ausschnitt",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-gestreiftes-midikleid-in-blau-mit-carmen-ausschnitt/prd/206563450"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Gestreepte midi bardotjurk in blauw",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-gestreepte-midi-bardotjurk-in-blauw/prd/206563450"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135596708",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206563481,
+                "name": "Mango bardot stripe midi dress in blue",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "135596831",
+                "isAvailable": true,
+                "colourWayId": 206563471,
+                "colour": "MID BLUE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144292205"
+            },
+            {
+                "id": 206563474,
+                "name": "Mango bardot stripe midi dress in blue",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "135596832",
+                "isAvailable": true,
+                "colourWayId": 206563471,
+                "colour": "MID BLUE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144292212"
+            },
+            {
+                "id": 206563480,
+                "name": "Mango bardot stripe midi dress in blue",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "135596833",
+                "isAvailable": true,
+                "colourWayId": 206563471,
+                "colour": "MID BLUE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144292229"
+            },
+            {
+                "id": 206563482,
+                "name": "Mango bardot stripe midi dress in blue",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "135596834",
+                "isAvailable": true,
+                "colourWayId": 206563471,
+                "colour": "MID BLUE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144292236"
+            },
+            {
+                "id": 206563479,
+                "name": "Mango bardot stripe midi dress in blue",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "135596835",
+                "isAvailable": true,
+                "colourWayId": 206563471,
+                "colour": "MID BLUE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144292243"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-bardot-stripe-midi-dress-in-blue/206563450-1-midblue",
+                    "type": "Standard1",
+                    "colourWayId": 206563471,
+                    "colour": "MID BLUE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-bardot-stripe-midi-dress-in-blue/206563450-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-bardot-stripe-midi-dress-in-blue/206563450-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-bardot-stripe-midi-dress-in-blue/206563450-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206563450-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206563450-catwalk",
+                    "colourWayId": 206563471
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Cotton: lightweight, soft and strong<br><br>Main: 79% Cotton, 18% Polyamide, 3% Elastane.",
+            "sizeAndFit": "Model's height: 177.5cm / 5' 10''<br>Model is wearing: UK S/ EU S/ US XS",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "AU",
+                "MY",
+                "IL",
+                "TW",
+                "RU",
+                "SG",
+                "PH",
+                "ID",
+                "HK"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 12971,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20034,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51328,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52071,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

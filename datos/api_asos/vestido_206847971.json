@@ -1,0 +1,628 @@
+{
+    "status": true,
+    "timestamp": 1730394378954,
+    "data": {
+        "id": 206847971,
+        "name": "Mango lace trim neckline mini dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Mini dress, major impact</li><li>Square neck</li><li>Fixed straps</li><li>Picot trim</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango lace trim neckline mini dress in black",
+                "pdpUrl": "https://www.asos.com/mango/mango-lace-trim-neckline-mini-dress-in-black/prd/206847971"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe courte avec encolure bord\u00e9e de dentelle - Noir",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-courte-avec-encolure-borde-de-dentelle-noir/prd/206847971"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Sort minikjole med blondekant p\u00e5 halsen",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-sort-minikjole-med-blondekant-p-halsen/prd/206847971"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito corto nero con finiture in pizzo sullo scollo",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-corto-nero-con-finiture-in-pizzo-sullo-scollo/prd/206847971"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Svart minikl\u00e4nning med spetskant vid ringningen",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-svart-miniklnning-med-spetskant-vid-ringningen/prd/206847971"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto negro con ribete de encaje en el cuello de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-corto-negro-con-ribete-de-encaje-en-el-cuello-de-mango/prd/206847971"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Minikleid in Schwarz mit Spitzenbesatz am Ausschnitt",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-minikleid-in-schwarz-mit-spitzenbesatz-am-ausschnitt/prd/206847971"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czarna sukienka mini z koronkowym wyko\u0144czeniem przy dekolcie",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czarna-sukienka-mini-z-koronkowym-wykoczeniem-przy-dekolcie/prd/206847971"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Mini jurk met kanten rand aan de halslijn in zwart",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-mini-jurk-met-kanten-rand-aan-de-halslijn-in-zwart/prd/206847971"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango lace trim neckline mini dress in black",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-lace-trim-neckline-mini-dress-in-black/prd/206847971"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136546138",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206847984,
+                "name": "Mango lace trim neckline mini dress in black",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "136546437",
+                "isAvailable": true,
+                "colourWayId": 206847979,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144266763"
+            },
+            {
+                "id": 206847983,
+                "name": "Mango lace trim neckline mini dress in black",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "136546438",
+                "isAvailable": true,
+                "colourWayId": 206847979,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144266770"
+            },
+            {
+                "id": 206847981,
+                "name": "Mango lace trim neckline mini dress in black",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "136546439",
+                "isAvailable": true,
+                "colourWayId": 206847979,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144266787"
+            },
+            {
+                "id": 206847980,
+                "name": "Mango lace trim neckline mini dress in black",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "136546440",
+                "isAvailable": true,
+                "colourWayId": 206847979,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144266794"
+            },
+            {
+                "id": 206847982,
+                "name": "Mango lace trim neckline mini dress in black",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "136546441",
+                "isAvailable": true,
+                "colourWayId": 206847979,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144266800"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-lace-trim-neckline-mini-dress-in-black/206847971-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 206847979,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-lace-trim-neckline-mini-dress-in-black/206847971-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-lace-trim-neckline-mini-dress-in-black/206847971-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-lace-trim-neckline-mini-dress-in-black/206847971-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206847971-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206847971-catwalk",
+                    "colourWayId": 206847979
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 175.5cm / 5' 9''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207099502,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207099502&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "SG",
+                "MY",
+                "TW",
+                "AU",
+                "ID",
+                "PH",
+                "HK",
+                "RU",
+                "IL"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19366,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51312,
+                "type": "Standard"
+            },
+            {
+                "id": 51317,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51359,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52071,
+                "type": "Standard"
+            },
+            {
+                "id": 52072,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

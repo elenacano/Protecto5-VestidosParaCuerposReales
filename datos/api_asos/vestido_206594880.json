@@ -1,0 +1,654 @@
+{
+    "status": true,
+    "timestamp": 1730394401952,
+    "data": {
+        "id": 206594880,
+        "name": "Mango Selection hanky hem crochet dress in cream",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Let's hear it for the dress</li><li>Plunge neck</li><li>Fixed straps</li><li>Crochet details</li><li>Hanky hem</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango Selection hanky hem crochet dress in cream",
+                "pdpUrl": "https://www.asos.com/mango/mango-selection-hanky-hem-crochet-dress-in-cream/prd/206594880"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido color crema con bajo asim\u00e9trico y detalles de croch\u00e9 Selection de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-color-crema-con-bajo-asimetrico-y-detalles-de-croche-selection-de-mango/prd/206594880"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango Selection - Robe en crochet avec ourlet mouchoir - Cr\u00e8me",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-selection-robe-en-crochet-avec-ourlet-mouchoir-creme/prd/206594880"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango -Selection - Gehaakte jurk met zakdoekzoom in cr\u00e8me",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-selection-gehaakte-jurk-met-zakdoekzoom-in-creme/prd/206594880"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Selection \u2013 Kremowa szyde\u0142kowana sukienka z asymetrycznym do\u0142em",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-selection-kremowa-szydekowana-sukienka-z-asymetrycznym-doem/prd/206594880"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Selection - H\u00e6klet og cremehvid kjole med t\u00f8rkl\u00e6dekant",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-selection-hklet-og-cremehvid-kjole-med-trkldekant/prd/206594880"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Selection - Vestito all'uncinetto crema con fondo a punta",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-selection-vestito-alluncinetto-crema-con-fondo-a-punta/prd/206594880"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Selection \u2013 Kleid in Cremewei\u00df mit Zipfelsaum und geh\u00e4kelten Eins\u00e4tzen",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-selection-kleid-in-cremewei-mit-zipfelsaum-und-gehakelten-einsatzen/prd/206594880"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Selection - Kr\u00e4mf\u00e4rgad, virkad kl\u00e4nning med n\u00e4sduksf\u00e5ll",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-selection-kramfargad-virkad-klanning-med-nasduksfall/prd/206594880"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango Selection hanky hem crochet dress in cream",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-selection-hanky-hem-crochet-dress-in-cream/prd/206594880"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135645234",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206594893,
+                "name": "Mango Selection hanky hem crochet dress in cream",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "135688081",
+                "isAvailable": true,
+                "colourWayId": 206594889,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144048444"
+            },
+            {
+                "id": 206594891,
+                "name": "Mango Selection hanky hem crochet dress in cream",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "135688082",
+                "isAvailable": true,
+                "colourWayId": 206594889,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144048451"
+            },
+            {
+                "id": 206594892,
+                "name": "Mango Selection hanky hem crochet dress in cream",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "135688083",
+                "isAvailable": true,
+                "colourWayId": 206594889,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144048468"
+            },
+            {
+                "id": 206594890,
+                "name": "Mango Selection hanky hem crochet dress in cream",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "135688084",
+                "isAvailable": true,
+                "colourWayId": 206594889,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144048475"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-selection-hanky-hem-crochet-dress-in-cream/206594880-1-cream",
+                    "type": "Standard1",
+                    "colourWayId": 206594889,
+                    "colour": "CREAM",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-selection-hanky-hem-crochet-dress-in-cream/206594880-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-selection-hanky-hem-crochet-dress-in-cream/206594880-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-selection-hanky-hem-crochet-dress-in-cream/206594880-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206594880-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206594880-catwalk",
+                    "colourWayId": 206594889
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Linen-mix fabric: soft and lightweight<br><br>Main: 88% Cotton, 12% Linen.",
+            "sizeAndFit": "Model's height: 176.5cm / 5' 9''<br>Model is wearing: UK S/ EU S/ US XS",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 206792681,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=206792681&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "ID",
+                "IL",
+                "MY",
+                "PH",
+                "RU",
+                "SG",
+                "TW",
+                "AU",
+                "HK"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15622,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 16303,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 19017,
+                "type": "Standard"
+            },
+            {
+                "id": 19377,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28251,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50527,
+                "type": "Standard"
+            },
+            {
+                "id": 50605,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51317,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51328,
+                "type": "Standard"
+            },
+            {
+                "id": 51364,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51616,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52071,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875887,
+                "name": "Crochet"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

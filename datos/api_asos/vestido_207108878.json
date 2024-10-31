@@ -1,0 +1,545 @@
+{
+    "status": true,
+    "timestamp": 1730394390608,
+    "data": {
+        "id": 207108878,
+        "name": "Mango tailored pinstripe bandeau midi dress in grey",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Too good to only wear once</li><li>Stripe design</li><li>Bandeau style</li><li>Zip-back fastening</li><li>Kick split</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango tailored pinstripe bandeau midi dress in grey",
+                "pdpUrl": "https://www.asos.com/mango/mango-tailored-pinstripe-bandeau-midi-dress-in-grey/prd/207108878"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango tailored pinstripe bandeau midi dress in gray",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-tailored-pinstripe-bandeau-midi-dress-in-gray/prd/207108878"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Elegantes, tr\u00e4gerloses Midikleid in Grau mit Nadelstreifen",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-elegantes-tragerloses-midikleid-in-grau-mit-nadelstreifen/prd/207108878"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido de sastre midi gris con raya diplom\u00e1tica y escote palabra de honor de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-de-sastre-midi-gris-con-raya-diplomatica-y-escote-palabra-de-honor-de-mango/prd/207108878"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Gr\u00e5, figursydd midikl\u00e4nning i bandeaustil med kritstrecksr\u00e4nder",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-gra-figursydd-midiklanning-i-bandeaustil-med-kritstrecksrander/prd/207108878"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Dopasowana szara sukienka midi w pr\u0105\u017cki z dekoltem bandeau",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-dopasowana-szara-sukienka-midi-w-prazki-z-dekoltem-bandeau/prd/207108878"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe bandeau mi-longue et ajust\u00e9e \u00e0 fines rayures - Gris",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-bandeau-mi-longue-et-ajustee-a-fines-rayures-gris/prd/207108878"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Gr\u00e5, skr\u00e6ddersyet og n\u00e5lestribet bandeau-midikjole",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-gra-skrddersyet-og-nalestribet-bandeau-midikjole/prd/207108878"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Elegante midi bandeau-jurk in grijs met krijtstreep",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-elegante-midi-bandeau-jurk-in-grijs-met-krijtstreep/prd/207108878"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi sartoriale grigio gessato a fascia",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-sartoriale-grigio-gessato-a-fascia/prd/207108878"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137725384",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207108905,
+                "name": "Mango tailored pinstripe bandeau midi dress in grey",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "137725777",
+                "isAvailable": true,
+                "colourWayId": 207108902,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144545738"
+            },
+            {
+                "id": 207108906,
+                "name": "Mango tailored pinstripe bandeau midi dress in grey",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "137725778",
+                "isAvailable": true,
+                "colourWayId": 207108902,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144545745"
+            },
+            {
+                "id": 207108903,
+                "name": "Mango tailored pinstripe bandeau midi dress in grey",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "137725779",
+                "isAvailable": true,
+                "colourWayId": 207108902,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144545752"
+            },
+            {
+                "id": 207108907,
+                "name": "Mango tailored pinstripe bandeau midi dress in grey",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "137725780",
+                "isAvailable": true,
+                "colourWayId": 207108902,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144545769"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-pinstripe-bandeau-midi-dress-in-grey/207108878-1-grey",
+                    "type": "Standard1",
+                    "colourWayId": 207108902,
+                    "colour": "GREY",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-pinstripe-bandeau-midi-dress-in-grey/207108878-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-pinstripe-bandeau-midi-dress-in-grey/207108878-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-pinstripe-bandeau-midi-dress-in-grey/207108878-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207108878-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207108878-catwalk",
+                    "colourWayId": 207108902
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Main: 80% Polyester, 17% Viscose, 3% Elastane.",
+            "sizeAndFit": "Model's height: 168.5cm / 5' 6\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207374229,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207374229&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "RU",
+                "HK",
+                "ID",
+                "PH",
+                "IL",
+                "MY",
+                "TW",
+                "AU",
+                "SG"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15624,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19390,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51769,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

@@ -1,0 +1,554 @@
+{
+    "status": true,
+    "timestamp": 1730394399443,
+    "data": {
+        "id": 207283967,
+        "name": "Mango short sleeve midi dress in beige",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>For your weekend plans</li><li>Plain design</li><li>High neck</li><li>Short sleeves</li><li>Slim fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango short sleeve midi dress in beige",
+                "pdpUrl": "https://www.asos.com/mango/mango-short-sleeve-midi-dress-in-beige/prd/207283967"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue \u00e0 manches courtes - Beige",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-a-manches-courtes-beige/prd/207283967"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango short sleeve midi dress in beige",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-short-sleeve-midi-dress-in-beige/prd/207283967"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Beige midikjole med korte \u00e6rmer",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-beige-midikjole-med-korte-rmer/prd/207283967"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Kurz\u00e4rmliges Midikleid in Beige",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-kurzarmliges-midikleid-in-beige/prd/207283967"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Midi jurk met korte mouwen in beige",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-midi-jurk-met-korte-mouwen-in-beige/prd/207283967"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Be\u017cowa sukienka midi z kr\u00f3tkim r\u0119kawem",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-bezowa-sukienka-midi-z-krotkim-rekawem/prd/207283967"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi beige a maniche corte",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-beige-a-maniche-corte/prd/207283967"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Beige midikl\u00e4nning med korta \u00e4rmar",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-beige-midiklanning-med-korta-armar/prd/207283967"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi beis de manga corta de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-beis-de-manga-corta-de-mango/prd/207283967"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138741011",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207283969,
+                "name": "Mango short sleeve midi dress in beige",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "138741181",
+                "isAvailable": true,
+                "colourWayId": 207283968,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658216"
+            },
+            {
+                "id": 207283972,
+                "name": "Mango short sleeve midi dress in beige",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138741182",
+                "isAvailable": true,
+                "colourWayId": 207283968,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658223"
+            },
+            {
+                "id": 207283973,
+                "name": "Mango short sleeve midi dress in beige",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138741183",
+                "isAvailable": true,
+                "colourWayId": 207283968,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658230"
+            },
+            {
+                "id": 207283970,
+                "name": "Mango short sleeve midi dress in beige",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138741184",
+                "isAvailable": true,
+                "colourWayId": 207283968,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658247"
+            },
+            {
+                "id": 207283971,
+                "name": "Mango short sleeve midi dress in beige",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "138741185",
+                "isAvailable": true,
+                "colourWayId": 207283968,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658254"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-short-sleeve-midi-dress-in-beige/207283967-1-beige",
+                    "type": "Standard1",
+                    "colourWayId": 207283968,
+                    "colour": "BEIGE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-short-sleeve-midi-dress-in-beige/207283967-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-short-sleeve-midi-dress-in-beige/207283967-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-short-sleeve-midi-dress-in-beige/207283967-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207283967-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207283967-catwalk",
+                    "colourWayId": 207283968
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Ribbed knit<br><br>Main: 47% Viscose, 30% Polyester, 23% Polyamide.",
+            "sizeAndFit": "Model's height: 171cm / 5' 7\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "TW",
+                "ID",
+                "PH",
+                "HK",
+                "RU",
+                "AU",
+                "SG",
+                "IL",
+                "MY"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13720,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15630,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

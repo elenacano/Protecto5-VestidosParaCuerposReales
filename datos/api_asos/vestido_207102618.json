@@ -1,0 +1,564 @@
+{
+    "status": true,
+    "timestamp": 1730394395965,
+    "data": {
+        "id": 207102618,
+        "name": "Mango sleeveless cinched side midi dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Let's hear it for the dress</li><li>Round neck</li><li>Sleeveless style</li><li>Cinched side</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango sleeveless cinched side midi dress in black",
+                "pdpUrl": "https://www.asos.com/mango/mango-sleeveless-cinched-side-midi-dress-in-black/prd/207102618"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue sans manches cintr\u00e9e sur le c\u00f4t\u00e9 - Noir",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-sans-manches-cintree-sur-le-cote-noir/prd/207102618"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi senza maniche nero con arricciatura laterale",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-senza-maniche-nero-con-arricciatura-laterale/prd/207102618"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Mouwloze midi jurk met ingenomen taille in zwart",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-mouwloze-midi-jurk-met-ingenomen-taille-in-zwart/prd/207102618"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Sort midikjole uden \u00e6rmer med rynket side",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-sort-midikjole-uden-rmer-med-rynket-side/prd/207102618"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango sleeveless cinched side midi dress in black",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-sleeveless-cinched-side-midi-dress-in-black/prd/207102618"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czarna sukienka midi bez r\u0119kaw\u00f3w zbierana z boku",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czarna-sukienka-midi-bez-rekawow-zbierana-z-boku/prd/207102618"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 \u00c4rmelloses Midikleid in Schwarz mit gerafften Seiten",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-armelloses-midikleid-in-schwarz-mit-gerafften-seiten/prd/207102618"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Svart, \u00e4rml\u00f6s midikl\u00e4nning med indragna sidor",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-svart-armlos-midiklanning-med-indragna-sidor/prd/207102618"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi negro sin mangas con lateral ce\u00f1ido de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-negro-sin-mangas-con-lateral-cenido-de-mango/prd/207102618"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137725385",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207102624,
+                "name": "Mango sleeveless cinched side midi dress in black",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "137725781",
+                "isAvailable": true,
+                "colourWayId": 207102619,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144626871"
+            },
+            {
+                "id": 207102623,
+                "name": "Mango sleeveless cinched side midi dress in black",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "137725782",
+                "isAvailable": true,
+                "colourWayId": 207102619,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144626888"
+            },
+            {
+                "id": 207102621,
+                "name": "Mango sleeveless cinched side midi dress in black",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "137725783",
+                "isAvailable": true,
+                "colourWayId": 207102619,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144626895"
+            },
+            {
+                "id": 207102622,
+                "name": "Mango sleeveless cinched side midi dress in black",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "137725784",
+                "isAvailable": true,
+                "colourWayId": 207102619,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144626901"
+            },
+            {
+                "id": 207102620,
+                "name": "Mango sleeveless cinched side midi dress in black",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "137725785",
+                "isAvailable": true,
+                "colourWayId": 207102619,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144626918"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-cinched-side-midi-dress-in-black/207102618-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 207102619,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-cinched-side-midi-dress-in-black/207102618-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-cinched-side-midi-dress-in-black/207102618-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-cinched-side-midi-dress-in-black/207102618-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207102618-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207102618-catwalk",
+                    "colourWayId": 207102619
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 175.5cm / 5' 9''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207347045,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207347045&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "MY",
+                "IL",
+                "SG",
+                "TW",
+                "HK",
+                "ID",
+                "RU",
+                "AU",
+                "PH"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15624,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

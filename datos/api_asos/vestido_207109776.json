@@ -1,0 +1,521 @@
+{
+    "status": true,
+    "timestamp": 1730394381939,
+    "data": {
+        "id": 207109776,
+        "name": "Mango one shoulder midi dress in leopard print",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Master the dress code</li><li>Animal print</li><li>One-shoulder style</li><li>Thigh-high split</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango one shoulder midi dress in leopard print",
+                "pdpUrl": "https://www.asos.com/mango/mango-one-shoulder-midi-dress-in-leopard-print/prd/207109776"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue asym\u00e9trique imprim\u00e9 l\u00e9opard",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-asymetrique-imprime-leopard/prd/207109776"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi monospalla con stampa leopardata",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-monospalla-con-stampa-leopardata/prd/207109776"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango one shoulder midi dress in leopard print",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-one-shoulder-midi-dress-in-leopard-print/prd/207109776"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Midi jurk met luipaardprint en blote schouder",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-midi-jurk-met-luipaardprint-en-blote-schouder/prd/207109776"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Oneshoulder-midikjole med leopardprint",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-oneshoulder-midikjole-med-leopardprint/prd/207109776"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Leopardm\u00f6nstrad, enaxlad midikl\u00e4nning",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-leopardmonstrad-enaxlad-midiklanning/prd/207109776"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Midikleid mit One-Shoulder-Tr\u00e4ger und Leopardenmuster",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-midikleid-mit-one-shoulder-trager-und-leopardenmuster/prd/207109776"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Sukienka midi na jedno rami\u0119 w panterk\u0119",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-sukienka-midi-na-jedno-ramie-w-panterke/prd/207109776"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi asim\u00e9trico con estampado de leopardo de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-asimetrico-con-estampado-de-leopardo-de-mango/prd/207109776"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137727607",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207109786,
+                "name": "Mango one shoulder midi dress in leopard print",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "137727666",
+                "isAvailable": true,
+                "colourWayId": 207109783,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144847269"
+            },
+            {
+                "id": 207109785,
+                "name": "Mango one shoulder midi dress in leopard print",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "137727667",
+                "isAvailable": true,
+                "colourWayId": 207109783,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144847276"
+            },
+            {
+                "id": 207109787,
+                "name": "Mango one shoulder midi dress in leopard print",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "137727668",
+                "isAvailable": true,
+                "colourWayId": 207109783,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144847283"
+            },
+            {
+                "id": 207109789,
+                "name": "Mango one shoulder midi dress in leopard print",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "137727669",
+                "isAvailable": true,
+                "colourWayId": 207109783,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144847290"
+            },
+            {
+                "id": 207109788,
+                "name": "Mango one shoulder midi dress in leopard print",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "137727670",
+                "isAvailable": true,
+                "colourWayId": 207109783,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144847306"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-one-shoulder-midi-dress-in-leopard-print/207109776-1-brown",
+                    "type": "Standard1",
+                    "colourWayId": 207109783,
+                    "colour": "BROWN",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-one-shoulder-midi-dress-in-leopard-print/207109776-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-one-shoulder-midi-dress-in-leopard-print/207109776-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-one-shoulder-midi-dress-in-leopard-print/207109776-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207109776-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207109776-catwalk",
+                    "colourWayId": 207109783
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Main: 100% Viscose.",
+            "sizeAndFit": "Model's height: 175.5cm / 5' 9''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207347046,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207347046&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "PH",
+                "ID",
+                "MY",
+                "RU",
+                "IL",
+                "HK",
+                "SG",
+                "TW",
+                "AU"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 15357,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 28641,
+                "type": "Standard"
+            },
+            {
+                "id": 50041,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51727,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 25097703,
+                "name": "Leopard print"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

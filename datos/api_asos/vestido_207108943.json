@@ -1,0 +1,533 @@
+{
+    "status": true,
+    "timestamp": 1730394404941,
+    "data": {
+        "id": 207108943,
+        "name": "Mango ruffle cami mini dress in brown",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>For brunch and beyond</li><li>V-neck</li><li>Fixed straps</li><li>Tie front</li><li>Open back</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango ruffle cami mini dress in brown",
+                "pdpUrl": "https://www.asos.com/mango/mango-ruffle-cami-mini-dress-in-brown/prd/207108943"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango ruffle cami mini dress in brown",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-ruffle-cami-mini-dress-in-brown/prd/207108943"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Brun minikjole med cami-stropper og fl\u00e6ser",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-brun-minikjole-med-cami-stropper-og-flser/prd/207108943"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Kurzes Tr\u00e4gerkleid in Schwarz mit R\u00fcschenbesatz",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-kurzes-tragerkleid-in-schwarz-mit-ruschenbesatz/prd/207108943"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe caraco courte \u00e0 volants - Marron",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-caraco-courte-a-volants-marron/prd/207108943"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Brun minikl\u00e4nning med volang och smala axelband",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-brun-miniklanning-med-volang-och-smala-axelband/prd/207108943"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Mini jurk met bandjes en ruches in bruin",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-mini-jurk-met-bandjes-en-ruches-in-bruin/prd/207108943"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto marr\u00f3n de tirantes con volantes de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-corto-marron-de-tirantes-con-volantes-de-mango/prd/207108943"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Br\u0105zowa sukienka mini na rami\u0105czkach, z falbankami",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-brazowa-sukienka-mini-na-ramiaczkach-z-falbankami/prd/207108943"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito corto marrone con volant e spalline sottili",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-corto-marrone-con-volant-e-spalline-sottili/prd/207108943"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137724727",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207108968,
+                "name": "Mango ruffle cami mini dress in brown",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "137724787",
+                "isAvailable": true,
+                "colourWayId": 207108957,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144909363"
+            },
+            {
+                "id": 207108965,
+                "name": "Mango ruffle cami mini dress in brown",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "137724788",
+                "isAvailable": true,
+                "colourWayId": 207108957,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144909370"
+            },
+            {
+                "id": 207108967,
+                "name": "Mango ruffle cami mini dress in brown",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "137724789",
+                "isAvailable": true,
+                "colourWayId": 207108957,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144909387"
+            },
+            {
+                "id": 207108964,
+                "name": "Mango ruffle cami mini dress in brown",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "137724790",
+                "isAvailable": true,
+                "colourWayId": 207108957,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144909394"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-ruffle-cami-mini-dress-in-brown/207108943-1-beige",
+                    "type": "Standard1",
+                    "colourWayId": 207108957,
+                    "colour": "BEIGE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-ruffle-cami-mini-dress-in-brown/207108943-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-ruffle-cami-mini-dress-in-brown/207108943-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-ruffle-cami-mini-dress-in-brown/207108943-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207108943-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207108943-catwalk",
+                    "colourWayId": 207108957
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Chiffon: sheer, lightweight fabric with a grainy feel<br><br>Main: 100% Viscose.",
+            "sizeAndFit": "Model's height: 170cm / 5' 7''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207433890,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207433890&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "HK",
+                "MY",
+                "TW",
+                "AU",
+                "ID",
+                "PH",
+                "SG",
+                "IL",
+                "RU"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51537,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52016,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

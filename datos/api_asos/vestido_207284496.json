@@ -1,0 +1,548 @@
+{
+    "status": true,
+    "timestamp": 1730394385127,
+    "data": {
+        "id": 207284496,
+        "name": "Mango tailored button tab mini dress in navy",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Let's hear it for the dress</li><li>Crew neck</li><li>Sleeveless style</li><li>Button details</li><li>Zip-back fastening</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango tailored button tab mini dress in navy",
+                "pdpUrl": "https://www.asos.com/mango/mango-tailored-button-tab-mini-dress-in-navy/prd/207284496"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Granatowa elegancka sukienka mini z patk\u0105 z guzikami",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-granatowa-elegancka-sukienka-mini-z-patka-z-guzikami/prd/207284496"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango tailored button tab mini dress in navy",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-tailored-button-tab-mini-dress-in-navy/prd/207284496"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe courte habill\u00e9e avec patte de boutonnage - Bleu marine",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-courte-habillee-avec-patte-de-boutonnage-bleu-marine/prd/207284496"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido de sastre corto azul marino con trabilla de botones de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-de-sastre-corto-azul-marino-con-trabilla-de-botones-de-mango/prd/207284496"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito corto blu navy sartoriale con bottoni",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-corto-blu-navy-sartoriale-con-bottoni/prd/207284496"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Marinebl\u00e5 skr\u00e6ddersyet minikjole med knapstrop",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-marinebla-skrddersyet-minikjole-med-knapstrop/prd/207284496"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Marinbl\u00e5, figursydd minikl\u00e4nning med slejf med knappar",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-marinbla-figursydd-miniklanning-med-slejf-med-knappar/prd/207284496"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Elegantes Minikleid in Marineblau mit gekn\u00f6pfter Lasche",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-elegantes-minikleid-in-marineblau-mit-geknopfter-lasche/prd/207284496"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Nette mini jurk met knopen in donkerblauw",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-nette-mini-jurk-met-knopen-in-donkerblauw/prd/207284496"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138741295",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207284501,
+                "name": "Mango tailored button tab mini dress in navy",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "138741443",
+                "isAvailable": true,
+                "colourWayId": 207284497,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274076560"
+            },
+            {
+                "id": 207284500,
+                "name": "Mango tailored button tab mini dress in navy",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138741444",
+                "isAvailable": true,
+                "colourWayId": 207284497,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274076577"
+            },
+            {
+                "id": 207284499,
+                "name": "Mango tailored button tab mini dress in navy",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138741445",
+                "isAvailable": true,
+                "colourWayId": 207284497,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274076584"
+            },
+            {
+                "id": 207284502,
+                "name": "Mango tailored button tab mini dress in navy",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138741446",
+                "isAvailable": true,
+                "colourWayId": 207284497,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274076591"
+            },
+            {
+                "id": 207284498,
+                "name": "Mango tailored button tab mini dress in navy",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "138741447",
+                "isAvailable": true,
+                "colourWayId": 207284497,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274076607"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-button-tab-mini-dress-in-navy/207284496-1-navy",
+                    "type": "Standard1",
+                    "colourWayId": 207284497,
+                    "colour": "NAVY",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-button-tab-mini-dress-in-navy/207284496-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-button-tab-mini-dress-in-navy/207284496-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-tailored-button-tab-mini-dress-in-navy/207284496-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207284496-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207284496-catwalk",
+                    "colourWayId": 207284497
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Lining: 52% Viscose, 48% Polyester, Main: 75% Polyester, 19% Viscose, 6% Elastane.",
+            "sizeAndFit": "Model's height: 177.5cm / 5' 10''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207563977,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207563977&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "IL",
+                "PH",
+                "SG",
+                "MY",
+                "HK",
+                "ID",
+                "TW",
+                "AU",
+                "RU"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            },
+            {
+                "id": 51723,
+                "type": "Standard"
+            },
+            {
+                "id": 51729,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

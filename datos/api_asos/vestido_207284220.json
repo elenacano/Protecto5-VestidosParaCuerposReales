@@ -1,0 +1,542 @@
+{
+    "status": true,
+    "timestamp": 1730394395277,
+    "data": {
+        "id": 207284220,
+        "name": "Mango open back detail maxi dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>From one occasion to another</li><li>High neck</li><li>Long sleeves</li><li>Open back</li><li>Slim fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango open back detail maxi dress in black",
+                "pdpUrl": "https://www.asos.com/mango/mango-open-back-detail-maxi-dress-in-black/prd/207284220"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe longue \u00e0 dos ouvert - Noir",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-longue-a-dos-ouvert-noir/prd/207284220"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Sort maxikjole med \u00e5ben rygdetalje",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-sort-maxikjole-med-aben-rygdetalje/prd/207284220"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Svart maxikl\u00e4nning med \u00f6ppen rygg",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-svart-maxiklanning-med-oppen-rygg/prd/207284220"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango open back detail maxi dress in black",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-open-back-detail-maxi-dress-in-black/prd/207284220"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo negro con detalle de abertura en la espalda de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-largo-negro-con-detalle-de-abertura-en-la-espalda-de-mango/prd/207284220"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito lungo nero aperto dietro",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-lungo-nero-aperto-dietro/prd/207284220"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czarna dzianinowa sukienka maxi z odkrytymi plecami",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czarna-dzianinowa-sukienka-maxi-z-odkrytymi-plecami/prd/207284220"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Maxikleid in Schwarz mit R\u00fcckenausschnitt",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-maxikleid-in-schwarz-mit-ruckenausschnitt/prd/207284220"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Maxi jurk met open achterkant in zwart",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-maxi-jurk-met-open-achterkant-in-zwart/prd/207284220"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138741017",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207284224,
+                "name": "Mango open back detail maxi dress in black",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138741209",
+                "isAvailable": true,
+                "colourWayId": 207284221,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274043296"
+            },
+            {
+                "id": 207284223,
+                "name": "Mango open back detail maxi dress in black",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138741210",
+                "isAvailable": true,
+                "colourWayId": 207284221,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274043302"
+            },
+            {
+                "id": 207284222,
+                "name": "Mango open back detail maxi dress in black",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138741211",
+                "isAvailable": true,
+                "colourWayId": 207284221,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447274043319"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-open-back-detail-maxi-dress-in-black/207284220-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 207284221,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-open-back-detail-maxi-dress-in-black/207284220-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-open-back-detail-maxi-dress-in-black/207284220-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-open-back-detail-maxi-dress-in-black/207284220-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207284220-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207284220-catwalk",
+                    "colourWayId": 207284221
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Jersey: soft and stretchy<br><br>Main: 88% Viscose, 12% Elastane.",
+            "sizeAndFit": "Model's height: 174.5cm / 5' 8\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207573905,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207573905&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "IL",
+                "AU",
+                "TW",
+                "PH",
+                "RU",
+                "MY",
+                "SG",
+                "HK",
+                "ID"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15624,
+                "type": "Standard"
+            },
+            {
+                "id": 15625,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28641,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51539,
+                "type": "Standard"
+            },
+            {
+                "id": 51730,
+                "type": "Standard"
+            },
+            {
+                "id": 51754,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

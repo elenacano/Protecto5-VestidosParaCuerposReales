@@ -1,0 +1,504 @@
+{
+    "status": true,
+    "timestamp": 1730394396785,
+    "data": {
+        "id": 207409385,
+        "name": "Mango stitched edge sleevess maxi dress in dark brown",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Dress for the date</li><li>Plain design</li><li>Round neck</li><li>Sleeveless style</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango stitched edge sleevess maxi dress in dark brown",
+                "pdpUrl": "https://www.asos.com/mango/mango-stitched-edge-sleevess-maxi-dress-in-dark-brown/prd/207409385"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 M\u00f6rkbrun, \u00e4rml\u00f6s maxikl\u00e4nning med kantdetalj",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-morkbrun-armlos-maxiklanning-med-kantdetalj/prd/207409385"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe longue sans manches \u00e0 bords surpiqu\u00e9s - Marron fonc\u00e9",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-longue-sans-manches-a-bords-surpiques-marron-fonce/prd/207409385"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 \u00c4rmelloses Maxikleid in Dunkelbraun mit vern\u00e4hten R\u00e4ndern",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-armelloses-maxikleid-in-dunkelbraun-mit-vernahten-randern/prd/207409385"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito lungo senza maniche marrone scuro con cuciture sui bordi",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-lungo-senza-maniche-marrone-scuro-con-cuciture-sui-bordi/prd/207409385"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - M\u00f8rkebrun \u00e6rmel\u00f8s maxikjole med syningsdetalje i kanten",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-mrkebrun-rmels-maxikjole-med-syningsdetalje-i-kanten/prd/207409385"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Mouwloze midi jurk in donkerbruin",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-mouwloze-midi-jurk-in-donkerbruin/prd/207409385"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo marr\u00f3n oscuro sin mangas con pespuntes en los bordes de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-largo-marron-oscuro-sin-mangas-con-pespuntes-en-los-bordes-de-mango/prd/207409385"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Ciemnobr\u0105zowa sukienka maxi bez r\u0119kaw\u00f3w",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-ciemnobrazowa-sukienka-maxi-bez-rekawow/prd/207409385"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango stitched edge sleeveless maxi dress in dark brown",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-stitched-edge-sleeveless-maxi-dress-in-dark-brown/prd/207409385"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "139344208",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207409395,
+                "name": "Mango stitched edge sleevess maxi dress in dark brown",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "139345001",
+                "isAvailable": true,
+                "colourWayId": 207409388,
+                "colour": "DARK BROWN",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696355"
+            },
+            {
+                "id": 207409392,
+                "name": "Mango stitched edge sleevess maxi dress in dark brown",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "139345002",
+                "isAvailable": true,
+                "colourWayId": 207409388,
+                "colour": "DARK BROWN",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696362"
+            },
+            {
+                "id": 207409390,
+                "name": "Mango stitched edge sleevess maxi dress in dark brown",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "139345003",
+                "isAvailable": true,
+                "colourWayId": 207409388,
+                "colour": "DARK BROWN",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696379"
+            },
+            {
+                "id": 207409394,
+                "name": "Mango stitched edge sleevess maxi dress in dark brown",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "139345004",
+                "isAvailable": true,
+                "colourWayId": 207409388,
+                "colour": "DARK BROWN",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696386"
+            },
+            {
+                "id": 207409393,
+                "name": "Mango stitched edge sleevess maxi dress in dark brown",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "139345005",
+                "isAvailable": true,
+                "colourWayId": 207409388,
+                "colour": "DARK BROWN",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696393"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-stitched-edge-sleevess-maxi-dress-in-dark-brown/207409385-1-darkbrown",
+                    "type": "Standard1",
+                    "colourWayId": 207409388,
+                    "colour": "DARK BROWN",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-stitched-edge-sleevess-maxi-dress-in-dark-brown/207409385-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-stitched-edge-sleevess-maxi-dress-in-dark-brown/207409385-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-stitched-edge-sleevess-maxi-dress-in-dark-brown/207409385-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207409385-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207409385-catwalk",
+                    "colourWayId": 207409388
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Textured woven fabric<br><br>Main: 99% Polyester, 1% Elastane.",
+            "sizeAndFit": "Model's height: 174.5cm / 5' 8\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207683306,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207683306&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "HK",
+                "IL",
+                "TW",
+                "PH",
+                "RU",
+                "SG",
+                "MY",
+                "AU",
+                "ID"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 2623,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 17540,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27108,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 51329,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

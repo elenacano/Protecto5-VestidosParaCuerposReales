@@ -1,0 +1,525 @@
+{
+    "status": true,
+    "timestamp": 1730394382668,
+    "data": {
+        "id": 206847766,
+        "name": "Mango linen mix tie front mini dress in light beige",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Mini dress, major impact</li><li>V-neck</li><li>Tie front</li><li>Sleeveless style</li><li>Zip-back fastening</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango linen mix tie front mini dress in light beige",
+                "pdpUrl": "https://www.asos.com/mango/mango-linen-mix-tie-front-mini-dress-in-light-beige/prd/206847766"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango linen mix tie front mini dress in light beige",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-linen-mix-tie-front-mini-dress-in-light-beige/prd/206847766"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Lys beige minikjole med bindeb\u00e5nd foran i h\u00f8rblanding",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-lys-beige-minikjole-med-bindeband-foran-i-hrblanding/prd/206847766"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Ljusbeige minikl\u00e4nning i linnemix med knytning framtill",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-ljusbeige-miniklanning-i-linnemix-med-knytning-framtill/prd/206847766"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito corto in misto lino beige chiaro allacciato sul davanti",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-corto-in-misto-lino-beige-chiaro-allacciato-sul-davanti/prd/206847766"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe courte en lin m\u00e9lang\u00e9 avec liens nou\u00e9s \u00e0 l'avant - Beige clair",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-courte-en-lin-melange-avec-liens-noues-a-lavant-beige-clair/prd/206847766"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Leinenmix-Minikleid in Hellbeige mit gebundener Vorderseite",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-leinenmix-minikleid-in-hellbeige-mit-gebundener-vorderseite/prd/206847766"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto beis claro con lazada delantera de mezcla de lino de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-corto-beis-claro-con-lazada-delantera-de-mezcla-de-lino-de-mango/prd/206847766"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Jasnobe\u017cowa wi\u0105zana z przodu sukienka mini z domieszk\u0105 lnu",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-jasnobezowa-wiazana-z-przodu-sukienka-mini-z-domieszka-lnu/prd/206847766"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Mini jurk van linnenmix met gestrikte voorkant in lichtbeige",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-mini-jurk-van-linnenmix-met-gestrikte-voorkant-in-lichtbeige/prd/206847766"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136546137",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206847789,
+                "name": "Mango linen mix tie front mini dress in light beige",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "136546432",
+                "isAvailable": true,
+                "colourWayId": 206847781,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144438818"
+            },
+            {
+                "id": 206847792,
+                "name": "Mango linen mix tie front mini dress in light beige",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "136546433",
+                "isAvailable": true,
+                "colourWayId": 206847781,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144438832"
+            },
+            {
+                "id": 206847790,
+                "name": "Mango linen mix tie front mini dress in light beige",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "136546434",
+                "isAvailable": true,
+                "colourWayId": 206847781,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144438849"
+            },
+            {
+                "id": 206847784,
+                "name": "Mango linen mix tie front mini dress in light beige",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "136546435",
+                "isAvailable": true,
+                "colourWayId": 206847781,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144438856"
+            },
+            {
+                "id": 206847791,
+                "name": "Mango linen mix tie front mini dress in light beige",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "136546436",
+                "isAvailable": true,
+                "colourWayId": 206847781,
+                "colour": "BEIGE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144438870"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-linen-mix-tie-front-mini-dress-in-light-beige/206847766-1-beige",
+                    "type": "Standard1",
+                    "colourWayId": 206847781,
+                    "colour": "BEIGE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-linen-mix-tie-front-mini-dress-in-light-beige/206847766-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-linen-mix-tie-front-mini-dress-in-light-beige/206847766-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-linen-mix-tie-front-mini-dress-in-light-beige/206847766-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206847766-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206847766-catwalk",
+                    "colourWayId": 206847781
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Linen-mix fabric: soft and lightweight<br><br>Main: 55% Linen, 45% Viscose.",
+            "sizeAndFit": "Model's height: 170cm / 5' 7''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207298724,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207298724&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "AU",
+                "TW",
+                "ID",
+                "IL",
+                "PH",
+                "RU",
+                "SG",
+                "HK",
+                "MY"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12957,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28641,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50090,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50534,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51364,
+                "type": "Standard"
+            },
+            {
+                "id": 51513,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            },
+            {
+                "id": 51702,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 10403175,
+                "name": "Linen"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

@@ -1,0 +1,538 @@
+{
+    "status": true,
+    "timestamp": 1730394393754,
+    "data": {
+        "id": 207284008,
+        "name": "Mango cowl neck check print midi dress in red",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>For brunch and beyond</li><li>Check design</li><li>Cowl neck</li><li>Sleeveless style</li><li>Front split</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango cowl neck check print midi dress in red",
+                "pdpUrl": "https://www.asos.com/mango/mango-cowl-neck-check-print-midi-dress-in-red/prd/207284008"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue \u00e0 carreaux avec col b\u00e9nitier - Rouge",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-a-carreaux-avec-col-benitier-rouge/prd/207284008"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czerwona sukienka midi z drapowanym dekoltem we wz\u00f3r w kratk\u0119",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czerwona-sukienka-midi-z-drapowanym-dekoltem-we-wzor-w-kratke/prd/207284008"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - R\u00f8d midikjole med vandfaldsudsk\u00e6ring og tern",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-rd-midikjole-med-vandfaldsudskring-og-tern/prd/207284008"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango cowl neck check print midi dress in red",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-cowl-neck-check-print-midi-dress-in-red/prd/207284008"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi rosso a quadri con scollo ad anello",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-rosso-a-quadri-con-scollo-ad-anello/prd/207284008"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 R\u00f6d rutig midikl\u00e4nning med draperad ringning",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-rod-rutig-midiklanning-med-draperad-ringning/prd/207284008"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi rojo con estampado de cuadros y cuello desbocado de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-rojo-con-estampado-de-cuadros-y-cuello-desbocado-de-mango/prd/207284008"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Kariertes Midikleid in Rot mit Wasserfallausschnitt",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-kariertes-midikleid-in-rot-mit-wasserfallausschnitt/prd/207284008"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Geruite midi jurk met gedrapeerde halslijn in rood",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-geruite-midi-jurk-met-gedrapeerde-halslijn-in-rood/prd/207284008"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138741014",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207284014,
+                "name": "Mango cowl neck check print midi dress in red",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "138741194",
+                "isAvailable": true,
+                "colourWayId": 207284009,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658803"
+            },
+            {
+                "id": 207284010,
+                "name": "Mango cowl neck check print midi dress in red",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138741195",
+                "isAvailable": true,
+                "colourWayId": 207284009,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658810"
+            },
+            {
+                "id": 207284011,
+                "name": "Mango cowl neck check print midi dress in red",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138741196",
+                "isAvailable": true,
+                "colourWayId": 207284009,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658827"
+            },
+            {
+                "id": 207284012,
+                "name": "Mango cowl neck check print midi dress in red",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138741197",
+                "isAvailable": true,
+                "colourWayId": 207284009,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658834"
+            },
+            {
+                "id": 207284013,
+                "name": "Mango cowl neck check print midi dress in red",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "138741198",
+                "isAvailable": true,
+                "colourWayId": 207284009,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144658841"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-check-print-midi-dress-in-red/207284008-1-red",
+                    "type": "Standard1",
+                    "colourWayId": 207284009,
+                    "colour": "RED",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-check-print-midi-dress-in-red/207284008-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-check-print-midi-dress-in-red/207284008-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-check-print-midi-dress-in-red/207284008-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207284008-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207284008-catwalk",
+                    "colourWayId": 207284009
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Viscose: lightweight, soft and drapey<br><br>Main: 100% Viscose.",
+            "sizeAndFit": "Model's height: 177.5cm / 5' 10''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "PH",
+                "MY",
+                "IL",
+                "TW",
+                "HK",
+                "RU",
+                "AU",
+                "ID",
+                "SG"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51759,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

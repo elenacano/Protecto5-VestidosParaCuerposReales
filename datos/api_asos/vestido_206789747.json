@@ -1,0 +1,536 @@
+{
+    "status": true,
+    "timestamp": 1730394391439,
+    "data": {
+        "id": 206789747,
+        "name": "Mango off shoulder mini dress in orange",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Let's hear it for the dress</li><li>Ruched design</li><li>Off-shoulder style</li><li>Zip-side fastening</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango off shoulder mini dress in orange",
+                "pdpUrl": "https://www.asos.com/mango/mango-off-shoulder-mini-dress-in-orange/prd/206789747"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Orange offshoulder-minikjole",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-orange-offshoulder-minikjole/prd/206789747"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Schulterfreies Minikleid in Orange",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-schulterfreies-minikleid-in-orange/prd/206789747"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Mini-jurk met blote schouders in oranje",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-mini-jurk-met-blote-schouders-in-oranje/prd/206789747"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito corto arancione con spalle scoperte",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-corto-arancione-con-spalle-scoperte/prd/206789747"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Pomara\u0144czowa sukienka mini z ods\u0142oni\u0119tym ramieniem",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-pomaranczowa-sukienka-mini-z-odsonietym-ramieniem/prd/206789747"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto naranja con escote asim\u00e9trico de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-corto-naranja-con-escote-asimetrico-de-mango/prd/206789747"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango off shoulder mini dress in orange",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-off-shoulder-mini-dress-in-orange/prd/206789747"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe courte \u00e0 \u00e9paules d\u00e9nud\u00e9es - Orange",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-courte-a-epaules-denudees-orange/prd/206789747"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Orange minikl\u00e4nning med bara axlar",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-orange-miniklanning-med-bara-axlar/prd/206789747"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136322315",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206789749,
+                "name": "Mango off shoulder mini dress in orange",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "136322472",
+                "isAvailable": true,
+                "colourWayId": 206789748,
+                "colour": "ORANGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144239224"
+            },
+            {
+                "id": 206789752,
+                "name": "Mango off shoulder mini dress in orange",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "136322473",
+                "isAvailable": true,
+                "colourWayId": 206789748,
+                "colour": "ORANGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144240572"
+            },
+            {
+                "id": 206789753,
+                "name": "Mango off shoulder mini dress in orange",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "136322474",
+                "isAvailable": true,
+                "colourWayId": 206789748,
+                "colour": "ORANGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144240589"
+            },
+            {
+                "id": 206789751,
+                "name": "Mango off shoulder mini dress in orange",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "136322475",
+                "isAvailable": true,
+                "colourWayId": 206789748,
+                "colour": "ORANGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144239231"
+            },
+            {
+                "id": 206789750,
+                "name": "Mango off shoulder mini dress in orange",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "136322476",
+                "isAvailable": true,
+                "colourWayId": 206789748,
+                "colour": "ORANGE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144239248"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-off-shoulder-mini-dress-in-orange/206789747-1-orange",
+                    "type": "Standard1",
+                    "colourWayId": 206789748,
+                    "colour": "ORANGE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-off-shoulder-mini-dress-in-orange/206789747-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-off-shoulder-mini-dress-in-orange/206789747-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-off-shoulder-mini-dress-in-orange/206789747-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206789747-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206789747-catwalk",
+                    "colourWayId": 206789748
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Viscose: lightweight, soft and drapey<br><br>Main: 77% Viscose, 20% Polyamide, 3% Elastane.",
+            "sizeAndFit": "Model's height: 176.5cm / 5' 9''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207040473,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207040473&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "IL",
+                "PH",
+                "HK",
+                "ID",
+                "RU",
+                "AU",
+                "MY",
+                "SG",
+                "TW"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

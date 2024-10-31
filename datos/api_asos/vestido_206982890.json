@@ -1,0 +1,637 @@
+{
+    "status": true,
+    "timestamp": 1730394377526,
+    "data": {
+        "id": 206982890,
+        "name": "Mango high neck floral print pleated maxi dress in purple",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>When the dress code means a dress</li><li>Floral design</li><li>Halterneck style</li><li>Open back</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango high neck floral print pleated maxi dress in purple",
+                "pdpUrl": "https://www.asos.com/mango/mango-high-neck-floral-print-pleated-maxi-dress-in-purple/prd/206982890"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - H\u00f8jhalset maxikjole med blomsterprint og plisseringer i lilla",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-hjhalset-maxikjole-med-blomsterprint-og-plisseringer-i-lilla/prd/206982890"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Plisowana sukienka maxi z zabudowanym dekoltem w fioletowy kwiatowy wz\u00f3r",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-plisowana-sukienka-maxi-z-zabudowanym-dekoltem-w-fioletowy-kwiatowy-wzr/prd/206982890"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe pliss\u00e9e longue \u00e0 col montant et imprim\u00e9 fleuri - Violet",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-plisse-longue-col-montant-et-imprim-fleuri-violet/prd/206982890"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Lilablommig, plisserad maxikl\u00e4nning med h\u00f6g ringning",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-lilablommig-plisserad-maxiklnning-med-hg-ringning/prd/206982890"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Hochgeschlossenes plissiertes Maxikleid in Lila mit Blumenmuster",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-hochgeschlossenes-plissiertes-maxikleid-in-lila-mit-blumenmuster/prd/206982890"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango high neck floral print pleated maxi dress in purple",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-high-neck-floral-print-pleated-maxi-dress-in-purple/prd/206982890"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Hoogsluitende geplooide maxi jurk met bloemenprint in paars",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-hoogsluitende-geplooide-maxi-jurk-met-bloemenprint-in-paars/prd/206982890"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito lungo a pieghe accollato viola con stampa a fiori",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-lungo-a-pieghe-accollato-viola-con-stampa-a-fiori/prd/206982890"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo morado plisado con cuello alto y estampado floral de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-largo-morado-plisado-con-cuello-alto-y-estampado-floral-de-mango/prd/206982890"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137004739",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206982900,
+                "name": "Mango high neck floral print pleated maxi dress in purple",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "137004956",
+                "isAvailable": true,
+                "colourWayId": 206982897,
+                "colour": "PURPLE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144442846"
+            },
+            {
+                "id": 206982901,
+                "name": "Mango high neck floral print pleated maxi dress in purple",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "137004957",
+                "isAvailable": true,
+                "colourWayId": 206982897,
+                "colour": "PURPLE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144442853"
+            },
+            {
+                "id": 206982899,
+                "name": "Mango high neck floral print pleated maxi dress in purple",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "137004958",
+                "isAvailable": true,
+                "colourWayId": 206982897,
+                "colour": "PURPLE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144442860"
+            },
+            {
+                "id": 206982902,
+                "name": "Mango high neck floral print pleated maxi dress in purple",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "137004959",
+                "isAvailable": true,
+                "colourWayId": 206982897,
+                "colour": "PURPLE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144442877"
+            },
+            {
+                "id": 206982898,
+                "name": "Mango high neck floral print pleated maxi dress in purple",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "137004960",
+                "isAvailable": true,
+                "colourWayId": 206982897,
+                "colour": "PURPLE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144442884"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-floral-print-pleated-maxi-dress-in-purple/206982890-1-purple",
+                    "type": "Standard1",
+                    "colourWayId": 206982897,
+                    "colour": "PURPLE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-floral-print-pleated-maxi-dress-in-purple/206982890-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-floral-print-pleated-maxi-dress-in-purple/206982890-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-floral-print-pleated-maxi-dress-in-purple/206982890-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206982890-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206982890-catwalk",
+                    "colourWayId": 206982897
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Chiffon: sheer, lightweight fabric with a grainy feel<br><br>Main: 92% Polyester, 8% Elastane.",
+            "sizeAndFit": "Model's height: 175.5cm / 5' 9''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207198945,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207198945&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "AU",
+                "HK",
+                "MY",
+                "IL",
+                "ID",
+                "PH",
+                "RU",
+                "SG",
+                "TW"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 12969,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13929,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 15622,
+                "type": "Standard"
+            },
+            {
+                "id": 15625,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 16303,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 20135,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28251,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51491,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52071,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875917,
+                "name": "Floral"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

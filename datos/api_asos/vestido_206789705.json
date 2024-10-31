@@ -1,0 +1,631 @@
+{
+    "status": true,
+    "timestamp": 1730394397967,
+    "data": {
+        "id": 206789705,
+        "name": "Mango X Siedres crochet flower embroidered maxi dress in white",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Part of the Mango | Siedr\u00e9s collection</li><li>Flower embellishment</li><li>V-neck</li><li>Long sleeves</li><li>Tie-keyhole front</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango X Siedres crochet flower embroidered maxi dress in white",
+                "pdpUrl": "https://www.asos.com/mango/mango-x-siedres-crochet-flower-embroidered-maxi-dress-in-white/prd/206789705"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango x Siedr\u00e9s crochet flower embroidered maxi dress in white",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-x-siedres-crochet-flower-embroidered-maxi-dress-in-white/prd/206789705"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango X Siedr\u00e9s \u2013 Vit virkad maxikl\u00e4nning med broderade blommor",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-x-siedres-vit-virkad-maxiklanning-med-broderade-blommor/prd/206789705"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango x Siedr\u00e9s \u2013 Maxikleid aus H\u00e4kelware in Wei\u00df mit Blumenstickerei",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-x-siedres-maxikleid-aus-hakelware-in-wei-mit-blumenstickerei/prd/206789705"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango x Siedr\u00e9s - Robe longue en maille au crochet avec fleurs brod\u00e9es - Blanc",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-x-siedres-robe-longue-en-maille-au-crochet-avec-fleurs-brodees-blanc/prd/206789705"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango x Siedres - H\u00e6klet maxikjole med blomsterbroderier i hvid",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-x-siedres-hklet-maxikjole-med-blomsterbroderier-i-hvid/prd/206789705"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango x Siedr\u00e9s \u2013 Bia\u0142a szyde\u0142kowana sukienka maxi z kwiatami",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-x-siedres-biaa-szydekowana-sukienka-maxi-z-kwiatami/prd/206789705"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango x Siedr\u00e9s - Vestito lungo all'uncinetto bianco con ricami a fiori",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-x-siedres-vestito-lungo-alluncinetto-bianco-con-ricami-a-fiori/prd/206789705"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo blanco de croch\u00e9 con flores bordadas de Mango x Siedr\u00e9s",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-largo-blanco-de-croche-con-flores-bordadas-de-mango-x-siedres/prd/206789705"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango X Siedr\u00e9s - Gehaakte maxi jurk met geborduurde bloemen in wit",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-x-siedrs-gehaakte-maxi-jurk-met-geborduurde-bloemen-in-wit/prd/206789705"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136322287",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206789709,
+                "name": "Mango X Siedres crochet flower embroidered maxi dress in white",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "136322373",
+                "isAvailable": true,
+                "colourWayId": 206789706,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144574844"
+            },
+            {
+                "id": 206789707,
+                "name": "Mango X Siedres crochet flower embroidered maxi dress in white",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "136322374",
+                "isAvailable": true,
+                "colourWayId": 206789706,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144574851"
+            },
+            {
+                "id": 206789708,
+                "name": "Mango X Siedres crochet flower embroidered maxi dress in white",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "136322375",
+                "isAvailable": true,
+                "colourWayId": 206789706,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144574868"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-x-siedres-crochet-flower-embroidered-maxi-dress-in-white/206789705-1-white",
+                    "type": "Standard1",
+                    "colourWayId": 206789706,
+                    "colour": "WHITE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-x-siedres-crochet-flower-embroidered-maxi-dress-in-white/206789705-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-x-siedres-crochet-flower-embroidered-maxi-dress-in-white/206789705-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-x-siedres-crochet-flower-embroidered-maxi-dress-in-white/206789705-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206789705-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206789705-catwalk",
+                    "colourWayId": 206789706
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Crochet lace: lace-look fabric with a cut-work pattern<br><br>Main: 97% Polyester, 3% Polyamide.",
+            "sizeAndFit": "Model's height: 178cm/5'10\"<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207126002,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207126002&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "HK",
+                "ID",
+                "PH",
+                "TW",
+                "AU",
+                "IL",
+                "RU",
+                "MY",
+                "SG"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 12957,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19377,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28039,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50090,
+                "type": "Standard"
+            },
+            {
+                "id": 50527,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51312,
+                "type": "Standard"
+            },
+            {
+                "id": 51317,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51325,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51364,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51513,
+                "type": "Standard"
+            },
+            {
+                "id": 52071,
+                "type": "Standard"
+            },
+            {
+                "id": 52072,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875887,
+                "name": "Crochet"
+            },
+            {
+                "id": 8875902,
+                "name": "Embroidered"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

@@ -1,0 +1,560 @@
+{
+    "status": true,
+    "timestamp": 1730394374254,
+    "data": {
+        "id": 207102461,
+        "name": "Mango sleeveless button down mini dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Low effort, high reward</li><li>Notch collar</li><li>V-neck</li><li>Button-through front</li><li>Sleeveless style</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango sleeveless button down mini dress in black",
+                "pdpUrl": "https://www.asos.com/mango/mango-sleeveless-button-down-mini-dress-in-black/prd/207102461"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Svart, \u00e4rml\u00f6s minikl\u00e4nning med kn\u00e4ppning",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-svart-armlos-miniklanning-med-knappning/prd/207102461"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czarna sukienka mini bez r\u0119kaw\u00f3w zapinana na guziki",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czarna-sukienka-mini-bez-rekawow-zapinana-na-guziki/prd/207102461"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe courte boutonn\u00e9e sans manches - Noir",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-courte-boutonnee-sans-manches-noir/prd/207102461"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Sort minikjole uden \u00e6rmer med knapper",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-sort-minikjole-uden-rmer-med-knapper/prd/207102461"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Mouwloze mini jurk met knoopsluiting in zwart",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-mouwloze-mini-jurk-met-knoopsluiting-in-zwart/prd/207102461"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango sleeveless button down mini dress in black",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-sleeveless-button-down-mini-dress-in-black/prd/207102461"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito corto senza maniche nero con bottoni",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-corto-senza-maniche-nero-con-bottoni/prd/207102461"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto negro abotonado sin mangas de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-corto-negro-abotonado-sin-mangas-de-mango/prd/207102461"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 \u00c4rmelloses Minikleid in Schwarz mit Knopfleiste",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-armelloses-minikleid-in-schwarz-mit-knopfleiste/prd/207102461"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137725317",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207109148,
+                "name": "Mango sleeveless button down mini dress in black",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "137725454",
+                "isAvailable": true,
+                "colourWayId": 207102468,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144502250"
+            },
+            {
+                "id": 207102473,
+                "name": "Mango sleeveless button down mini dress in black",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "137725455",
+                "isAvailable": true,
+                "colourWayId": 207102468,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144502274"
+            },
+            {
+                "id": 207109149,
+                "name": "Mango sleeveless button down mini dress in black",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "137725456",
+                "isAvailable": true,
+                "colourWayId": 207102468,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144502298"
+            },
+            {
+                "id": 207102471,
+                "name": "Mango sleeveless button down mini dress in black",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "137725457",
+                "isAvailable": true,
+                "colourWayId": 207102468,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144502311"
+            },
+            {
+                "id": 207102472,
+                "name": "Mango sleeveless button down mini dress in black",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "137725458",
+                "isAvailable": true,
+                "colourWayId": 207102468,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144502335"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-button-down-mini-dress-in-black/207102461-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 207102468,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-button-down-mini-dress-in-black/207102461-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-button-down-mini-dress-in-black/207102461-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-sleeveless-button-down-mini-dress-in-black/207102461-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207102461-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207102461-catwalk",
+                    "colourWayId": 207102468
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Main: 65% Polyester, 30% Viscose, 5% Elastane.",
+            "sizeAndFit": "Model's height: 178cm/5'10\"<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207346304,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207346304&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "IL",
+                "HK",
+                "AU",
+                "MY",
+                "RU",
+                "SG",
+                "ID",
+                "PH",
+                "TW"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13053,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20493,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51536,
+                "type": "Standard"
+            },
+            {
+                "id": 51540,
+                "type": "Standard"
+            },
+            {
+                "id": 51729,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

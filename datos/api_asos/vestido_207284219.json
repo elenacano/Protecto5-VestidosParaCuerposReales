@@ -1,0 +1,558 @@
+{
+    "status": true,
+    "timestamp": 1730394371626,
+    "data": {
+        "id": 207284219,
+        "name": "Mango high neck long sleeve ribbed midi dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Low effort, high reward</li><li>Plain design</li><li>High neck</li><li>Long sleeves</li><li>Slim fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango high neck long sleeve ribbed midi dress in black",
+                "pdpUrl": "https://www.asos.com/mango/mango-high-neck-long-sleeve-ribbed-midi-dress-in-black/prd/207284219"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Sort midikjole med lange \u00e6rmer og h\u00f8j hals i ribstrik",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-sort-midikjole-med-lange-rmer-og-hj-hals-i-ribstrik/prd/207284219"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue c\u00f4tel\u00e9e \u00e0 col montant et manches longues - Noir",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-cotelee-a-col-montant-et-manches-longues-noir/prd/207284219"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango high neck long sleeve ribbed midi dress in black",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-high-neck-long-sleeve-ribbed-midi-dress-in-black/prd/207284219"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Svart, ribbad midikl\u00e4nning med h\u00f6g krage och l\u00e5nga \u00e4rmar",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-svart-ribbad-midiklanning-med-hog-krage-och-langa-armar/prd/207284219"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czarna pr\u0105\u017ckowana sukienka midi z golfem i d\u0142ugimi r\u0119kawami",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czarna-prazkowana-sukienka-midi-z-golfem-i-dugimi-rekawami/prd/207284219"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Hoogsluitende geribbelde midi-jurk met lange mouwen in zwart",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-hoogsluitende-geribbelde-midi-jurk-met-lange-mouwen-in-zwart/prd/207284219"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi nero a coste accollato con maniche lunghe",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-nero-a-coste-accollato-con-maniche-lunghe/prd/207284219"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi negro de manga larga con cuello alto de canal\u00e9 de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-negro-de-manga-larga-con-cuello-alto-de-canale-de-mango/prd/207284219"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Lang\u00e4rmliges, hochgeschlossenes Midikleid in geripptem Schwarz",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-langarmliges-hochgeschlossenes-midikleid-in-geripptem-schwarz/prd/207284219"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138741009",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207284239,
+                "name": "Mango high neck long sleeve ribbed midi dress in black",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "138741171",
+                "isAvailable": true,
+                "colourWayId": 207284227,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144674308"
+            },
+            {
+                "id": 207284235,
+                "name": "Mango high neck long sleeve ribbed midi dress in black",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138741172",
+                "isAvailable": true,
+                "colourWayId": 207284227,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144678436"
+            },
+            {
+                "id": 207284237,
+                "name": "Mango high neck long sleeve ribbed midi dress in black",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138741173",
+                "isAvailable": true,
+                "colourWayId": 207284227,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144678450"
+            },
+            {
+                "id": 207284238,
+                "name": "Mango high neck long sleeve ribbed midi dress in black",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138741174",
+                "isAvailable": true,
+                "colourWayId": 207284227,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144674322"
+            },
+            {
+                "id": 207284234,
+                "name": "Mango high neck long sleeve ribbed midi dress in black",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "138741175",
+                "isAvailable": true,
+                "colourWayId": 207284227,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144674346"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-long-sleeve-ribbed-midi-dress-in-black/207284219-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 207284227,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-long-sleeve-ribbed-midi-dress-in-black/207284219-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-long-sleeve-ribbed-midi-dress-in-black/207284219-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-high-neck-long-sleeve-ribbed-midi-dress-in-black/207284219-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207284219-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207284219-catwalk",
+                    "colourWayId": 207284227
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Ribbed knit<br><br>Main: 78% Polyester, 22% Polyamide.",
+            "sizeAndFit": "Model's height: 177.5cm / 5' 10''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "PH",
+                "MY",
+                "RU",
+                "IL",
+                "TW",
+                "HK",
+                "ID",
+                "AU",
+                "SG"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

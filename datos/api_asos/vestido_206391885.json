@@ -1,0 +1,655 @@
+{
+    "status": true,
+    "timestamp": 1730394400178,
+    "data": {
+        "id": 206391885,
+        "name": "Mango midi floral high split dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>We like your style</li><li>Floral design</li><li>High collar</li><li>Long sleeves</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango midi floral high split dress in black",
+                "pdpUrl": "https://www.asos.com/mango/mango-midi-floral-high-split-dress-in-black/prd/206391885"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango midi floral high split dress in black",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-midi-floral-high-split-dress-in-black/prd/206391885"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czarna sukienka midi w kwiatowy wz\u00f3r z g\u0142\u0119bokim rozci\u0119ciem",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czarna-sukienka-midi-w-kwiatowy-wzor-z-gebokim-rozcieciem/prd/206391885"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Sort midikjole med h\u00f8j slids og blomsterm\u00f8nster",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-sort-midikjole-med-hj-slids-og-blomstermnster/prd/206391885"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Midi jurk met hoge split en bloemenprint in zwart",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-midi-jurk-met-hoge-split-en-bloemenprint-in-zwart/prd/206391885"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi negro con estampado floral y abertura hasta el muslo de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-negro-con-estampado-floral-y-abertura-hasta-el-muslo-de-mango/prd/206391885"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi nero a fiori con spacco profondo",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-nero-a-fiori-con-spacco-profondo/prd/206391885"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Svart midikl\u00e4nning med blommigt m\u00f6nster och h\u00f6g slits",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-svart-midiklanning-med-blommigt-monster-och-hog-slits/prd/206391885"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue fendue \u00e0 fleurs - Noir",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-fendue-a-fleurs-noir/prd/206391885"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Midikleid in Schwarz mit Blumenmuster und hohem Schlitz",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-midikleid-in-schwarz-mit-blumenmuster-und-hohem-schlitz/prd/206391885"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135080047",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206391897,
+                "name": "Mango midi floral high split dress in black",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "135080167",
+                "isAvailable": true,
+                "colourWayId": 206391893,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144158914"
+            },
+            {
+                "id": 206391894,
+                "name": "Mango midi floral high split dress in black",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "135080168",
+                "isAvailable": true,
+                "colourWayId": 206391893,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144158921"
+            },
+            {
+                "id": 206391896,
+                "name": "Mango midi floral high split dress in black",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "135080169",
+                "isAvailable": true,
+                "colourWayId": 206391893,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144158938"
+            },
+            {
+                "id": 206391895,
+                "name": "Mango midi floral high split dress in black",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "135080170",
+                "isAvailable": true,
+                "colourWayId": 206391893,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144158945"
+            },
+            {
+                "id": 206391898,
+                "name": "Mango midi floral high split dress in black",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "135080171",
+                "isAvailable": true,
+                "colourWayId": 206391893,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144158952"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-midi-floral-high-split-dress-in-black/206391885-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 206391893,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-midi-floral-high-split-dress-in-black/206391885-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-midi-floral-high-split-dress-in-black/206391885-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-midi-floral-high-split-dress-in-black/206391885-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Lining: 100% Polyester, Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 175.5cm / 5' 9''<br>Model is wearing: UK S/ EU S/ US XS",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 206696286,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=206696286&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "AU",
+                "HK",
+                "ID",
+                "SG",
+                "IL",
+                "PH",
+                "MY",
+                "TW",
+                "RU"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 12969,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13929,
+                "type": "Standard"
+            },
+            {
+                "id": 14710,
+                "type": "Standard"
+            },
+            {
+                "id": 15624,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 17241,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 20135,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28041,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51309,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875917,
+                "name": "Floral"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

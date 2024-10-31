@@ -1,0 +1,578 @@
+{
+    "status": true,
+    "timestamp": 1730394379667,
+    "data": {
+        "id": 206563356,
+        "name": "Mango cowl neck devore velvet maxi dress in pink",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Occasions made easy</li><li>Floral design</li><li>Cowl neck</li><li>Open back</li><li>Tie-back fastening</li><li>Ruffle trims</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango cowl neck devore velvet maxi dress in pink",
+                "pdpUrl": "https://www.asos.com/mango/mango-cowl-neck-devore-velvet-maxi-dress-in-pink/prd/206563356"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe longue en velours effet d\u00e9cor\u00e9 \u00e0 col b\u00e9nitier - Rose",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-longue-en-velours-effet-decore-a-col-benitier-rose/prd/206563356"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Lyser\u00f8d maxikjole med vandfaldsudsk\u00e6ring i velour",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-lyserd-maxikjole-med-vandfaldsudskring-i-velour/prd/206563356"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango cowl neck burnout velvet maxi dress in pink",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-cowl-neck-burnout-velvet-maxi-dress-in-pink/prd/206563356"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Rosa maxikl\u00e4nning i sammetsdevor\u00e9 med draperad ringning",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-rosa-maxiklanning-i-sammetsdevore-med-draperad-ringning/prd/206563356"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Maxikleid aus Ausbrennersamt in Rosa mit Wasserfallausschnitt",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-maxikleid-aus-ausbrennersamt-in-rosa-mit-wasserfallausschnitt/prd/206563356"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 R\u00f3\u017cowa sukienka maxi z drapowanym dekoltem i aksamitnym wzorem devore",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-rozowa-sukienka-maxi-z-drapowanym-dekoltem-i-aksamitnym-wzorem-devore/prd/206563356"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo rosa con cuello desbocado de terciopelo devor\u00e9 de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-largo-rosa-con-cuello-desbocado-de-terciopelo-devore-de-mango/prd/206563356"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Maxi jurk met gedrapeerde halslijn van devor\u00e9 fluweel in roze",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-maxi-jurk-met-gedrapeerde-halslijn-van-devore-fluweel-in-roze/prd/206563356"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito lungo rosa in velluto d\u00e9vor\u00e9 con scollo ad anello",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-lungo-rosa-in-velluto-devore-con-scollo-ad-anello/prd/206563356"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135596726",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206563364,
+                "name": "Mango cowl neck devore velvet maxi dress in pink",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "135596917",
+                "isAvailable": true,
+                "colourWayId": 206563363,
+                "colour": "PINK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144013633"
+            },
+            {
+                "id": 206563366,
+                "name": "Mango cowl neck devore velvet maxi dress in pink",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "135596918",
+                "isAvailable": true,
+                "colourWayId": 206563363,
+                "colour": "PINK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144013640"
+            },
+            {
+                "id": 206563365,
+                "name": "Mango cowl neck devore velvet maxi dress in pink",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "135596919",
+                "isAvailable": true,
+                "colourWayId": 206563363,
+                "colour": "PINK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144013657"
+            },
+            {
+                "id": 206563367,
+                "name": "Mango cowl neck devore velvet maxi dress in pink",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "135596920",
+                "isAvailable": true,
+                "colourWayId": 206563363,
+                "colour": "PINK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144013664"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-devore-velvet-maxi-dress-in-pink/206563356-1-pink",
+                    "type": "Standard1",
+                    "colourWayId": 206563363,
+                    "colour": "PINK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-devore-velvet-maxi-dress-in-pink/206563356-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-devore-velvet-maxi-dress-in-pink/206563356-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-cowl-neck-devore-velvet-maxi-dress-in-pink/206563356-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206563356-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206563356-catwalk",
+                    "colourWayId": 206563363
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Burnout: lightweight fabric with a raised, velvet-feel pattern<br><br>Lining: 100% Polyester, Main: 55% Viscose, 45% Polyamide.",
+            "sizeAndFit": "Model's height: 177.5cm / 5' 10''<br>Model is wearing: UK S/ EU S/ US XS",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 206842423,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=206842423&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "ID",
+                "MY",
+                "IL",
+                "SG",
+                "AU",
+                "TW",
+                "PH",
+                "RU",
+                "HK"
+            ]
+        },
+        "rating": {
+            "averageOverallRating": 1,
+            "averageOverallStarRating": 1,
+            "totalReviewCount": 1
+        },
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 15622,
+                "type": "Standard"
+            },
+            {
+                "id": 15625,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 16303,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 19366,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28251,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51356,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51491,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52072,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875893,
+                "name": "Velvet"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

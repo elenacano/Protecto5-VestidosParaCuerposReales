@@ -1,0 +1,616 @@
+{
+    "status": true,
+    "timestamp": 1730394398697,
+    "data": {
+        "id": 206848154,
+        "name": "Mango snake print halterneck pleated midi dress in grey",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Occasions made easy</li><li>Halterneck style</li><li>Tie waist</li><li>Tie-back fastening</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango snake print halterneck pleated midi dress in grey",
+                "pdpUrl": "https://www.asos.com/mango/mango-snake-print-halterneck-pleated-midi-dress-in-grey/prd/206848154"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi allacciato al collo grigio a pieghe con stampa pitonata",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-allacciato-al-collo-grigio-a-pieghe-con-stampa-pitonata/prd/206848154"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Kurzes plissiertes Neckholder-Midikleid in Grau mit Schlangenmuster",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-kurzes-plissiertes-neckholder-midikleid-in-grau-mit-schlangenmuster/prd/206848154"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango snake print halterneck pleated midi dress in gray",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-snake-print-halterneck-pleated-midi-dress-in-gray/prd/206848154"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe pliss\u00e9e mi-longue \u00e0 imprim\u00e9 peau de serpent et dos nu - Gris",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-plisse-mi-longue-imprim-peau-de-serpent-et-dos-nu-gris/prd/206848154"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Plisowana szara sukienka midi w w\u0119\u017cowy wz\u00f3r z dekoltem typu halter",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-plisowana-szara-sukienka-midi-w-wowy-wzr-z-dekoltem-typu-halter/prd/206848154"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Plisseret midikjole med halterneck og slangeprint i gr\u00e5",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-plisseret-midikjole-med-halterneck-og-slangeprint-i-gr/prd/206848154"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Gr\u00e5, plisserad midikl\u00e4nning med ormskinnsm\u00f6nster",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-gr-plisserad-midiklnning-med-ormskinnsmnster/prd/206848154"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Geplooide midi jurk met halternek en slangenprint in grijs",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-geplooide-midi-jurk-met-halternek-en-slangenprint-in-grijs/prd/206848154"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi gris plisado con estampado de serpiente y cuello halter de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-gris-plisado-con-estampado-de-serpiente-y-cuello-halter-de-mango/prd/206848154"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136546707",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206848171,
+                "name": "Mango snake print halterneck pleated midi dress in grey",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "136546776",
+                "isAvailable": true,
+                "colourWayId": 206848168,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144732350"
+            },
+            {
+                "id": 206848173,
+                "name": "Mango snake print halterneck pleated midi dress in grey",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "136546777",
+                "isAvailable": true,
+                "colourWayId": 206848168,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144732367"
+            },
+            {
+                "id": 206848172,
+                "name": "Mango snake print halterneck pleated midi dress in grey",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "136546778",
+                "isAvailable": true,
+                "colourWayId": 206848168,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144732374"
+            },
+            {
+                "id": 206848170,
+                "name": "Mango snake print halterneck pleated midi dress in grey",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "136546779",
+                "isAvailable": true,
+                "colourWayId": 206848168,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144732381"
+            },
+            {
+                "id": 206848174,
+                "name": "Mango snake print halterneck pleated midi dress in grey",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "136546780",
+                "isAvailable": true,
+                "colourWayId": 206848168,
+                "colour": "GREY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144732398"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-snake-print-halterneck-pleated-midi-dress-in-grey/206848154-1-grey",
+                    "type": "Standard1",
+                    "colourWayId": 206848168,
+                    "colour": "GREY",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-snake-print-halterneck-pleated-midi-dress-in-grey/206848154-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-snake-print-halterneck-pleated-midi-dress-in-grey/206848154-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-snake-print-halterneck-pleated-midi-dress-in-grey/206848154-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206848154-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206848154-catwalk",
+                    "colourWayId": 206848168
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 176cm / 5' 9\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207191696,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207191696&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "PH",
+                "TW",
+                "MY",
+                "RU",
+                "AU",
+                "ID",
+                "SG",
+                "IL",
+                "HK"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15625,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19017,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51312,
+                "type": "Standard"
+            },
+            {
+                "id": 51317,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52071,
+                "type": "Standard"
+            },
+            {
+                "id": 52072,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

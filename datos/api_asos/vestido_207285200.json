@@ -1,0 +1,563 @@
+{
+    "status": true,
+    "timestamp": 1730394405721,
+    "data": {
+        "id": 207285200,
+        "name": "Mango lace hem midi dress in white",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Too good to only wear once</li><li>High neck</li><li>Sleeveless style</li><li>Button and zip-back fastenings</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango lace hem midi dress in white",
+                "pdpUrl": "https://www.asos.com/mango/mango-lace-hem-midi-dress-in-white/prd/207285200"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Hvid midikjole med blondekant forneden",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-hvid-midikjole-med-blondekant-forneden/prd/207285200"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Vit midikl\u00e4nning med spetsf\u00e5ll",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-vit-midiklanning-med-spetsfall/prd/207285200"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue avec ourlet en dentelle - Blanc",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-avec-ourlet-en-dentelle-blanc/prd/207285200"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi bianco con fondo in pizzo",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-bianco-con-fondo-in-pizzo/prd/207285200"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango lace hem midi dress in white",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-lace-hem-midi-dress-in-white/prd/207285200"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Bia\u0142a koronkowa sukienka midi",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-biaa-koronkowa-sukienka-midi/prd/207285200"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi blanco con bajo de encaje de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-blanco-con-bajo-de-encaje-de-mango/prd/207285200"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Midikleid in Wei\u00df mit Spitzensaum",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-midikleid-in-wei-mit-spitzensaum/prd/207285200"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Midi jurk met kant in wit",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-midi-jurk-met-kant-in-wit/prd/207285200"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138741876",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207285213,
+                "name": "Mango lace hem midi dress in white",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "138742087",
+                "isAvailable": true,
+                "colourWayId": 207285208,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696522"
+            },
+            {
+                "id": 207285210,
+                "name": "Mango lace hem midi dress in white",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138742088",
+                "isAvailable": true,
+                "colourWayId": 207285208,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696539"
+            },
+            {
+                "id": 207285209,
+                "name": "Mango lace hem midi dress in white",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138742089",
+                "isAvailable": true,
+                "colourWayId": 207285208,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696546"
+            },
+            {
+                "id": 207285211,
+                "name": "Mango lace hem midi dress in white",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138742090",
+                "isAvailable": true,
+                "colourWayId": 207285208,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696553"
+            },
+            {
+                "id": 207285212,
+                "name": "Mango lace hem midi dress in white",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "138742091",
+                "isAvailable": true,
+                "colourWayId": 207285208,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144696560"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-lace-hem-midi-dress-in-white/207285200-1-white",
+                    "type": "Standard1",
+                    "colourWayId": 207285208,
+                    "colour": "WHITE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-lace-hem-midi-dress-in-white/207285200-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-lace-hem-midi-dress-in-white/207285200-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-lace-hem-midi-dress-in-white/207285200-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207285200-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207285200-catwalk",
+                    "colourWayId": 207285208
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Lace: delicate, patterned fabric<br><br>Main: 45% Polyamide, 33% Cotton, 22% Viscose.",
+            "sizeAndFit": "Model's height: 177.5cm / 5' 10''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "RU",
+                "HK",
+                "PH",
+                "IL",
+                "MY",
+                "AU",
+                "ID",
+                "TW",
+                "SG"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 12970,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15600,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15629,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50592,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            },
+            {
+                "id": 51759,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875888,
+                "name": "Lace"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

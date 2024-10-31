@@ -1,0 +1,558 @@
+{
+    "status": true,
+    "timestamp": 1730394394528,
+    "data": {
+        "id": 207284143,
+        "name": "Mango belt detail long sleeve midi dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>Low effort, high reward</li><li>Boat neck</li><li>Long sleeves</li><li>Tie waist</li><li>Side split</li><li>Slim fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango belt detail long sleeve midi dress in black",
+                "pdpUrl": "https://www.asos.com/mango/mango-belt-detail-long-sleeve-midi-dress-in-black/prd/207284143"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Sort midikjole med lange \u00e6rmer og b\u00e6ltedetalje",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-sort-midikjole-med-lange-rmer-og-bltedetalje/prd/207284143"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe mi-longue \u00e0 manches longues avec ceinture - Noir",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-mi-longue-a-manches-longues-avec-ceinture-noir/prd/207284143"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango belt detail long sleeve midi dress in black",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-belt-detail-long-sleeve-midi-dress-in-black/prd/207284143"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Midi-jurk met lange mouwen en riem in zwart",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-midi-jurk-met-lange-mouwen-en-riem-in-zwart/prd/207284143"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Svart midikl\u00e4nning med l\u00e5nga \u00e4rmar och sk\u00e4rp",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-svart-midiklanning-med-langa-armar-och-skarp/prd/207284143"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito midi nero a maniche lunghe con cintura",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-midi-nero-a-maniche-lunghe-con-cintura/prd/207284143"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi negro de manga con detalle de cintur\u00f3n de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-midi-negro-de-manga-con-detalle-de-cinturon-de-mango/prd/207284143"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Czarna sukienka midi z d\u0142ugim r\u0119kawem i paskiem",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-czarna-sukienka-midi-z-dugim-rekawem-i-paskiem/prd/207284143"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Lang\u00e4rmliges Midikleid in Schwarz mit G\u00fcrteldetail",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-langarmliges-midikleid-in-schwarz-mit-gurteldetail/prd/207284143"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138741007",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207284148,
+                "name": "Mango belt detail long sleeve midi dress in black",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "138741161",
+                "isAvailable": true,
+                "colourWayId": 207284144,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144659640"
+            },
+            {
+                "id": 207284146,
+                "name": "Mango belt detail long sleeve midi dress in black",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138741162",
+                "isAvailable": true,
+                "colourWayId": 207284144,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144659664"
+            },
+            {
+                "id": 207284149,
+                "name": "Mango belt detail long sleeve midi dress in black",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138741163",
+                "isAvailable": true,
+                "colourWayId": 207284144,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144659671"
+            },
+            {
+                "id": 207284147,
+                "name": "Mango belt detail long sleeve midi dress in black",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138741164",
+                "isAvailable": true,
+                "colourWayId": 207284144,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144658315"
+            },
+            {
+                "id": 207284145,
+                "name": "Mango belt detail long sleeve midi dress in black",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "138741165",
+                "isAvailable": true,
+                "colourWayId": 207284144,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "8447144658339"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-belt-detail-long-sleeve-midi-dress-in-black/207284143-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 207284144,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-belt-detail-long-sleeve-midi-dress-in-black/207284143-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-belt-detail-long-sleeve-midi-dress-in-black/207284143-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-belt-detail-long-sleeve-midi-dress-in-black/207284143-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207284143-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207284143-catwalk",
+                    "colourWayId": 207284144
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Ribbed knit<br><br>Main: 50% Viscose, 28% Polyester, 22% Polyamide.",
+            "sizeAndFit": "Model's height: 177.5cm / 5' 10''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "AU",
+                "PH",
+                "MY",
+                "RU",
+                "HK",
+                "SG",
+                "ID",
+                "IL",
+                "TW"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28641,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51545,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

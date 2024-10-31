@@ -1,0 +1,555 @@
+{
+    "status": true,
+    "timestamp": 1730394370006,
+    "data": {
+        "id": 207261995,
+        "name": "Mango ruched side pinstripe zip down mini dress in navy",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a><br><ul><li>For your weekend mood board</li><li>Pinstripe design</li><li>Spread collar</li><li>Zip front</li><li>Long sleeves</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Mango ruched side pinstripe zip down mini dress in navy",
+                "pdpUrl": "https://www.asos.com/mango/mango-ruched-side-pinstripe-zip-down-mini-dress-in-navy/prd/207261995"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Mango \u2013 Granatowa marszczona po bokach sukienka mini w pr\u0105\u017cki zapinana na zamek",
+                "pdpUrl": "https://www.asos.com/pl/mango/mango-granatowa-marszczona-po-bokach-sukienka-mini-w-prazki-zapinana-na-zamek/prd/207261995"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Mango - Robe courte fronc\u00e9e \u00e0 rayures fines et fermeture \u00e9clair - Bleu marine",
+                "pdpUrl": "https://www.asos.com/fr/mango/mango-robe-courte-froncee-a-rayures-fines-et-fermeture-eclair-bleu-marine/prd/207261995"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Mango - Vestito corto blu navy gessato con arricciatura sul lato e zip",
+                "pdpUrl": "https://www.asos.com/it/mango/mango-vestito-corto-blu-navy-gessato-con-arricciatura-sul-lato-e-zip/prd/207261995"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Mango - Marinebl\u00e5 minikjole med rynker i siden, lynl\u00e5s og n\u00e5lestriber",
+                "pdpUrl": "https://www.asos.com/dk/mango/mango-marinebla-minikjole-med-rynker-i-siden-lynlas-og-nalestriber/prd/207261995"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Mango \u2013 Marinbl\u00e5, kritstrecksrandig minikl\u00e4nning med dragkedja och rynkad sida",
+                "pdpUrl": "https://www.asos.com/se/mango/mango-marinbla-kritstrecksrandig-miniklanning-med-dragkedja-och-rynkad-sida/prd/207261995"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Mango - Pinstripe mini jurk met rimpels aan de zijkant en ritssluiting in marineblauw",
+                "pdpUrl": "https://www.asos.com/nl/mango/mango-pinstripe-mini-jurk-met-rimpels-aan-de-zijkant-en-ritssluiting-in-marineblauw/prd/207261995"
+            },
+            {
+                "locale": "en-US",
+                "title": "Mango ruched side pinstripe zip down mini dress in navy",
+                "pdpUrl": "https://www.asos.com/us/mango/mango-ruched-side-pinstripe-zip-down-mini-dress-in-navy/prd/207261995"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Mango \u2013 Minikleid in Marineblau mit seitlicher Raffung, Rei\u00dfverschluss und Nadelstreifen",
+                "pdpUrl": "https://www.asos.com/de/mango/mango-minikleid-in-marineblau-mit-seitlicher-raffung-reiverschluss-und-nadelstreifen/prd/207261995"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto azul marino con cremallera, raya diplom\u00e1tica y lateral fruncido de Mango",
+                "pdpUrl": "https://www.asos.com/es/mango/vestido-corto-azul-marino-con-cremallera-raya-diplomatica-y-lateral-fruncido-de-mango/prd/207261995"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138639685",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 12117,
+            "name": "Mango",
+            "description": "The designers behind Barcelona-born <a href=\"/women/a-to-z-of-brands/mango/cat/?cid=8264\"><strong>Mango</strong></a> know that pairing timeless style with minimalist design is a winning formula. We\u2019ve handpicked our fave pieces from its dreamy collections \u2013 think dresses, denim and jackets to keep you on top of your game, plus tailored separates to dress up or down. Its shoes and pretty accessories are on our wishlist, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/8798%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207262032,
+                "name": "Mango ruched side pinstripe zip down mini dress in navy",
+                "sizeId": 410901,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "138639956",
+                "isAvailable": true,
+                "colourWayId": 207262019,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144504780"
+            },
+            {
+                "id": 207262023,
+                "name": "Mango ruched side pinstripe zip down mini dress in navy",
+                "sizeId": 410898,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "138639957",
+                "isAvailable": true,
+                "colourWayId": 207262019,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144504797"
+            },
+            {
+                "id": 207262026,
+                "name": "Mango ruched side pinstripe zip down mini dress in navy",
+                "sizeId": 410899,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "138639958",
+                "isAvailable": true,
+                "colourWayId": 207262019,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144510842"
+            },
+            {
+                "id": 207262028,
+                "name": "Mango ruched side pinstripe zip down mini dress in navy",
+                "sizeId": 410902,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "138639959",
+                "isAvailable": true,
+                "colourWayId": 207262019,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144504803"
+            },
+            {
+                "id": 207262031,
+                "name": "Mango ruched side pinstripe zip down mini dress in navy",
+                "sizeId": 410900,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "138639960",
+                "isAvailable": true,
+                "colourWayId": 207262019,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "8447144504810"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/mango-ruched-side-pinstripe-zip-down-mini-dress-in-navy/207261995-1-navy",
+                    "type": "Standard1",
+                    "colourWayId": 207262019,
+                    "colour": "NAVY",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-ruched-side-pinstripe-zip-down-mini-dress-in-navy/207261995-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-ruched-side-pinstripe-zip-down-mini-dress-in-navy/207261995-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/mango-ruched-side-pinstripe-zip-down-mini-dress-in-navy/207261995-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Stretch fabric<br><br>Main: 70% Polyester, 28% Viscose, 2% Elastane.",
+            "sizeAndFit": "Model's height: 170cm / 5' 7''<br/>Model is wearing: S - US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207420900,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207420900&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HN",
+                "HR",
+                "HU",
+                "IE",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": [
+                "TW",
+                "HK",
+                "SG",
+                "IL",
+                "MY",
+                "PH",
+                "AU",
+                "ID",
+                "RU"
+            ]
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 13929,
+                "type": "Standard"
+            },
+            {
+                "id": 15358,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21252,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28641,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51730,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 10403177,
+                "name": "Ruched"
+            },
+            {
+                "id": 8875921,
+                "name": "Striped"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}
