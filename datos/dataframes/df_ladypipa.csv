@@ -1,320 +1,338 @@
-,nombre,marca,precio,talla,categoria
-0,Vestido Boheme,Ladypipa,"179,95",XXS,midi
-1,Vestido Boheme,Ladypipa,"179,95",XS,midi
-2,Vestido Boheme,Ladypipa,"179,95",S,midi
-3,Vestido Boheme,Ladypipa,"179,95",M,midi
-4,Vestido Boheme,Ladypipa,"179,95",L,midi
-5,Vestido Boheme,Ladypipa,"179,95",4XL,midi
-6,Vestido Salima,Ladypipa,"169,95",XXS,midi
-7,Vestido Salima,Ladypipa,"169,95",XS,midi
-8,Vestido Salima,Ladypipa,"169,95",S,midi
-9,Vestido Salima,Ladypipa,"169,95",M,midi
-10,Vestido Salima,Ladypipa,"169,95",L,midi
-11,Vestido Salima,Ladypipa,"169,95",XL,midi
-12,Vestido Salima,Ladypipa,"169,95",XXL,midi
-13,Vestido Salima,Ladypipa,"169,95",3XL,midi
-14,Vestido Salima,Ladypipa,"169,95",4XL,midi
-15,Vestido Salima,Ladypipa,"169,95",5XL,midi
-16,Vestido Tokyo,Ladypipa,"169,95",XXS,midi
-17,Vestido Tokyo,Ladypipa,"169,95",XS,midi
-18,Vestido Tokyo,Ladypipa,"169,95",S,midi
-19,Vestido Tokyo,Ladypipa,"169,95",M,midi
-20,Vestido Tokyo,Ladypipa,"169,95",L,midi
-21,Vestido Tokyo,Ladypipa,"169,95",XL,midi
-22,Vestido Turandot,Ladypipa,"169,95",XXS,midi
-23,Vestido Turandot,Ladypipa,"169,95",XS,midi
-24,Vestido Turandot,Ladypipa,"169,95",S,midi
-25,Vestido Turandot,Ladypipa,"169,95",M,midi
-26,Vestido Turandot,Ladypipa,"169,95",L,midi
-27,Vestido Turandot,Ladypipa,"169,95",XL,midi
-28,Vestido Siracusa,Ladypipa,"169,95",XXS,largo
-29,Vestido Siracusa,Ladypipa,"169,95",XS,largo
-30,Vestido Siracusa,Ladypipa,"169,95",S,largo
-31,Vestido Siracusa,Ladypipa,"169,95",M,largo
-32,Vestido Siracusa,Ladypipa,"169,95",L,largo
-33,Vestido Siracusa,Ladypipa,"169,95",XL,largo
-34,Vestido Siracusa,Ladypipa,"169,95",XXL,largo
-35,Vestido Siracusa,Ladypipa,"169,95",3XL,largo
-36,Vestido Siracusa,Ladypipa,"169,95",4XL,largo
-37,Vestido Siracusa,Ladypipa,"169,95",5XL,largo
-38,Vestido Traviata,Ladypipa,"169,95",XXS,midi
-39,Vestido Traviata,Ladypipa,"169,95",XS,midi
-40,Vestido Traviata,Ladypipa,"169,95",S,midi
-41,Vestido Traviata,Ladypipa,"169,95",M,midi
-42,Vestido Traviata,Ladypipa,"169,95",L,midi
-43,Vestido Traviata,Ladypipa,"169,95",XL,midi
-44,Vestido Traviata,Ladypipa,"169,95",XXL,midi
-45,Vestido Traviata,Ladypipa,"169,95",3XL,midi
-46,Vestido Traviata,Ladypipa,"169,95",4XL,midi
-47,Vestido Traviata,Ladypipa,"169,95",5XL,midi
-48,Vestido Shiva,Ladypipa,"179,95",XXS,largo
-49,Vestido Shiva,Ladypipa,"179,95",XS,largo
-50,Vestido Shiva,Ladypipa,"179,95",S,largo
-51,Vestido Shiva,Ladypipa,"179,95",M,largo
-52,Vestido Shiva,Ladypipa,"179,95",L,largo
-53,Vestido Shiva,Ladypipa,"179,95",5XL,largo
-54,Vestido Mila,Ladypipa,"169,95",XXS,midi
-55,Vestido Mila,Ladypipa,"169,95",XS,midi
-56,Vestido Mila,Ladypipa,"169,95",S,midi
-57,Vestido Mila,Ladypipa,"169,95",M,midi
-58,Vestido Mila,Ladypipa,"169,95",L,midi
-59,Vestido Viena,Ladypipa,"179,95",XXS,midi
-60,Vestido Viena,Ladypipa,"179,95",S,midi
-61,Vestido Viena,Ladypipa,"179,95",M,midi
-62,Vestido Viena,Ladypipa,"179,95",XXL,midi
-63,Vestido Viena,Ladypipa,"179,95",5XL,midi
-64,Vestido Eclipse,Ladypipa,"129,95",XXS,largo
-65,Vestido Eclipse,Ladypipa,"129,95",XS,largo
-66,Vestido Eclipse,Ladypipa,"129,95",S,largo
-67,Vestido Eclipse,Ladypipa,"129,95",M,largo
-68,Vestido Eclipse,Ladypipa,"129,95",L,largo
-69,Vestido Eclipse,Ladypipa,"129,95",XL,largo
-70,Vestido Eclipse,Ladypipa,"129,95",XXL,largo
-71,Vestido Eclipse,Ladypipa,"129,95",3XL,largo
-72,Vestido Eclipse,Ladypipa,"129,95",4XL,largo
-73,Vestido Eclipse,Ladypipa,"129,95",5XL,largo
-74,Vestido Renata,Ladypipa,"129,95",XXS,largo
-75,Vestido Renata,Ladypipa,"129,95",XS,largo
-76,Vestido Renata,Ladypipa,"129,95",S,largo
-77,Vestido Renata,Ladypipa,"129,95",M,largo
-78,Vestido Renata,Ladypipa,"129,95",L,largo
-79,Vestido Renata,Ladypipa,"129,95",XL,largo
-80,Vestido Renata,Ladypipa,"129,95",XXL,largo
-81,Vestido Renata,Ladypipa,"129,95",3XL,largo
-82,Vestido Renata,Ladypipa,"129,95",4XL,largo
-83,Vestido Renata,Ladypipa,"129,95",5XL,largo
-84,Vestido Idina,Ladypipa,"109,95",XXS,largo
-85,Vestido Idina,Ladypipa,"109,95",XS,largo
-86,Vestido Idina,Ladypipa,"109,95",S,largo
-87,Vestido Idina,Ladypipa,"109,95",M,largo
-88,Vestido Idina,Ladypipa,"109,95",L,largo
-89,Vestido Lillie,Ladypipa,"169,95",XXS,midi
-90,Vestido Lillie,Ladypipa,"169,95",XS,midi
-91,Vestido Lillie,Ladypipa,"169,95",S,midi
-92,Vestido Lillie,Ladypipa,"169,95",M,midi
-93,Vestido Lillie,Ladypipa,"169,95",L,midi
-94,Vestido Lillie,Ladypipa,"169,95",XXL,midi
-95,Vestido Taj,Ladypipa,"169,95",XXS,largo
-96,Vestido Taj,Ladypipa,"169,95",XS,largo
-97,Vestido Taj,Ladypipa,"169,95",S,largo
-98,Vestido Taj,Ladypipa,"169,95",M,largo
-99,Vestido Taj,Ladypipa,"169,95",L,largo
-100,Vestido Taj,Ladypipa,"169,95",XL,largo
-101,Vestido Taj,Ladypipa,"169,95",XXL,largo
-102,Vestido Taj,Ladypipa,"169,95",3XL,largo
-103,Vestido Taj,Ladypipa,"169,95",4XL,largo
-104,Vestido Taj,Ladypipa,"169,95",5XL,largo
-110,Vestido Shiva,Ladypipa,"179,95",XL,largo
-111,Vestido Shiva,Ladypipa,"179,95",XXL,largo
-113,Vestido Tibet,Ladypipa,"169,95",XXS,midi
-114,Vestido Tibet,Ladypipa,"169,95",XS,midi
-115,Vestido Tibet,Ladypipa,"169,95",S,midi
-116,Vestido Tibet,Ladypipa,"169,95",M,midi
-117,Vestido Tibet,Ladypipa,"169,95",L,midi
-118,Vestido Tibet,Ladypipa,"169,95",XL,midi
-119,Vestido Tibet,Ladypipa,"169,95",3XL,midi
-120,Vestido Tibet,Ladypipa,"169,95",4XL,midi
-121,Vestido Tibet,Ladypipa,"169,95",5XL,midi
-122,Vestido Fuji,Ladypipa,"179,95",XXS,midi
-123,Vestido Fuji,Ladypipa,"179,95",XS,midi
-124,Vestido Fuji,Ladypipa,"179,95",S,midi
-125,Vestido Fuji,Ladypipa,"179,95",M,midi
-126,Vestido Fuji,Ladypipa,"179,95",L,midi
-127,Vestido Fuji,Ladypipa,"179,95",XL,midi
-128,Vestido Fuji,Ladypipa,"179,95",3XL,midi
-129,Vestido Fuji,Ladypipa,"179,95",4XL,midi
-130,Vestido Sendai,Ladypipa,"179,95",XXS,midi
-131,Vestido Sendai,Ladypipa,"179,95",XS,midi
-132,Vestido Sendai,Ladypipa,"179,95",S,midi
-133,Vestido Sendai,Ladypipa,"179,95",M,midi
-134,Vestido Sendai,Ladypipa,"179,95",L,midi
-135,Vestido Sendai,Ladypipa,"179,95",XL,midi
-136,Vestido Sendai,Ladypipa,"179,95",XXL,midi
-137,Vestido Fuji Nantai marino,Ladypipa,"179,95",XXS,midi
-138,Vestido Fuji Nantai marino,Ladypipa,"179,95",XS,midi
-139,Vestido Fuji Nantai marino,Ladypipa,"179,95",S,midi
-140,Vestido Fuji Nantai marino,Ladypipa,"179,95",M,midi
-141,Vestido Fuji Nantai marino,Ladypipa,"179,95",L,midi
-142,Vestido Fuji Nantai marino,Ladypipa,"179,95",4XL,midi
-143,Vestido Kyoto,Ladypipa,"169,95",XXS,midi
-144,Vestido Kyoto,Ladypipa,"169,95",XS,midi
-145,Vestido Kyoto,Ladypipa,"169,95",S,midi
-146,Vestido Kyoto,Ladypipa,"169,95",M,midi
-147,Vestido Kyoto,Ladypipa,"169,95",L,midi
-148,Vestido Kyoto,Ladypipa,"169,95",XL,midi
-149,Vestido Kyoto,Ladypipa,"169,95",XXL,midi
-150,Vestido Romeo,Ladypipa,"129,95",XXS,largo
-151,Vestido Romeo,Ladypipa,"129,95",XS,largo
-152,Vestido Romeo,Ladypipa,"129,95",S,largo
-153,Vestido Romeo,Ladypipa,"129,95",M,largo
-154,Vestido Romeo,Ladypipa,"129,95",L,largo
-155,Vestido Romeo,Ladypipa,"129,95",XXL,largo
-156,Vestido Romeo,Ladypipa,"129,95",3XL,largo
-157,Vestido Casablanca,Ladypipa,"149,95",XXS,midi
-158,Vestido Casablanca,Ladypipa,"149,95",XS,midi
-159,Vestido Casablanca,Ladypipa,"149,95",S,midi
-160,Vestido Casablanca,Ladypipa,"149,95",M,midi
-161,Vestido Casablanca,Ladypipa,"149,95",L,midi
-162,Vestido Casablanca,Ladypipa,"149,95",XL,midi
-163,Vestido Casablanca,Ladypipa,"149,95",XXL,midi
-164,Vestido Casablanca,Ladypipa,"149,95",5XL,midi
-165,Vestido Majal,Ladypipa,"179,95",XXS,largo
-166,Vestido Majal,Ladypipa,"179,95",XS,largo
-167,Vestido Majal,Ladypipa,"179,95",S,largo
-168,Vestido Majal,Ladypipa,"179,95",M,largo
-169,Vestido Majal,Ladypipa,"179,95",L,largo
-170,Vestido Majal,Ladypipa,"179,95",XL,largo
-171,Vestido Majal,Ladypipa,"179,95",XXL,largo
-172,Vestido Majal,Ladypipa,"179,95",3XL,largo
-173,Vestido Casablanca,Ladypipa,"179,95",XXS,midi
-174,Vestido Casablanca,Ladypipa,"179,95",XS,midi
-175,Vestido Casablanca,Ladypipa,"179,95",S,midi
-176,Vestido Casablanca,Ladypipa,"179,95",M,midi
-177,Vestido Casablanca,Ladypipa,"179,95",L,midi
-178,Vestido Casablanca,Ladypipa,"179,95",XL,midi
-179,Vestido Casablanca,Ladypipa,"179,95",XXL,midi
-180,Vestido Casablanca,Ladypipa,"179,95",4XL,midi
-181,Vestido Casablanca,Ladypipa,"179,95",5XL,midi
-182,Vestido Orfila,Ladypipa,"169,95",XXS,largo
-183,Vestido Orfila,Ladypipa,"169,95",XS,largo
-184,Vestido Orfila,Ladypipa,"169,95",S,largo
-185,Vestido Orfila,Ladypipa,"169,95",M,largo
-186,Vestido Orfila,Ladypipa,"169,95",L,largo
-187,Vestido Orfila,Ladypipa,"169,95",XL,largo
-188,Vestido Orfila,Ladypipa,"169,95",XXL,largo
-189,Vestido Orfila,Ladypipa,"169,95",3XL,largo
-190,Vestido Orfila,Ladypipa,"169,95",4XL,largo
-191,Vestido Orfila,Ladypipa,"169,95",5XL,largo
-192,Vestido Julieta Marfil,Ladypipa,"179,95",XXS,midi
-193,Vestido Julieta Marfil,Ladypipa,"179,95",XS,midi
-194,Vestido Julieta Marfil,Ladypipa,"179,95",S,midi
-195,Vestido Julieta Marfil,Ladypipa,"179,95",M,midi
-196,Vestido Julieta Marfil,Ladypipa,"179,95",L,midi
-197,Vestido Julieta Marfil,Ladypipa,"179,95",XL,midi
-198,Vestido Julieta Marfil,Ladypipa,"179,95",XXL,midi
-199,Vestido Julieta Marfil,Ladypipa,"179,95",3XL,midi
-200,Vestido Julieta Marfil,Ladypipa,"179,95",4XL,midi
-201,Vestido Julieta Marfil,Ladypipa,"179,95",5XL,midi
-202,Vestido Sakai,Ladypipa,"169,95",XXS,midi
-203,Vestido Sakai,Ladypipa,"169,95",XS,midi
-204,Vestido Sakai,Ladypipa,"169,95",S,midi
-205,Vestido Sakai,Ladypipa,"169,95",M,midi
-206,Vestido Sakai,Ladypipa,"169,95",L,midi
-207,Vestido Sakai,Ladypipa,"169,95",XL,midi
-208,Vestido Sakai,Ladypipa,"169,95",XXL,midi
-209,Vestido Sakai,Ladypipa,"169,95",3XL,midi
-210,Vestido Sakai,Ladypipa,"169,95",4XL,midi
-211,Vestido Sakai,Ladypipa,"169,95",5XL,midi
-212,Vestido Suzette,Ladypipa,"99,95",XXS,midi
-213,Vestido Suzette,Ladypipa,"99,95",XS,midi
-214,Vestido Suzette,Ladypipa,"99,95",S,midi
-215,Vestido Suzette,Ladypipa,"99,95",M,midi
-216,Vestido Suzette,Ladypipa,"99,95",L,midi
-217,Vestido Suzette,Ladypipa,"99,95",XL,midi
-218,Vestido Suzette,Ladypipa,"99,95",XXL,midi
-219,Vestido Suzette,Ladypipa,"99,95",4XL,midi
-220,Vestido Suzette,Ladypipa,"99,95",5XL,midi
-227,Vestido Sendai,Ladypipa,"179,95",3XL,midi
-233,Vestido Tokyo,Ladypipa,"169,95",5XL,midi
-245,Vestido Idina,Ladypipa,"109,95",XL,largo
-246,Vestido Casablanca,Ladypipa,"129,95",XS,midi
-247,Vestido Casablanca,Ladypipa,"129,95",S,midi
-248,Vestido Casablanca,Ladypipa,"129,95",M,midi
-249,Vestido Casablanca,Ladypipa,"129,95",L,midi
-250,Vestido Marguerite,Ladypipa,"129,95",XXS,largo
-251,Vestido Marguerite,Ladypipa,"129,95",XS,largo
-252,Vestido Marguerite,Ladypipa,"129,95",S,largo
-253,Vestido Marguerite,Ladypipa,"129,95",M,largo
-254,Vestido Marguerite,Ladypipa,"129,95",XXL,largo
-255,Vestido Marguerite,Ladypipa,"129,95",3XL,largo
-256,Vestido Etna,Ladypipa,"149,95",XXS,midi
-257,Vestido Etna,Ladypipa,"149,95",XS,midi
-258,Vestido Etna,Ladypipa,"149,95",S,midi
-259,Vestido Etna,Ladypipa,"149,95",M,midi
-260,Vestido Marguerite,Ladypipa,"109,95",XXS,largo
-261,Vestido Marguerite,Ladypipa,"109,95",XS,largo
-262,Vestido Marguerite,Ladypipa,"109,95",S,largo
-263,Vestido Marguerite,Ladypipa,"109,95",M,largo
-264,Vestido Marguerite,Ladypipa,"109,95",L,largo
-265,Vestido Marguerite,Ladypipa,"109,95",XL,largo
-266,Vestido Marguerite,Ladypipa,"109,95",XXL,largo
-267,Vestido Marguerite,Ladypipa,"109,95",3XL,largo
-268,Vestido Marguerite,Ladypipa,"109,95",4XL,largo
-269,Vestido Marguerite,Ladypipa,"109,95",5XL,largo
-276,Vestido Daisy,Ladypipa,"169,95",XXS,largo
-277,Vestido Daisy,Ladypipa,"169,95",XS,largo
-278,Vestido Daisy,Ladypipa,"169,95",S,largo
-279,Vestido Daisy,Ladypipa,"169,95",M,largo
-280,Vestido Daisy,Ladypipa,"169,95",L,largo
-281,Vestido Daisy,Ladypipa,"169,95",XL,largo
-282,Vestido Daisy,Ladypipa,"169,95",XXL,largo
-283,Vestido Daisy,Ladypipa,"169,95",5XL,largo
-284,Vestido Margaret,Ladypipa,"189,95",XXS,largo
-285,Vestido Margaret,Ladypipa,"189,95",S,largo
-286,Vestido Margaret,Ladypipa,"189,95",L,largo
-287,Vestido Margaret,Ladypipa,"189,95",3XL,largo
-288,Vestido Margaret,Ladypipa,"189,95",4XL,largo
-289,Vestido Margaret,Ladypipa,"189,95",5XL,largo
-290,Vestido Petra Marino,Ladypipa,"139,95",XXS,largo
-291,Vestido Petra Marino,Ladypipa,"139,95",XS,largo
-292,Vestido Petra Marino,Ladypipa,"139,95",S,largo
-293,Vestido Petra Marino,Ladypipa,"139,95",M,largo
-294,Vestido Deia,Ladypipa,"149,95",XXS,midi
-295,Vestido Deia,Ladypipa,"149,95",XS,midi
-296,Vestido Deia,Ladypipa,"149,95",S,midi
-297,Vestido Deia,Ladypipa,"149,95",M,midi
-298,Vestido Tokyo Marfil,Ladypipa,"169,95",XXS,midi
-299,Vestido Tokyo Marfil,Ladypipa,"169,95",XS,midi
-300,Vestido Tokyo Marfil,Ladypipa,"169,95",S,midi
-301,Vestido Tokyo Marfil,Ladypipa,"169,95",M,midi
-302,Vestido Tokyo Marfil,Ladypipa,"169,95",L,midi
-303,Vestido Tokyo Marfil,Ladypipa,"169,95",XL,midi
-304,Vestido Tokyo Marfil,Ladypipa,"169,95",5XL,midi
-305,Vestido Sidonia,Ladypipa,"139,95",XS,midi
-306,Vestido Sidonia,Ladypipa,"139,95",S,midi
-307,Vestido Sidonia,Ladypipa,"139,95",M,midi
-308,Vestido Sidonia,Ladypipa,"139,95",L,midi
-309,Vestido Sidonia,Ladypipa,"139,95",XL,midi
-310,Vestido Sidonia,Ladypipa,"139,95",4XL,midi
-311,Vestido Pepa,Ladypipa,"199,95",XXS,midi
-312,Vestido Pepa,Ladypipa,"199,95",XS,midi
-313,Vestido Pepa,Ladypipa,"199,95",S,midi
-314,Vestido Pepa,Ladypipa,"199,95",M,midi
-315,Vestido Pepa,Ladypipa,"199,95",L,midi
-316,Vestido Pepa,Ladypipa,"199,95",XL,midi
-317,Vestido Pepa,Ladypipa,"199,95",XXL,midi
-318,Vestido Pepa,Ladypipa,"199,95",3XL,midi
-319,Vestido Pepa,Ladypipa,"199,95",4XL,midi
-320,Vestido Pepa,Ladypipa,"199,95",5XL,midi
-321,Vestido Renata,Ladypipa,"159,95",XXS,largo
-322,Vestido Renata,Ladypipa,"159,95",XS,largo
-323,Vestido Renata,Ladypipa,"159,95",S,largo
-324,Vestido Renata,Ladypipa,"159,95",M,largo
-325,Vestido Renata,Ladypipa,"159,95",L,largo
-326,Vestido Renata,Ladypipa,"159,95",XL,largo
-327,Vestido Renata,Ladypipa,"159,95",XXL,largo
-328,Vestido Renata,Ladypipa,"159,95",3XL,largo
-329,Vestido Renata,Ladypipa,"159,95",4XL,largo
-330,Vestido Renata,Ladypipa,"159,95",5XL,largo
-331,Vestido Narciso,Ladypipa,"189,95",XXS,largo
-332,Vestido Narciso,Ladypipa,"189,95",XS,largo
-333,Vestido Narciso,Ladypipa,"189,95",S,largo
-334,Vestido Narciso,Ladypipa,"189,95",4XL,largo
-335,Vestido Narciso,Ladypipa,"189,95",5XL,largo
-336,Vestido Idina,Ladypipa,"169,95",XXS,largo
-337,Vestido Idina,Ladypipa,"169,95",XS,largo
-338,Vestido Idina,Ladypipa,"169,95",S,largo
-339,Vestido Idina,Ladypipa,"169,95",M,largo
-340,Vestido Idina,Ladypipa,"169,95",L,largo
-341,Vestido Idina,Ladypipa,"169,95",XL,largo
-342,Vestido Idina,Ladypipa,"169,95",4XL,largo
-343,Vestido Tibet,Ladypipa,"129,95",XXS,largo
-344,Vestido Tibet,Ladypipa,"129,95",XS,largo
-345,Vestido Tibet,Ladypipa,"129,95",S,largo
-346,Vestido Tibet,Ladypipa,"129,95",M,largo
-347,Vestido Tibet,Ladypipa,"129,95",L,largo
-348,Vestido Tibet,Ladypipa,"129,95",XL,largo
-349,Vestido Tibet,Ladypipa,"129,95",XXL,largo
-350,Vestido Tibet,Ladypipa,"129,95",3XL,largo
-351,Vestido Tibet,Ladypipa,"129,95",4XL,largo
-352,Vestido Tibet,Ladypipa,"129,95",5XL,largo
+,nombre,marca,precio,color,talla,categoria
+0,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,XXS,midi
+1,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,XS,midi
+2,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,S,midi
+3,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,M,midi
+4,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,L,midi
+5,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,XL,midi
+6,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,3XL,midi
+7,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XXS,midi
+8,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XS,midi
+9,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,S,midi
+10,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,M,midi
+11,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,L,midi
+12,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XL,midi
+13,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XXL,midi
+14,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,3XL,midi
+15,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,4XL,midi
+16,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,5XL,midi
+17,Vestido Tokyo,Ladypipa,"169,95",Manila verde,XXS,midi
+18,Vestido Tokyo,Ladypipa,"169,95",Manila verde,XS,midi
+19,Vestido Tokyo,Ladypipa,"169,95",Manila verde,S,midi
+20,Vestido Tokyo,Ladypipa,"169,95",Manila verde,M,midi
+21,Vestido Tokyo,Ladypipa,"169,95",Manila verde,L,midi
+22,Vestido Tokyo,Ladypipa,"169,95",Manila verde,XL,midi
+23,Vestido Tokyo,Ladypipa,"169,95",Marino,XXS,midi
+24,Vestido Tokyo,Ladypipa,"169,95",Marino,XS,midi
+25,Vestido Tokyo,Ladypipa,"169,95",Marino,S,midi
+26,Vestido Tokyo,Ladypipa,"169,95",Marino,M,midi
+27,Vestido Tokyo,Ladypipa,"169,95",Marino,L,midi
+28,Vestido Tokyo,Ladypipa,"169,95",Marino,5XL,midi
+29,Vestido Siracusa,Ladypipa,"169,95",Marino,XXS,largo
+30,Vestido Siracusa,Ladypipa,"169,95",Marino,XS,largo
+31,Vestido Siracusa,Ladypipa,"169,95",Marino,S,largo
+32,Vestido Siracusa,Ladypipa,"169,95",Marino,M,largo
+33,Vestido Siracusa,Ladypipa,"169,95",Marino,L,largo
+34,Vestido Siracusa,Ladypipa,"169,95",Marino,XL,largo
+35,Vestido Siracusa,Ladypipa,"169,95",Marino,XXL,largo
+36,Vestido Siracusa,Ladypipa,"169,95",Marino,3XL,largo
+37,Vestido Siracusa,Ladypipa,"169,95",Marino,4XL,largo
+38,Vestido Siracusa,Ladypipa,"169,95",Marino,5XL,largo
+39,Vestido Shiva,Ladypipa,"179,95",Aceite,XXS,largo
+40,Vestido Shiva,Ladypipa,"179,95",Aceite,XS,largo
+41,Vestido Shiva,Ladypipa,"179,95",Aceite,S,largo
+42,Vestido Shiva,Ladypipa,"179,95",Aceite,M,largo
+43,Vestido Shiva,Ladypipa,"179,95",Aceite,L,largo
+44,Vestido Shiva,Ladypipa,"179,95",Aceite,5XL,largo
+45,Vestido Shiva,Ladypipa,"129,95",Melón,XXS,largo
+46,Vestido Shiva,Ladypipa,"129,95",Melón,XS,largo
+47,Vestido Shiva,Ladypipa,"129,95",Melón,S,largo
+48,Vestido Shiva,Ladypipa,"129,95",Melón,M,largo
+49,Vestido Mila,Ladypipa,"169,95",Sakura,XXS,midi
+50,Vestido Mila,Ladypipa,"169,95",Sakura,XS,midi
+51,Vestido Mila,Ladypipa,"169,95",Sakura,S,midi
+52,Vestido Mila,Ladypipa,"169,95",Sakura,M,midi
+53,Vestido Mila,Ladypipa,"169,95",Sakura,L,midi
+54,Vestido Eclipse,Ladypipa,"99,95",Morado,XXL,largo
+55,Vestido Eclipse,Ladypipa,"99,95",Morado,3XL,largo
+56,Vestido Eclipse,Ladypipa,"99,95",Negro,XXL,largo
+57,Vestido Eclipse,Ladypipa,"99,95",Negro,3XL,largo
+58,Vestido Eclipse,Ladypipa,"129,95",Caldera,XXS,largo
+59,Vestido Eclipse,Ladypipa,"129,95",Caldera,XS,largo
+60,Vestido Eclipse,Ladypipa,"129,95",Caldera,S,largo
+61,Vestido Eclipse,Ladypipa,"129,95",Caldera,M,largo
+62,Vestido Eclipse,Ladypipa,"129,95",Caldera,L,largo
+63,Vestido Eclipse,Ladypipa,"129,95",Caldera,XL,largo
+64,Vestido Eclipse,Ladypipa,"129,95",Caldera,XXL,largo
+65,Vestido Eclipse,Ladypipa,"129,95",Caldera,3XL,largo
+66,Vestido Eclipse,Ladypipa,"129,95",Caldera,4XL,largo
+67,Vestido Eclipse,Ladypipa,"129,95",Caldera,5XL,largo
+68,Vestido Renata,Ladypipa,"159,95",Marfil,XXS,largo
+69,Vestido Renata,Ladypipa,"159,95",Marfil,XS,largo
+70,Vestido Renata,Ladypipa,"159,95",Marfil,S,largo
+71,Vestido Renata,Ladypipa,"159,95",Marfil,M,largo
+72,Vestido Renata,Ladypipa,"159,95",Marfil,L,largo
+73,Vestido Renata,Ladypipa,"159,95",Marfil,XL,largo
+74,Vestido Renata,Ladypipa,"159,95",Marfil,XXL,largo
+75,Vestido Renata,Ladypipa,"159,95",Marfil,3XL,largo
+76,Vestido Renata,Ladypipa,"159,95",Marfil,4XL,largo
+77,Vestido Renata,Ladypipa,"159,95",Marfil,5XL,largo
+78,Vestido Renata,Ladypipa,"129,95",Salvia,XXS,largo
+79,Vestido Renata,Ladypipa,"129,95",Salvia,XS,largo
+80,Vestido Renata,Ladypipa,"129,95",Salvia,S,largo
+81,Vestido Renata,Ladypipa,"129,95",Salvia,M,largo
+82,Vestido Renata,Ladypipa,"129,95",Salvia,L,largo
+83,Vestido Renata,Ladypipa,"129,95",Salvia,XL,largo
+84,Vestido Renata,Ladypipa,"129,95",Salvia,XXL,largo
+85,Vestido Renata,Ladypipa,"129,95",Salvia,3XL,largo
+86,Vestido Renata,Ladypipa,"129,95",Salvia,4XL,largo
+87,Vestido Renata,Ladypipa,"129,95",Salvia,5XL,largo
+88,Vestido Renata,Ladypipa,"89,95",Coral,4XL,largo
+89,Vestido Renata,Ladypipa,"89,95",Coral,5XL,largo
+90,Vestido Idina,Ladypipa,"169,95",Marfil,XXS,largo
+91,Vestido Idina,Ladypipa,"169,95",Marfil,XS,largo
+92,Vestido Idina,Ladypipa,"169,95",Marfil,S,largo
+93,Vestido Idina,Ladypipa,"169,95",Marfil,M,largo
+94,Vestido Idina,Ladypipa,"169,95",Marfil,L,largo
+95,Vestido Idina,Ladypipa,"169,95",Marfil,XL,largo
+96,Vestido Idina,Ladypipa,"169,95",Marfil,4XL,largo
+97,Vestido Idina,Ladypipa,"109,95",Marino,XXS,largo
+98,Vestido Idina,Ladypipa,"109,95",Marino,XS,largo
+99,Vestido Idina,Ladypipa,"109,95",Marino,S,largo
+100,Vestido Idina,Ladypipa,"109,95",Marino,M,largo
+101,Vestido Idina,Ladypipa,"109,95",Marino,L,largo
+102,Vestido Idina,Ladypipa,"109,95",Rojo,XXS,largo
+103,Vestido Idina,Ladypipa,"109,95",Rojo,XS,largo
+104,Vestido Idina,Ladypipa,"109,95",Rojo,S,largo
+105,Vestido Idina,Ladypipa,"109,95",Rojo,M,largo
+106,Vestido Idina,Ladypipa,"109,95",Rojo,L,largo
+107,Vestido Idina,Ladypipa,"109,95",Rojo,XL,largo
+108,Vestido Lillie,Ladypipa,"169,95",Irapa teja,XXS,midi
+109,Vestido Lillie,Ladypipa,"169,95",Irapa teja,XS,midi
+110,Vestido Lillie,Ladypipa,"169,95",Irapa teja,S,midi
+111,Vestido Lillie,Ladypipa,"169,95",Irapa teja,M,midi
+112,Vestido Lillie,Ladypipa,"169,95",Irapa teja,L,midi
+113,Vestido Lillie,Ladypipa,"169,95",Irapa teja,XXL,midi
+114,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,XXS,midi
+115,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,XS,midi
+116,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,S,midi
+117,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,M,midi
+118,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,L,midi
+119,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,4XL,midi
+120,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,XXS,midi
+121,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,XS,midi
+122,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,S,midi
+123,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,M,midi
+124,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,L,midi
+125,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,XL,midi
+126,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,3XL,midi
+127,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,4XL,midi
+128,Vestido Sendai,Ladypipa,"179,95",Azul,XXS,midi
+129,Vestido Sendai,Ladypipa,"179,95",Azul,XS,midi
+130,Vestido Sendai,Ladypipa,"179,95",Azul,S,midi
+131,Vestido Sendai,Ladypipa,"179,95",Azul,M,midi
+132,Vestido Sendai,Ladypipa,"179,95",Azul,L,midi
+133,Vestido Sendai,Ladypipa,"179,95",Azul,XL,midi
+134,Vestido Sendai,Ladypipa,"179,95",Azul,3XL,midi
+135,Vestido Sendai,Ladypipa,"179,95",Rojo,XXS,midi
+136,Vestido Sendai,Ladypipa,"179,95",Rojo,XS,midi
+137,Vestido Sendai,Ladypipa,"179,95",Rojo,S,midi
+138,Vestido Sendai,Ladypipa,"179,95",Rojo,M,midi
+139,Vestido Sendai,Ladypipa,"179,95",Rojo,L,midi
+140,Vestido Sendai,Ladypipa,"179,95",Rojo,XL,midi
+141,Vestido Sendai,Ladypipa,"179,95",Rojo,XXL,midi
+156,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XXS,midi
+157,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XS,midi
+158,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,S,midi
+159,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,M,midi
+160,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,L,midi
+161,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XL,midi
+162,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XXL,midi
+163,Vestido Kyoto,Ladypipa,"169,95",Uva,XXS,midi
+164,Vestido Kyoto,Ladypipa,"169,95",Uva,XS,midi
+165,Vestido Kyoto,Ladypipa,"169,95",Uva,S,midi
+166,Vestido Kyoto,Ladypipa,"169,95",Uva,M,midi
+167,Vestido Kyoto,Ladypipa,"169,95",Uva,XL,midi
+168,Vestido Kyoto,Ladypipa,"169,95",Uva,XXL,midi
+169,Vestido Romeo,Ladypipa,"129,95",Celadón,XXS,largo
+170,Vestido Romeo,Ladypipa,"129,95",Celadón,XS,largo
+171,Vestido Romeo,Ladypipa,"129,95",Celadón,S,largo
+172,Vestido Romeo,Ladypipa,"129,95",Celadón,M,largo
+173,Vestido Romeo,Ladypipa,"129,95",Celadón,L,largo
+174,Vestido Romeo,Ladypipa,"129,95",Celadón,XL,largo
+175,Vestido Romeo,Ladypipa,"129,95",Celadón,XXL,largo
+176,Vestido Romeo,Ladypipa,"129,95",Rojo,XXS,largo
+177,Vestido Romeo,Ladypipa,"129,95",Rojo,XS,largo
+178,Vestido Romeo,Ladypipa,"129,95",Rojo,S,largo
+179,Vestido Romeo,Ladypipa,"129,95",Rojo,M,largo
+180,Vestido Romeo,Ladypipa,"129,95",Rojo,L,largo
+181,Vestido Romeo,Ladypipa,"129,95",Rojo,XXL,largo
+182,Vestido Romeo,Ladypipa,"129,95",Rojo,3XL,largo
+183,Vestido Casablanca,Ladypipa,"149,95",Caldera,XXS,midi
+184,Vestido Casablanca,Ladypipa,"149,95",Caldera,XS,midi
+185,Vestido Casablanca,Ladypipa,"149,95",Caldera,S,midi
+186,Vestido Casablanca,Ladypipa,"149,95",Caldera,M,midi
+187,Vestido Casablanca,Ladypipa,"149,95",Caldera,L,midi
+188,Vestido Casablanca,Ladypipa,"149,95",Caldera,XXL,midi
+189,Vestido Casablanca,Ladypipa,"149,95",Celadón,XXS,midi
+190,Vestido Casablanca,Ladypipa,"149,95",Celadón,XS,midi
+191,Vestido Casablanca,Ladypipa,"149,95",Celadón,S,midi
+192,Vestido Casablanca,Ladypipa,"149,95",Celadón,M,midi
+193,Vestido Casablanca,Ladypipa,"149,95",Celadón,L,midi
+194,Vestido Casablanca,Ladypipa,"149,95",Celadón,XL,midi
+195,Vestido Casablanca,Ladypipa,"149,95",Celadón,XXL,midi
+196,Vestido Casablanca,Ladypipa,"149,95",Celadón,5XL,midi
+197,Vestido Casablanca,Ladypipa,"129,95",Marino,XS,midi
+198,Vestido Casablanca,Ladypipa,"129,95",Marino,S,midi
+199,Vestido Casablanca,Ladypipa,"129,95",Marino,M,midi
+200,Vestido Casablanca,Ladypipa,"129,95",Marino,L,midi
+201,Vestido Majal,Ladypipa,"179,95",Burdeos,XXS,largo
+202,Vestido Majal,Ladypipa,"179,95",Burdeos,XS,largo
+203,Vestido Majal,Ladypipa,"179,95",Burdeos,S,largo
+204,Vestido Majal,Ladypipa,"179,95",Burdeos,M,largo
+205,Vestido Majal,Ladypipa,"179,95",Burdeos,L,largo
+206,Vestido Majal,Ladypipa,"179,95",Burdeos,XL,largo
+207,Vestido Majal,Ladypipa,"179,95",Burdeos,XXL,largo
+208,Vestido Majal,Ladypipa,"179,95",Burdeos,3XL,largo
+209,Vestido Sakai,Ladypipa,"169,95",Cobre,XXS,midi
+210,Vestido Sakai,Ladypipa,"169,95",Cobre,XS,midi
+211,Vestido Sakai,Ladypipa,"169,95",Cobre,S,midi
+212,Vestido Sakai,Ladypipa,"169,95",Cobre,M,midi
+213,Vestido Sakai,Ladypipa,"169,95",Cobre,L,midi
+214,Vestido Sakai,Ladypipa,"169,95",Cobre,XL,midi
+215,Vestido Sakai,Ladypipa,"169,95",Cobre,XXL,midi
+216,Vestido Sakai,Ladypipa,"169,95",Cobre,3XL,midi
+217,Vestido Sakai,Ladypipa,"169,95",Cobre,4XL,midi
+218,Vestido Sakai,Ladypipa,"169,95",Cobre,5XL,midi
+219,Vestido Suzette,Ladypipa,"99,95",Caldera,XXS,midi
+220,Vestido Suzette,Ladypipa,"99,95",Caldera,XS,midi
+221,Vestido Suzette,Ladypipa,"99,95",Caldera,S,midi
+222,Vestido Suzette,Ladypipa,"99,95",Caldera,M,midi
+223,Vestido Suzette,Ladypipa,"99,95",Caldera,L,midi
+224,Vestido Suzette,Ladypipa,"99,95",Caldera,XL,midi
+225,Vestido Suzette,Ladypipa,"99,95",Caldera,XXL,midi
+226,Vestido Suzette,Ladypipa,"99,95",Caldera,4XL,midi
+227,Vestido Suzette,Ladypipa,"99,95",Caldera,5XL,midi
+303,Vestido Marguerite,Ladypipa,"129,95",Marfil,XXS,largo
+304,Vestido Marguerite,Ladypipa,"129,95",Marfil,XS,largo
+305,Vestido Marguerite,Ladypipa,"129,95",Marfil,S,largo
+306,Vestido Marguerite,Ladypipa,"129,95",Marfil,M,largo
+307,Vestido Marguerite,Ladypipa,"129,95",Marfil,XXL,largo
+308,Vestido Marguerite,Ladypipa,"129,95",Marfil,3XL,largo
+309,Vestido Marguerite,Ladypipa,"129,95",Marfil,4XL,largo
+310,Vestido Marguerite,Ladypipa,"129,95",Marfil,5XL,largo
+311,Vestido Marguerite,Ladypipa,"109,95",Caldera,XXS,largo
+312,Vestido Marguerite,Ladypipa,"109,95",Caldera,XS,largo
+313,Vestido Marguerite,Ladypipa,"109,95",Caldera,S,largo
+314,Vestido Marguerite,Ladypipa,"109,95",Caldera,M,largo
+315,Vestido Marguerite,Ladypipa,"109,95",Caldera,L,largo
+316,Vestido Marguerite,Ladypipa,"109,95",Caldera,XL,largo
+317,Vestido Marguerite,Ladypipa,"109,95",Caldera,XXL,largo
+318,Vestido Marguerite,Ladypipa,"109,95",Caldera,3XL,largo
+319,Vestido Marguerite,Ladypipa,"109,95",Caldera,4XL,largo
+320,Vestido Marguerite,Ladypipa,"109,95",Caldera,5XL,largo
+321,Vestido Marguerite,Ladypipa,"129,95",Marino,XXS,largo
+322,Vestido Marguerite,Ladypipa,"129,95",Marino,XS,largo
+323,Vestido Marguerite,Ladypipa,"129,95",Marino,S,largo
+324,Vestido Marguerite,Ladypipa,"129,95",Marino,M,largo
+325,Vestido Marguerite,Ladypipa,"129,95",Marino,XXL,largo
+326,Vestido Marguerite,Ladypipa,"129,95",Marino,3XL,largo
+327,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,XXS,midi
+328,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,XS,midi
+329,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,S,midi
+330,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,M,midi
+331,Vestido Etna,Ladypipa,"99,95",Perseo,XXS,midi
+332,Vestido Etna,Ladypipa,"99,95",Perseo,XS,midi
+333,Vestido Etna,Ladypipa,"99,95",Perseo,S,midi
+334,Vestido Etna,Ladypipa,"109,95",Verde,XXS,midi
+335,Vestido Etna,Ladypipa,"109,95",Verde,XS,midi
+336,Vestido Etna,Ladypipa,"109,95",Verde,S,midi
+337,Vestido Etna,Ladypipa,"109,95",Verde,M,midi
+338,Vestido Etna,Ladypipa,"109,95",Verde,L,midi
+339,Vestido Etna,Ladypipa,"109,95",Verde,XL,midi
+340,Vestido Etna,Ladypipa,"109,95",Verde,XXL,midi
+341,Vestido Etna,Ladypipa,"129,95",Nenúfar caldera,XXS,midi
+342,Vestido Etna,Ladypipa,"129,95",Nenúfar caldera,M,midi
+343,Vestido Etna,Ladypipa,"129,95",Nenúfar caldera,L,midi
+386,Vestido Daisy,Ladypipa,"169,95",Morado,XXS,largo
+387,Vestido Daisy,Ladypipa,"169,95",Morado,XS,largo
+388,Vestido Daisy,Ladypipa,"169,95",Morado,S,largo
+389,Vestido Daisy,Ladypipa,"169,95",Morado,M,largo
+390,Vestido Daisy,Ladypipa,"169,95",Morado,L,largo
+391,Vestido Daisy,Ladypipa,"169,95",Morado,XL,largo
+392,Vestido Daisy,Ladypipa,"169,95",Morado,XXL,largo
+393,Vestido Daisy,Ladypipa,"169,95",Morado,5XL,largo
+394,Vestido Margaret,Ladypipa,"189,95",Chocolate,XXS,largo
+395,Vestido Margaret,Ladypipa,"189,95",Chocolate,S,largo
+396,Vestido Margaret,Ladypipa,"189,95",Chocolate,L,largo
+397,Vestido Margaret,Ladypipa,"189,95",Chocolate,3XL,largo
+398,Vestido Margaret,Ladypipa,"189,95",Chocolate,4XL,largo
+399,Vestido Margaret,Ladypipa,"189,95",Chocolate,5XL,largo
+400,Vestido Petra,Ladypipa,"129,95",Caldera,XXS,largo
+401,Vestido Petra,Ladypipa,"129,95",Caldera,XS,largo
+402,Vestido Petra,Ladypipa,"129,95",Caldera,S,largo
+403,Vestido Petra,Ladypipa,"129,95",Caldera,XL,largo
+404,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,XXS,largo
+405,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,XS,largo
+406,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,S,largo
+407,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,M,largo
+408,Vestido Petra,Ladypipa,"129,95",Rojo,XXS,largo
+409,Vestido Petra,Ladypipa,"129,95",Rojo,XS,largo
+410,Vestido Petra,Ladypipa,"129,95",Rojo,S,largo
+411,Vestido Petra,Ladypipa,"129,95",Rojo,M,largo
+412,Vestido Petra,Ladypipa,"129,95",Rojo,L,largo
+413,Vestido Petra,Ladypipa,"129,95",Rojo,XL,largo
+414,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,XXS,midi
+415,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,XS,midi
+416,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,S,midi
+417,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,M,midi
+418,Vestido Deia,Ladypipa,"99,95",Manila,XS,midi
+419,Vestido Deia,Ladypipa,"99,95",Manila,S,midi
+420,Vestido Deia,Ladypipa,"99,95",Manila,M,midi
+421,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,XS,midi
+422,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,S,midi
+423,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,M,midi
+424,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,L,midi
+425,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,XL,midi
+426,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,4XL,midi
+427,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,S,midi
+428,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,M,midi
+429,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,L,midi
+430,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,XL,midi
+431,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,XXL,midi
+432,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,3XL,midi
+433,Vestido Sidonia,Ladypipa,"139,95",Rosé,XXS,midi
+434,Vestido Sidonia,Ladypipa,"139,95",Rosé,XS,midi
+435,Vestido Sidonia,Ladypipa,"139,95",Rosé,S,midi
+436,Vestido Sidonia,Ladypipa,"139,95",Rosé,M,midi
+437,Vestido Sidonia,Ladypipa,"139,95",Rosé,L,midi
+438,Vestido Sidonia,Ladypipa,"139,95",Rosé,XL,midi
+439,Vestido Sidonia,Ladypipa,"139,95",Rosé,XXL,midi
+440,Vestido Sidonia,Ladypipa,"139,95",Rosé,3XL,midi
+441,Vestido Sidonia,Ladypipa,"139,95",Rosé,4XL,midi
+442,Vestido Pepa,Ladypipa,"199,95",Blanco,XXS,midi
+443,Vestido Pepa,Ladypipa,"199,95",Blanco,XS,midi
+444,Vestido Pepa,Ladypipa,"199,95",Blanco,S,midi
+445,Vestido Pepa,Ladypipa,"199,95",Blanco,M,midi
+446,Vestido Pepa,Ladypipa,"199,95",Blanco,L,midi
+447,Vestido Pepa,Ladypipa,"199,95",Blanco,XL,midi
+448,Vestido Pepa,Ladypipa,"199,95",Blanco,XXL,midi
+449,Vestido Pepa,Ladypipa,"199,95",Blanco,3XL,midi
+450,Vestido Pepa,Ladypipa,"199,95",Blanco,4XL,midi
+451,Vestido Pepa,Ladypipa,"199,95",Blanco,5XL,midi
+452,Vestido Pepa,Ladypipa,"109,95",Cereza,5XL,midi
+475,Vestido Narciso,Ladypipa,"189,95",Blanco,XXS,largo
+476,Vestido Narciso,Ladypipa,"189,95",Blanco,XS,largo
+477,Vestido Narciso,Ladypipa,"189,95",Blanco,S,largo
+478,Vestido Narciso,Ladypipa,"189,95",Blanco,4XL,largo
+479,Vestido Narciso,Ladypipa,"189,95",Blanco,5XL,largo
+498,Vestido Tibet,Ladypipa,"129,95",Aceite,XXS,largo
+499,Vestido Tibet,Ladypipa,"129,95",Aceite,XS,largo
+500,Vestido Tibet,Ladypipa,"129,95",Aceite,S,largo
+501,Vestido Tibet,Ladypipa,"129,95",Aceite,M,largo
+502,Vestido Tibet,Ladypipa,"129,95",Aceite,L,largo
+503,Vestido Tibet,Ladypipa,"129,95",Aceite,XL,largo
+504,Vestido Tibet,Ladypipa,"129,95",Aceite,XXL,largo
+505,Vestido Tibet,Ladypipa,"129,95",Aceite,3XL,largo
+506,Vestido Tibet,Ladypipa,"129,95",Aceite,4XL,largo
+507,Vestido Tibet,Ladypipa,"129,95",Aceite,5XL,largo

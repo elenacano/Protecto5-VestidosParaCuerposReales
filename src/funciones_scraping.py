@@ -141,7 +141,7 @@ def obtencion_links_ladypipa():
     return lista_links
 
 
-def extraccion_info_ladypipa(links_ladypipa):
+def extraccion_info_ladypipa_mala(links_ladypipa):
     dic_vestido = {
         "nombre" : [],
         "marca" : [],
@@ -185,5 +185,77 @@ def extraccion_info_ladypipa(links_ladypipa):
             dic_vestido["precio"].append(precio)
             dic_vestido["talla"].append(elem)
             dic_vestido["categoria"].append(categoria)
+
+    return dic_vestido
+
+
+
+def extraccion_info_ladypipa(links_ladypipa):
+    url_base="https://ladypipa.com"
+
+    dic_vestido = {
+            "nombre" : [],
+            "marca" : [],
+            "precio" : [],
+            "color" : [],
+            "talla" : [],
+            "categoria" :[]
+            }
+
+    for url in links_ladypipa:
+        res = requests.get(url)
+        if res.status_code != 200:
+            print(url)
+
+        sopa = BeautifulSoup(res.content, "html.parser")
+
+
+        contenedor_enlaces= sopa.find("div", {"class":"variant-picker__option-values wrap gap-2"}).find_all('a', class_='color-swatch')
+        enlaces_colores = [enlace['href'] for enlace in contenedor_enlaces]
+
+        for enlace in enlaces_colores:
+
+            url_aux = url_base + enlace
+            res = requests.get(url_aux)
+            if res.status_code != 200:
+                print(url)
+            
+            
+            sopa = BeautifulSoup(res.content, "html.parser")
+
+            nombre = sopa.find("div", {"class":"product-info__title"}).text.replace("\n","").strip()
+            marca = "Ladypipa"
+
+            # Extraemos el color
+            contenedor_color = sopa.find("div", {"class":"variant-picker__option-info"}).text
+            color = contenedor_color.strip().replace("Color:", "").strip()
+
+            # Extraemos el precio
+            patron = r"(\d+(?:,\d{1,2})?)\s*€"
+            resultado = re.search(patron, sopa.find("sale-price").text)
+            precio = resultado.group(1)
+
+            # Buscamos en la descripcion cómo es el vestido para asignarle una categoría
+            desc = sopa.select("div.prose p")[2].text
+
+            patron = r'\b(largo|midi|corto|maxi|mini)\b'
+            coincidencias = re.findall(patron, desc)
+            categoria = coincidencias[0]
+
+            # Sacamos las tallas disponibles
+            lista_tallas=[]
+            contenedor_tallas = sopa.find("div", {"class":"form-control"}).find("select").find_all('option')
+            for talla in contenedor_tallas:
+                if not talla.has_attr('disabled'):
+                    lista_tallas.append(talla.text.split()[0])
+            lista_tallas
+
+            for elem in lista_tallas:
+                dic_vestido["nombre"].append(nombre)
+                dic_vestido["marca"].append(marca)
+                dic_vestido["precio"].append(precio)
+                dic_vestido["color"].append(color)
+                dic_vestido["talla"].append(elem)
+                dic_vestido["categoria"].append(categoria)
 
     return dic_vestido
