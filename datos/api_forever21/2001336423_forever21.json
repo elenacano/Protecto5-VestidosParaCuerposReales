@@ -1,0 +1,544 @@
+{
+    "product": {
+        "BackorderedQuantity": 0,
+        "BaseCatalogName": null,
+        "Brand": "F21",
+        "BrandCode": null,
+        "CatalogLangOId": null,
+        "CatalogLangTimestamp": null,
+        "CatalogName": null,
+        "CatalogProductType": null,
+        "CatalogRowNum": 0,
+        "CategoryName": "dress",
+        "CategoryPath": "WOMEN|CLOTHING|DRESSES",
+        "CategoryIdPath": "WOMEN_MAIN|APP_MAIN|DRESS",
+        "ClassType": "8",
+        "ComingSoon": false,
+        "CustomerNote": null,
+        "DataInfomation": null,
+        "DefinitionName": null,
+        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+        "DescriptionOfDeal": null,
+        "DisplayName": "Belted Mini Sweater Dress",
+        "DynamicCategoryWhereClause": null,
+        "ExpiryDate": null,
+        "ExportReady": null,
+        "FilterOption": null,
+        "FinalSale": false,
+        "FreeShippingDescription": null,
+        "GiftCardPrice": null,
+        "GiftCardType": null,
+        "HasSizeCodeOfUS": null,
+        "HideColorSwatch": null,
+        "ImageFilename": "01336423-01.jpg",
+        "Inserted": null,
+        "IntroductionDate": "2024-10-29T00:00:00",
+        "InventoryCondition": null,
+        "IsAvailableStudentDeal": false,
+        "IsOOS": false,
+        "IsReturnable": false,
+        "IsGWP": false,
+        "IsSearchable": null,
+        "IsShoes": null,
+        "ItemAttr": "N",
+        "ItemAttr10": 0,
+        "ItemAttr11": "",
+        "ItemAttr12": "N",
+        "ItemAttr13": "",
+        "ItemAttr14": "",
+        "ItemAttr15": "",
+        "ItemAttr16": "N",
+        "Prop65Text": null,
+        "ItemAttr17": "",
+        "ItemAttr18": "",
+        "ItemAttr19": null,
+        "ItemAttr2": "",
+        "ItemAttr20": "",
+        "ItemAttr3": "",
+        "ItemAttr4": "",
+        "ItemAttr5": "",
+        "ItemAttr6": "",
+        "ItemAttr7": "",
+        "ItemAttr8": "",
+        "ItemAttr9": 0,
+        "ItemCode": "01336423",
+        "ItemImageFolder": null,
+        "ItemTag": null,
+        "ItemTag2": null,
+        "ItemTag2Text": null,
+        "ItemTag3": "web_exclusive",
+        "ItemTag3Text": null,
+        "ItemTag4": "",
+        "ItemTag4Text": null,
+        "ItemTag5": "top_tag_webex",
+        "ItemTag5Text": null,
+        "ItemTagText": null,
+        "ItemsPerRow": null,
+        "LastModified": null,
+        "ListPrice": 35.54,
+        "MeasurementInfo": null,
+        "Memo": null,
+        "MoreColors": null,
+        "OId": 0,
+        "OnHandQuantity": 0,
+        "OnSale": true,
+        "OnSaleVariants": null,
+        "OrigCategoryName": null,
+        "OrigProductId": null,
+        "OrigVariantId": null,
+        "OriginalPrice": 44.99,
+        "ComparablePrice": null,
+        "ComparablePricePercent": null,
+        "PagingAttr": null,
+        "ParentOId": 0,
+        "Point": null,
+        "PreorderedQuantity": 0,
+        "PrimaryParentCategory": "dress",
+        "ProductColor": null,
+        "ProductId": "2001336423",
+        "ProductShareLinkUrl": "https://www.forever21.com/us/2001336423.html",
+        "ProductSize": null,
+        "ProductSizeChart": null,
+        "RackKind": null,
+        "RepColorCode": "01",
+        "RepSizeCode": null,
+        "SaleRate": null,
+        "ServerName": null,
+        "SizeChartCode": null,
+        "SortOrder": null,
+        "Status": null,
+        "StudentDealDescription": null,
+        "StudentDealTitle": null,
+        "StudentDealUrl": null,
+        "TimeStamp": null,
+        "UseCategoryPricing": null,
+        "VariantId": "0101",
+        "Variants": [
+            {
+                "ColorId": "01",
+                "ColorName": "BLACK",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 117.0,
+                                "stock_level": 117.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 272.0,
+                                "stock_level": 272.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 234.0,
+                                "stock_level": 234.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 156.0,
+                                "stock_level": 156.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 117.0,
+                                "stock_level": 117.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw13037fed/1_front_750/01336423-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw13037fed/1_front_750/01336423-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd95c27bd/2_side_750/01336423-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwa8b7b10e/3_back_750/01336423-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw6c29ce5e/4_full_750/01336423-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwbca87969/5_detail_750/01336423-01.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwab44f77d/sw_22/01336423-01.jpg"
+            },
+            {
+                "ColorId": "02",
+                "ColorName": "HEATHER GREY",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 60.0,
+                                "stock_level": 60.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 140.0,
+                                "stock_level": 140.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 120.0,
+                                "stock_level": 120.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 80.0,
+                                "stock_level": 80.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 60.0,
+                                "stock_level": 60.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw6c818c8d/1_front_750/01336423-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw6c818c8d/1_front_750/01336423-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe477b10a/2_side_750/01336423-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw74d0e31d/3_back_750/01336423-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw12a0b54e/4_full_750/01336423-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4885380e/5_detail_750/01336423-02.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf2c00bdb/sw_22/01336423-02.jpg"
+            },
+            {
+                "ColorId": "03",
+                "ColorName": "SANDSHELL",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 78.0,
+                                "stock_level": 78.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 182.0,
+                                "stock_level": 182.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 156.0,
+                                "stock_level": 156.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 103.0,
+                                "stock_level": 103.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Belted Mini Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit sweater dress featuring ribbed trim, a mock neck, dropped long sleeves, belt loops and removable belt with a rectangular buckle, mini length, and shift silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 51% rayon, 29% polyester, 20% nylon</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'8\" and wearing a Small</p><p>- Full length: 32.75\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 78.0,
+                                "stock_level": 78.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd101b69e/1_front_750/01336423-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd101b69e/1_front_750/01336423-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw5f12f80a/2_side_750/01336423-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw77f399cc/3_back_750/01336423-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwa6a6d902/4_full_750/01336423-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd762865a/5_detail_750/01336423-03.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwac7ae2c8/sw_22/01336423-03.jpg"
+            }
+        ],
+        "WHCategoryCode": null,
+        "CategoryClass1": null,
+        "CategoryClass2": null,
+        "Weight": 0.0,
+        "Rank": null,
+        "DefaultProductImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw13037fed/1_front_750/01336423-01.jpg",
+        "Promotions": [
+            {
+                "PromotionId": "EVERGREEN: Free Ship $50+",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/EVERGREEN:%20Free%20Ship%20$50+?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            },
+            {
+                "PromotionId": "promo_21%_off_sitewide_exp20241022",
+                "PromotionType": "product_promotion",
+                "Message": "21% Off Sitewide",
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_21%25_off_sitewide_exp20241022?inventory_ids=forever21",
+                "PromotionPrice": 35.54
+            },
+            {
+                "PromotionId": "promo_hk_gwp_50_spend",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_hk_gwp_50_spend?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            }
+        ],
+        "IsDonation": false,
+        "Set": false,
+        "Set_products": null,
+        "Set_images": null,
+        "LicensedProduct": false,
+        "RecommendationSizeType": null,
+        "RecommendationSizeId": null,
+        "RecommendationSizeLink": null
+    },
+    "result": true,
+    "code": "00",
+    "errorMessage": "",
+    "errorDetails": null,
+    "authorization": "",
+    "customerId": null,
+    "sfccAuthorizations": null,
+    "ReturnCode": null,
+    "ErrorMessage": null,
+    "ReturnMessage": null
+}

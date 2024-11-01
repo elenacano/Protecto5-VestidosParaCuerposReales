@@ -5,45 +5,45 @@
         "docs": [
             {
                 "sale_price": 27.64,
-                "pid": "2001323529",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323529-01.jpg?sh=330",
+                "title": "Bodycon Mini Sweater Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Bodycon Mini Sweater Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323529-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013235290101.html",
+                "pid": "2001323529",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323529-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323529-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323529-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323529-02.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "green",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323529-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "green",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323529-03.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323529-04.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323529-04.jpg"
                         ]
@@ -52,27 +52,27 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2000466720",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00466720-02.jpg?sh=330",
+                "title": "Sequin Christmas Tree Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Sequin Christmas Tree Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00466720-02.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20004667200202.html",
+                "pid": "2000466720",
                 "variants": [
                     {
-                        "sku_color_group": "green",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00466720-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "green",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/00466720-02.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "green",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00466720-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "green",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/00466720-03.jpg"
                         ]
@@ -81,18 +81,18 @@
             },
             {
                 "sale_price": 23.69,
-                "pid": "2001323527",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323527-01.jpg?sh=330",
+                "title": "Rosette Tank Mini Dress",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Rosette Tank Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323527-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013235270101.html",
+                "pid": "2001323527",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323527-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323527-01.jpg"
                         ]
@@ -101,18 +101,18 @@
             },
             {
                 "sale_price": 39.99,
-                "pid": "2001336012",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336012-01.jpg?sh=330",
+                "title": "Off-the-Shoulder Corset Mini Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Off-the-Shoulder Corset Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336012-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013360120101.html",
+                "pid": "2001336012",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336012-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336012-01.jpg"
                         ]
@@ -121,18 +121,18 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001335978",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335978-01.jpg?sh=330",
+                "title": "Velvet Illusion Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Velvet Illusion Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335978-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359780101.html",
+                "pid": "2001335978",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335978-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335978-01.jpg"
                         ]
@@ -141,27 +141,27 @@
             },
             {
                 "sale_price": 29.99,
-                "pid": "2001323151",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323151-01.jpg?sh=330",
+                "title": "Plunging Surplice Lace Mini Dress",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Plunging Surplice Lace Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323151-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013231510101.html",
+                "pid": "2001323151",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323151-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323151-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323151-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323151-02.jpg"
                         ]
@@ -170,18 +170,18 @@
             },
             {
                 "sale_price": 39.99,
-                "pid": "2001335987",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335987-01.jpg?sh=330",
+                "title": "Faux Gem Midi Sweater Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Faux Gem Midi Sweater Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335987-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359870101.html",
+                "pid": "2001335987",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335987-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335987-01.jpg"
                         ]
@@ -190,36 +190,36 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001335985",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335985-01.jpg?sh=330",
+                "title": "Turtleneck Midi Sweater Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Turtleneck Midi Sweater Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335985-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359850101.html",
+                "pid": "2001335985",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335985-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335985-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335985-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335985-02.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335985-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335985-03.jpg"
                         ]
@@ -228,27 +228,27 @@
             },
             {
                 "sale_price": 44.99,
-                "pid": "2001346532",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346532-01.jpg?sh=330",
+                "title": "Sheer Flocked Paisley Maxi Dress",
                 "brand": "Women",
                 "price": 44.99,
-                "title": "Sheer Flocked Paisley Maxi Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346532-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013465320101.html",
+                "pid": "2001346532",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346532-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346532-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346532-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346532-02.jpg"
                         ]
@@ -257,18 +257,18 @@
             },
             {
                 "sale_price": 44.99,
-                "pid": "2001346789",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346789-01.jpg?sh=330",
+                "title": "Ruched Rosette Plunging Maxi Dress",
                 "brand": "Women",
                 "price": 44.99,
-                "title": "Ruched Rosette Plunging Maxi Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346789-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013467890101.html",
+                "pid": "2001346789",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346789-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346789-01.jpg"
                         ]
@@ -277,18 +277,18 @@
             },
             {
                 "sale_price": 39.99,
-                "pid": "2001334756",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334756-01.jpg?sh=330",
+                "title": "Velvet Corset Cowl Maxi Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Velvet Corset Cowl Maxi Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334756-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013347560101.html",
+                "pid": "2001334756",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334756-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334756-01.jpg"
                         ]
@@ -297,18 +297,18 @@
             },
             {
                 "sale_price": 39.99,
-                "pid": "2001347720",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347720-01.jpg?sh=330",
+                "title": "Asymmetrical Rhinestone Mini Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Asymmetrical Rhinestone Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347720-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013477200102.html",
+                "pid": "2001347720",
                 "variants": [
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347720-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01347720-01.jpg"
                         ]
@@ -317,27 +317,27 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001334397",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334397-01.jpg?sh=330",
+                "title": "Rhinestone Fringe Cami Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Rhinestone Fringe Cami Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334397-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013343970101.html",
+                "pid": "2001334397",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334397-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334397-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334397-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334397-02.jpg"
                         ]
@@ -346,18 +346,18 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001334730",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334730-01.jpg?sh=330",
+                "title": "Lace Off-the-Shoulder Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Lace Off-the-Shoulder Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334730-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013347300101.html",
+                "pid": "2001334730",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334730-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334730-01.jpg"
                         ]
@@ -366,47 +366,18 @@
             },
             {
                 "sale_price": 29.99,
-                "pid": "2001336430",
-                "brand": "Women",
-                "price": 29.99,
-                "title": "Sheer Square-Neck Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336430-01.jpg?sh=330",
-                "url": "https://www.forever21.com/us/20013364300101.html",
-                "variants": [
-                    {
-                        "sku_color_group": "black",
-                        "sku_thumb_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336430-01.jpg?sh=330"
-                        ],
-                        "sku_swatch_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336430-01.jpg"
-                        ]
-                    },
-                    {
-                        "sku_color_group": "red",
-                        "sku_thumb_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336430-03.jpg?sh=330"
-                        ],
-                        "sku_swatch_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336430-03.jpg"
-                        ]
-                    }
-                ]
-            },
-            {
-                "sale_price": 29.99,
-                "pid": "2001323439",
-                "brand": "Women",
-                "price": 29.99,
-                "title": "Strapless Bubble-Hem Mini Dress",
                 "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323439-01.jpg?sh=330",
+                "title": "Strapless Bubble-Hem Mini Dress",
+                "brand": "Women",
+                "price": 29.99,
                 "url": "https://www.forever21.com/us/20013234390101.html",
+                "pid": "2001323439",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01323439-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01323439-01.jpg"
                         ]
@@ -415,18 +386,47 @@
             },
             {
                 "sale_price": 29.99,
-                "pid": "2001335986",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346542-01.jpg?sh=330",
+                "title": "Jacquard Floral Halter Mini Dress",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Velvet Sweetheart Mini Tube Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335986-01.jpg?sh=330",
-                "url": "https://www.forever21.com/us/20013359860101.html",
+                "url": "https://www.forever21.com/us/20013465420101.html",
+                "pid": "2001346542",
                 "variants": [
                     {
+                        "sku_thumb_images": [
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346542-01.jpg?sh=330"
+                        ],
                         "sku_color_group": "black",
+                        "sku_swatch_images": [
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346542-01.jpg"
+                        ]
+                    },
+                    {
+                        "sku_thumb_images": [
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346542-02.jpg?sh=330"
+                        ],
+                        "sku_color_group": "red",
+                        "sku_swatch_images": [
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346542-02.jpg"
+                        ]
+                    }
+                ]
+            },
+            {
+                "sale_price": 29.99,
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335986-01.jpg?sh=330",
+                "title": "Velvet Sweetheart Mini Tube Dress",
+                "brand": "Women",
+                "price": 29.99,
+                "url": "https://www.forever21.com/us/20013359860101.html",
+                "pid": "2001335986",
+                "variants": [
+                    {
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335986-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335986-01.jpg"
                         ]
@@ -435,56 +435,56 @@
             },
             {
                 "sale_price": 29.99,
-                "pid": "2001346542",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336430-01.jpg?sh=330",
+                "title": "Sheer Square-Neck Mini Dress",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Jacquard Floral Halter Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346542-01.jpg?sh=330",
-                "url": "https://www.forever21.com/us/20013465420101.html",
+                "url": "https://www.forever21.com/us/20013364300101.html",
+                "pid": "2001336430",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346542-01.jpg?sh=330"
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336430-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346542-01.jpg"
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336430-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346542-02.jpg?sh=330"
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336430-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
-                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346542-02.jpg"
+                            "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336430-03.jpg"
                         ]
                     }
                 ]
             },
             {
                 "sale_price": 44.99,
-                "pid": "2001334395",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334395-01.jpg?sh=330",
+                "title": "Ruched Bodycon Midi Dress",
                 "brand": "Women",
                 "price": 44.99,
-                "title": "Ruched Bodycon Midi Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334395-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013343950101.html",
+                "pid": "2001334395",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334395-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334395-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334395-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334395-02.jpg"
                         ]
@@ -493,27 +493,27 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001336427",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336427-01.jpg?sh=330",
+                "title": "Foldover Off-the-Shoulder Midi Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Foldover Off-the-Shoulder Midi Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336427-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364270101.html",
+                "pid": "2001336427",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336427-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336427-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "green",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336427-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "green",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336427-02.jpg"
                         ]
@@ -522,36 +522,36 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001334775",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334775-01.jpg?sh=330",
+                "title": "Strapless Satin Lace-Up Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Strapless Satin Lace-Up Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334775-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013347750101.html",
+                "pid": "2001334775",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334775-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334775-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "green",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334775-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "green",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334775-03.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334775-04.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334775-04.jpg"
                         ]
@@ -560,18 +560,18 @@
             },
             {
                 "sale_price": 54.99,
-                "pid": "2001336442",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336442-01.jpg?sh=330",
+                "title": "Velvet Blazer Mini Dress",
                 "brand": "Women",
                 "price": 54.99,
-                "title": "Velvet Blazer Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336442-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364420101.html",
+                "pid": "2001336442",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336442-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336442-01.jpg"
                         ]
@@ -580,18 +580,18 @@
             },
             {
                 "sale_price": 44.99,
-                "pid": "2001336441",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336441-01.jpg?sh=330",
+                "title": "Sleeveless Blazer Mini Dress",
                 "brand": "Women",
                 "price": 44.99,
-                "title": "Sleeveless Blazer Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336441-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364410101.html",
+                "pid": "2001336441",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336441-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336441-01.jpg"
                         ]
@@ -600,18 +600,18 @@
             },
             {
                 "sale_price": 39.99,
-                "pid": "2001346540",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346540-01.jpg?sh=330",
+                "title": "Rhinestone Buckled Mini Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Rhinestone Buckled Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346540-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013465400101.html",
+                "pid": "2001346540",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346540-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346540-01.jpg"
                         ]
@@ -620,27 +620,27 @@
             },
             {
                 "sale_price": 24.99,
-                "pid": "2001346543",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346543-01.jpg?sh=330",
+                "title": "Velour Bodycon Cami Mini Dress",
                 "brand": "Women",
                 "price": 24.99,
-                "title": "Velour Bodycon Cami Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346543-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013465430101.html",
+                "pid": "2001346543",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346543-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346543-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "green",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01346543-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "green",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01346543-02.jpg"
                         ]
@@ -649,18 +649,18 @@
             },
             {
                 "sale_price": 39.99,
-                "pid": "2001348326",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01348326-01.jpg?sh=330",
+                "title": "Sequin Santa Baby T-Shirt Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Sequin Santa Baby T-Shirt Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01348326-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013483260101.html",
+                "pid": "2001348326",
                 "variants": [
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01348326-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01348326-01.jpg"
                         ]
@@ -669,18 +669,18 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001312264",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312264-01.jpg?sh=330",
+                "title": "Fair Isle Mini Sweater Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Fair Isle Mini Sweater Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312264-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013122640102.html",
+                "pid": "2001312264",
                 "variants": [
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312264-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01312264-01.jpg"
                         ]
@@ -689,18 +689,18 @@
             },
             {
                 "sale_price": 29.99,
-                "pid": "2001347002",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347002-01.jpg?sh=330",
+                "title": "Lace & Mesh Combo Mini Dress",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Lace & Mesh Combo Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347002-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013470020101.html",
+                "pid": "2001347002",
                 "variants": [
                     {
-                        "sku_color_group": "green",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347002-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "green",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01347002-01.jpg"
                         ]
@@ -709,18 +709,18 @@
             },
             {
                 "sale_price": 44.99,
-                "pid": "2001335177",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335177-01.jpg?sh=330",
+                "title": "Plus Size Lace Bell-Sleeve Mini Dress",
                 "brand": "Plus + Curve",
                 "price": 44.99,
-                "title": "Plus Size Lace Bell-Sleeve Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335177-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013351770101.html",
+                "pid": "2001335177",
                 "variants": [
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335177-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335177-01.jpg"
                         ]
@@ -729,18 +729,18 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001347001",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347001-02.jpg?sh=330",
+                "title": "Organza Bubble-Hem Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Organza Bubble-Hem Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347001-02.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013470010201.html",
+                "pid": "2001347001",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347001-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01347001-02.jpg"
                         ]
@@ -749,18 +749,18 @@
             },
             {
                 "sale_price": 29.99,
-                "pid": "2001336702",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336702-01.jpg?sh=330",
+                "title": "Plus Size Sweetheart Mini Tube Dress",
                 "brand": "Plus + Curve",
                 "price": 29.99,
-                "title": "Plus Size Sweetheart Mini Tube Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336702-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013367020101.html",
+                "pid": "2001336702",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336702-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336702-01.jpg"
                         ]
@@ -769,18 +769,18 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001312300",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312300-01.jpg?sh=330",
+                "title": "Hooded Striped Santa Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Hooded Striped Santa Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312300-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013123000102.html",
+                "pid": "2001312300",
                 "variants": [
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312300-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01312300-01.jpg"
                         ]
@@ -789,18 +789,18 @@
             },
             {
                 "sale_price": 34.99,
-                "pid": "2001312290",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312290-01.jpg?sh=330",
+                "title": "Sequin Santa Crop Top & Skirt Set",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Sequin Santa Crop Top & Skirt Set",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312290-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013122900102.html",
+                "pid": "2001312290",
                 "variants": [
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01312290-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01312290-01.jpg"
                         ]
@@ -809,18 +809,18 @@
             },
             {
                 "sale_price": 54.99,
-                "pid": "2001336443",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336443-01.jpg?sh=330",
+                "title": "Strapless Wide-Leg Jumpsuit",
                 "brand": "Women",
                 "price": 54.99,
-                "title": "Strapless Wide-Leg Jumpsuit",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336443-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364430101.html",
+                "pid": "2001336443",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336443-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336443-01.jpg"
                         ]
@@ -829,27 +829,27 @@
             },
             {
                 "sale_price": 29.99,
-                "pid": "2001335996",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335996-01.jpg?sh=330",
+                "title": "Fitted Lace-Trim Romper",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Fitted Lace-Trim Romper",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335996-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359960101.html",
+                "pid": "2001335996",
                 "variants": [
                     {
-                        "sku_color_group": "pink",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335996-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "pink",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335996-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335996-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335996-02.jpg"
                         ]
@@ -858,18 +858,18 @@
             },
             {
                 "sale_price": 28.0,
-                "pid": "2000472989",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00472989-03.jpg?sh=330",
+                "title": "Sequin Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Sequin Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00472989-03.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20004729890302.html",
+                "pid": "2000472989",
                 "variants": [
                     {
-                        "sku_color_group": "grey",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00472989-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "grey",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/00472989-03.jpg"
                         ]
@@ -878,36 +878,36 @@
             },
             {
                 "sale_price": 35.54,
-                "pid": "2001336423",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336423-01.jpg?sh=330",
+                "title": "Belted Mini Sweater Dress",
                 "brand": "Women",
                 "price": 44.99,
-                "title": "Belted Mini Sweater Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336423-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364230101.html",
+                "pid": "2001336423",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336423-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336423-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "grey",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336423-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "grey",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336423-02.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336423-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336423-03.jpg"
                         ]
@@ -916,18 +916,18 @@
             },
             {
                 "sale_price": 27.64,
-                "pid": "2001336444",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336444-01.jpg?sh=330",
+                "title": "Twist-Front Cutout Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Twist-Front Cutout Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336444-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364440101.html",
+                "pid": "2001336444",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336444-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336444-01.jpg"
                         ]
@@ -936,18 +936,18 @@
             },
             {
                 "sale_price": 31.59,
-                "pid": "2001334732",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334732-01.jpg?sh=330",
+                "title": "Bow Sweater Mini Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Bow Sweater Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334732-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013347320101.html",
+                "pid": "2001334732",
                 "variants": [
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01334732-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01334732-01.jpg"
                         ]
@@ -956,18 +956,18 @@
             },
             {
                 "sale_price": 31.59,
-                "pid": "2001336650",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336650-01.jpg?sh=330",
+                "title": "Contour Sculpt Rhinestone Mini Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Contour Sculpt Rhinestone Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336650-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013366500101.html",
+                "pid": "2001336650",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01336650-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01336650-01.jpg"
                         ]
@@ -976,18 +976,18 @@
             },
             {
                 "sale_price": 39.49,
-                "pid": "2001335977",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335977-01.jpg?sh=330",
+                "title": "Faux Gem Cutout Midi Sweater Dress",
                 "brand": "Women",
                 "price": 49.99,
-                "title": "Faux Gem Cutout Midi Sweater Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335977-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359770101.html",
+                "pid": "2001335977",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335977-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335977-01.jpg"
                         ]
@@ -996,18 +996,18 @@
             },
             {
                 "sale_price": 27.64,
-                "pid": "2001335969",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335969-01.jpg?sh=330",
+                "title": "Contour Sculpt Rhinestone Midi Tube Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Contour Sculpt Rhinestone Midi Tube Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335969-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359690101.html",
+                "pid": "2001335969",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335969-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335969-01.jpg"
                         ]
@@ -1016,18 +1016,18 @@
             },
             {
                 "sale_price": 39.99,
-                "pid": "2001347715",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347715-01.jpg?sh=330",
+                "title": "Sequin Holly Jolly T-Shirt Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Sequin Holly Jolly T-Shirt Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347715-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013477150101.html",
+                "pid": "2001347715",
                 "variants": [
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01347715-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01347715-01.jpg"
                         ]
@@ -1036,18 +1036,18 @@
             },
             {
                 "sale_price": 23.69,
-                "pid": "2001335920",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335920-01.jpg?sh=330",
+                "title": "Sequin Fitted Thumbhole Jumpsuit",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Sequin Fitted Thumbhole Jumpsuit",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335920-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359200101.html",
+                "pid": "2001335920",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01335920-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01335920-01.jpg"
                         ]
@@ -1056,27 +1056,27 @@
             },
             {
                 "sale_price": 27.64,
-                "pid": "2001334713",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334713-01.jpg?sh=330",
+                "title": "Ruched Halter Bodycon Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Ruched Halter Bodycon Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334713-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013347130101.html",
+                "pid": "2001334713",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334713-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01334713-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334713-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01334713-02.jpg"
                         ]
@@ -1085,27 +1085,27 @@
             },
             {
                 "sale_price": 27.64,
-                "pid": "2001346507",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01346507-01.jpg?sh=330",
+                "title": "One-Shoulder Bow Mini Tube Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "One-Shoulder Bow Mini Tube Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01346507-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013465070102.html",
+                "pid": "2001346507",
                 "variants": [
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01346507-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01346507-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01346507-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01346507-02.jpg"
                         ]
@@ -1114,18 +1114,18 @@
             },
             {
                 "sale_price": 27.64,
-                "pid": "2001334712",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334712-01.jpg?sh=330",
+                "title": "Buckled Asymmetrical Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Buckled Asymmetrical Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334712-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013347120101.html",
+                "pid": "2001334712",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334712-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01334712-01.jpg"
                         ]
@@ -1134,18 +1134,18 @@
             },
             {
                 "sale_price": 20.0,
-                "pid": "2001334955",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334955-01.jpg?sh=330",
+                "title": "Plus Size Velour Mini Dress",
                 "brand": "Plus + Curve",
                 "price": 20.0,
-                "title": "Plus Size Velour Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334955-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013349550101.html",
+                "pid": "2001334955",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01334955-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01334955-01.jpg"
                         ]
@@ -1154,18 +1154,18 @@
             },
             {
                 "sale_price": 31.59,
-                "pid": "2001336300",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336300-01.jpg?sh=330",
+                "title": "Plus Size Halter M-Slit Mini Dress",
                 "brand": "Plus + Curve",
                 "price": 39.99,
-                "title": "Plus Size Halter M-Slit Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336300-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013363000101.html",
+                "pid": "2001336300",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336300-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01336300-01.jpg"
                         ]
@@ -1174,18 +1174,18 @@
             },
             {
                 "sale_price": 27.64,
-                "pid": "2001336010",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336010-01.jpg?sh=330",
+                "title": "Sweetheart Bodycon Mini Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Sweetheart Bodycon Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336010-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013360100101.html",
+                "pid": "2001336010",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336010-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01336010-01.jpg"
                         ]
@@ -1194,27 +1194,27 @@
             },
             {
                 "sale_price": 35.54,
-                "pid": "2000501299",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00501299-01.jpg?sh=330",
+                "title": "Chiffon Smocked Peasant-Sleeve Mini Dress",
                 "brand": "Women",
                 "price": 44.99,
-                "title": "Chiffon Smocked Peasant-Sleeve Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00501299-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20005012990101.html",
+                "pid": "2000501299",
                 "variants": [
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00501299-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/00501299-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/00501299-04.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/00501299-04.jpg"
                         ]
@@ -1223,18 +1223,18 @@
             },
             {
                 "sale_price": 31.59,
-                "pid": "2001336269",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336269-01.jpg?sh=330",
+                "title": "Plus Size Glitter Knit Midi Dress",
                 "brand": "Plus + Curve",
                 "price": 39.99,
-                "title": "Plus Size Glitter Knit Midi Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336269-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013362690101.html",
+                "pid": "2001336269",
                 "variants": [
                     {
-                        "sku_color_group": "grey",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336269-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "grey",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01336269-01.jpg"
                         ]
@@ -1243,27 +1243,27 @@
             },
             {
                 "sale_price": 35.54,
-                "pid": "2001336704",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336704-01.jpg?sh=330",
+                "title": "Plus Size Faux Gem Midi Sweater Dress",
                 "brand": "Plus + Curve",
                 "price": 44.99,
-                "title": "Plus Size Faux Gem Midi Sweater Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336704-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013367040101.html",
+                "pid": "2001336704",
                 "variants": [
                     {
-                        "sku_color_group": "white",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336704-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "white",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01336704-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01336704-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01336704-02.jpg"
                         ]
@@ -1272,18 +1272,18 @@
             },
             {
                 "sale_price": 19.74,
-                "pid": "2001348856",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01348856-01.jpg?sh=330",
+                "title": "Mesh Floral Print Romper",
                 "brand": "Women",
                 "price": 24.99,
-                "title": "Mesh Floral Print Romper",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01348856-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013488560102.html",
+                "pid": "2001348856",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/1_front_750/01348856-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8c2a326d/sw_22/01348856-01.jpg"
                         ]
@@ -1292,36 +1292,36 @@
             },
             {
                 "sale_price": 19.74,
-                "pid": "2001311078",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01311078-01.jpg?sh=330",
+                "title": "Seamless Half-Zip Mock Neck Romper",
                 "brand": "Women",
                 "price": 24.99,
-                "title": "Seamless Half-Zip Mock Neck Romper",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01311078-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013110780102.html",
+                "pid": "2001311078",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01311078-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01311078-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "brown",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01311078-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "brown",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01311078-03.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/1_front_750/01311078-05.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb0fdfe09/sw_22/01311078-05.jpg"
                         ]
@@ -1330,27 +1330,27 @@
             },
             {
                 "sale_price": 35.54,
-                "pid": "2001334803",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01334803-01.jpg?sh=330",
+                "title": "Halter Bubble-Hem Mini Dress",
                 "brand": "Women",
                 "price": 44.99,
-                "title": "Halter Bubble-Hem Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01334803-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013348030101.html",
+                "pid": "2001334803",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01334803-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01334803-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01334803-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01334803-02.jpg"
                         ]
@@ -1359,18 +1359,18 @@
             },
             {
                 "sale_price": 31.59,
-                "pid": "2001347005",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01347005-01.jpg?sh=330",
+                "title": "Tiered Floral Tie-Back Mini Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Tiered Floral Tie-Back Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01347005-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013470050101.html",
+                "pid": "2001347005",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01347005-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01347005-01.jpg"
                         ]
@@ -1379,18 +1379,18 @@
             },
             {
                 "sale_price": 27.64,
-                "pid": "2001335998",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01335998-01.jpg?sh=330",
+                "title": "Ruched Two-Tone Mini Tube Dress",
                 "brand": "Women",
                 "price": 34.99,
-                "title": "Ruched Two-Tone Mini Tube Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01335998-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013359980101.html",
+                "pid": "2001335998",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01335998-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01335998-01.jpg"
                         ]
@@ -1399,27 +1399,27 @@
             },
             {
                 "sale_price": 23.69,
-                "pid": "2001336424",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336424-01.jpg?sh=330",
+                "title": "Sheer Lace Bodycon Mini Dress",
                 "brand": "Women",
                 "price": 29.99,
-                "title": "Sheer Lace Bodycon Mini Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336424-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364240101.html",
+                "pid": "2001336424",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336424-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01336424-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336424-03.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01336424-03.jpg"
                         ]
@@ -1428,27 +1428,27 @@
             },
             {
                 "sale_price": 31.59,
-                "pid": "2001336433",
+                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336433-01.jpg?sh=330",
+                "title": "Satin Sash Mini Tube Dress",
                 "brand": "Women",
                 "price": 39.99,
-                "title": "Satin Sash Mini Tube Dress",
-                "thumb_image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336433-01.jpg?sh=330",
                 "url": "https://www.forever21.com/us/20013364330101.html",
+                "pid": "2001336433",
                 "variants": [
                     {
-                        "sku_color_group": "black",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336433-01.jpg?sh=330"
                         ],
+                        "sku_color_group": "black",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01336433-01.jpg"
                         ]
                     },
                     {
-                        "sku_color_group": "red",
                         "sku_thumb_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/1_front_750/01336433-02.jpg?sh=330"
                         ],
+                        "sku_color_group": "red",
                         "sku_swatch_images": [
                             "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd56a9aa4/sw_22/01336433-02.jpg"
                         ]
@@ -1521,12 +1521,12 @@
                 "count": 284
             },
             {
-                "name": "green",
-                "count": 249
-            },
-            {
                 "name": "red",
                 "count": 158
+            },
+            {
+                "name": "green",
+                "count": 249
             },
             {
                 "name": "blue",
@@ -1564,35 +1564,35 @@
         "sizes": [
             {
                 "name": "xs",
-                "count": 1003
+                "count": 1005
             },
             {
                 "name": "s",
-                "count": 1515
+                "count": 1520
             },
             {
                 "name": "m",
-                "count": 1428
+                "count": 1434
             },
             {
                 "name": "l",
-                "count": 1231
+                "count": 1240
             },
             {
                 "name": "xl",
-                "count": 1028
+                "count": 1035
             },
             {
                 "name": "0x",
-                "count": 246
+                "count": 248
             },
             {
                 "name": "1x",
-                "count": 282
+                "count": 283
             },
             {
                 "name": "2x",
-                "count": 275
+                "count": 276
             },
             {
                 "name": "3x",
@@ -1656,7 +1656,7 @@
             },
             {
                 "name": "9/10",
-                "count": 55
+                "count": 54
             },
             {
                 "name": "11/12",
@@ -1718,31 +1718,35 @@
             },
             {
                 "name": "0015",
-                "count": 335
-            },
-            {
-                "name": "3542",
-                "count": 328
+                "count": 336
             },
             {
                 "name": "0735",
-                "count": 319
+                "count": 320
             },
             {
                 "name": "3526",
-                "count": 314
+                "count": 316
             },
             {
                 "name": "0078",
                 "count": 338
             },
             {
+                "name": "3542",
+                "count": 328
+            },
+            {
                 "name": "6008",
+                "count": 323
+            },
+            {
+                "name": "0784",
                 "count": 322
             },
             {
                 "name": "0200",
-                "count": 314
+                "count": 315
             },
             {
                 "name": "3527",
@@ -1750,11 +1754,11 @@
             },
             {
                 "name": "3511",
-                "count": 303
+                "count": 304
             },
             {
                 "name": "0791",
-                "count": 279
+                "count": 281
             },
             {
                 "name": "0751",
@@ -1762,67 +1766,51 @@
             },
             {
                 "name": "0480",
-                "count": 262
-            },
-            {
-                "name": "0784",
-                "count": 320
+                "count": 266
             },
             {
                 "name": "3538",
-                "count": 318
+                "count": 321
             },
             {
                 "name": "0362",
-                "count": 294
+                "count": 295
             },
             {
                 "name": "0370",
-                "count": 288
+                "count": 289
             },
             {
                 "name": "0066",
-                "count": 277
+                "count": 278
             },
             {
                 "name": "0789",
-                "count": 274
-            },
-            {
-                "name": "0453",
-                "count": 267
+                "count": 276
             },
             {
                 "name": "0106",
-                "count": 254
-            },
-            {
-                "name": "0707",
-                "count": 251
+                "count": 255
             },
             {
                 "name": "0771",
-                "count": 248
+                "count": 249
             },
             {
                 "name": "0449",
-                "count": 240
+                "count": 241
             },
             {
                 "name": "0020",
-                "count": 232
+                "count": 233
+            },
+            {
+                "name": "0627",
+                "count": 233
             },
             {
                 "name": "0425",
                 "count": 232
-            },
-            {
-                "name": "0627",
-                "count": 231
-            },
-            {
-                "name": "0382",
-                "count": 226
             },
             {
                 "name": "0136",
@@ -1834,39 +1822,35 @@
             },
             {
                 "name": "3532",
-                "count": 285
-            },
-            {
-                "name": "3524",
-                "count": 279
+                "count": 286
             },
             {
                 "name": "0093",
-                "count": 275
+                "count": 276
             },
             {
                 "name": "0713",
-                "count": 270
+                "count": 272
             },
             {
-                "name": "0144",
-                "count": 269
+                "name": "0453",
+                "count": 268
             },
             {
                 "name": "0779",
-                "count": 261
+                "count": 263
             },
             {
-                "name": "0061",
-                "count": 249
+                "name": "0707",
+                "count": 253
             },
             {
                 "name": "0744",
-                "count": 248
+                "count": 252
             },
             {
-                "name": "0762",
-                "count": 237
+                "name": "0061",
+                "count": 250
             },
             {
                 "name": "0718",
@@ -1874,11 +1858,15 @@
             },
             {
                 "name": "0796",
-                "count": 229
+                "count": 232
+            },
+            {
+                "name": "0382",
+                "count": 230
             },
             {
                 "name": "0472",
-                "count": 221
+                "count": 222
             },
             {
                 "name": "0059",
@@ -1894,31 +1882,31 @@
             },
             {
                 "name": "2149",
-                "count": 277
+                "count": 281
             },
             {
-                "name": "3525",
-                "count": 275
+                "name": "3524",
+                "count": 280
             },
             {
                 "name": "0759",
-                "count": 274
+                "count": 277
             },
             {
-                "name": "0799",
-                "count": 270
+                "name": "0144",
+                "count": 271
             },
             {
                 "name": "0758",
-                "count": 264
+                "count": 265
             },
             {
                 "name": "0156",
-                "count": 260
+                "count": 261
             },
             {
                 "name": "0334",
-                "count": 255
+                "count": 258
             },
             {
                 "name": "0207",
@@ -1926,14 +1914,18 @@
             },
             {
                 "name": "0752",
-                "count": 248
+                "count": 250
             },
             {
                 "name": "0731",
-                "count": 246
+                "count": 247
             },
             {
                 "name": "0420",
+                "count": 247
+            },
+            {
+                "name": "0414",
                 "count": 246
             },
             {
@@ -1941,23 +1933,19 @@
                 "count": 245
             },
             {
-                "name": "0414",
-                "count": 245
-            },
-            {
-                "name": "0358",
-                "count": 245
-            },
-            {
                 "name": "3541",
+                "count": 245
+            },
+            {
+                "name": "2130",
                 "count": 243
             },
             {
                 "name": "0774",
-                "count": 243
+                "count": 242
             },
             {
-                "name": "2130",
+                "name": "0069",
                 "count": 241
             },
             {
@@ -1969,76 +1957,84 @@
                 "count": 238
             },
             {
-                "name": "0069",
-                "count": 237
+                "name": "0762",
+                "count": 238
             },
             {
-                "name": "0360",
+                "name": "0089",
                 "count": 234
             },
             {
-                "name": "6011",
-                "count": 231
+                "name": "0783",
+                "count": 234
             },
             {
-                "name": "0783",
-                "count": 231
+                "name": "0360",
+                "count": 233
+            },
+            {
+                "name": "6011",
+                "count": 232
             },
             {
                 "name": "0260",
-                "count": 228
+                "count": 229
             },
             {
-                "name": "0115",
-                "count": 225
+                "name": "0435",
+                "count": 226
             },
             {
                 "name": "0396",
                 "count": 224
             },
             {
-                "name": "0435",
-                "count": 224
-            },
-            {
                 "name": "0366",
-                "count": 221
+                "count": 222
             },
             {
                 "name": "0465",
                 "count": 216
             },
             {
+                "name": "0231",
+                "count": 216
+            },
+            {
                 "name": "0097",
-                "count": 214
+                "count": 215
             },
             {
                 "name": "0681",
-                "count": 214
+                "count": 215
             },
             {
-                "name": "0231",
+                "name": "0628",
                 "count": 214
             },
             {
                 "name": "0397",
-                "count": 211
+                "count": 212
             },
             {
                 "name": "0316",
-                "count": 211
-            },
-            {
-                "name": "0773",
-                "count": 201
+                "count": 212
             },
             {
                 "name": "0615",
-                "count": 186
+                "count": 187
+            },
+            {
+                "name": "3525",
+                "count": 275
+            },
+            {
+                "name": "0799",
+                "count": 274
             },
             {
                 "name": "0418",
-                "count": 272
+                "count": 273
             },
             {
                 "name": "0394",
@@ -2050,10 +2046,18 @@
             },
             {
                 "name": "3002",
+                "count": 247
+            },
+            {
+                "name": "0358",
                 "count": 246
             },
             {
                 "name": "0459",
+                "count": 241
+            },
+            {
+                "name": "0485",
                 "count": 240
             },
             {
@@ -2061,55 +2065,51 @@
                 "count": 240
             },
             {
-                "name": "0485",
-                "count": 239
-            },
-            {
                 "name": "3531",
                 "count": 232
             },
             {
-                "name": "0089",
-                "count": 230
-            },
-            {
                 "name": "0412",
-                "count": 230
+                "count": 232
             },
             {
                 "name": "0440",
-                "count": 228
-            },
-            {
-                "name": "0626",
-                "count": 227
+                "count": 230
             },
             {
                 "name": "0234",
-                "count": 227
+                "count": 229
             },
             {
                 "name": "0055",
                 "count": 226
             },
             {
-                "name": "0283",
-                "count": 223
+                "name": "0354",
+                "count": 226
             },
             {
-                "name": "0354",
-                "count": 223
+                "name": "0115",
+                "count": 225
+            },
+            {
+                "name": "0283",
+                "count": 224
             },
             {
                 "name": "0431",
-                "count": 220
+                "count": 222
             },
             {
                 "name": "0109",
-                "count": 219
+                "count": 222
             },
             {
                 "name": "0024",
+                "count": 219
+            },
+            {
+                "name": "0277",
                 "count": 217
             },
             {
@@ -2117,44 +2117,24 @@
                 "count": 217
             },
             {
-                "name": "0277",
-                "count": 216
-            },
-            {
-                "name": "2118",
-                "count": 212
-            },
-            {
-                "name": "0628",
-                "count": 212
-            },
-            {
                 "name": "0421",
-                "count": 211
+                "count": 213
             },
             {
-                "name": "3534",
-                "count": 201
+                "name": "0773",
+                "count": 202
             },
             {
                 "name": "0112",
-                "count": 201
+                "count": 202
             },
             {
                 "name": "0194",
-                "count": 192
-            },
-            {
-                "name": "3505",
-                "count": 188
-            },
-            {
-                "name": "0375",
-                "count": 184
+                "count": 194
             },
             {
                 "name": "0727",
-                "count": 184
+                "count": 185
             },
             {
                 "name": "0753",
@@ -2162,163 +2142,159 @@
             },
             {
                 "name": "0445",
-                "count": 255
-            },
-            {
-                "name": "0743",
-                "count": 249
+                "count": 256
             },
             {
                 "name": "6006",
-                "count": 247
+                "count": 249
+            },
+            {
+                "name": "0743",
+                "count": 248
             },
             {
                 "name": "0176",
-                "count": 241
+                "count": 243
+            },
+            {
+                "name": "0766",
+                "count": 237
             },
             {
                 "name": "0742",
                 "count": 235
             },
             {
-                "name": "0766",
-                "count": 232
-            },
-            {
                 "name": "0087",
                 "count": 230
             },
             {
+                "name": "0626",
+                "count": 229
+            },
+            {
+                "name": "0081",
+                "count": 228
+            },
+            {
                 "name": "0712",
-                "count": 225
+                "count": 226
             },
             {
                 "name": "0749",
-                "count": 224
+                "count": 225
             },
             {
                 "name": "0714",
-                "count": 220
+                "count": 221
             },
             {
                 "name": "0219",
-                "count": 219
+                "count": 220
             },
             {
                 "name": "0134",
-                "count": 216
-            },
-            {
-                "name": "0732",
-                "count": 216
+                "count": 217
             },
             {
                 "name": "0165",
-                "count": 215
+                "count": 216
+            },
+            {
+                "name": "2118",
+                "count": 213
             },
             {
                 "name": "0150",
-                "count": 210
+                "count": 211
             },
             {
                 "name": "0172",
-                "count": 208
+                "count": 209
             },
             {
                 "name": "0772",
-                "count": 202
+                "count": 206
+            },
+            {
+                "name": "3534",
+                "count": 204
             },
             {
                 "name": "0282",
-                "count": 200
-            },
-            {
-                "name": "0679",
-                "count": 200
+                "count": 201
             },
             {
                 "name": "0188",
                 "count": 199
             },
             {
-                "name": "0297",
-                "count": 192
-            },
-            {
                 "name": "0478",
-                "count": 192
+                "count": 194
             },
             {
-                "name": "0315",
-                "count": 188
+                "name": "3505",
+                "count": 190
             },
             {
                 "name": "0079",
-                "count": 186
-            },
-            {
-                "name": "0276",
-                "count": 185
+                "count": 187
             },
             {
                 "name": "2190",
-                "count": 185
+                "count": 186
             },
             {
-                "name": "0232",
-                "count": 185
+                "name": "0375",
+                "count": 184
+            },
+            {
+                "name": "0276",
+                "count": 184
+            },
+            {
+                "name": "0609",
+                "count": 184
             },
             {
                 "name": "0446",
                 "count": 184
             },
             {
-                "name": "0609",
-                "count": 183
-            },
-            {
                 "name": "2193",
-                "count": 180
+                "count": 181
             },
             {
                 "name": "0013",
-                "count": 177
-            },
-            {
-                "name": "0733",
-                "count": 177
+                "count": 178
             },
             {
                 "name": "0228",
-                "count": 274
+                "count": 276
             },
             {
                 "name": "3529",
-                "count": 269
-            },
-            {
-                "name": "3515",
-                "count": 240
+                "count": 271
             },
             {
                 "name": "0040",
-                "count": 229
-            },
-            {
-                "name": "0081",
-                "count": 225
+                "count": 231
             },
             {
                 "name": "0775",
-                "count": 218
+                "count": 219
+            },
+            {
+                "name": "0732",
+                "count": 216
             },
             {
                 "name": "3510",
-                "count": 210
+                "count": 211
             },
             {
                 "name": "2187",
-                "count": 208
+                "count": 210
             },
             {
                 "name": "0776",
@@ -2329,20 +2305,20 @@
                 "count": 203
             },
             {
-                "name": "0790",
-                "count": 203
+                "name": "0679",
+                "count": 201
             },
             {
-                "name": "0239",
-                "count": 191
+                "name": "0297",
+                "count": 192
             },
             {
-                "name": "0736",
+                "name": "0315",
                 "count": 189
             },
             {
-                "name": "0236",
-                "count": 189
+                "name": "0232",
+                "count": 186
             },
             {
                 "name": "2153",
@@ -2350,10 +2326,14 @@
             },
             {
                 "name": "0416",
-                "count": 180
+                "count": 181
             },
             {
                 "name": "0398",
+                "count": 178
+            },
+            {
+                "name": "0757",
                 "count": 178
             },
             {
@@ -2361,11 +2341,15 @@
                 "count": 178
             },
             {
-                "name": "0786",
-                "count": 223
+                "name": "3515",
+                "count": 241
             },
             {
                 "name": "0132",
+                "count": 210
+            },
+            {
+                "name": "3506",
                 "count": 209
             },
             {
@@ -2373,108 +2357,120 @@
                 "count": 208
             },
             {
-                "name": "3506",
+                "name": "0255",
                 "count": 207
             },
             {
-                "name": "0255",
-                "count": 206
-            },
-            {
                 "name": "0028",
-                "count": 205
+                "count": 207
             },
             {
                 "name": "3004",
-                "count": 204
+                "count": 206
             },
             {
                 "name": "0424",
-                "count": 201
+                "count": 204
+            },
+            {
+                "name": "0790",
+                "count": 203
             },
             {
                 "name": "0205",
-                "count": 200
+                "count": 202
             },
             {
                 "name": "2121",
-                "count": 196
+                "count": 197
             },
             {
                 "name": "0665",
-                "count": 195
+                "count": 196
             },
             {
                 "name": "0318",
-                "count": 195
+                "count": 196
             },
             {
                 "name": "0332",
                 "count": 195
             },
             {
-                "name": "0261",
+                "name": "0236",
                 "count": 192
             },
             {
-                "name": "0436",
-                "count": 188
+                "name": "0239",
+                "count": 192
+            },
+            {
+                "name": "0261",
+                "count": 191
+            },
+            {
+                "name": "0736",
+                "count": 189
             },
             {
                 "name": "0322",
                 "count": 185
             },
             {
-                "name": "0793",
-                "count": 184
-            },
-            {
-                "name": "0726",
-                "count": 178
-            },
-            {
                 "name": "3540",
-                "count": 243
+                "count": 244
             },
             {
                 "name": "0785",
-                "count": 237
-            },
-            {
-                "name": "0143",
-                "count": 235
-            },
-            {
-                "name": "0636",
-                "count": 225
+                "count": 239
             },
             {
                 "name": "3509",
-                "count": 223
+                "count": 226
+            },
+            {
+                "name": "0786",
+                "count": 224
             },
             {
                 "name": "0192",
-                "count": 204
+                "count": 206
             },
             {
                 "name": "0469",
-                "count": 200
+                "count": 201
             },
             {
                 "name": "0770",
-                "count": 195
+                "count": 196
+            },
+            {
+                "name": "0436",
+                "count": 189
             },
             {
                 "name": "0340",
+                "count": 186
+            },
+            {
+                "name": "0793",
                 "count": 185
             },
             {
-                "name": "0720",
-                "count": 218
+                "name": "0726",
+                "count": 180
             },
             {
-                "name": "0135",
-                "count": 216
+                "name": "0143",
+                "count": 237
+            },
+            {
+                "name": "0636",
+                "count": 226
+            },
+            {
+                "name": "0720",
+                "count": 220
             },
             {
                 "name": "0311",
@@ -2482,7 +2478,7 @@
             },
             {
                 "name": "0717",
-                "count": 199
+                "count": 200
             },
             {
                 "name": "0761",
@@ -2498,7 +2494,11 @@
             },
             {
                 "name": "0302",
-                "count": 178
+                "count": 179
+            },
+            {
+                "name": "0135",
+                "count": 218
             },
             {
                 "name": "0723",
@@ -2510,7 +2510,7 @@
             },
             {
                 "name": "0183",
-                "count": 177
+                "count": 178
             }
         ],
         "category_id_list": [
@@ -2559,12 +2559,12 @@
                 "count": 317
             },
             {
-                "name": "dress_day",
-                "count": 284
-            },
-            {
                 "name": "dress_cami_slip",
                 "count": 225
+            },
+            {
+                "name": "dress_day",
+                "count": 284
             },
             {
                 "name": "dress_longsleeve",
@@ -2583,12 +2583,12 @@
                 "count": 157
             },
             {
-                "name": "dress_holiday",
-                "count": 130
-            },
-            {
                 "name": "dress_floral",
                 "count": 153
+            },
+            {
+                "name": "dress_holiday",
+                "count": 130
             },
             {
                 "name": "sweater_sweater_dresses",
@@ -3305,12 +3305,12 @@
                 "count": 270
             },
             {
-                "name": "Special Occasion",
-                "count": 272
-            },
-            {
                 "name": "Bodycon",
                 "count": 472
+            },
+            {
+                "name": "Special Occasion",
+                "count": 272
             },
             {
                 "name": "Sexy",
@@ -3329,12 +3329,16 @@
                 "count": 172
             },
             {
+                "name": "Plain",
+                "count": 116
+            },
+            {
                 "name": "Coquette",
                 "count": 81
             },
             {
-                "name": "Plain",
-                "count": 116
+                "name": "Solid",
+                "count": 103
             },
             {
                 "name": "Sparkle",
@@ -3343,10 +3347,6 @@
             {
                 "name": "Night Out",
                 "count": 172
-            },
-            {
-                "name": "Solid",
-                "count": 103
             },
             {
                 "name": "Homecoming",
@@ -3433,10 +3433,6 @@
                 "count": 105
             },
             {
-                "name": "Mini Dress",
-                "count": 104
-            },
-            {
                 "name": "Long Sleeve",
                 "count": 97
             },
@@ -3519,6 +3515,10 @@
             {
                 "name": "Resort",
                 "count": 123
+            },
+            {
+                "name": "Mini Dress",
+                "count": 104
             },
             {
                 "name": "Mothers Day",
@@ -4099,100 +4099,96 @@
         ],
         "inventory": [
             {
-                "name": "4",
-                "count": 188
-            },
-            {
-                "name": "39",
-                "count": 129
-            },
-            {
                 "name": "1",
-                "count": 245
+                "count": 286
             },
             {
-                "name": "14",
-                "count": 168
+                "name": "4",
+                "count": 193
+            },
+            {
+                "name": "10",
+                "count": 183
             },
             {
                 "name": "19",
-                "count": 162
+                "count": 164
             },
             {
                 "name": "26",
                 "count": 154
             },
             {
-                "name": "12",
-                "count": 191
-            },
-            {
-                "name": "10",
-                "count": 187
-            },
-            {
-                "name": "13",
-                "count": 180
+                "name": "39",
+                "count": 129
             },
             {
                 "name": "15",
                 "count": 173
             },
             {
-                "name": "6",
-                "count": 157
+                "name": "14",
+                "count": 172
             },
             {
-                "name": "22",
-                "count": 149
+                "name": "12",
+                "count": 191
             },
             {
-                "name": "30",
-                "count": 148
-            },
-            {
-                "name": "29",
-                "count": 147
-            },
-            {
-                "name": "62",
-                "count": 54
-            },
-            {
-                "name": "11",
+                "name": "13",
                 "count": 177
             },
             {
-                "name": "18",
-                "count": 165
-            },
-            {
-                "name": "9",
+                "name": "6",
                 "count": 163
             },
             {
                 "name": "24",
-                "count": 155
+                "count": 157
             },
             {
-                "name": "34",
-                "count": 139
+                "name": "22",
+                "count": 144
             },
             {
-                "name": "38",
-                "count": 125
-            },
-            {
-                "name": "40",
-                "count": 118
+                "name": "29",
+                "count": 144
             },
             {
                 "name": "47",
-                "count": 110
+                "count": 114
+            },
+            {
+                "name": "62",
+                "count": 50
+            },
+            {
+                "name": "11",
+                "count": 181
+            },
+            {
+                "name": "18",
+                "count": 164
+            },
+            {
+                "name": "30",
+                "count": 150
+            },
+            {
+                "name": "37",
+                "count": 132
+            },
+            {
+                "name": "38",
+                "count": 123
+            },
+            {
+                "name": "40",
+                "count": 122
             },
             {
                 "name": "45",
-                "count": 95
+                "count": 96
             },
             {
                 "name": "52",
@@ -4204,91 +4200,95 @@
             },
             {
                 "name": "20",
-                "count": 178
-            },
-            {
-                "name": "17",
-                "count": 162
-            },
-            {
-                "name": "21",
-                "count": 160
-            },
-            {
-                "name": "23",
-                "count": 146
-            },
-            {
-                "name": "27",
-                "count": 130
-            },
-            {
-                "name": "37",
-                "count": 129
-            },
-            {
-                "name": "36",
-                "count": 114
-            },
-            {
-                "name": "43",
-                "count": 85
-            },
-            {
-                "name": "80",
-                "count": 41
-            },
-            {
-                "name": "79",
-                "count": 39
+                "count": 179
             },
             {
                 "name": "5",
-                "count": 178
+                "count": 175
             },
             {
-                "name": "28",
-                "count": 149
+                "name": "16",
+                "count": 174
             },
             {
-                "name": "25",
-                "count": 145
+                "name": "9",
+                "count": 164
             },
             {
-                "name": "32",
-                "count": 140
+                "name": "21",
+                "count": 161
             },
             {
-                "name": "31",
-                "count": 135
+                "name": "23",
+                "count": 153
+            },
+            {
+                "name": "34",
+                "count": 141
             },
             {
                 "name": "35",
-                "count": 127
+                "count": 133
             },
             {
-                "name": "44",
-                "count": 81
+                "name": "27",
+                "count": 128
             },
             {
-                "name": "54",
-                "count": 78
+                "name": "36",
+                "count": 112
             },
             {
-                "name": "49",
-                "count": 73
-            },
-            {
-                "name": "69",
-                "count": 49
-            },
-            {
-                "name": "61",
-                "count": 46
+                "name": "43",
+                "count": 83
             },
             {
                 "name": "70",
-                "count": 45
+                "count": 47
+            },
+            {
+                "name": "80",
+                "count": 39
+            },
+            {
+                "name": "79",
+                "count": 37
+            },
+            {
+                "name": "101",
+                "count": 20
+            },
+            {
+                "name": "28",
+                "count": 155
+            },
+            {
+                "name": "25",
+                "count": 141
+            },
+            {
+                "name": "32",
+                "count": 138
+            },
+            {
+                "name": "31",
+                "count": 133
+            },
+            {
+                "name": "44",
+                "count": 85
+            },
+            {
+                "name": "49",
+                "count": 78
+            },
+            {
+                "name": "54",
+                "count": 77
+            },
+            {
+                "name": "69",
+                "count": 47
             },
             {
                 "name": "75",
@@ -4307,68 +4307,68 @@
                 "count": 22
             },
             {
-                "name": "101",
-                "count": 19
+                "name": "2",
+                "count": 181
             },
             {
                 "name": "7",
-                "count": 186
+                "count": 181
             },
             {
-                "name": "2",
-                "count": 183
+                "name": "17",
+                "count": 159
             },
             {
                 "name": "33",
-                "count": 113
+                "count": 106
             },
             {
                 "name": "41",
-                "count": 89
+                "count": 86
             },
             {
                 "name": "48",
-                "count": 85
-            },
-            {
-                "name": "46",
-                "count": 79
-            },
-            {
-                "name": "50",
-                "count": 79
-            },
-            {
-                "name": "51",
-                "count": 77
+                "count": 80
             },
             {
                 "name": "56",
-                "count": 75
+                "count": 78
+            },
+            {
+                "name": "50",
+                "count": 77
+            },
+            {
+                "name": "51",
+                "count": 76
+            },
+            {
+                "name": "60",
+                "count": 72
+            },
+            {
+                "name": "64",
+                "count": 68
             },
             {
                 "name": "59",
-                "count": 54
+                "count": 58
             },
             {
-                "name": "65",
-                "count": 43
+                "name": "61",
+                "count": 45
             },
             {
                 "name": "67",
-                "count": 42
+                "count": 43
             },
             {
                 "name": "66",
-                "count": 40
-            },
-            {
-                "name": "71",
-                "count": 36
+                "count": 39
             },
             {
                 "name": "90",
-                "count": 35
+                "count": 36
             },
             {
                 "name": "91",
@@ -4376,55 +4376,43 @@
             },
             {
                 "name": "83",
-                "count": 33
+                "count": 31
             },
             {
-                "name": "96",
-                "count": 29
-            },
-            {
-                "name": "89",
-                "count": 27
+                "name": "81",
+                "count": 28
             },
             {
                 "name": "92",
                 "count": 27
             },
             {
-                "name": "81",
-                "count": 24
+                "name": "96",
+                "count": 27
+            },
+            {
+                "name": "89",
+                "count": 26
             },
             {
                 "name": "108",
-                "count": 24
+                "count": 25
             },
             {
                 "name": "97",
-                "count": 18
+                "count": 20
             },
             {
                 "name": "117",
                 "count": 17
             },
             {
-                "name": "121",
-                "count": 13
-            },
-            {
-                "name": "140",
-                "count": 12
-            },
-            {
-                "name": "127",
-                "count": 10
-            },
-            {
                 "name": "153",
                 "count": 10
             },
             {
-                "name": "118",
-                "count": 9
+                "name": "156",
+                "count": 10
             },
             {
                 "name": "147",
@@ -4439,56 +4427,56 @@
                 "count": 6
             },
             {
-                "name": "184",
-                "count": 4
-            },
-            {
                 "name": "173",
                 "count": 3
             },
             {
+                "name": "185",
+                "count": 3
+            },
+            {
                 "name": "3",
-                "count": 175
+                "count": 174
             },
             {
-                "name": "16",
-                "count": 173
-            },
-            {
-                "name": "60",
-                "count": 71
-            },
-            {
-                "name": "64",
-                "count": 69
+                "name": "46",
+                "count": 74
             },
             {
                 "name": "53",
-                "count": 63
+                "count": 62
             },
             {
                 "name": "78",
-                "count": 60
-            },
-            {
-                "name": "57",
                 "count": 57
             },
             {
+                "name": "57",
+                "count": 56
+            },
+            {
                 "name": "72",
-                "count": 54
+                "count": 53
             },
             {
                 "name": "63",
-                "count": 50
+                "count": 52
+            },
+            {
+                "name": "65",
+                "count": 46
             },
             {
                 "name": "84",
-                "count": 39
+                "count": 41
             },
             {
                 "name": "82",
                 "count": 37
+            },
+            {
+                "name": "71",
+                "count": 36
             },
             {
                 "name": "73",
@@ -4496,11 +4484,11 @@
             },
             {
                 "name": "85",
-                "count": 35
+                "count": 34
             },
             {
                 "name": "93",
-                "count": 26
+                "count": 25
             },
             {
                 "name": "99",
@@ -4508,10 +4496,10 @@
             },
             {
                 "name": "94",
-                "count": 20
+                "count": 22
             },
             {
-                "name": "95",
+                "name": "120",
                 "count": 20
             },
             {
@@ -4519,16 +4507,12 @@
                 "count": 20
             },
             {
-                "name": "102",
-                "count": 20
-            },
-            {
-                "name": "120",
+                "name": "105",
                 "count": 19
             },
             {
-                "name": "105",
-                "count": 17
+                "name": "95",
+                "count": 18
             },
             {
                 "name": "112",
@@ -4536,14 +4520,26 @@
             },
             {
                 "name": "124",
+                "count": 14
+            },
+            {
+                "name": "115",
                 "count": 12
             },
             {
-                "name": "116",
+                "name": "140",
+                "count": 12
+            },
+            {
+                "name": "119",
                 "count": 11
             },
             {
-                "name": "156",
+                "name": "121",
+                "count": 11
+            },
+            {
+                "name": "139",
                 "count": 10
             },
             {
@@ -4551,12 +4547,16 @@
                 "count": 9
             },
             {
-                "name": "169",
-                "count": 8
+                "name": "118",
+                "count": 9
+            },
+            {
+                "name": "127",
+                "count": 9
             },
             {
                 "name": "135",
-                "count": 7
+                "count": 8
             },
             {
                 "name": "142",
@@ -4567,20 +4567,32 @@
                 "count": 7
             },
             {
-                "name": "136",
-                "count": 5
+                "name": "169",
+                "count": 7
+            },
+            {
+                "name": "128",
+                "count": 6
             },
             {
                 "name": "148",
-                "count": 5
+                "count": 6
             },
             {
-                "name": "150",
+                "name": "122",
                 "count": 5
             },
             {
                 "name": "167",
                 "count": 5
+            },
+            {
+                "name": "136",
+                "count": 4
+            },
+            {
+                "name": "150",
+                "count": 4
             },
             {
                 "name": "161",
@@ -4591,19 +4603,23 @@
                 "count": 4
             },
             {
-                "name": "298",
-                "count": 4
-            },
-            {
-                "name": "186",
-                "count": 4
-            },
-            {
                 "name": "232",
                 "count": 3
             },
             {
+                "name": "298",
+                "count": 3
+            },
+            {
+                "name": "186",
+                "count": 3
+            },
+            {
                 "name": "202",
+                "count": 3
+            },
+            {
+                "name": "207",
                 "count": 3
             },
             {
@@ -4612,7 +4628,7 @@
             },
             {
                 "name": "42",
-                "count": 114
+                "count": 117
             },
             {
                 "name": "58",
@@ -4624,26 +4640,30 @@
             },
             {
                 "name": "68",
-                "count": 44
+                "count": 45
             },
             {
                 "name": "77",
-                "count": 31
+                "count": 33
             },
             {
                 "name": "86",
-                "count": 21
+                "count": 23
             },
             {
-                "name": "107",
-                "count": 21
-            },
-            {
-                "name": "87",
+                "name": "102",
                 "count": 20
             },
             {
+                "name": "87",
+                "count": 19
+            },
+            {
                 "name": "106",
+                "count": 19
+            },
+            {
+                "name": "107",
                 "count": 19
             },
             {
@@ -4652,7 +4672,7 @@
             },
             {
                 "name": "100",
-                "count": 18
+                "count": 17
             },
             {
                 "name": "104",
@@ -4660,26 +4680,30 @@
             },
             {
                 "name": "109",
-                "count": 17
+                "count": 16
+            },
+            {
+                "name": "110",
+                "count": 15
             },
             {
                 "name": "111",
                 "count": 15
             },
             {
-                "name": "110",
-                "count": 14
-            },
-            {
-                "name": "115",
-                "count": 13
-            },
-            {
                 "name": "103",
-                "count": 13
+                "count": 12
+            },
+            {
+                "name": "116",
+                "count": 11
             },
             {
                 "name": "123",
+                "count": 11
+            },
+            {
+                "name": "131",
                 "count": 11
             },
             {
@@ -4687,35 +4711,19 @@
                 "count": 11
             },
             {
-                "name": "119",
-                "count": 10
-            },
-            {
                 "name": "126",
                 "count": 10
             },
             {
-                "name": "139",
-                "count": 10
-            },
-            {
-                "name": "125",
+                "name": "154",
                 "count": 9
             },
             {
-                "name": "131",
-                "count": 9
-            },
-            {
-                "name": "134",
-                "count": 9
-            },
-            {
-                "name": "129",
+                "name": "130",
                 "count": 8
             },
             {
-                "name": "154",
+                "name": "133",
                 "count": 8
             },
             {
@@ -4723,31 +4731,31 @@
                 "count": 8
             },
             {
-                "name": "130",
+                "name": "125",
                 "count": 7
             },
             {
-                "name": "132",
+                "name": "129",
                 "count": 7
             },
             {
-                "name": "133",
+                "name": "134",
                 "count": 7
-            },
-            {
-                "name": "249",
-                "count": 6
             },
             {
                 "name": "152",
                 "count": 6
             },
             {
-                "name": "178",
+                "name": "177",
                 "count": 6
             },
             {
-                "name": "128",
+                "name": "249",
+                "count": 5
+            },
+            {
+                "name": "132",
                 "count": 5
             },
             {
@@ -4763,11 +4771,19 @@
                 "count": 5
             },
             {
-                "name": "122",
+                "name": "251",
+                "count": 4
+            },
+            {
+                "name": "137",
                 "count": 4
             },
             {
                 "name": "155",
+                "count": 4
+            },
+            {
+                "name": "162",
                 "count": 4
             },
             {
@@ -4779,19 +4795,23 @@
                 "count": 4
             },
             {
+                "name": "170",
+                "count": 4
+            },
+            {
                 "name": "171",
                 "count": 4
             },
             {
-                "name": "177",
+                "name": "299",
+                "count": 4
+            },
+            {
+                "name": "178",
                 "count": 4
             },
             {
                 "name": "183",
-                "count": 4
-            },
-            {
-                "name": "208",
                 "count": 4
             },
             {
@@ -4807,15 +4827,11 @@
                 "count": 3
             },
             {
-                "name": "251",
-                "count": 3
-            },
-            {
                 "name": "252",
                 "count": 3
             },
             {
-                "name": "137",
+                "name": "260",
                 "count": 3
             },
             {
@@ -4827,7 +4843,7 @@
                 "count": 3
             },
             {
-                "name": "158",
+                "name": "273",
                 "count": 3
             },
             {
@@ -4835,23 +4851,11 @@
                 "count": 3
             },
             {
-                "name": "162",
-                "count": 3
-            },
-            {
-                "name": "163",
-                "count": 3
-            },
-            {
-                "name": "170",
-                "count": 3
-            },
-            {
                 "name": "175",
                 "count": 3
             },
             {
-                "name": "299",
+                "name": "188",
                 "count": 3
             },
             {
@@ -4875,7 +4879,7 @@
                 "count": 3
             },
             {
-                "name": "236",
+                "name": "235",
                 "count": 2
             },
             {
@@ -4887,15 +4891,11 @@
                 "count": 2
             },
             {
+                "name": "256",
+                "count": 2
+            },
+            {
                 "name": "258",
-                "count": 2
-            },
-            {
-                "name": "380",
-                "count": 2
-            },
-            {
-                "name": "260",
                 "count": 2
             }
         ],
@@ -4910,10 +4910,6 @@
             }
         ],
         "sku_num": [
-            {
-                "name": "00465870",
-                "count": 1
-            },
             {
                 "name": "00472369",
                 "count": 1
@@ -5204,6 +5200,10 @@
             },
             {
                 "name": "00465628",
+                "count": 1
+            },
+            {
+                "name": "00465870",
                 "count": 1
             },
             {
@@ -5737,10 +5737,6 @@
                 "count": 34
             },
             {
-                "name": "Holiday",
-                "count": 28
-            },
-            {
                 "name": "Rhinestone",
                 "count": 28
             },
@@ -5779,6 +5775,10 @@
             {
                 "name": "Lace",
                 "count": 35
+            },
+            {
+                "name": "Holiday",
+                "count": 28
             },
             {
                 "name": "Check/Plaid",
@@ -6045,6 +6045,10 @@
                 "count": 27
             },
             {
+                "name": "105.0",
+                "count": 21
+            },
+            {
                 "name": "97.0",
                 "count": 19
             },
@@ -6075,10 +6079,6 @@
             {
                 "name": "167.0",
                 "count": 22
-            },
-            {
-                "name": "105.0",
-                "count": 21
             },
             {
                 "name": "162.0",
@@ -6961,6 +6961,10 @@
                 "count": 16
             },
             {
+                "name": "Ity",
+                "count": 11
+            },
+            {
                 "name": "Velour",
                 "count": 6
             },
@@ -7015,10 +7019,6 @@
             {
                 "name": "Rayon Linen",
                 "count": 13
-            },
-            {
-                "name": "Ity",
-                "count": 11
             },
             {
                 "name": "Slinky",
@@ -7249,6 +7249,10 @@
                 "count": 18
             },
             {
+                "name": "2.0240718E7",
+                "count": 17
+            },
+            {
                 "name": "2.0240919E7",
                 "count": 17
             },
@@ -7282,10 +7286,6 @@
             },
             {
                 "name": "2.0240515E7",
-                "count": 17
-            },
-            {
-                "name": "2.0240718E7",
                 "count": 17
             },
             {
@@ -8445,16 +8445,16 @@
                 "count": 17
             },
             {
-                "name": "8",
-                "count": 13
-            },
-            {
                 "name": "5",
                 "count": 39
             },
             {
                 "name": "6",
                 "count": 27
+            },
+            {
+                "name": "8",
+                "count": 13
             },
             {
                 "name": "10",
@@ -8614,23 +8614,23 @@
         "sku_size": [
             {
                 "name": "s",
-                "count": 1515
+                "count": 1520
             },
             {
                 "name": "m",
-                "count": 1428
+                "count": 1434
             },
             {
                 "name": "l",
-                "count": 1231
+                "count": 1240
             },
             {
                 "name": "xl",
-                "count": 1028
+                "count": 1035
             },
             {
                 "name": "xs",
-                "count": 1003
+                "count": 1005
             },
             {
                 "name": "3x",
@@ -8638,15 +8638,15 @@
             },
             {
                 "name": "1x",
-                "count": 282
+                "count": 283
             },
             {
                 "name": "2x",
-                "count": 275
+                "count": 276
             },
             {
                 "name": "0x",
-                "count": 246
+                "count": 248
             },
             {
                 "name": "4x",
@@ -8666,7 +8666,7 @@
             },
             {
                 "name": "9/10",
-                "count": 55
+                "count": 54
             },
             {
                 "name": "5/6",

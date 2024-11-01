@@ -1,0 +1,422 @@
+{
+    "product": {
+        "BackorderedQuantity": 0,
+        "BaseCatalogName": null,
+        "Brand": "F21",
+        "BrandCode": null,
+        "CatalogLangOId": null,
+        "CatalogLangTimestamp": null,
+        "CatalogName": null,
+        "CatalogProductType": null,
+        "CatalogRowNum": 0,
+        "CategoryName": "dress",
+        "CategoryPath": "WOMEN|CLOTHING|DRESSES",
+        "CategoryIdPath": "WOMEN_MAIN|APP_MAIN|DRESS",
+        "ClassType": "8",
+        "ComingSoon": false,
+        "CustomerNote": null,
+        "DataInfomation": null,
+        "DefinitionName": null,
+        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+        "DescriptionOfDeal": null,
+        "DisplayName": "Sequin Christmas Tree Dress",
+        "DynamicCategoryWhereClause": null,
+        "ExpiryDate": null,
+        "ExportReady": null,
+        "FilterOption": null,
+        "FinalSale": true,
+        "FreeShippingDescription": null,
+        "GiftCardPrice": null,
+        "GiftCardType": null,
+        "HasSizeCodeOfUS": null,
+        "HideColorSwatch": null,
+        "ImageFilename": "00466720-03.jpg",
+        "Inserted": null,
+        "IntroductionDate": "2022-11-02T00:00:00",
+        "InventoryCondition": null,
+        "IsAvailableStudentDeal": false,
+        "IsOOS": false,
+        "IsReturnable": false,
+        "IsGWP": false,
+        "IsSearchable": null,
+        "IsShoes": null,
+        "ItemAttr": "N",
+        "ItemAttr10": 4,
+        "ItemAttr11": "",
+        "ItemAttr12": "N",
+        "ItemAttr13": "",
+        "ItemAttr14": "",
+        "ItemAttr15": "",
+        "ItemAttr16": "N",
+        "Prop65Text": null,
+        "ItemAttr17": "",
+        "ItemAttr18": "",
+        "ItemAttr19": "0",
+        "ItemAttr2": "",
+        "ItemAttr20": "",
+        "ItemAttr3": "",
+        "ItemAttr4": "",
+        "ItemAttr5": "",
+        "ItemAttr6": "",
+        "ItemAttr7": "",
+        "ItemAttr8": "",
+        "ItemAttr9": 0,
+        "ItemCode": "00466720",
+        "ItemImageFolder": null,
+        "ItemTag": null,
+        "ItemTag2": "brand_detail_tag_0",
+        "ItemTag2Text": null,
+        "ItemTag3": "web_exclusive",
+        "ItemTag3Text": null,
+        "ItemTag4": "",
+        "ItemTag4Text": null,
+        "ItemTag5": "top_tag_webex",
+        "ItemTag5Text": null,
+        "ItemTagText": null,
+        "ItemsPerRow": null,
+        "LastModified": null,
+        "ListPrice": 28.0,
+        "MeasurementInfo": null,
+        "Memo": null,
+        "MoreColors": null,
+        "OId": 0,
+        "OnHandQuantity": 0,
+        "OnSale": true,
+        "OnSaleVariants": null,
+        "OrigCategoryName": null,
+        "OrigProductId": null,
+        "OrigVariantId": null,
+        "OriginalPrice": 34.99,
+        "ComparablePrice": null,
+        "ComparablePricePercent": null,
+        "PagingAttr": null,
+        "ParentOId": 0,
+        "Point": null,
+        "PreorderedQuantity": 0,
+        "PrimaryParentCategory": "dress",
+        "ProductColor": null,
+        "ProductId": "2000466720",
+        "ProductShareLinkUrl": "https://www.forever21.com/us/2000466720.html",
+        "ProductSize": null,
+        "ProductSizeChart": null,
+        "RackKind": null,
+        "RepColorCode": "03",
+        "RepSizeCode": null,
+        "SaleRate": null,
+        "ServerName": null,
+        "SizeChartCode": null,
+        "SortOrder": null,
+        "Status": null,
+        "StudentDealDescription": null,
+        "StudentDealTitle": null,
+        "StudentDealUrl": null,
+        "TimeStamp": null,
+        "UseCategoryPricing": null,
+        "VariantId": "0301",
+        "Variants": [
+            {
+                "ColorId": "02",
+                "ColorName": "GREEN/RED",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": false,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": false,
+                                "ats": 0.0,
+                                "stock_level": 0.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 39.0,
+                                "stock_level": 39.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": false,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": false,
+                                "ats": 0.0,
+                                "stock_level": 0.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": false,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": false,
+                                "ats": 0.0,
+                                "stock_level": 0.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": false,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": false,
+                                "ats": 0.0,
+                                "stock_level": 0.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4b6bdd77/1_front_750/00466720-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4b6bdd77/1_front_750/00466720-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw80cf8ad4/2_side_750/00466720-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4c76bded/3_back_750/00466720-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw22995e13/4_full_750/00466720-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwa2ad182e/5_detail_750/00466720-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8457d56d/6_flat_750/00466720-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwcc7435ba/7_additional_750/00466720-02.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw32d64da4/sw_22/00466720-02.jpg"
+            },
+            {
+                "ColorId": "03",
+                "ColorName": "GREEN/MULTI",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 116.0,
+                                "stock_level": 116.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 269.0,
+                                "stock_level": 269.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 232.0,
+                                "stock_level": 232.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 153.0,
+                                "stock_level": 153.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Sequin Christmas Tree Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content > p {  color: #888;  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">Get into the holiday spirit with this knit mini dress featuring a Christmas tree themed design, complete with allover sequins, ball and bow accents, tinsel trim at the hem, straight neckline, adjustable cami straps, and a concealed back zipper.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 116.0,
+                                "stock_level": 116.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe2ae83c8/1_front_750/00466720-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe2ae83c8/1_front_750/00466720-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw29a813a7/2_side_750/00466720-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw8fb9d062/3_back_750/00466720-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd5999707/4_full_750/00466720-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw41f308ad/5_detail_750/00466720-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw1d3ae712/6_flat_750/00466720-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwdd8d3c3e/7_additional_750/00466720-03.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw700ebbc5/sw_22/00466720-03.jpg"
+            }
+        ],
+        "WHCategoryCode": null,
+        "CategoryClass1": null,
+        "CategoryClass2": null,
+        "Weight": 12.0,
+        "Rank": null,
+        "DefaultProductImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4b6bdd77/1_front_750/00466720-03.jpg",
+        "Promotions": [
+            {
+                "PromotionId": "EVERGREEN: Free Ship $50+",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/EVERGREEN:%20Free%20Ship%20$50+?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            },
+            {
+                "PromotionId": "dummy_no_promo_exclusion_message",
+                "PromotionType": "product_promotion",
+                "Message": "Excluded from Promotions",
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/dummy_no_promo_exclusion_message?inventory_ids=forever21",
+                "PromotionPrice": 28.0
+            },
+            {
+                "PromotionId": "promo_hk_gwp_50_spend",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_hk_gwp_50_spend?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            }
+        ],
+        "IsDonation": false,
+        "Set": false,
+        "Set_products": null,
+        "Set_images": null,
+        "LicensedProduct": false,
+        "RecommendationSizeType": null,
+        "RecommendationSizeId": null,
+        "RecommendationSizeLink": null
+    },
+    "result": true,
+    "code": "00",
+    "errorMessage": "",
+    "errorDetails": null,
+    "authorization": "",
+    "customerId": null,
+    "sfccAuthorizations": null,
+    "ReturnCode": null,
+    "ErrorMessage": null,
+    "ReturnMessage": null
+}

@@ -1,0 +1,460 @@
+{
+    "product": {
+        "BackorderedQuantity": 0,
+        "BaseCatalogName": null,
+        "Brand": "F21",
+        "BrandCode": null,
+        "CatalogLangOId": null,
+        "CatalogLangTimestamp": null,
+        "CatalogName": null,
+        "CatalogProductType": null,
+        "CatalogRowNum": 0,
+        "CategoryName": "dress",
+        "CategoryPath": "WOMEN|CLOTHING|DRESSES",
+        "CategoryIdPath": "WOMEN_MAIN|APP_MAIN|DRESS",
+        "ClassType": "8",
+        "ComingSoon": false,
+        "CustomerNote": null,
+        "DataInfomation": null,
+        "DefinitionName": null,
+        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+        "DescriptionOfDeal": null,
+        "DisplayName": "Sequin Mini Dress",
+        "DynamicCategoryWhereClause": null,
+        "ExpiryDate": null,
+        "ExportReady": null,
+        "FilterOption": null,
+        "FinalSale": true,
+        "FreeShippingDescription": null,
+        "GiftCardPrice": null,
+        "GiftCardType": null,
+        "HasSizeCodeOfUS": null,
+        "HideColorSwatch": null,
+        "ImageFilename": "00472989-04.jpg",
+        "Inserted": null,
+        "IntroductionDate": "2023-11-06T00:00:00",
+        "InventoryCondition": null,
+        "IsAvailableStudentDeal": false,
+        "IsOOS": false,
+        "IsReturnable": false,
+        "IsGWP": false,
+        "IsSearchable": null,
+        "IsShoes": null,
+        "ItemAttr": "N",
+        "ItemAttr10": 4,
+        "ItemAttr11": "",
+        "ItemAttr12": "N",
+        "ItemAttr13": "",
+        "ItemAttr14": "",
+        "ItemAttr15": "",
+        "ItemAttr16": "Y",
+        "Prop65Text": "WARNING: This product can expose you to chemicals, including lead, phthalates, bisphenol A (BPA), titanium dioxide or Diethanolamine (DEA), which are known to the State of California to cause cancer or reproductive harm. For more information go to \nwww.p65Warnings.ca.gov",
+        "ItemAttr17": "",
+        "ItemAttr18": "",
+        "ItemAttr19": "0",
+        "ItemAttr2": "",
+        "ItemAttr20": "",
+        "ItemAttr3": "",
+        "ItemAttr4": "",
+        "ItemAttr5": "",
+        "ItemAttr6": "",
+        "ItemAttr7": "",
+        "ItemAttr8": "",
+        "ItemAttr9": 0,
+        "ItemCode": "00472989",
+        "ItemImageFolder": null,
+        "ItemTag": null,
+        "ItemTag2": "brand_detail_tag_0",
+        "ItemTag2Text": null,
+        "ItemTag3": null,
+        "ItemTag3Text": null,
+        "ItemTag4": "",
+        "ItemTag4Text": null,
+        "ItemTag5": null,
+        "ItemTag5Text": null,
+        "ItemTagText": null,
+        "ItemsPerRow": null,
+        "LastModified": null,
+        "ListPrice": 28.0,
+        "MeasurementInfo": null,
+        "Memo": null,
+        "MoreColors": null,
+        "OId": 0,
+        "OnHandQuantity": 0,
+        "OnSale": true,
+        "OnSaleVariants": null,
+        "OrigCategoryName": null,
+        "OrigProductId": null,
+        "OrigVariantId": null,
+        "OriginalPrice": 34.99,
+        "ComparablePrice": null,
+        "ComparablePricePercent": null,
+        "PagingAttr": null,
+        "ParentOId": 0,
+        "Point": null,
+        "PreorderedQuantity": 0,
+        "PrimaryParentCategory": "dress",
+        "ProductColor": null,
+        "ProductId": "2000472989",
+        "ProductShareLinkUrl": "https://www.forever21.com/us/2000472989.html",
+        "ProductSize": null,
+        "ProductSizeChart": null,
+        "RackKind": null,
+        "RepColorCode": "04",
+        "RepSizeCode": null,
+        "SaleRate": null,
+        "ServerName": null,
+        "SizeChartCode": null,
+        "SortOrder": null,
+        "Status": null,
+        "StudentDealDescription": null,
+        "StudentDealTitle": null,
+        "StudentDealUrl": null,
+        "TimeStamp": null,
+        "UseCategoryPricing": null,
+        "VariantId": "0401",
+        "Variants": [
+            {
+                "ColorId": "03",
+                "ColorName": "SILVER",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 86.0,
+                                "stock_level": 86.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 215.0,
+                                "stock_level": 215.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 215.0,
+                                "stock_level": 215.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 129.0,
+                                "stock_level": 129.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 86.0,
+                                "stock_level": 86.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "06",
+                        "SizeName": "XXL",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 43.0,
+                                "stock_level": 43.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwcbcdcb76/1_front_750/00472989-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwcbcdcb76/1_front_750/00472989-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw0673016e/2_side_750/00472989-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwa8a23698/3_back_750/00472989-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwbea5f678/4_full_750/00472989-03.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw352f83a4/5_detail_750/00472989-03.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4ed033f8/sw_22/00472989-03.jpg"
+            },
+            {
+                "ColorId": "04",
+                "ColorName": "BLACK",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 100.0,
+                                "stock_level": 100.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 229.0,
+                                "stock_level": 229.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 250.0,
+                                "stock_level": 250.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 150.0,
+                                "stock_level": 150.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 100.0,
+                                "stock_level": 100.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 28.0,
+                        "SizeId": "06",
+                        "SizeName": "XXL",
+                        "DisplayName": "Sequin Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A knit mini dress featuring allover sequin embellishments, a plunging V-neckline, long dolman sleeves, concealed back zipper, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- Shell: 96% polyester, 4% spandex</p><p>- Lining: 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 50.0,
+                                "stock_level": 50.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf11f3eef/1_front_750/00472989-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf11f3eef/1_front_750/00472989-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw71c5eaaa/2_side_750/00472989-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw3d730f14/3_back_750/00472989-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe6c7b8ca/4_full_750/00472989-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb093a399/5_detail_750/00472989-04.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw91da2328/sw_22/00472989-04.jpg"
+            }
+        ],
+        "WHCategoryCode": null,
+        "CategoryClass1": null,
+        "CategoryClass2": null,
+        "Weight": 8.0,
+        "Rank": null,
+        "DefaultProductImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw359a83fb/1_front_750/00472989-04.jpg",
+        "Promotions": [
+            {
+                "PromotionId": "EVERGREEN: Free Ship $50+",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/EVERGREEN:%20Free%20Ship%20$50+?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            },
+            {
+                "PromotionId": "promo_clearance_online_extra25_messaging_only",
+                "PromotionType": "product_promotion",
+                "Message": "Extra 25% Off Sale I Code: Extra25",
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_clearance_online_extra25_messaging_only?inventory_ids=forever21",
+                "PromotionPrice": 28.0
+            },
+            {
+                "PromotionId": "promo_hk_gwp_50_spend",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_hk_gwp_50_spend?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            }
+        ],
+        "IsDonation": false,
+        "Set": false,
+        "Set_products": null,
+        "Set_images": null,
+        "LicensedProduct": false,
+        "RecommendationSizeType": "Extended Sizes",
+        "RecommendationSizeId": "2000472369",
+        "RecommendationSizeLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/products/2000472369?inventory_ids=forever21"
+    },
+    "result": true,
+    "code": "00",
+    "errorMessage": "",
+    "errorDetails": null,
+    "authorization": "",
+    "customerId": null,
+    "sfccAuthorizations": null,
+    "ReturnCode": null,
+    "ErrorMessage": null,
+    "ReturnMessage": null
+}

@@ -1,0 +1,418 @@
+{
+    "product": {
+        "BackorderedQuantity": 0,
+        "BaseCatalogName": null,
+        "Brand": "F21",
+        "BrandCode": null,
+        "CatalogLangOId": null,
+        "CatalogLangTimestamp": null,
+        "CatalogName": null,
+        "CatalogProductType": null,
+        "CatalogRowNum": 0,
+        "CategoryName": "dress",
+        "CategoryPath": "WOMEN|CLOTHING|DRESSES",
+        "CategoryIdPath": "WOMEN_MAIN|APP_MAIN|DRESS",
+        "ClassType": "8",
+        "ComingSoon": false,
+        "CustomerNote": null,
+        "DataInfomation": null,
+        "DefinitionName": null,
+        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+        "DescriptionOfDeal": null,
+        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+        "DynamicCategoryWhereClause": null,
+        "ExpiryDate": null,
+        "ExportReady": null,
+        "FilterOption": null,
+        "FinalSale": false,
+        "FreeShippingDescription": null,
+        "GiftCardPrice": null,
+        "GiftCardType": null,
+        "HasSizeCodeOfUS": null,
+        "HideColorSwatch": null,
+        "ImageFilename": "00501299-04.jpg",
+        "Inserted": null,
+        "IntroductionDate": "2023-10-23T00:00:00",
+        "InventoryCondition": null,
+        "IsAvailableStudentDeal": false,
+        "IsOOS": false,
+        "IsReturnable": false,
+        "IsGWP": false,
+        "IsSearchable": null,
+        "IsShoes": null,
+        "ItemAttr": "N",
+        "ItemAttr10": 4,
+        "ItemAttr11": "",
+        "ItemAttr12": "N",
+        "ItemAttr13": "",
+        "ItemAttr14": "",
+        "ItemAttr15": "",
+        "ItemAttr16": "N",
+        "Prop65Text": null,
+        "ItemAttr17": "",
+        "ItemAttr18": "",
+        "ItemAttr19": "0",
+        "ItemAttr2": "",
+        "ItemAttr20": "",
+        "ItemAttr3": "",
+        "ItemAttr4": "",
+        "ItemAttr5": "",
+        "ItemAttr6": "",
+        "ItemAttr7": "",
+        "ItemAttr8": "",
+        "ItemAttr9": 0,
+        "ItemCode": "00501299",
+        "ItemImageFolder": null,
+        "ItemTag": null,
+        "ItemTag2": "brand_detail_tag_0",
+        "ItemTag2Text": null,
+        "ItemTag3": "web_exclusive",
+        "ItemTag3Text": null,
+        "ItemTag4": "",
+        "ItemTag4Text": null,
+        "ItemTag5": "top_tag_webex",
+        "ItemTag5Text": null,
+        "ItemTagText": null,
+        "ItemsPerRow": null,
+        "LastModified": null,
+        "ListPrice": 35.54,
+        "MeasurementInfo": null,
+        "Memo": null,
+        "MoreColors": null,
+        "OId": 0,
+        "OnHandQuantity": 0,
+        "OnSale": true,
+        "OnSaleVariants": null,
+        "OrigCategoryName": null,
+        "OrigProductId": null,
+        "OrigVariantId": null,
+        "OriginalPrice": 44.99,
+        "ComparablePrice": null,
+        "ComparablePricePercent": null,
+        "PagingAttr": null,
+        "ParentOId": 0,
+        "Point": null,
+        "PreorderedQuantity": 0,
+        "PrimaryParentCategory": "dress",
+        "ProductColor": null,
+        "ProductId": "2000501299",
+        "ProductShareLinkUrl": "https://www.forever21.com/us/2000501299.html",
+        "ProductSize": null,
+        "ProductSizeChart": null,
+        "RackKind": null,
+        "RepColorCode": "04",
+        "RepSizeCode": null,
+        "SaleRate": null,
+        "ServerName": null,
+        "SizeChartCode": null,
+        "SortOrder": null,
+        "Status": null,
+        "StudentDealDescription": null,
+        "StudentDealTitle": null,
+        "StudentDealUrl": null,
+        "TimeStamp": null,
+        "UseCategoryPricing": null,
+        "VariantId": "0401",
+        "Variants": [
+            {
+                "ColorId": "01",
+                "ColorName": "IVORY",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 32.0,
+                                "stock_level": 32.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 96.0,
+                                "stock_level": 96.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 83.0,
+                                "stock_level": 83.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 46.0,
+                                "stock_level": 46.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 38.0,
+                                "stock_level": 38.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw7240bc0d/1_front_750/00501299-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw7240bc0d/1_front_750/00501299-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe1474530/2_side_750/00501299-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw62ff5ea2/3_back_750/00501299-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw2802fe6a/4_full_750/00501299-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw541ed080/5_detail_750/00501299-01.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw3e389368/sw_22/00501299-01.jpg"
+            },
+            {
+                "ColorId": "04",
+                "ColorName": "BLACK",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 52.0,
+                                "stock_level": 52.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 122.0,
+                                "stock_level": 122.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 106.0,
+                                "stock_level": 106.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 71.0,
+                                "stock_level": 71.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": false,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Chiffon Smocked Peasant-Sleeve Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A chiffon mini dress featuring a square-cut neckline and back, long peasant sleeves, smocked bust, ruffle trim, and an A-line silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 100% polyester</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'7\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 53.0,
+                                "stock_level": 53.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dweffcf48d/1_front_750/00501299-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dweffcf48d/1_front_750/00501299-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwf9d271dc/2_side_750/00501299-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwafdcc642/3_back_750/00501299-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwe94d5dd1/4_full_750/00501299-04.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw453b0688/5_detail_750/00501299-04.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw67132ed0/sw_22/00501299-04.jpg"
+            }
+        ],
+        "WHCategoryCode": null,
+        "CategoryClass1": null,
+        "CategoryClass2": null,
+        "Weight": 2.0,
+        "Rank": null,
+        "DefaultProductImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw7240bc0d/1_front_750/00501299-04.jpg",
+        "Promotions": [
+            {
+                "PromotionId": "EVERGREEN: Free Ship $50+",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/EVERGREEN:%20Free%20Ship%20$50+?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            },
+            {
+                "PromotionId": "promo_21%_off_sitewide_exp20241022",
+                "PromotionType": "product_promotion",
+                "Message": "21% Off Sitewide",
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_21%25_off_sitewide_exp20241022?inventory_ids=forever21",
+                "PromotionPrice": 35.54
+            },
+            {
+                "PromotionId": "promo_hk_gwp_50_spend",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_hk_gwp_50_spend?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            }
+        ],
+        "IsDonation": false,
+        "Set": false,
+        "Set_products": null,
+        "Set_images": null,
+        "LicensedProduct": false,
+        "RecommendationSizeType": null,
+        "RecommendationSizeId": null,
+        "RecommendationSizeLink": null
+    },
+    "result": true,
+    "code": "00",
+    "errorMessage": "",
+    "errorDetails": null,
+    "authorization": "",
+    "customerId": null,
+    "sfccAuthorizations": null,
+    "ReturnCode": null,
+    "ErrorMessage": null,
+    "ReturnMessage": null
+}

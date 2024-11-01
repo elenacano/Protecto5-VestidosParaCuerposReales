@@ -1,0 +1,427 @@
+,nombre,marca,precio,color,talla,stock,categoria
+0,sequin christmas tree dress,Forever21,28.0,verde/rojo,XS,0.0,
+1,sequin christmas tree dress,Forever21,28.0,verde/rojo,S,39.0,
+2,sequin christmas tree dress,Forever21,28.0,verde/rojo,M,0.0,
+3,sequin christmas tree dress,Forever21,28.0,verde/rojo,L,0.0,
+4,sequin christmas tree dress,Forever21,28.0,verde/rojo,XL,0.0,
+5,sequin christmas tree dress,Forever21,28.0,verde,XS,116.0,
+6,sequin christmas tree dress,Forever21,28.0,verde,S,269.0,
+7,sequin christmas tree dress,Forever21,28.0,verde,M,232.0,
+8,sequin christmas tree dress,Forever21,28.0,verde,L,153.0,
+9,sequin christmas tree dress,Forever21,28.0,verde,XL,116.0,
+10,sequin mini dress,Forever21,28.0,plata,XS,86.0,mini
+11,sequin mini dress,Forever21,28.0,plata,S,215.0,mini
+12,sequin mini dress,Forever21,28.0,plata,M,215.0,mini
+13,sequin mini dress,Forever21,28.0,plata,L,129.0,mini
+14,sequin mini dress,Forever21,28.0,plata,XL,86.0,mini
+15,sequin mini dress,Forever21,28.0,plata,XXL,43.0,mini
+16,sequin mini dress,Forever21,28.0,negro,XS,100.0,mini
+17,sequin mini dress,Forever21,28.0,negro,S,229.0,mini
+18,sequin mini dress,Forever21,28.0,negro,M,250.0,mini
+19,sequin mini dress,Forever21,28.0,negro,L,150.0,mini
+20,sequin mini dress,Forever21,28.0,negro,XL,100.0,mini
+21,sequin mini dress,Forever21,28.0,negro,XXL,50.0,mini
+22,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,XS,32.0,mini
+23,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,S,96.0,mini
+24,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,M,83.0,mini
+25,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,L,46.0,mini
+26,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,XL,38.0,mini
+27,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,XS,52.0,mini
+28,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,S,122.0,mini
+29,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,M,106.0,mini
+30,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,L,71.0,mini
+31,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,XL,53.0,mini
+32,seamless half-zip mock neck romper,Forever21,24.99,negro,S,380.0,
+33,seamless half-zip mock neck romper,Forever21,24.99,negro,M,232.0,
+34,seamless half-zip mock neck romper,Forever21,24.99,negro,L,95.0,
+35,seamless half-zip mock neck romper,Forever21,24.99,topo,S,108.0,
+36,seamless half-zip mock neck romper,Forever21,24.99,topo,M,62.0,
+37,seamless half-zip mock neck romper,Forever21,24.99,topo,L,30.0,
+38,seamless half-zip mock neck romper,Forever21,24.99,rojo,S,59.0,
+39,seamless half-zip mock neck romper,Forever21,24.99,rojo,M,37.0,
+40,seamless half-zip mock neck romper,Forever21,24.99,rojo,L,20.0,
+41,fair isle mini sweater dress,Forever21,34.99,rojo,S,252.0,mini
+42,fair isle mini sweater dress,Forever21,34.99,rojo,M,252.0,mini
+43,fair isle mini sweater dress,Forever21,34.99,rojo,L,252.0,mini
+44,fair isle mini sweater dress,Forever21,34.99,rojo,XL,252.0,mini
+45,sequin santa crop top & skirt set,Forever21,34.99,rojo,S,107.0,
+46,sequin santa crop top & skirt set,Forever21,34.99,rojo,M,216.0,
+47,sequin santa crop top & skirt set,Forever21,34.99,rojo,L,216.0,
+48,sequin santa crop top & skirt set,Forever21,34.99,rojo,XL,108.0,
+49,hooded striped santa mini dress,Forever21,34.99,rojo,S,204.0,mini
+50,hooded striped santa mini dress,Forever21,34.99,rojo,M,204.0,mini
+51,hooded striped santa mini dress,Forever21,34.99,rojo,L,204.0,mini
+52,plunging surplice lace mini dress,Forever21,29.99,negro,XS,87.0,mini
+53,plunging surplice lace mini dress,Forever21,29.99,negro,S,200.0,mini
+54,plunging surplice lace mini dress,Forever21,29.99,negro,M,174.0,mini
+55,plunging surplice lace mini dress,Forever21,29.99,negro,L,116.0,mini
+56,plunging surplice lace mini dress,Forever21,29.99,negro,XL,87.0,mini
+57,plunging surplice lace mini dress,Forever21,29.99,granate,XS,54.0,mini
+58,plunging surplice lace mini dress,Forever21,29.99,granate,S,123.0,mini
+59,plunging surplice lace mini dress,Forever21,29.99,granate,M,108.0,mini
+60,plunging surplice lace mini dress,Forever21,29.99,granate,L,72.0,mini
+61,plunging surplice lace mini dress,Forever21,29.99,granate,XL,54.0,mini
+62,strapless bubble-hem mini dress,Forever21,29.99,negro,XS,48.0,mini
+63,strapless bubble-hem mini dress,Forever21,29.99,negro,S,108.0,mini
+64,strapless bubble-hem mini dress,Forever21,29.99,negro,M,96.0,mini
+65,strapless bubble-hem mini dress,Forever21,29.99,negro,L,64.0,mini
+66,strapless bubble-hem mini dress,Forever21,29.99,negro,XL,48.0,mini
+67,rosette tank mini dress,Forever21,29.99,negro,XS,37.0,mini
+68,rosette tank mini dress,Forever21,29.99,negro,S,103.0,mini
+69,rosette tank mini dress,Forever21,29.99,negro,M,89.0,mini
+70,rosette tank mini dress,Forever21,29.99,negro,L,63.0,mini
+71,rosette tank mini dress,Forever21,29.99,negro,XL,47.0,mini
+72,bodycon mini sweater dress,Forever21,34.99,negro,XS,64.0,mini
+73,bodycon mini sweater dress,Forever21,34.99,negro,S,210.0,mini
+74,bodycon mini sweater dress,Forever21,34.99,negro,M,156.0,mini
+75,bodycon mini sweater dress,Forever21,34.99,negro,L,127.0,mini
+76,bodycon mini sweater dress,Forever21,34.99,negro,XL,101.0,mini
+77,bodycon mini sweater dress,Forever21,34.99,granate,XS,0.0,mini
+78,bodycon mini sweater dress,Forever21,34.99,granate,S,0.0,mini
+79,bodycon mini sweater dress,Forever21,34.99,granate,M,0.0,mini
+80,bodycon mini sweater dress,Forever21,34.99,granate,L,0.0,mini
+81,bodycon mini sweater dress,Forever21,34.99,granate,XL,0.0,mini
+82,bodycon mini sweater dress,Forever21,34.99,beige,XS,75.0,mini
+83,bodycon mini sweater dress,Forever21,34.99,beige,S,184.0,mini
+84,bodycon mini sweater dress,Forever21,34.99,beige,M,161.0,mini
+85,bodycon mini sweater dress,Forever21,34.99,beige,L,108.0,mini
+86,bodycon mini sweater dress,Forever21,34.99,beige,XL,85.0,mini
+87,bodycon mini sweater dress,Forever21,34.99,verde,XS,56.0,mini
+88,bodycon mini sweater dress,Forever21,34.99,verde,S,145.0,mini
+89,bodycon mini sweater dress,Forever21,34.99,verde,M,127.0,mini
+90,bodycon mini sweater dress,Forever21,34.99,verde,L,88.0,mini
+91,bodycon mini sweater dress,Forever21,34.99,verde,XL,66.0,mini
+92,ruched bodycon midi dress,Forever21,44.99,negro,XS,64.0,midi
+93,ruched bodycon midi dress,Forever21,44.99,negro,S,142.0,midi
+94,ruched bodycon midi dress,Forever21,44.99,negro,M,123.0,midi
+95,ruched bodycon midi dress,Forever21,44.99,negro,L,84.0,midi
+96,ruched bodycon midi dress,Forever21,44.99,negro,XL,64.0,midi
+97,ruched bodycon midi dress,Forever21,44.99,granate,XS,30.0,midi
+98,ruched bodycon midi dress,Forever21,44.99,granate,S,72.0,midi
+99,ruched bodycon midi dress,Forever21,44.99,granate,M,64.0,midi
+100,ruched bodycon midi dress,Forever21,44.99,granate,L,41.0,midi
+101,ruched bodycon midi dress,Forever21,44.99,granate,XL,29.0,midi
+102,rhinestone fringe cami mini dress,Forever21,34.99,negro,XS,55.0,mini
+103,rhinestone fringe cami mini dress,Forever21,34.99,negro,S,143.0,mini
+104,rhinestone fringe cami mini dress,Forever21,34.99,negro,M,114.0,mini
+105,rhinestone fringe cami mini dress,Forever21,34.99,negro,L,76.0,mini
+106,rhinestone fringe cami mini dress,Forever21,34.99,negro,XL,53.0,mini
+107,rhinestone fringe cami mini dress,Forever21,34.99,blanco,XS,46.0,mini
+108,rhinestone fringe cami mini dress,Forever21,34.99,blanco,S,104.0,mini
+109,rhinestone fringe cami mini dress,Forever21,34.99,blanco,M,87.0,mini
+110,rhinestone fringe cami mini dress,Forever21,34.99,blanco,L,68.0,mini
+111,rhinestone fringe cami mini dress,Forever21,34.99,blanco,XL,47.0,mini
+112,buckled asymmetrical mini dress,Forever21,34.99,negro,XS,36.0,mini
+113,buckled asymmetrical mini dress,Forever21,34.99,negro,S,83.0,mini
+114,buckled asymmetrical mini dress,Forever21,34.99,negro,M,72.0,mini
+115,buckled asymmetrical mini dress,Forever21,34.99,negro,L,48.0,mini
+116,buckled asymmetrical mini dress,Forever21,34.99,negro,XL,36.0,mini
+117,ruched halter bodycon mini dress,Forever21,34.99,negro,XS,29.0,mini
+118,ruched halter bodycon mini dress,Forever21,34.99,negro,S,69.0,mini
+119,ruched halter bodycon mini dress,Forever21,34.99,negro,M,59.0,mini
+120,ruched halter bodycon mini dress,Forever21,34.99,negro,L,40.0,mini
+121,ruched halter bodycon mini dress,Forever21,34.99,negro,XL,30.0,mini
+122,ruched halter bodycon mini dress,Forever21,34.99,rojo,XS,20.0,mini
+123,ruched halter bodycon mini dress,Forever21,34.99,rojo,S,49.0,mini
+124,ruched halter bodycon mini dress,Forever21,34.99,rojo,M,42.0,mini
+125,ruched halter bodycon mini dress,Forever21,34.99,rojo,L,28.0,mini
+126,ruched halter bodycon mini dress,Forever21,34.99,rojo,XL,21.0,mini
+127,lace off-the-shoulder mini dress,Forever21,34.99,negro,XS,39.0,mini
+128,lace off-the-shoulder mini dress,Forever21,34.99,negro,S,91.0,mini
+129,lace off-the-shoulder mini dress,Forever21,34.99,negro,M,78.0,mini
+130,lace off-the-shoulder mini dress,Forever21,34.99,negro,L,52.0,mini
+131,lace off-the-shoulder mini dress,Forever21,34.99,negro,XL,39.0,mini
+132,bow sweater mini dress,Forever21,39.99,rojo,XS,59.0,mini
+133,bow sweater mini dress,Forever21,39.99,rojo,S,139.0,mini
+134,bow sweater mini dress,Forever21,39.99,rojo,M,120.0,mini
+135,bow sweater mini dress,Forever21,39.99,rojo,L,80.0,mini
+136,bow sweater mini dress,Forever21,39.99,rojo,XL,60.0,mini
+137,velvet corset cowl maxi dress,Forever21,39.99,negro,XS,51.0,maxi
+138,velvet corset cowl maxi dress,Forever21,39.99,negro,S,126.0,maxi
+139,velvet corset cowl maxi dress,Forever21,39.99,negro,M,106.0,maxi
+140,velvet corset cowl maxi dress,Forever21,39.99,negro,L,71.0,maxi
+141,velvet corset cowl maxi dress,Forever21,39.99,negro,XL,54.0,maxi
+142,strapless satin lace-up mini dress,Forever21,34.99,negro,XS,48.0,mini
+143,strapless satin lace-up mini dress,Forever21,34.99,negro,S,112.0,mini
+144,strapless satin lace-up mini dress,Forever21,34.99,negro,M,96.0,mini
+145,strapless satin lace-up mini dress,Forever21,34.99,negro,L,64.0,mini
+146,strapless satin lace-up mini dress,Forever21,34.99,negro,XL,48.0,mini
+147,strapless satin lace-up mini dress,Forever21,34.99,verde,XS,30.0,mini
+148,strapless satin lace-up mini dress,Forever21,34.99,verde,S,70.0,mini
+149,strapless satin lace-up mini dress,Forever21,34.99,verde,M,60.0,mini
+150,strapless satin lace-up mini dress,Forever21,34.99,verde,L,40.0,mini
+151,strapless satin lace-up mini dress,Forever21,34.99,verde,XL,30.0,mini
+152,strapless satin lace-up mini dress,Forever21,34.99,rojo,XS,39.0,mini
+153,strapless satin lace-up mini dress,Forever21,34.99,rojo,S,91.0,mini
+154,strapless satin lace-up mini dress,Forever21,34.99,rojo,M,78.0,mini
+155,strapless satin lace-up mini dress,Forever21,34.99,rojo,L,52.0,mini
+156,strapless satin lace-up mini dress,Forever21,34.99,rojo,XL,39.0,mini
+157,halter bubble-hem mini dress,Forever21,44.99,negro,XS,50.0,mini
+158,halter bubble-hem mini dress,Forever21,44.99,negro,S,151.0,mini
+159,halter bubble-hem mini dress,Forever21,44.99,negro,M,124.0,mini
+160,halter bubble-hem mini dress,Forever21,44.99,negro,L,67.0,mini
+161,halter bubble-hem mini dress,Forever21,44.99,negro,XL,39.0,mini
+162,halter bubble-hem mini dress,Forever21,44.99,granate,XS,68.0,mini
+163,halter bubble-hem mini dress,Forever21,44.99,granate,S,162.0,mini
+164,halter bubble-hem mini dress,Forever21,44.99,granate,M,128.0,mini
+165,halter bubble-hem mini dress,Forever21,44.99,granate,L,89.0,mini
+166,halter bubble-hem mini dress,Forever21,44.99,granate,XL,63.0,mini
+167,plus size velour mini dress,Forever21,20.0,negro,0X,27.0,mini
+168,plus size velour mini dress,Forever21,20.0,negro,1X,39.0,mini
+169,plus size velour mini dress,Forever21,20.0,negro,2X,40.0,mini
+170,plus size velour mini dress,Forever21,20.0,negro,3X,42.0,mini
+171,plus size velour mini dress,Forever21,20.0,negro,4X,10.0,mini
+172,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,0X,30.0,mini
+173,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,1X,45.0,mini
+174,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,2X,45.0,mini
+175,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,3X,44.0,mini
+176,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,4X,15.0,mini
+177,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,XS,42.0,
+178,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,S,110.0,
+179,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,M,92.0,
+180,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,L,62.0,
+181,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,XL,45.0,
+182,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,XS,35.0,midi
+183,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,S,90.0,midi
+184,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,M,78.0,midi
+185,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,L,51.0,midi
+186,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,XL,38.0,midi
+187,faux gem cutout midi sweater dress,Forever21,49.99,negro,XS,39.0,midi
+188,faux gem cutout midi sweater dress,Forever21,49.99,negro,S,90.0,midi
+189,faux gem cutout midi sweater dress,Forever21,49.99,negro,M,78.0,midi
+190,faux gem cutout midi sweater dress,Forever21,49.99,negro,L,52.0,midi
+191,faux gem cutout midi sweater dress,Forever21,49.99,negro,XL,39.0,midi
+192,velvet illusion mini dress,Forever21,34.99,negro,XS,35.0,mini
+193,velvet illusion mini dress,Forever21,34.99,negro,S,83.0,mini
+194,velvet illusion mini dress,Forever21,34.99,negro,M,71.0,mini
+195,velvet illusion mini dress,Forever21,34.99,negro,L,48.0,mini
+196,velvet illusion mini dress,Forever21,34.99,negro,XL,35.0,mini
+197,turtleneck midi sweater dress,Forever21,34.99,negro,XS,117.0,midi
+198,turtleneck midi sweater dress,Forever21,34.99,negro,S,273.0,midi
+199,turtleneck midi sweater dress,Forever21,34.99,negro,M,233.0,midi
+200,turtleneck midi sweater dress,Forever21,34.99,negro,L,156.0,midi
+201,turtleneck midi sweater dress,Forever21,34.99,negro,XL,117.0,midi
+202,turtleneck midi sweater dress,Forever21,34.99,rojo,XS,60.0,midi
+203,turtleneck midi sweater dress,Forever21,34.99,rojo,S,140.0,midi
+204,turtleneck midi sweater dress,Forever21,34.99,rojo,M,120.0,midi
+205,turtleneck midi sweater dress,Forever21,34.99,rojo,L,80.0,midi
+206,turtleneck midi sweater dress,Forever21,34.99,rojo,XL,60.0,midi
+207,turtleneck midi sweater dress,Forever21,34.99,blanco,XS,78.0,midi
+208,turtleneck midi sweater dress,Forever21,34.99,blanco,S,182.0,midi
+209,turtleneck midi sweater dress,Forever21,34.99,blanco,M,156.0,midi
+210,turtleneck midi sweater dress,Forever21,34.99,blanco,L,104.0,midi
+211,turtleneck midi sweater dress,Forever21,34.99,blanco,XL,78.0,midi
+212,velvet sweetheart mini tube dress,Forever21,29.99,negro,XS,36.0,mini
+213,velvet sweetheart mini tube dress,Forever21,29.99,negro,S,84.0,mini
+214,velvet sweetheart mini tube dress,Forever21,29.99,negro,M,72.0,mini
+215,velvet sweetheart mini tube dress,Forever21,29.99,negro,L,48.0,mini
+216,velvet sweetheart mini tube dress,Forever21,29.99,negro,XL,36.0,mini
+217,faux gem midi sweater dress,Forever21,39.99,negro,XS,117.0,midi
+218,faux gem midi sweater dress,Forever21,39.99,negro,S,273.0,midi
+219,faux gem midi sweater dress,Forever21,39.99,negro,M,234.0,midi
+220,faux gem midi sweater dress,Forever21,39.99,negro,L,156.0,midi
+221,faux gem midi sweater dress,Forever21,39.99,negro,XL,117.0,midi
+222,fitted lace-trim romper,Forever21,29.99,rosa,XS,42.0,
+223,fitted lace-trim romper,Forever21,29.99,rosa,S,98.0,
+224,fitted lace-trim romper,Forever21,29.99,rosa,M,84.0,
+225,fitted lace-trim romper,Forever21,29.99,rosa,L,56.0,
+226,fitted lace-trim romper,Forever21,29.99,rosa,XL,42.0,
+227,fitted lace-trim romper,Forever21,29.99,negro,XS,63.0,
+228,fitted lace-trim romper,Forever21,29.99,negro,S,147.0,
+229,fitted lace-trim romper,Forever21,29.99,negro,M,126.0,
+230,fitted lace-trim romper,Forever21,29.99,negro,L,84.0,
+231,fitted lace-trim romper,Forever21,29.99,negro,XL,62.0,
+232,ruched two-tone mini tube dress,Forever21,34.99,negro,XS,39.0,mini
+233,ruched two-tone mini tube dress,Forever21,34.99,negro,S,91.0,mini
+234,ruched two-tone mini tube dress,Forever21,34.99,negro,M,77.0,mini
+235,ruched two-tone mini tube dress,Forever21,34.99,negro,L,52.0,mini
+236,ruched two-tone mini tube dress,Forever21,34.99,negro,XL,39.0,mini
+237,sweetheart bodycon mini dress,Forever21,34.99,negro,XS,42.0,mini
+238,sweetheart bodycon mini dress,Forever21,34.99,negro,S,98.0,mini
+239,sweetheart bodycon mini dress,Forever21,34.99,negro,M,84.0,mini
+240,sweetheart bodycon mini dress,Forever21,34.99,negro,L,54.0,mini
+241,sweetheart bodycon mini dress,Forever21,34.99,negro,XL,41.0,mini
+242,off-the-shoulder corset mini dress,Forever21,39.99,negro,XS,48.0,mini
+243,off-the-shoulder corset mini dress,Forever21,39.99,negro,S,112.0,mini
+244,off-the-shoulder corset mini dress,Forever21,39.99,negro,M,96.0,mini
+245,off-the-shoulder corset mini dress,Forever21,39.99,negro,L,64.0,mini
+246,off-the-shoulder corset mini dress,Forever21,39.99,negro,XL,48.0,mini
+247,plus size glitter knit midi dress,Forever21,39.99,plata,0X,34.0,midi
+248,plus size glitter knit midi dress,Forever21,39.99,plata,1X,51.0,midi
+249,plus size glitter knit midi dress,Forever21,39.99,plata,2X,51.0,midi
+250,plus size glitter knit midi dress,Forever21,39.99,plata,3X,50.0,midi
+251,plus size glitter knit midi dress,Forever21,39.99,plata,4X,17.0,midi
+252,plus size halter m-slit mini dress,Forever21,39.99,negro,0X,26.0,mini
+253,plus size halter m-slit mini dress,Forever21,39.99,negro,1X,38.0,mini
+254,plus size halter m-slit mini dress,Forever21,39.99,negro,2X,38.0,mini
+255,plus size halter m-slit mini dress,Forever21,39.99,negro,3X,39.0,mini
+256,plus size halter m-slit mini dress,Forever21,39.99,negro,4X,13.0,mini
+257,belted mini sweater dress,Forever21,44.99,negro,XS,117.0,mini
+258,belted mini sweater dress,Forever21,44.99,negro,S,272.0,mini
+259,belted mini sweater dress,Forever21,44.99,negro,M,234.0,mini
+260,belted mini sweater dress,Forever21,44.99,negro,L,156.0,mini
+261,belted mini sweater dress,Forever21,44.99,negro,XL,117.0,mini
+262,belted mini sweater dress,Forever21,44.99,gris,XS,60.0,mini
+263,belted mini sweater dress,Forever21,44.99,gris,S,140.0,mini
+264,belted mini sweater dress,Forever21,44.99,gris,M,120.0,mini
+265,belted mini sweater dress,Forever21,44.99,gris,L,80.0,mini
+266,belted mini sweater dress,Forever21,44.99,gris,XL,60.0,mini
+267,belted mini sweater dress,Forever21,44.99,beige,XS,78.0,mini
+268,belted mini sweater dress,Forever21,44.99,beige,S,182.0,mini
+269,belted mini sweater dress,Forever21,44.99,beige,M,156.0,mini
+270,belted mini sweater dress,Forever21,44.99,beige,L,103.0,mini
+271,belted mini sweater dress,Forever21,44.99,beige,XL,78.0,mini
+272,sheer lace bodycon mini dress,Forever21,29.99,negro,XS,48.0,mini
+273,sheer lace bodycon mini dress,Forever21,29.99,negro,S,118.0,mini
+274,sheer lace bodycon mini dress,Forever21,29.99,negro,M,94.0,mini
+275,sheer lace bodycon mini dress,Forever21,29.99,negro,L,62.0,mini
+276,sheer lace bodycon mini dress,Forever21,29.99,negro,XL,49.0,mini
+277,sheer lace bodycon mini dress,Forever21,29.99,granate,XS,24.0,mini
+278,sheer lace bodycon mini dress,Forever21,29.99,granate,S,52.0,mini
+279,sheer lace bodycon mini dress,Forever21,29.99,granate,M,45.0,mini
+280,sheer lace bodycon mini dress,Forever21,29.99,granate,L,31.0,mini
+281,sheer lace bodycon mini dress,Forever21,29.99,granate,XL,23.0,mini
+282,foldover off-the-shoulder midi dress,Forever21,34.99,negro,XS,48.0,midi
+283,foldover off-the-shoulder midi dress,Forever21,34.99,negro,S,112.0,midi
+284,foldover off-the-shoulder midi dress,Forever21,34.99,negro,M,96.0,midi
+285,foldover off-the-shoulder midi dress,Forever21,34.99,negro,L,64.0,midi
+286,foldover off-the-shoulder midi dress,Forever21,34.99,negro,XL,48.0,midi
+287,foldover off-the-shoulder midi dress,Forever21,34.99,verde,XS,30.0,midi
+288,foldover off-the-shoulder midi dress,Forever21,34.99,verde,S,70.0,midi
+289,foldover off-the-shoulder midi dress,Forever21,34.99,verde,M,60.0,midi
+290,foldover off-the-shoulder midi dress,Forever21,34.99,verde,L,40.0,midi
+291,foldover off-the-shoulder midi dress,Forever21,34.99,verde,XL,30.0,midi
+292,sheer square-neck mini dress,Forever21,29.99,negro,XS,63.0,mini
+293,sheer square-neck mini dress,Forever21,29.99,negro,S,147.0,mini
+294,sheer square-neck mini dress,Forever21,29.99,negro,M,126.0,mini
+295,sheer square-neck mini dress,Forever21,29.99,negro,L,84.0,mini
+296,sheer square-neck mini dress,Forever21,29.99,negro,XL,63.0,mini
+297,sheer square-neck mini dress,Forever21,29.99,granate,XS,23.0,mini
+298,sheer square-neck mini dress,Forever21,29.99,granate,S,56.0,mini
+299,sheer square-neck mini dress,Forever21,29.99,granate,M,48.0,mini
+300,sheer square-neck mini dress,Forever21,29.99,granate,L,32.0,mini
+301,sheer square-neck mini dress,Forever21,29.99,granate,XL,24.0,mini
+302,satin sash mini tube dress,Forever21,39.99,negro,XS,38.0,mini
+303,satin sash mini tube dress,Forever21,39.99,negro,S,90.0,mini
+304,satin sash mini tube dress,Forever21,39.99,negro,M,77.0,mini
+305,satin sash mini tube dress,Forever21,39.99,negro,L,52.0,mini
+306,satin sash mini tube dress,Forever21,39.99,negro,XL,39.0,mini
+307,satin sash mini tube dress,Forever21,39.99,rojo,XS,21.0,mini
+308,satin sash mini tube dress,Forever21,39.99,rojo,S,55.0,mini
+309,satin sash mini tube dress,Forever21,39.99,rojo,M,46.0,mini
+310,satin sash mini tube dress,Forever21,39.99,rojo,L,32.0,mini
+311,satin sash mini tube dress,Forever21,39.99,rojo,XL,24.0,mini
+312,sleeveless blazer mini dress,Forever21,44.99,negro,XS,48.0,mini
+313,sleeveless blazer mini dress,Forever21,44.99,negro,S,112.0,mini
+314,sleeveless blazer mini dress,Forever21,44.99,negro,M,96.0,mini
+315,sleeveless blazer mini dress,Forever21,44.99,negro,L,63.0,mini
+316,sleeveless blazer mini dress,Forever21,44.99,negro,XL,48.0,mini
+317,velvet blazer mini dress,Forever21,54.99,negro,XS,41.0,mini
+318,velvet blazer mini dress,Forever21,54.99,negro,S,98.0,mini
+319,velvet blazer mini dress,Forever21,54.99,negro,M,82.0,mini
+320,velvet blazer mini dress,Forever21,54.99,negro,L,55.0,mini
+321,velvet blazer mini dress,Forever21,54.99,negro,XL,40.0,mini
+322,strapless wide-leg jumpsuit,Forever21,54.99,negro,XS,29.0,
+323,strapless wide-leg jumpsuit,Forever21,54.99,negro,S,70.0,
+324,strapless wide-leg jumpsuit,Forever21,54.99,negro,M,60.0,
+325,strapless wide-leg jumpsuit,Forever21,54.99,negro,L,38.0,
+326,strapless wide-leg jumpsuit,Forever21,54.99,negro,XL,30.0,
+327,twist-front cutout mini dress,Forever21,34.99,negro,XS,39.0,mini
+328,twist-front cutout mini dress,Forever21,34.99,negro,S,90.0,mini
+329,twist-front cutout mini dress,Forever21,34.99,negro,M,78.0,mini
+330,twist-front cutout mini dress,Forever21,34.99,negro,L,52.0,mini
+331,twist-front cutout mini dress,Forever21,34.99,negro,XL,38.0,mini
+332,contour sculpt rhinestone mini dress,Forever21,39.99,negro,XS,30.0,mini
+333,contour sculpt rhinestone mini dress,Forever21,39.99,negro,S,70.0,mini
+334,contour sculpt rhinestone mini dress,Forever21,39.99,negro,M,60.0,mini
+335,contour sculpt rhinestone mini dress,Forever21,39.99,negro,L,40.0,mini
+336,contour sculpt rhinestone mini dress,Forever21,39.99,negro,XL,30.0,mini
+337,plus size sweetheart mini tube dress,Forever21,29.99,negro,0X,34.0,mini
+338,plus size sweetheart mini tube dress,Forever21,29.99,negro,1X,51.0,mini
+339,plus size sweetheart mini tube dress,Forever21,29.99,negro,2X,50.0,mini
+340,plus size sweetheart mini tube dress,Forever21,29.99,negro,3X,51.0,mini
+341,plus size sweetheart mini tube dress,Forever21,29.99,negro,4X,17.0,mini
+342,plus size faux gem midi sweater dress,Forever21,44.99,beige,0X,30.0,midi
+343,plus size faux gem midi sweater dress,Forever21,44.99,beige,1X,45.0,midi
+344,plus size faux gem midi sweater dress,Forever21,44.99,beige,2X,45.0,midi
+345,plus size faux gem midi sweater dress,Forever21,44.99,beige,3X,45.0,midi
+346,plus size faux gem midi sweater dress,Forever21,44.99,beige,4X,15.0,midi
+347,plus size faux gem midi sweater dress,Forever21,44.99,negro,0X,33.0,midi
+348,plus size faux gem midi sweater dress,Forever21,44.99,negro,1X,51.0,midi
+349,plus size faux gem midi sweater dress,Forever21,44.99,negro,2X,51.0,midi
+350,plus size faux gem midi sweater dress,Forever21,44.99,negro,3X,51.0,midi
+351,plus size faux gem midi sweater dress,Forever21,44.99,negro,4X,16.0,midi
+352,one-shoulder bow mini tube dress,Forever21,34.99,blanco,S,40.0,mini
+353,one-shoulder bow mini tube dress,Forever21,34.99,blanco,M,83.0,mini
+354,one-shoulder bow mini tube dress,Forever21,34.99,blanco,L,84.0,mini
+355,one-shoulder bow mini tube dress,Forever21,34.99,blanco,XL,42.0,mini
+356,one-shoulder bow mini tube dress,Forever21,34.99,negro,S,30.0,mini
+357,one-shoulder bow mini tube dress,Forever21,34.99,negro,M,65.0,mini
+358,one-shoulder bow mini tube dress,Forever21,34.99,negro,L,65.0,mini
+359,one-shoulder bow mini tube dress,Forever21,34.99,negro,XL,33.0,mini
+360,sheer flocked paisley maxi dress,Forever21,44.99,negro,XS,30.0,maxi
+361,sheer flocked paisley maxi dress,Forever21,44.99,negro,S,70.0,maxi
+362,sheer flocked paisley maxi dress,Forever21,44.99,negro,M,60.0,maxi
+363,sheer flocked paisley maxi dress,Forever21,44.99,negro,L,40.0,maxi
+364,sheer flocked paisley maxi dress,Forever21,44.99,negro,XL,29.0,maxi
+365,sheer flocked paisley maxi dress,Forever21,44.99,rojo,XS,48.0,maxi
+366,sheer flocked paisley maxi dress,Forever21,44.99,rojo,S,115.0,maxi
+367,sheer flocked paisley maxi dress,Forever21,44.99,rojo,M,98.0,maxi
+368,sheer flocked paisley maxi dress,Forever21,44.99,rojo,L,66.0,maxi
+369,sheer flocked paisley maxi dress,Forever21,44.99,rojo,XL,49.0,maxi
+370,rhinestone buckled mini dress,Forever21,39.99,negro,XS,30.0,mini
+371,rhinestone buckled mini dress,Forever21,39.99,negro,S,70.0,mini
+372,rhinestone buckled mini dress,Forever21,39.99,negro,M,60.0,mini
+373,rhinestone buckled mini dress,Forever21,39.99,negro,L,39.0,mini
+374,rhinestone buckled mini dress,Forever21,39.99,negro,XL,30.0,mini
+375,jacquard floral halter mini dress,Forever21,29.99,negro,XS,28.0,mini
+376,jacquard floral halter mini dress,Forever21,29.99,negro,S,92.0,mini
+377,jacquard floral halter mini dress,Forever21,29.99,negro,M,47.0,mini
+378,jacquard floral halter mini dress,Forever21,29.99,negro,L,64.0,mini
+379,jacquard floral halter mini dress,Forever21,29.99,negro,XL,39.0,mini
+380,jacquard floral halter mini dress,Forever21,29.99,granate,XS,30.0,mini
+381,jacquard floral halter mini dress,Forever21,29.99,granate,S,69.0,mini
+382,jacquard floral halter mini dress,Forever21,29.99,granate,M,60.0,mini
+383,jacquard floral halter mini dress,Forever21,29.99,granate,L,40.0,mini
+384,jacquard floral halter mini dress,Forever21,29.99,granate,XL,30.0,mini
+385,velour bodycon cami mini dress,Forever21,24.99,negro,XS,48.0,mini
+386,velour bodycon cami mini dress,Forever21,24.99,negro,S,112.0,mini
+387,velour bodycon cami mini dress,Forever21,24.99,negro,M,96.0,mini
+388,velour bodycon cami mini dress,Forever21,24.99,negro,L,64.0,mini
+389,velour bodycon cami mini dress,Forever21,24.99,negro,XL,48.0,mini
+390,velour bodycon cami mini dress,Forever21,24.99,verde,XS,36.0,mini
+391,velour bodycon cami mini dress,Forever21,24.99,verde,S,84.0,mini
+392,velour bodycon cami mini dress,Forever21,24.99,verde,M,72.0,mini
+393,velour bodycon cami mini dress,Forever21,24.99,verde,L,48.0,mini
+394,velour bodycon cami mini dress,Forever21,24.99,verde,XL,35.0,mini
+395,ruched rosette plunging maxi dress,Forever21,44.99,negro,XS,39.0,maxi
+396,ruched rosette plunging maxi dress,Forever21,44.99,negro,S,91.0,maxi
+397,ruched rosette plunging maxi dress,Forever21,44.99,negro,M,78.0,maxi
+398,ruched rosette plunging maxi dress,Forever21,44.99,negro,L,52.0,maxi
+399,ruched rosette plunging maxi dress,Forever21,44.99,negro,XL,39.0,maxi
+400,organza bubble-hem mini dress,Forever21,34.99,negro,XS,69.0,mini
+401,organza bubble-hem mini dress,Forever21,34.99,negro,S,161.0,mini
+402,organza bubble-hem mini dress,Forever21,34.99,negro,M,138.0,mini
+403,organza bubble-hem mini dress,Forever21,34.99,negro,L,92.0,mini
+404,organza bubble-hem mini dress,Forever21,34.99,negro,XL,68.0,mini
+405,lace & mesh combo mini dress,Forever21,29.99,verde,XS,51.0,mini
+406,lace & mesh combo mini dress,Forever21,29.99,verde,S,119.0,mini
+407,lace & mesh combo mini dress,Forever21,29.99,verde,M,102.0,mini
+408,lace & mesh combo mini dress,Forever21,29.99,verde,L,68.0,mini
+409,lace & mesh combo mini dress,Forever21,29.99,verde,XL,51.0,mini
+410,tiered floral tie-back mini dress,Forever21,39.99,negro,XS,59.0,mini
+411,tiered floral tie-back mini dress,Forever21,39.99,negro,S,138.0,mini
+412,tiered floral tie-back mini dress,Forever21,39.99,negro,M,119.0,mini
+413,tiered floral tie-back mini dress,Forever21,39.99,negro,L,77.0,mini
+414,tiered floral tie-back mini dress,Forever21,39.99,negro,XL,57.0,mini
+415,sequin holly jolly t-shirt dress,Forever21,39.99,rojo/blanco,S/M,299.0,
+416,sequin holly jolly t-shirt dress,Forever21,39.99,rojo/blanco,L/XL,298.0,
+417,asymmetrical rhinestone mini dress,Forever21,39.99,beige,S,84.0,mini
+418,asymmetrical rhinestone mini dress,Forever21,39.99,beige,M,42.0,mini
+419,asymmetrical rhinestone mini dress,Forever21,39.99,beige,L,42.0,mini
+420,sequin santa baby t-shirt dress,Forever21,39.99,rojo/blanco,S/M,299.0,
+421,sequin santa baby t-shirt dress,Forever21,39.99,rojo/blanco,L/XL,299.0,
+422,mesh floral print romper,Forever21,24.99,negro,S,54.0,
+423,mesh floral print romper,Forever21,24.99,negro,M,53.0,
+424,mesh floral print romper,Forever21,24.99,negro,L,54.0,
+425,mesh floral print romper,Forever21,24.99,negro,XL,54.0,

@@ -1,0 +1,418 @@
+{
+    "product": {
+        "BackorderedQuantity": 0,
+        "BaseCatalogName": null,
+        "Brand": "F21",
+        "BrandCode": null,
+        "CatalogLangOId": null,
+        "CatalogLangTimestamp": null,
+        "CatalogName": null,
+        "CatalogProductType": null,
+        "CatalogRowNum": 0,
+        "CategoryName": "dress",
+        "CategoryPath": "WOMEN|CLOTHING|DRESSES",
+        "CategoryIdPath": "WOMEN_MAIN|APP_MAIN|DRESS",
+        "ClassType": "8",
+        "ComingSoon": false,
+        "CustomerNote": null,
+        "DataInfomation": null,
+        "DefinitionName": null,
+        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+        "DescriptionOfDeal": null,
+        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+        "DynamicCategoryWhereClause": null,
+        "ExpiryDate": null,
+        "ExportReady": null,
+        "FilterOption": null,
+        "FinalSale": false,
+        "FreeShippingDescription": null,
+        "GiftCardPrice": null,
+        "GiftCardType": null,
+        "HasSizeCodeOfUS": null,
+        "HideColorSwatch": null,
+        "ImageFilename": "01334713-01.jpg",
+        "Inserted": null,
+        "IntroductionDate": "2024-10-28T00:00:00",
+        "InventoryCondition": null,
+        "IsAvailableStudentDeal": false,
+        "IsOOS": false,
+        "IsReturnable": false,
+        "IsGWP": false,
+        "IsSearchable": null,
+        "IsShoes": null,
+        "ItemAttr": "N",
+        "ItemAttr10": 0,
+        "ItemAttr11": "",
+        "ItemAttr12": "N",
+        "ItemAttr13": "",
+        "ItemAttr14": "",
+        "ItemAttr15": "",
+        "ItemAttr16": "Y",
+        "Prop65Text": "WARNING: This product can expose you to chemicals, including lead, phthalates, bisphenol A (BPA), titanium dioxide or Diethanolamine (DEA), which are known to the State of California to cause cancer or reproductive harm. For more information go to \nwww.p65Warnings.ca.gov",
+        "ItemAttr17": "",
+        "ItemAttr18": "",
+        "ItemAttr19": null,
+        "ItemAttr2": "",
+        "ItemAttr20": "",
+        "ItemAttr3": "",
+        "ItemAttr4": "",
+        "ItemAttr5": "",
+        "ItemAttr6": "",
+        "ItemAttr7": "",
+        "ItemAttr8": "",
+        "ItemAttr9": 0,
+        "ItemCode": "01334713",
+        "ItemImageFolder": null,
+        "ItemTag": null,
+        "ItemTag2": null,
+        "ItemTag2Text": null,
+        "ItemTag3": null,
+        "ItemTag3Text": null,
+        "ItemTag4": "",
+        "ItemTag4Text": null,
+        "ItemTag5": null,
+        "ItemTag5Text": null,
+        "ItemTagText": null,
+        "ItemsPerRow": null,
+        "LastModified": null,
+        "ListPrice": 27.64,
+        "MeasurementInfo": null,
+        "Memo": null,
+        "MoreColors": null,
+        "OId": 0,
+        "OnHandQuantity": 0,
+        "OnSale": true,
+        "OnSaleVariants": null,
+        "OrigCategoryName": null,
+        "OrigProductId": null,
+        "OrigVariantId": null,
+        "OriginalPrice": 34.99,
+        "ComparablePrice": null,
+        "ComparablePricePercent": null,
+        "PagingAttr": null,
+        "ParentOId": 0,
+        "Point": null,
+        "PreorderedQuantity": 0,
+        "PrimaryParentCategory": "dress",
+        "ProductColor": null,
+        "ProductId": "2001334713",
+        "ProductShareLinkUrl": "https://www.forever21.com/us/2001334713.html",
+        "ProductSize": null,
+        "ProductSizeChart": null,
+        "RackKind": null,
+        "RepColorCode": "01",
+        "RepSizeCode": null,
+        "SaleRate": null,
+        "ServerName": null,
+        "SizeChartCode": null,
+        "SortOrder": null,
+        "Status": null,
+        "StudentDealDescription": null,
+        "StudentDealTitle": null,
+        "StudentDealUrl": null,
+        "TimeStamp": null,
+        "UseCategoryPricing": null,
+        "VariantId": "0101",
+        "Variants": [
+            {
+                "ColorId": "01",
+                "ColorName": "BLACK",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 29.0,
+                                "stock_level": 29.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 69.0,
+                                "stock_level": 69.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 59.0,
+                                "stock_level": 59.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 40.0,
+                                "stock_level": 40.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 30.0,
+                                "stock_level": 30.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4c34decd/1_front_750/01334713-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4c34decd/1_front_750/01334713-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwde1702b4/2_side_750/01334713-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw0fa878eb/3_back_750/01334713-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw58c693c2/4_full_750/01334713-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw07901554/5_detail_750/01334713-01.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwaec26fc8/sw_22/01334713-01.jpg"
+            },
+            {
+                "ColorId": "02",
+                "ColorName": "RED",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "01",
+                        "SizeName": "XS",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 20.0,
+                                "stock_level": 20.0
+                            }
+                        ],
+                        "IsLowStock": true
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "02",
+                        "SizeName": "S",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 49.0,
+                                "stock_level": 49.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "03",
+                        "SizeName": "M",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 42.0,
+                                "stock_level": 42.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "04",
+                        "SizeName": "L",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 28.0,
+                                "stock_level": 28.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": true,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 34.99,
+                        "SizeId": "05",
+                        "SizeName": "XL",
+                        "DisplayName": "Ruched Halter Bodycon Mini Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\">A jersey knit mini dress featuring a wire halter neckline, ruched side design, open back, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 95% polyester, 5% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'9\" and wearing a Small</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 21.0,
+                                "stock_level": 21.0
+                            }
+                        ],
+                        "IsLowStock": true
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd692b280/1_front_750/01334713-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd692b280/1_front_750/01334713-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwc5c5e3a4/2_side_750/01334713-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw16ac1e1f/3_back_750/01334713-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw5a8a0861/4_full_750/01334713-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwaa790293/5_detail_750/01334713-02.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwd34a1c68/sw_22/01334713-02.jpg"
+            }
+        ],
+        "WHCategoryCode": null,
+        "CategoryClass1": null,
+        "CategoryClass2": null,
+        "Weight": 0.0,
+        "Rank": null,
+        "DefaultProductImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw4c34decd/1_front_750/01334713-01.jpg",
+        "Promotions": [
+            {
+                "PromotionId": "EVERGREEN: Free Ship $50+",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/EVERGREEN:%20Free%20Ship%20$50+?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            },
+            {
+                "PromotionId": "promo_21%_off_sitewide_exp20241022",
+                "PromotionType": "product_promotion",
+                "Message": "21% Off Sitewide",
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_21%25_off_sitewide_exp20241022?inventory_ids=forever21",
+                "PromotionPrice": 27.64
+            },
+            {
+                "PromotionId": "promo_hk_gwp_50_spend",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_hk_gwp_50_spend?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            }
+        ],
+        "IsDonation": false,
+        "Set": false,
+        "Set_products": null,
+        "Set_images": null,
+        "LicensedProduct": false,
+        "RecommendationSizeType": null,
+        "RecommendationSizeId": null,
+        "RecommendationSizeLink": null
+    },
+    "result": true,
+    "code": "00",
+    "errorMessage": "",
+    "errorDetails": null,
+    "authorization": "",
+    "customerId": null,
+    "sfccAuthorizations": null,
+    "ReturnCode": null,
+    "ErrorMessage": null,
+    "ReturnMessage": null
+}

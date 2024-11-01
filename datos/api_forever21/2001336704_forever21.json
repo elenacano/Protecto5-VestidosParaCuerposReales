@@ -1,0 +1,418 @@
+{
+    "product": {
+        "BackorderedQuantity": 0,
+        "BaseCatalogName": null,
+        "Brand": "PLUS",
+        "BrandCode": null,
+        "CatalogLangOId": null,
+        "CatalogLangTimestamp": null,
+        "CatalogName": null,
+        "CatalogProductType": null,
+        "CatalogRowNum": 0,
+        "CategoryName": "plus_size_dresses",
+        "CategoryPath": "PLUS + CURVE|CLOTHING|DRESSES",
+        "CategoryIdPath": "PLUS_SIZE_MAIN|PLUS_SIZE_CLOTHING|PLUS_SIZE_DRESSES",
+        "ClassType": "8",
+        "ComingSoon": false,
+        "CustomerNote": null,
+        "DataInfomation": null,
+        "DefinitionName": null,
+        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+        "DescriptionOfDeal": null,
+        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+        "DynamicCategoryWhereClause": null,
+        "ExpiryDate": null,
+        "ExportReady": null,
+        "FilterOption": null,
+        "FinalSale": false,
+        "FreeShippingDescription": null,
+        "GiftCardPrice": null,
+        "GiftCardType": null,
+        "HasSizeCodeOfUS": null,
+        "HideColorSwatch": null,
+        "ImageFilename": "01336704-02.jpg",
+        "Inserted": null,
+        "IntroductionDate": "2024-10-28T00:00:00",
+        "InventoryCondition": null,
+        "IsAvailableStudentDeal": false,
+        "IsOOS": false,
+        "IsReturnable": false,
+        "IsGWP": false,
+        "IsSearchable": null,
+        "IsShoes": null,
+        "ItemAttr": "N",
+        "ItemAttr10": 0,
+        "ItemAttr11": "",
+        "ItemAttr12": "N",
+        "ItemAttr13": "",
+        "ItemAttr14": "",
+        "ItemAttr15": "",
+        "ItemAttr16": "Y",
+        "Prop65Text": "WARNING: This product can expose you to chemicals, including lead, phthalates, bisphenol A (BPA), titanium dioxide or Diethanolamine (DEA), which are known to the State of California to cause cancer or reproductive harm. For more information go to \nwww.p65Warnings.ca.gov",
+        "ItemAttr17": "",
+        "ItemAttr18": "",
+        "ItemAttr19": null,
+        "ItemAttr2": "",
+        "ItemAttr20": "",
+        "ItemAttr3": "",
+        "ItemAttr4": "",
+        "ItemAttr5": "",
+        "ItemAttr6": "",
+        "ItemAttr7": "",
+        "ItemAttr8": "",
+        "ItemAttr9": 0,
+        "ItemCode": "01336704",
+        "ItemImageFolder": null,
+        "ItemTag": null,
+        "ItemTag2": null,
+        "ItemTag2Text": null,
+        "ItemTag3": "web_exclusive",
+        "ItemTag3Text": null,
+        "ItemTag4": "",
+        "ItemTag4Text": null,
+        "ItemTag5": "top_tag_webex",
+        "ItemTag5Text": null,
+        "ItemTagText": null,
+        "ItemsPerRow": null,
+        "LastModified": null,
+        "ListPrice": 35.54,
+        "MeasurementInfo": null,
+        "Memo": null,
+        "MoreColors": null,
+        "OId": 0,
+        "OnHandQuantity": 0,
+        "OnSale": true,
+        "OnSaleVariants": null,
+        "OrigCategoryName": null,
+        "OrigProductId": null,
+        "OrigVariantId": null,
+        "OriginalPrice": 44.99,
+        "ComparablePrice": null,
+        "ComparablePricePercent": null,
+        "PagingAttr": null,
+        "ParentOId": 0,
+        "Point": null,
+        "PreorderedQuantity": 0,
+        "PrimaryParentCategory": "plus_size_dresses",
+        "ProductColor": null,
+        "ProductId": "2001336704",
+        "ProductShareLinkUrl": "https://www.forever21.com/us/2001336704.html",
+        "ProductSize": null,
+        "ProductSizeChart": null,
+        "RackKind": null,
+        "RepColorCode": "02",
+        "RepSizeCode": null,
+        "SaleRate": null,
+        "ServerName": null,
+        "SizeChartCode": null,
+        "SortOrder": null,
+        "Status": null,
+        "StudentDealDescription": null,
+        "StudentDealTitle": null,
+        "StudentDealUrl": null,
+        "TimeStamp": null,
+        "UseCategoryPricing": null,
+        "VariantId": "0201",
+        "Variants": [
+            {
+                "ColorId": "01",
+                "ColorName": "IVORY",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "01",
+                        "SizeName": "0X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 30.0,
+                                "stock_level": 30.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "02",
+                        "SizeName": "1X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 45.0,
+                                "stock_level": 45.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "03",
+                        "SizeName": "2X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 45.0,
+                                "stock_level": 45.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "04",
+                        "SizeName": "3X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 45.0,
+                                "stock_level": 45.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "05",
+                        "SizeName": "4X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 15.0,
+                                "stock_level": 15.0
+                            }
+                        ],
+                        "IsLowStock": true
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw5de75bab/1_front_750/01336704-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw5de75bab/1_front_750/01336704-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb2723313/2_side_750/01336704-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw9bd8d034/3_back_750/01336704-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw5f53e459/4_full_750/01336704-01.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw670a0a3c/5_detail_750/01336704-01.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw91febb5b/sw_22/01336704-01.jpg"
+            },
+            {
+                "ColorId": "02",
+                "ColorName": "BLACK",
+                "HasVideo": false,
+                "ImageFileName": null,
+                "ImageFolders": null,
+                "IsDefault": false,
+                "ListPrice": null,
+                "OriginalPrice": null,
+                "Sizes": [
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "01",
+                        "SizeName": "0X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 33.0,
+                                "stock_level": 33.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "02",
+                        "SizeName": "1X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 51.0,
+                                "stock_level": 51.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "03",
+                        "SizeName": "2X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 51.0,
+                                "stock_level": 51.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "04",
+                        "SizeName": "3X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 51.0,
+                                "stock_level": 51.0
+                            }
+                        ],
+                        "IsLowStock": false
+                    },
+                    {
+                        "Available": true,
+                        "AvailableBOPIS": true,
+                        "InStockInStore": false,
+                        "FinalSale": null,
+                        "LowStockMessage": null,
+                        "Price": 44.99,
+                        "SizeId": "05",
+                        "SizeName": "4X",
+                        "DisplayName": "Plus Size Faux Gem Midi Sweater Dress",
+                        "Description": "<style> .d_wrapper {  padding: 5px 0;  font-family: arial, helvetica, san-serif;  font-size: 12px; } .d_wrapper h3 {  font-weight: bold;  text-transform: capitalize; } .d_content {  color: #888;} .d_content > p {  margin: .5em 0;} .d_content span {  display: inline-block;  width: 100%;  line-height: 16px;  padding: 5px 0; }</style><section class=\"d_wrapper\"><h3>Details</h3><div class=\"d_content\"><b>Forever 21+</b> - A knit sweater dress featuring a turtleneck, long sleeves, back cutout with a chain ladder design and faux gem embellishments, midi length, and bodycon silhouette.</div></section><section class=\"d_wrapper\"><h3>Content + Care</h3><div class=\"d_content\"><p>- 42% polyester, 41% rayon, 16% nylon, 1% spandex</p><p>- Hand wash cold</p></div></section><section class=\"d_wrapper\"><h3>Size + Fit</h3><div class=\"d_content\"><p>- Model is 5'10.5\" and wearing a Size 1X</p><p>- Full length: 45.5\"</p></div></section>",
+                        "inventories": [
+                            {
+                                "id": "forever21",
+                                "orderable": true,
+                                "ats": 16.0,
+                                "stock_level": 16.0
+                            }
+                        ],
+                        "IsLowStock": true
+                    }
+                ],
+                "ProductImages": [
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwbdf9ff98/1_front_750/01336704-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwbdf9ff98/1_front_750/01336704-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwc5188992/2_side_750/01336704-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb1c343b9/3_back_750/01336704-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw06b7d11b/4_full_750/01336704-02.jpg",
+                    "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw7f90fe99/5_detail_750/01336704-02.jpg"
+                ],
+                "SwatchImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb2892ec1/sw_22/01336704-02.jpg"
+            }
+        ],
+        "WHCategoryCode": null,
+        "CategoryClass1": null,
+        "CategoryClass2": null,
+        "Weight": 0.0,
+        "Rank": null,
+        "DefaultProductImage": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw5de75bab/1_front_750/01336704-02.jpg",
+        "Promotions": [
+            {
+                "PromotionId": "EVERGREEN: Free Ship $50+",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/EVERGREEN:%20Free%20Ship%20$50+?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            },
+            {
+                "PromotionId": "promo_21%_off_sitewide_exp20241022",
+                "PromotionType": "product_promotion",
+                "Message": "21% Off Sitewide",
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_21%25_off_sitewide_exp20241022?inventory_ids=forever21",
+                "PromotionPrice": 35.54
+            },
+            {
+                "PromotionId": "promo_hk_gwp_50_spend",
+                "PromotionType": "product_promotion",
+                "Message": null,
+                "PromotionLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/promotions/promo_hk_gwp_50_spend?inventory_ids=forever21",
+                "PromotionPrice": 0.0
+            }
+        ],
+        "IsDonation": false,
+        "Set": false,
+        "Set_products": null,
+        "Set_images": null,
+        "LicensedProduct": false,
+        "RecommendationSizeType": "Additional Sizes",
+        "RecommendationSizeId": "2001335987",
+        "RecommendationSizeLink": "https://www.forever21.com/s/forever21/dw/shop/v20_9/products/2001335987?inventory_ids=forever21"
+    },
+    "result": true,
+    "code": "00",
+    "errorMessage": "",
+    "errorDetails": null,
+    "authorization": "",
+    "customerId": null,
+    "sfccAuthorizations": null,
+    "ReturnCode": null,
+    "ErrorMessage": null,
+    "ReturnMessage": null
+}
