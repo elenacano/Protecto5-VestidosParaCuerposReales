@@ -13,8 +13,6 @@ def selenium_bylila():
     lista_vestidos_cortos_largos = []
 
     for url in lista_url:
-        largura = url.split("-")[-1]
-        chrome_options = webdriver.ChromeOptions()
         driver = webdriver.Chrome()
         driver.get(url)
         driver.maximize_window()
