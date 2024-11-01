@@ -41,12 +41,3 @@ colores = {
     'RED/WHITE': 'rojo/blanco',
     'VANILLA': 'beige'
 }
-
-colores_traduccion = {
-    
-    
-
-    'BLACK/MULTI': 'negro/multicolor',
-    'RED/WHITE': 'rojo/blanco',
-    'VANILLA': 'vainilla'
-}
