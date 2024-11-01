@@ -7,6 +7,7 @@ from time import sleep
 from selenium import webdriver # type: ignore
 from bs4 import BeautifulSoup # type: ignore
 import requests # type: ignore
+import re
 
 def selenium_bylila():
     lista_url = ["https://naturalbylila.com/ropa/vestidos/?product-cat=vestidos-cortos", "https://naturalbylila.com/ropa/vestidos/?product-cat=vestidos-largos"]
@@ -138,3 +139,51 @@ def obtencion_links_ladypipa():
 
     driver.quit()
     return lista_links
+
+
+def extraccion_info_ladypipa(links_ladypipa):
+    dic_vestido = {
+        "nombre" : [],
+        "marca" : [],
+        "precio" : [],
+        "talla" : [],
+        "categoria" :[]
+        }
+
+    for url in links_ladypipa:
+        res = requests.get(url)
+        if res.status_code != 200:
+            print(url)
+
+        sopa = BeautifulSoup(res.content, "html.parser")
+        nombre = sopa.find("div", {"class":"product-info__title"}).text.replace("\n","").strip()
+        marca = "Ladypipa"
+
+        # Extraemos el precio
+        patron = r"(\d+(?:,\d{1,2})?)\s*€"
+        resultado = re.search(patron, sopa.find("sale-price").text)
+        precio = resultado.group(1)
+
+        # Buscamos en la descripcion cómo es el vestido para asignarle una categoría
+        desc = sopa.select("div.prose p")[2].text
+
+        patron = r'\b(largo|midi|corto|maxi|mini)\b'
+        coincidencias = re.findall(patron, desc)
+        categoria = coincidencias[0]
+
+        # Sacamos las tallas disponibles
+        lista_tallas=[]
+        contenedor_tallas = sopa.find("div", {"class":"form-control"}).find("select").find_all('option')
+        for talla in contenedor_tallas:
+            if not talla.has_attr('disabled'):
+                lista_tallas.append(talla.text.split()[0])
+        lista_tallas
+
+        for elem in lista_tallas:
+            dic_vestido["nombre"].append(nombre)
+            dic_vestido["marca"].append(marca)
+            dic_vestido["precio"].append(precio)
+            dic_vestido["talla"].append(elem)
+            dic_vestido["categoria"].append(categoria)
+
+    return dic_vestido
