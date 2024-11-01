@@ -1,0 +1,344 @@
+,nombre,marca,precio,color,talla,categoria
+0,Mini Vestido Strapless Cascada,Natural by Lila,49.99,sin definir,S,corto
+1,Mini Vestido Strapless Cascada,Natural by Lila,49.99,sin definir,M,corto
+2,Vestido Asimétrico Choker Lurex,Natural by Lila,39.99,sin definir,S,corto
+3,Vestido Asimétrico Choker Lurex,Natural by Lila,39.99,sin definir,M,corto
+4,Vestido Básico Bella,Natural by Lila,36.99,sin definir,S,corto
+5,Vestido Básico Bella,Natural by Lila,36.99,sin definir,M,corto
+6,Vestido Brigitte Lentejuelas,Natural by Lila,49.99,sin definir,S,corto
+7,Vestido Brigitte Lentejuelas,Natural by Lila,49.99,sin definir,M,corto
+8,Vestido Corto Balconette,Natural by Lila,39.99,sin definir,S,corto
+9,Vestido Corto Balconette,Natural by Lila,39.99,sin definir,M,corto
+10,Vestido Mini Halter Vera,Natural by Lila,39.99,sin definir,S,corto
+11,Vestido Mini Halter Vera,Natural by Lila,39.99,sin definir,M,corto
+12,Vestido Tirantes Escote Asimétrico,Natural by Lila,39.99,sin definir,S,corto
+13,Vestido Tirantes Escote Asimétrico,Natural by Lila,39.99,sin definir,M,corto
+14,Vestido Corto Hombros Cutout,Natural by Lila,39.95,sin definir,S,corto
+15,Vestido Corto Hombros Cutout,Natural by Lila,39.95,sin definir,M,corto
+16,Vestido Olivia,Natural by Lila,39.95,sin definir,S,corto
+17,Vestido Olivia,Natural by Lila,39.95,sin definir,M,corto
+18,Vestido Silvy,Natural by Lila,36.95,sin definir,S,corto
+19,Vestido Silvy,Natural by Lila,36.95,sin definir,M,corto
+20,Vestido Corto Estampado Hombreras,Natural by Lila,39.95,sin definir,S,corto
+21,Vestido Corto Estampado Hombreras,Natural by Lila,39.95,sin definir,M,corto
+22,Vestido Evasé Olas,Natural by Lila,39.95,sin definir,S,corto
+23,Vestido Fluido Leopardo,Natural by Lila,39.95,sin definir,S,corto
+24,Vestido Fluido Leopardo,Natural by Lila,39.95,sin definir,M,corto
+25,Vestido Punto Canalé Bardot,Natural by Lila,39.95,sin definir,S,corto
+26,Vestido Punto Canalé Bardot,Natural by Lila,39.95,sin definir,M,corto
+27,Vestido Corto Halter Étnico,Natural by Lila,39.95,sin definir,S,corto
+28,Vestido Corto Halter Étnico,Natural by Lila,39.95,sin definir,M,corto
+29,Vestido Monroe Raso,Natural by Lila,29.95,sin definir,S,corto
+30,Vestido Monroe Raso,Natural by Lila,29.95,sin definir,M,corto
+31,Vestido Asimétrico Lurex,Natural by Lila,32.99,sin definir,S,corto
+32,Vestido Marilyn,Natural by Lila,29.95,sin definir,S,corto
+33,Vestido Marilyn,Natural by Lila,29.95,sin definir,M,corto
+34,Vestido Mini Cascada Glitter,Natural by Lila,39.95,sin definir,S,corto
+35,Vestido Mini Cascada Glitter,Natural by Lila,39.95,sin definir,M,corto
+36,Vestido Asimétrico Glitter Choker,Natural by Lila,44.95,sin definir,S,corto
+37,Vestido Asimétrico Glitter Choker,Natural by Lila,44.95,sin definir,M,corto
+38,Vestido Bardot Glitter,Natural by Lila,49.95,sin definir,S,corto
+39,Vestido Bardot Glitter,Natural by Lila,49.95,sin definir,M,corto
+40,Vestido Choker Velvet Corto,Natural by Lila,29.95,sin definir,S,corto
+41,Vestido Choker Velvet Corto,Natural by Lila,29.95,sin definir,M,corto
+42,Vestido Evasé Lazo,Natural by Lila,44.95,sin definir,S,corto
+43,Vestido Evasé Lazo,Natural by Lila,44.95,sin definir,M,corto
+44,Vestido Glitter Choker Cascada,Natural by Lila,34.95,sin definir,S,corto
+45,Vestido Glitter Choker Cascada,Natural by Lila,34.95,sin definir,M,corto
+46,Vestido Tulle Topos con Manguitos,Natural by Lila,29.95,sin definir,S,corto
+47,Vestido Tulle Topos con Manguitos,Natural by Lila,29.95,sin definir,M,corto
+48,Vestido Lentejuelas Alas,Natural by Lila,44.95,sin definir,S,corto
+49,Vestido Lentejuelas Alas,Natural by Lila,44.95,sin definir,M,corto
+50,Vestido Glitter Halter Sweet,Natural by Lila,39.95,sin definir,S,corto
+51,Vestido Glitter Halter Sweet,Natural by Lila,39.95,sin definir,M,corto
+52,Vestido Glitter Diva,Natural by Lila,34.95,sin definir,S,corto
+53,Vestido Glitter Diva,Natural by Lila,34.95,sin definir,M,corto
+54,Vestido Asimétrico Lentejuelas,Natural by Lila,39.95,sin definir,S,corto
+55,Vestido Asimétrico Lentejuelas,Natural by Lila,39.95,sin definir,M,corto
+56,Vestido Abierto Manga Larga,Natural by Lila,29.95,sin definir,S,corto
+57,Vestido Abierto Manga Larga,Natural by Lila,29.95,sin definir,M,corto
+58,Vestido Asimétrico Cutout Velvet Purpurina,Natural by Lila,36.95,sin definir,S,corto
+59,Vestido Asimétrico Cutout Velvet Purpurina,Natural by Lila,36.95,sin definir,M,corto
+60,Vestido Asimétrico Metalizado,Natural by Lila,29.95,sin definir,S,corto
+61,Vestido Asimétrico Metalizado,Natural by Lila,29.95,sin definir,M,corto
+62,Vestido Corsé Terciopelo,Natural by Lila,36.95,sin definir,S,corto
+63,Vestido Corsé Terciopelo,Natural by Lila,36.95,sin definir,M,corto
+64,Vestido Lurex Arandela,Natural by Lila,29.95,sin definir,S,corto
+65,Vestido Lurex Arandela,Natural by Lila,29.95,sin definir,M,corto
+66,Vestido Mini Lurex,Natural by Lila,29.95,sin definir,S,corto
+67,Vestido Mini Lurex,Natural by Lila,29.95,sin definir,M,corto
+68,Vestido Strass Espalda Cruzada,Natural by Lila,39.95,sin definir,S,corto
+69,Vestido Strass Espalda Cruzada,Natural by Lila,39.95,sin definir,M,corto
+70,Vestido Corto Corsé Raso,Natural by Lila,36.95,sin definir,S,corto
+71,Vestido Corto Corsé Raso,Natural by Lila,36.95,sin definir,M,corto
+72,Vestido Tul Mia,Natural by Lila,39.95,sin definir,S,corto
+73,Vestido Tul Mia,Natural by Lila,39.95,sin definir,M,corto
+74,Vestido Mini Halter Lurex,Natural by Lila,29.95,sin definir,S,corto
+75,Vestido Mini Halter Lurex,Natural by Lila,29.95,sin definir,M,corto
+76,Vestido Sandy Raso,Natural by Lila,29.95,sin definir,S,corto
+77,Vestido Sandy Raso,Natural by Lila,29.95,sin definir,M,corto
+78,Vestido Cut Out Lentejuelas,Natural by Lila,39.95,sin definir,S,corto
+79,Vestido Cut Out Lentejuelas,Natural by Lila,39.95,sin definir,M,corto
+80,Vestido Marilyn Lurex,Natural by Lila,29.95,sin definir,S,corto
+81,Vestido Marilyn Lurex,Natural by Lila,29.95,sin definir,M,corto
+82,Vestido Mini Elástico,Natural by Lila,24.95,sin definir,S,corto
+83,Vestido Mini Elástico,Natural by Lila,24.95,sin definir,M,corto
+84,Vestido Bardot Asimétrico Lurex,Natural by Lila,49.99,sin definir,S,largo
+85,Vestido Bardot Asimétrico Lurex,Natural by Lila,49.99,sin definir,M,largo
+86,Vestido Roma,Natural by Lila,49.95,sin definir,S,largo
+87,Vestido Roma,Natural by Lila,49.95,sin definir,M,largo
+88,Vestido Nudo Manga Larga,Natural by Lila,39.95,sin definir,S,largo
+89,Vestido Nudo Manga Larga,Natural by Lila,39.95,sin definir,M,largo
+90,Vestido Leyla,Natural by Lila,49.95,sin definir,S,largo
+91,Vestido Leyla,Natural by Lila,49.95,sin definir,M,largo
+92,Vestido Elástico Asimétrico Midi,Natural by Lila,39.95,sin definir,S,largo
+93,Vestido Elástico Asimétrico Midi,Natural by Lila,39.95,sin definir,M,largo
+94,Vestido Midi Raso Cascada,Natural by Lila,39.95,sin definir,S,largo
+95,Vestido Midi Raso Cascada,Natural by Lila,39.95,sin definir,M,largo
+96,Vestido Manga Gasa Gina,Natural by Lila,49.95,sin definir,S,largo
+97,Vestido Manga Gasa Gina,Natural by Lila,49.95,sin definir,M,largo
+98,Vestido Gasa Granada,Natural by Lila,49.95,sin definir,S,largo
+99,Vestido Gasa Granada,Natural by Lila,49.95,sin definir,M,largo
+100,Vestido Golden Diva,Natural by Lila,44.99,sin definir,S,largo
+101,Vestido Golden Diva,Natural by Lila,44.99,sin definir,M,largo
+102,Vestido Largo Lurex Asimétrico,Natural by Lila,49.99,sin definir,S,largo
+103,Vestido Largo Strass,Natural by Lila,39.99,sin definir,S,largo
+104,Vestido Largo Strass,Natural by Lila,39.99,sin definir,M,largo
+105,Vestido Naila Lurex,Natural by Lila,44.99,sin definir,S,largo
+106,Vestido Naila Lurex,Natural by Lila,44.99,sin definir,M,largo
+107,Vestido Nudo Largo Lurex,Natural by Lila,49.99,sin definir,S,largo
+108,Vestido Nudo Largo Lurex,Natural by Lila,49.99,sin definir,M,largo
+109,Vestido Rose,Natural by Lila,59.99,sin definir,S,largo
+110,Vestido Rose,Natural by Lila,59.99,sin definir,M,largo
+111,Vestido Vienna,Natural by Lila,49.95,sin definir,S,largo
+112,Vestido Vienna,Natural by Lila,49.95,sin definir,M,largo
+113,Vestido Gasa Brigitte,Natural by Lila,49.99,sin definir,S,largo
+114,Vestido Gasa Brigitte,Natural by Lila,49.99,sin definir,M,largo
+115,Vestido Ocean Velvet,Natural by Lila,49.99,sin definir,S,largo
+116,Vestido Ocean Velvet,Natural by Lila,49.99,sin definir,M,largo
+117,Vestido Tania Corsé con Drapeado,Natural by Lila,59.95,sin definir,S,largo
+118,Vestido Tania Corsé con Drapeado,Natural by Lila,59.95,sin definir,M,largo
+119,Vestido Raso Halter,Natural by Lila,49.95,sin definir,S,largo
+120,Vestido Raso Halter,Natural by Lila,49.95,sin definir,M,largo
+121,Vestido Bianca Estampado,Natural by Lila,59.99,sin definir,S,largo
+122,Vestido Bianca Estampado,Natural by Lila,59.99,sin definir,M,largo
+123,Vestido Lady,Natural by Lila,49.99,sin definir,S,largo
+124,Vestido Lady,Natural by Lila,49.99,sin definir,M,largo
+125,Vestido Gasa Estampado Geométrico,Natural by Lila,59.99,sin definir,S,largo
+126,Vestido Gasa Estampado Geométrico,Natural by Lila,59.99,sin definir,M,largo
+127,Vestido Carlota,Natural by Lila,49.95,sin definir,S,largo
+128,Vestido Carlota,Natural by Lila,49.95,sin definir,M,largo
+129,Vestido Midi Tirantes Cruzados Leah,Natural by Lila,39.99,sin definir,S,largo
+130,Vestido Midi Tirantes Cruzados Leah,Natural by Lila,39.99,sin definir,M,largo
+131,Vestido Goddess,Natural by Lila,59.95,sin definir,S,largo
+132,Vestido Goddess,Natural by Lila,59.95,sin definir,M,largo
+133,Vestido Maxi Paillettes,Natural by Lila,59.95,sin definir,S,largo
+134,Vestido Maxi Paillettes,Natural by Lila,59.95,sin definir,M,largo
+135,Vestido Midi Escote Cascada,Natural by Lila,32.95,sin definir,S,largo
+136,Vestido Midi Escote Cascada,Natural by Lila,32.95,sin definir,M,largo
+137,Vestido Gasa Sevilla,Natural by Lila,49.95,sin definir,S,largo
+138,Vestido Gasa Sevilla,Natural by Lila,49.95,sin definir,M,largo
+139,Vestido Oslo,Natural by Lila,49.95,sin definir,S,largo
+140,Vestido Oslo,Natural by Lila,49.95,sin definir,M,largo
+141,Vestido Gasa Vittoria,Natural by Lila,49.95,sin definir,S,largo
+142,Vestido Gasa Vittoria,Natural by Lila,49.95,sin definir,M,largo
+143,Vestido Sirena,Natural by Lila,39.95,sin definir,S,largo
+144,Vestido Sirena,Natural by Lila,39.95,sin definir,M,largo
+145,Vestido Málaga,Natural by Lila,49.95,sin definir,S,largo
+146,Vestido Málaga,Natural by Lila,49.95,sin definir,M,largo
+147,Vestido Asimétrico Lyon,Natural by Lila,49.95,sin definir,S,largo
+148,Vestido Asimétrico Lyon,Natural by Lila,49.95,sin definir,M,largo
+149,Vestido Giralda,Natural by Lila,79.95,sin definir,S,largo
+150,Vestido Giralda,Natural by Lila,79.95,sin definir,M,largo
+151,Vestido Greta,Natural by Lila,49.95,sin definir,S,largo
+152,Vestido Greta,Natural by Lila,49.95,sin definir,M,largo
+153,Vestido Gasa Oporto,Natural by Lila,49.95,sin definir,S,largo
+154,Vestido Gasa Oporto,Natural by Lila,49.95,sin definir,M,largo
+155,Vestido Largo Volantes Gasa Estampado,Natural by Lila,59.95,sin definir,S,largo
+156,Vestido Largo Volantes Gasa Estampado,Natural by Lila,59.95,sin definir,M,largo
+157,Vestido Lencero Raso,Natural by Lila,59.95,sin definir,S,largo
+158,Vestido Lencero Raso,Natural by Lila,59.95,sin definir,M,largo
+159,Vestido Midi Cutout Hombreras,Natural by Lila,39.95,sin definir,S,largo
+160,Vestido Midi Cutout Hombreras,Natural by Lila,39.95,sin definir,M,largo
+161,Vestido Zahara,Natural by Lila,59.95,sin definir,S,largo
+162,Vestido Zahara,Natural by Lila,59.95,sin definir,XS,largo
+163,Vestido Zahara,Natural by Lila,59.95,sin definir,M,largo
+164,Vestido Anilla Boho,Natural by Lila,59.95,sin definir,S,largo
+165,Vestido Anilla Boho,Natural by Lila,59.95,sin definir,M,largo
+166,Vestido Midi Tactel Cutout,Natural by Lila,39.95,sin definir,S,largo
+167,Vestido Midi Tactel Cutout,Natural by Lila,39.95,sin definir,M,largo
+168,Vestido Corsé Premium,Natural by Lila,89.95,sin definir,S,largo
+169,Vestido Corsé Premium,Natural by Lila,89.95,sin definir,M,largo
+170,Vestido Asimétrico con Foulard,Natural by Lila,49.95,sin definir,S,largo
+171,Vestido Asimétrico con Foulard,Natural by Lila,49.95,sin definir,M,largo
+172,Vestido Asimétrico Flor,Natural by Lila,49.95,sin definir,S,largo
+173,Vestido Asimétrico Flor,Natural by Lila,49.95,sin definir,M,largo
+174,Vestido Asimétrico Cebra,Natural by Lila,49.95,sin definir,S,largo
+175,Vestido Asimétrico Cebra,Natural by Lila,49.95,sin definir,M,largo
+176,Vestido Greek,Natural by Lila,69.95,sin definir,S,largo
+177,Vestido Greek,Natural by Lila,69.95,sin definir,L,largo
+178,Vestido Greek,Natural by Lila,69.95,sin definir,M,largo
+179,Vestido con Gasa Asimétrica,Natural by Lila,44.95,sin definir,S,largo
+180,Vestido con Gasa Asimétrica,Natural by Lila,44.95,sin definir,M,largo
+181,Vestido Rosas,Natural by Lila,45.95,sin definir,S,largo
+182,Vestido Rosas,Natural by Lila,45.95,sin definir,M,largo
+183,Vestido Lara,Natural by Lila,49.95,sin definir,S,largo
+184,Vestido Lara,Natural by Lila,49.95,sin definir,M,largo
+185,Vestido Cuore,Natural by Lila,49.95,sin definir,S,largo
+186,Vestido Cuore,Natural by Lila,49.95,sin definir,M,largo
+187,Vestido Ocean,Natural by Lila,49.95,sin definir,S,largo
+188,Vestido Ocean,Natural by Lila,49.95,sin definir,M,largo
+189,Vestido Gasa Tiedye Halter,Natural by Lila,39.95,sin definir,S,largo
+190,Vestido Gasa Tiedye Halter,Natural by Lila,39.95,sin definir,M,largo
+191,Vestido Boho Dalt Vila,Natural by Lila,114.95,sin definir,S,largo
+192,Vestido Boho Dalt Vila,Natural by Lila,114.95,sin definir,L,largo
+193,Vestido Boho Dalt Vila,Natural by Lila,114.95,sin definir,M,largo
+194,Vestido Cutout Drapeado Lurex,Natural by Lila,36.95,sin definir,S,largo
+195,Vestido Elástico Detalle Acero,Natural by Lila,69.95,sin definir,S,largo
+196,Vestido Elástico Detalle Acero,Natural by Lila,69.95,sin definir,M,largo
+197,Vestido Hombreras Estampado Lila,Natural by Lila,39.95,sin definir,S,largo
+198,Vestido Hombreras Estampado Lila,Natural by Lila,39.95,sin definir,M,largo
+199,Vestido Kyoto,Natural by Lila,59.95,sin definir,S,largo
+200,Vestido Kyoto,Natural by Lila,59.95,sin definir,M,largo
+201,Vestido Largo con Cola,Natural by Lila,99.0,sin definir,S,largo
+202,Vestido Largo con Cola,Natural by Lila,99.0,sin definir,M,largo
+203,Vestido Largo Escote Cruzado,Natural by Lila,49.95,sin definir,S,largo
+204,Vestido Largo Escote Cruzado,Natural by Lila,49.95,sin definir,M,largo
+205,Vestido Leonor,Natural by Lila,59.95,sin definir,S,largo
+206,Vestido Leonor,Natural by Lila,59.95,sin definir,M,largo
+207,Vestido Maxi Lurex Drapeado,Natural by Lila,39.95,sin definir,S,largo
+208,Vestido Maxi Lurex Drapeado,Natural by Lila,39.95,sin definir,M,largo
+209,Vestido Maxi Tirantes Volantes,Natural by Lila,49.95,sin definir,S,largo
+210,Vestido Maxi Tirantes Volantes,Natural by Lila,49.95,sin definir,M,largo
+211,Vestido Midi Ceñido Leopardo,Natural by Lila,29.95,sin definir,S,largo
+212,Vestido Midi Gasa Estampado Leopardo,Natural by Lila,49.95,sin definir,S,largo
+213,Vestido Midi Gasa Estampado Leopardo,Natural by Lila,49.95,sin definir,L,largo
+214,Vestido Midi Gasa Estampado Leopardo,Natural by Lila,49.95,sin definir,M,largo
+215,Vestido Queen,Natural by Lila,139.0,sin definir,S,largo
+216,Vestido Queen,Natural by Lila,139.0,sin definir,M,largo
+217,Vestido Rayas,Natural by Lila,44.95,sin definir,S,largo
+218,Vestido Rayas,Natural by Lila,44.95,sin definir,M,largo
+219,Vestido Sofia Olive,Natural by Lila,99.0,sin definir,S,largo
+220,Vestido Sofia Olive,Natural by Lila,99.0,sin definir,L,largo
+221,Vestido Sofia Olive,Natural by Lila,99.0,sin definir,M,largo
+222,Vestido Strapless Elástico Estampado,Natural by Lila,29.95,sin definir,S,largo
+223,Vestido Strapless Elástico Estampado,Natural by Lila,29.95,sin definir,M,largo
+224,Vestido Sugar,Natural by Lila,49.95,sin definir,S,largo
+225,Vestido Sugar,Natural by Lila,49.95,sin definir,M,largo
+226,Vestido Venezia Olive,Natural by Lila,99.0,sin definir,S,largo
+227,Vestido Venezia Olive,Natural by Lila,99.0,sin definir,M,largo
+228,Vestido Venezia Teja,Natural by Lila,99.0,sin definir,S,largo
+229,Vestido Venezia Teja,Natural by Lila,99.0,sin definir,M,largo
+230,Vestido Sofia Red,Natural by Lila,99.0,sin definir,S,largo
+231,Vestido Sofia Red,Natural by Lila,99.0,sin definir,L,largo
+232,Vestido Sofia Red,Natural by Lila,99.0,sin definir,M,largo
+233,Vestido Raso Tipo Corsé,Natural by Lila,49.95,sin definir,S,largo
+234,Vestido Raso Tipo Corsé,Natural by Lila,49.95,sin definir,M,largo
+235,Vestido Maxi Escote Cascada,Natural by Lila,49.95,sin definir,S,largo
+236,Vestido Maxi Escote Cascada,Natural by Lila,49.95,sin definir,M,largo
+237,Vestido Multiposición Largo,Natural by Lila,44.95,sin definir,S,largo
+238,Vestido Multiposición Largo,Natural by Lila,44.95,sin definir,M,largo
+239,Vestido Cascada Ceñido,Natural by Lila,49.95,sin definir,S,largo
+240,Vestido Cascada Ceñido,Natural by Lila,49.95,sin definir,M,largo
+241,Vestido Marbella,Natural by Lila,29.99,sin definir,S,largo
+242,Vestido Marbella,Natural by Lila,29.99,sin definir,M,largo
+243,Vestido Menorca,Natural by Lila,49.95,sin definir,S,largo
+244,Vestido Menorca,Natural by Lila,49.95,sin definir,M,largo
+245,Vestido Jávea,Natural by Lila,39.95,sin definir,S,largo
+246,Vestido Jávea,Natural by Lila,39.95,sin definir,M,largo
+247,Vestido Naila,Natural by Lila,49.95,sin definir,S,largo
+248,Vestido Naila,Natural by Lila,49.95,sin definir,M,largo
+249,Vestido Los Angeles,Natural by Lila,39.95,sin definir,S,largo
+250,Vestido Los Angeles,Natural by Lila,39.95,sin definir,M,largo
+251,Vestido Santa Eulàlia,Natural by Lila,44.95,sin definir,S,largo
+252,Vestido Santa Eulàlia,Natural by Lila,44.95,sin definir,M,largo
+253,Vestido Asimétrico Lycra con Tira Larga,Natural by Lila,49.95,sin definir,S,largo
+254,Vestido Asimétrico Lycra con Tira Larga,Natural by Lila,49.95,sin definir,M,largo
+255,Vestido Mirla Orange,Natural by Lila,39.95,sin definir,S,largo
+256,Vestido Mirla Orange,Natural by Lila,39.95,sin definir,M,largo
+257,Vestido Boho Marrakech,Natural by Lila,39.95,sin definir,S,largo
+258,Vestido Boho Marrakech,Natural by Lila,39.95,sin definir,M,largo
+259,Vestido Dalt Vila,Natural by Lila,44.95,sin definir,S,largo
+260,Vestido Dalt Vila,Natural by Lila,44.95,sin definir,M,largo
+261,Vestido Es Caló,Natural by Lila,44.95,sin definir,S,largo
+262,Vestido Es Caló,Natural by Lila,44.95,sin definir,M,largo
+263,Vestido Escote Corsé Popelin,Natural by Lila,39.95,sin definir,S,largo
+264,Vestido Escote Corsé Popelin,Natural by Lila,39.95,sin definir,M,largo
+265,Vestido Estampado Lurex Halter,Natural by Lila,39.95,sin definir,S,largo
+266,Vestido Estampado Lurex Halter,Natural by Lila,39.95,sin definir,M,largo
+267,Vestido Leira Asimétrico,Natural by Lila,39.95,sin definir,S,largo
+268,Vestido Leira Asimétrico,Natural by Lila,39.95,sin definir,M,largo
+269,Vestido Tirante Retorcido,Natural by Lila,39.95,sin definir,S,largo
+270,Vestido Tirante Retorcido,Natural by Lila,39.95,sin definir,M,largo
+271,Vestido Valeria Rombos,Natural by Lila,39.95,sin definir,S,largo
+272,Vestido Valeria Rombos,Natural by Lila,39.95,sin definir,M,largo
+273,Vestido Valeria Tiedye,Natural by Lila,39.95,sin definir,S,largo
+274,Vestido Valeria Tiedye,Natural by Lila,39.95,sin definir,M,largo
+275,Vestido Bardot Espalda Abierta,Natural by Lila,39.95,sin definir,S,largo
+276,Vestido Bardot Espalda Abierta,Natural by Lila,39.95,sin definir,M,largo
+277,Vestido Midi Cutout Bañera,Natural by Lila,29.95,sin definir,S,largo
+278,Vestido Midi Cutout Bañera,Natural by Lila,29.95,sin definir,M,largo
+279,Vestido Asimétrico con Flor,Natural by Lila,49.95,sin definir,S,largo
+280,Vestido Asimétrico con Flor,Natural by Lila,49.95,sin definir,M,largo
+281,Vestido Boho Pedrería,Natural by Lila,49.95,sin definir,S,largo
+282,Vestido Crochet Lurex Oro,Natural by Lila,29.95,sin definir,S,largo
+283,Vestido Crochet Lurex Oro,Natural by Lila,29.95,sin definir,M,largo
+284,Vestido Glow,Natural by Lila,59.95,sin definir,S,largo
+285,Vestido Glow,Natural by Lila,59.95,sin definir,M,largo
+286,Vestido Mermaid Lycra,Natural by Lila,49.95,sin definir,S,largo
+287,Vestido Mermaid Lycra,Natural by Lila,49.95,sin definir,M,largo
+288,Vestido Mermaid Raso,Natural by Lila,49.95,sin definir,S,largo
+289,Vestido Mermaid Raso,Natural by Lila,49.95,sin definir,M,largo
+290,Vestido Miracle,Natural by Lila,59.95,sin definir,S,largo
+291,Vestido Miracle,Natural by Lila,59.95,sin definir,M,largo
+292,Vestido Mykonos,Natural by Lila,39.95,sin definir,S,largo
+293,Vestido Mykonos,Natural by Lila,39.95,sin definir,M,largo
+294,Vestido Noe Espalda Cruzada,Natural by Lila,49.95,sin definir,S,largo
+295,Vestido Noe Espalda Cruzada,Natural by Lila,49.95,sin definir,M,largo
+296,Vestido Asimétrico Escote Cut Out,Natural by Lila,39.95,sin definir,S,largo
+297,Vestido Asimétrico Escote Cut Out,Natural by Lila,39.95,sin definir,M,largo
+298,Vestido Bardot Asimétrico,Natural by Lila,49.95,sin definir,S,largo
+299,Vestido Bardot Asimétrico,Natural by Lila,49.95,sin definir,M,largo
+300,Vestido Bardot Espalda Descubierta,Natural by Lila,39.95,sin definir,S,largo
+301,Vestido Bardot Espalda Descubierta,Natural by Lila,39.95,sin definir,M,largo
+302,Vestido Largo Cascada Lurex,Natural by Lila,49.95,sin definir,S,largo
+303,Vestido Escote Recto Drapeado,Natural by Lila,39.95,sin definir,S,largo
+304,Vestido Escote Recto Drapeado,Natural by Lila,39.95,sin definir,M,largo
+305,Vestido Gala Elástico Brillante,Natural by Lila,59.0,sin definir,S,largo
+306,Vestido Gala Elástico Brillante,Natural by Lila,59.0,sin definir,M,largo
+307,Vestido Midi Cut Out Metalizado,Natural by Lila,34.95,sin definir,S,largo
+308,Vestido Midi Cut Out Metalizado,Natural by Lila,34.95,sin definir,M,largo
+309,Vestido Sofia Green,Natural by Lila,99.0,sin definir,S,largo
+310,Vestido Sofia Green,Natural by Lila,99.0,sin definir,L,largo
+311,Vestido Sofia Green,Natural by Lila,99.0,sin definir,M,largo
+312,Vestido Sofia Klein,Natural by Lila,99.0,sin definir,S,largo
+313,Vestido Sofia Klein,Natural by Lila,99.0,sin definir,L,largo
+314,Vestido Sofia Klein,Natural by Lila,99.0,sin definir,M,largo
+315,Vestido Sofia Pink,Natural by Lila,99.0,sin definir,S,largo
+316,Vestido Sofia Pink,Natural by Lila,99.0,sin definir,L,largo
+317,Vestido Sofia Pink,Natural by Lila,99.0,sin definir,M,largo
+318,Vestido Sofia Sky,Natural by Lila,99.0,sin definir,S,largo
+319,Vestido Sofia Sky,Natural by Lila,99.0,sin definir,L,largo
+320,Vestido Sofia Sky,Natural by Lila,99.0,sin definir,M,largo
+321,Vestido Tie Dye Cut Out,Natural by Lila,29.95,sin definir,S,largo
+322,Vestido Tie Dye Cut Out,Natural by Lila,29.95,sin definir,M,largo
+323,Vestido Espalda Cruzada,Natural by Lila,69.95,sin definir,S,largo
+324,Vestido Audrey,Natural by Lila,29.95,sin definir,S,largo
+325,Vestido Audrey,Natural by Lila,29.95,sin definir,M,largo
+326,Vestido Bertha,Natural by Lila,49.95,sin definir,S,largo
+327,Vestido Bow,Natural by Lila,39.95,sin definir,S,largo
+328,Vestido Bow,Natural by Lila,39.95,sin definir,M,largo
+329,Vestido Gasa con Cinturón,Natural by Lila,49.95,sin definir,S,largo
+330,Vestido Gasa con Cinturón,Natural by Lila,49.95,sin definir,M,largo
+331,Vestido Midi Raso,Natural by Lila,39.95,sin definir,S,largo
+332,Vestido Midi Raso,Natural by Lila,39.95,sin definir,M,largo
+333,Vestido Halter Drapeado,Natural by Lila,49.95,sin definir,S,largo
+334,Vestido Halter Drapeado,Natural by Lila,49.95,sin definir,M,largo
+335,Vestido Nicole,Natural by Lila,39.95,sin definir,S,largo
+336,Vestido Nicole,Natural by Lila,39.95,sin definir,M,largo
+337,Vestido Mimi,Natural by Lila,39.95,sin definir,S,largo
+338,Vestido Mimi,Natural by Lila,39.95,sin definir,M,largo
+339,Vestido Anudado Manga Larga,Natural by Lila,34.95,sin definir,S,largo
+340,Vestido Anudado Manga Larga,Natural by Lila,34.95,sin definir,M,largo
+341,Vestido Halter Largo,Natural by Lila,39.95,sin definir,S,largo
+342,Vestido Halter Largo,Natural by Lila,39.95,sin definir,M,largo

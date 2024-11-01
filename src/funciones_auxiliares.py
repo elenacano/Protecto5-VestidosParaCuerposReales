@@ -57,7 +57,7 @@ def creacion_diccionario_asos(dic_precio):
 
     return dic_vestido
 
-def creacion_diccionario_forever21():
+def creacion_diccionario_forever21_vieja():
     dic_vestido = {
         "nombre" : [],
         "marca" : [],
@@ -88,5 +88,42 @@ def creacion_diccionario_forever21():
                 dic_vestido["color"].append(color)
                 dic_vestido["talla"].append(talla)
                 dic_vestido["stock"].append(stock)
+
+    return dic_vestido
+
+
+def creacion_diccionario_forever21():
+    dic_vestido = {
+        "nombre" : [],
+        "marca" : [],
+        "precio" : [],
+        "color" : [],
+        "talla" : [],
+        "stock" : []
+    }
+
+    for archivo in os.listdir("../datos/api_forever21")[:-1]:
+
+        with open(f"../datos/api_forever21/{archivo}", 'r') as file:
+            producto = json.load(file)
+
+        id = int(archivo.split("_")[0])
+        marca = "Forever21"
+        for i in range(len(producto["product"]["Variants"])):
+            for j in range(len(producto["product"]["Variants"][i]["Sizes"])):
+                nombre = producto["product"]["Variants"][i]["Sizes"][j]["DisplayName"]
+                color = producto["product"]["Variants"][i]["ColorName"]
+                talla = producto["product"]["Variants"][i]["Sizes"][j]["SizeName"]
+                precio = producto["product"]["Variants"][i]["Sizes"][j]["Price"]
+                stock = producto["product"]["Variants"][i]["Sizes"][j]["inventories"][0]["stock_level"]
+
+                elems_talla = talla.split("/")
+                for elem in elems_talla:
+                    dic_vestido["nombre"].append(nombre)
+                    dic_vestido["marca"].append(marca)
+                    dic_vestido["precio"].append(precio)
+                    dic_vestido["color"].append(color)
+                    dic_vestido["talla"].append(elem)
+                    dic_vestido["stock"].append(stock)
 
     return dic_vestido
