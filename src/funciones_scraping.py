@@ -50,7 +50,7 @@ def selenium_bylila():
     return lista_vestidos_cortos_largos
 
 
-def extraccion_info(lista_vestidos_cortos_largos):
+def extraccion_info_bylila(lista_vestidos_cortos_largos):
     dic_vestido = {
         "nombre" : [],
         "marca" : [],
@@ -116,3 +116,25 @@ def extraccion_info(lista_vestidos_cortos_largos):
                     dic_vestido["categoria"].append("largo")
         i+=1
     return dic_vestido
+
+
+def obtencion_links_ladypipa():
+    url = "https://ladypipa.com/collections/vestidos"
+    driver = webdriver.Chrome()
+    driver.get(url)
+    driver.maximize_window()
+    sleep(1)
+
+    product_list= driver.find_element(By.CLASS_NAME, 'product-list')
+    sleep(1)
+    product_cards = product_list.find_elements(By.CLASS_NAME, 'product-card')
+    sleep(1)
+
+    lista_links=[]
+    for i in range (2, len(product_cards)+1):
+        tarjeta = driver.find_element("css selector", f'#ProductGridContainer > div.collection__results > div > product-list > product-card:nth-child({i})')
+        div_link = tarjeta.find_element("css selector", "div.product-card__figure a")
+        lista_links.append(div_link.get_attribute("href"))
+
+    driver.quit()
+    return lista_links
