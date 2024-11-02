@@ -39,5 +39,9 @@ querie_carga_vestidos =  """INSERT INTO vestidos
                                 (nombre, id_marca, precio, color, talla, id_categoria)  
                                 VALUES (%s, %s, %s, %s, %s, %s)""" 
 
+querie_carga_vestidos_f21 =  """INSERT INTO vestidos_forever21 
+                                (nombre, id_marca, precio, color, talla, stock, id_categoria)  
+                                VALUES (%s, %s, %s, %s, %s, %s, %s)""" 
+
 
 

@@ -1,0 +1,422 @@
+,nombre,marca,precio,color,talla,stock,categoria
+1,sequin christmas tree dress,2,28.0,verde/rojo,S,39.0,4
+5,sequin christmas tree dress,2,28.0,verde,XS,116.0,4
+6,sequin christmas tree dress,2,28.0,verde,S,269.0,4
+7,sequin christmas tree dress,2,28.0,verde,M,232.0,4
+8,sequin christmas tree dress,2,28.0,verde,L,153.0,4
+9,sequin christmas tree dress,2,28.0,verde,XL,116.0,4
+10,sequin mini dress,2,28.0,plata,XS,86.0,3
+11,sequin mini dress,2,28.0,plata,S,215.0,3
+12,sequin mini dress,2,28.0,plata,M,215.0,3
+13,sequin mini dress,2,28.0,plata,L,129.0,3
+14,sequin mini dress,2,28.0,plata,XL,86.0,3
+15,sequin mini dress,2,28.0,plata,XXL,43.0,3
+16,sequin mini dress,2,28.0,negro,XS,100.0,3
+17,sequin mini dress,2,28.0,negro,S,229.0,3
+18,sequin mini dress,2,28.0,negro,M,250.0,3
+19,sequin mini dress,2,28.0,negro,L,150.0,3
+20,sequin mini dress,2,28.0,negro,XL,100.0,3
+21,sequin mini dress,2,28.0,negro,XXL,50.0,3
+22,chiffon smocked peasant-sleeve mini dress,2,44.99,beige,XS,32.0,3
+23,chiffon smocked peasant-sleeve mini dress,2,44.99,beige,S,96.0,3
+24,chiffon smocked peasant-sleeve mini dress,2,44.99,beige,M,83.0,3
+25,chiffon smocked peasant-sleeve mini dress,2,44.99,beige,L,46.0,3
+26,chiffon smocked peasant-sleeve mini dress,2,44.99,beige,XL,38.0,3
+27,chiffon smocked peasant-sleeve mini dress,2,44.99,negro,XS,52.0,3
+28,chiffon smocked peasant-sleeve mini dress,2,44.99,negro,S,122.0,3
+29,chiffon smocked peasant-sleeve mini dress,2,44.99,negro,M,106.0,3
+30,chiffon smocked peasant-sleeve mini dress,2,44.99,negro,L,71.0,3
+31,chiffon smocked peasant-sleeve mini dress,2,44.99,negro,XL,53.0,3
+32,seamless half-zip mock neck romper,2,24.99,negro,S,380.0,4
+33,seamless half-zip mock neck romper,2,24.99,negro,M,232.0,4
+34,seamless half-zip mock neck romper,2,24.99,negro,L,95.0,4
+35,seamless half-zip mock neck romper,2,24.99,topo,S,108.0,4
+36,seamless half-zip mock neck romper,2,24.99,topo,M,62.0,4
+37,seamless half-zip mock neck romper,2,24.99,topo,L,30.0,4
+38,seamless half-zip mock neck romper,2,24.99,rojo,S,59.0,4
+39,seamless half-zip mock neck romper,2,24.99,rojo,M,37.0,4
+40,seamless half-zip mock neck romper,2,24.99,rojo,L,20.0,4
+41,fair isle mini sweater dress,2,34.99,rojo,S,252.0,3
+42,fair isle mini sweater dress,2,34.99,rojo,M,252.0,3
+43,fair isle mini sweater dress,2,34.99,rojo,L,252.0,3
+44,fair isle mini sweater dress,2,34.99,rojo,XL,252.0,3
+45,sequin santa crop top & skirt set,2,34.99,rojo,S,107.0,4
+46,sequin santa crop top & skirt set,2,34.99,rojo,M,216.0,4
+47,sequin santa crop top & skirt set,2,34.99,rojo,L,216.0,4
+48,sequin santa crop top & skirt set,2,34.99,rojo,XL,108.0,4
+49,hooded striped santa mini dress,2,34.99,rojo,S,204.0,3
+50,hooded striped santa mini dress,2,34.99,rojo,M,204.0,3
+51,hooded striped santa mini dress,2,34.99,rojo,L,204.0,3
+52,plunging surplice lace mini dress,2,29.99,negro,XS,87.0,3
+53,plunging surplice lace mini dress,2,29.99,negro,S,200.0,3
+54,plunging surplice lace mini dress,2,29.99,negro,M,174.0,3
+55,plunging surplice lace mini dress,2,29.99,negro,L,116.0,3
+56,plunging surplice lace mini dress,2,29.99,negro,XL,87.0,3
+57,plunging surplice lace mini dress,2,29.99,granate,XS,54.0,3
+58,plunging surplice lace mini dress,2,29.99,granate,S,123.0,3
+59,plunging surplice lace mini dress,2,29.99,granate,M,108.0,3
+60,plunging surplice lace mini dress,2,29.99,granate,L,72.0,3
+61,plunging surplice lace mini dress,2,29.99,granate,XL,54.0,3
+62,strapless bubble-hem mini dress,2,29.99,negro,XS,48.0,3
+63,strapless bubble-hem mini dress,2,29.99,negro,S,108.0,3
+64,strapless bubble-hem mini dress,2,29.99,negro,M,96.0,3
+65,strapless bubble-hem mini dress,2,29.99,negro,L,64.0,3
+66,strapless bubble-hem mini dress,2,29.99,negro,XL,48.0,3
+67,rosette tank mini dress,2,29.99,negro,XS,37.0,3
+68,rosette tank mini dress,2,29.99,negro,S,103.0,3
+69,rosette tank mini dress,2,29.99,negro,M,89.0,3
+70,rosette tank mini dress,2,29.99,negro,L,63.0,3
+71,rosette tank mini dress,2,29.99,negro,XL,47.0,3
+72,bodycon mini sweater dress,2,34.99,negro,XS,64.0,3
+73,bodycon mini sweater dress,2,34.99,negro,S,210.0,3
+74,bodycon mini sweater dress,2,34.99,negro,M,156.0,3
+75,bodycon mini sweater dress,2,34.99,negro,L,127.0,3
+76,bodycon mini sweater dress,2,34.99,negro,XL,101.0,3
+82,bodycon mini sweater dress,2,34.99,beige,XS,75.0,3
+83,bodycon mini sweater dress,2,34.99,beige,S,184.0,3
+84,bodycon mini sweater dress,2,34.99,beige,M,161.0,3
+85,bodycon mini sweater dress,2,34.99,beige,L,108.0,3
+86,bodycon mini sweater dress,2,34.99,beige,XL,85.0,3
+87,bodycon mini sweater dress,2,34.99,verde,XS,56.0,3
+88,bodycon mini sweater dress,2,34.99,verde,S,145.0,3
+89,bodycon mini sweater dress,2,34.99,verde,M,127.0,3
+90,bodycon mini sweater dress,2,34.99,verde,L,88.0,3
+91,bodycon mini sweater dress,2,34.99,verde,XL,66.0,3
+92,ruched bodycon midi dress,2,44.99,negro,XS,64.0,1
+93,ruched bodycon midi dress,2,44.99,negro,S,142.0,1
+94,ruched bodycon midi dress,2,44.99,negro,M,123.0,1
+95,ruched bodycon midi dress,2,44.99,negro,L,84.0,1
+96,ruched bodycon midi dress,2,44.99,negro,XL,64.0,1
+97,ruched bodycon midi dress,2,44.99,granate,XS,30.0,1
+98,ruched bodycon midi dress,2,44.99,granate,S,72.0,1
+99,ruched bodycon midi dress,2,44.99,granate,M,64.0,1
+100,ruched bodycon midi dress,2,44.99,granate,L,41.0,1
+101,ruched bodycon midi dress,2,44.99,granate,XL,29.0,1
+102,rhinestone fringe cami mini dress,2,34.99,negro,XS,55.0,3
+103,rhinestone fringe cami mini dress,2,34.99,negro,S,143.0,3
+104,rhinestone fringe cami mini dress,2,34.99,negro,M,114.0,3
+105,rhinestone fringe cami mini dress,2,34.99,negro,L,76.0,3
+106,rhinestone fringe cami mini dress,2,34.99,negro,XL,53.0,3
+107,rhinestone fringe cami mini dress,2,34.99,blanco,XS,46.0,3
+108,rhinestone fringe cami mini dress,2,34.99,blanco,S,104.0,3
+109,rhinestone fringe cami mini dress,2,34.99,blanco,M,87.0,3
+110,rhinestone fringe cami mini dress,2,34.99,blanco,L,68.0,3
+111,rhinestone fringe cami mini dress,2,34.99,blanco,XL,47.0,3
+112,buckled asymmetrical mini dress,2,34.99,negro,XS,36.0,3
+113,buckled asymmetrical mini dress,2,34.99,negro,S,83.0,3
+114,buckled asymmetrical mini dress,2,34.99,negro,M,72.0,3
+115,buckled asymmetrical mini dress,2,34.99,negro,L,48.0,3
+116,buckled asymmetrical mini dress,2,34.99,negro,XL,36.0,3
+117,ruched halter bodycon mini dress,2,34.99,negro,XS,29.0,3
+118,ruched halter bodycon mini dress,2,34.99,negro,S,69.0,3
+119,ruched halter bodycon mini dress,2,34.99,negro,M,59.0,3
+120,ruched halter bodycon mini dress,2,34.99,negro,L,40.0,3
+121,ruched halter bodycon mini dress,2,34.99,negro,XL,30.0,3
+122,ruched halter bodycon mini dress,2,34.99,rojo,XS,20.0,3
+123,ruched halter bodycon mini dress,2,34.99,rojo,S,49.0,3
+124,ruched halter bodycon mini dress,2,34.99,rojo,M,42.0,3
+125,ruched halter bodycon mini dress,2,34.99,rojo,L,28.0,3
+126,ruched halter bodycon mini dress,2,34.99,rojo,XL,21.0,3
+127,lace off-the-shoulder mini dress,2,34.99,negro,XS,39.0,3
+128,lace off-the-shoulder mini dress,2,34.99,negro,S,91.0,3
+129,lace off-the-shoulder mini dress,2,34.99,negro,M,78.0,3
+130,lace off-the-shoulder mini dress,2,34.99,negro,L,52.0,3
+131,lace off-the-shoulder mini dress,2,34.99,negro,XL,39.0,3
+132,bow sweater mini dress,2,39.99,rojo,XS,59.0,3
+133,bow sweater mini dress,2,39.99,rojo,S,139.0,3
+134,bow sweater mini dress,2,39.99,rojo,M,120.0,3
+135,bow sweater mini dress,2,39.99,rojo,L,80.0,3
+136,bow sweater mini dress,2,39.99,rojo,XL,60.0,3
+137,velvet corset cowl maxi dress,2,39.99,negro,XS,51.0,2
+138,velvet corset cowl maxi dress,2,39.99,negro,S,126.0,2
+139,velvet corset cowl maxi dress,2,39.99,negro,M,106.0,2
+140,velvet corset cowl maxi dress,2,39.99,negro,L,71.0,2
+141,velvet corset cowl maxi dress,2,39.99,negro,XL,54.0,2
+142,strapless satin lace-up mini dress,2,34.99,negro,XS,48.0,3
+143,strapless satin lace-up mini dress,2,34.99,negro,S,112.0,3
+144,strapless satin lace-up mini dress,2,34.99,negro,M,96.0,3
+145,strapless satin lace-up mini dress,2,34.99,negro,L,64.0,3
+146,strapless satin lace-up mini dress,2,34.99,negro,XL,48.0,3
+147,strapless satin lace-up mini dress,2,34.99,verde,XS,30.0,3
+148,strapless satin lace-up mini dress,2,34.99,verde,S,70.0,3
+149,strapless satin lace-up mini dress,2,34.99,verde,M,60.0,3
+150,strapless satin lace-up mini dress,2,34.99,verde,L,40.0,3
+151,strapless satin lace-up mini dress,2,34.99,verde,XL,30.0,3
+152,strapless satin lace-up mini dress,2,34.99,rojo,XS,39.0,3
+153,strapless satin lace-up mini dress,2,34.99,rojo,S,91.0,3
+154,strapless satin lace-up mini dress,2,34.99,rojo,M,78.0,3
+155,strapless satin lace-up mini dress,2,34.99,rojo,L,52.0,3
+156,strapless satin lace-up mini dress,2,34.99,rojo,XL,39.0,3
+157,halter bubble-hem mini dress,2,44.99,negro,XS,50.0,3
+158,halter bubble-hem mini dress,2,44.99,negro,S,151.0,3
+159,halter bubble-hem mini dress,2,44.99,negro,M,124.0,3
+160,halter bubble-hem mini dress,2,44.99,negro,L,67.0,3
+161,halter bubble-hem mini dress,2,44.99,negro,XL,39.0,3
+162,halter bubble-hem mini dress,2,44.99,granate,XS,68.0,3
+163,halter bubble-hem mini dress,2,44.99,granate,S,162.0,3
+164,halter bubble-hem mini dress,2,44.99,granate,M,128.0,3
+165,halter bubble-hem mini dress,2,44.99,granate,L,89.0,3
+166,halter bubble-hem mini dress,2,44.99,granate,XL,63.0,3
+167,plus size velour mini dress,2,20.0,negro,XXL,27.0,3
+168,plus size velour mini dress,2,20.0,negro,3XL,39.0,3
+169,plus size velour mini dress,2,20.0,negro,4XL,40.0,3
+170,plus size velour mini dress,2,20.0,negro,5XL,42.0,3
+171,plus size velour mini dress,2,20.0,negro,6XL,10.0,3
+172,plus size lace bell-sleeve mini dress,2,44.99,granate,XXL,30.0,3
+173,plus size lace bell-sleeve mini dress,2,44.99,granate,3XL,45.0,3
+174,plus size lace bell-sleeve mini dress,2,44.99,granate,4XL,45.0,3
+175,plus size lace bell-sleeve mini dress,2,44.99,granate,5XL,44.0,3
+176,plus size lace bell-sleeve mini dress,2,44.99,granate,6XL,15.0,3
+177,sequin fitted thumbhole jumpsuit,2,29.99,negro,XS,42.0,4
+178,sequin fitted thumbhole jumpsuit,2,29.99,negro,S,110.0,4
+179,sequin fitted thumbhole jumpsuit,2,29.99,negro,M,92.0,4
+180,sequin fitted thumbhole jumpsuit,2,29.99,negro,L,62.0,4
+181,sequin fitted thumbhole jumpsuit,2,29.99,negro,XL,45.0,4
+182,contour sculpt rhinestone midi tube dress,2,34.99,negro,XS,35.0,1
+183,contour sculpt rhinestone midi tube dress,2,34.99,negro,S,90.0,1
+184,contour sculpt rhinestone midi tube dress,2,34.99,negro,M,78.0,1
+185,contour sculpt rhinestone midi tube dress,2,34.99,negro,L,51.0,1
+186,contour sculpt rhinestone midi tube dress,2,34.99,negro,XL,38.0,1
+187,faux gem cutout midi sweater dress,2,49.99,negro,XS,39.0,1
+188,faux gem cutout midi sweater dress,2,49.99,negro,S,90.0,1
+189,faux gem cutout midi sweater dress,2,49.99,negro,M,78.0,1
+190,faux gem cutout midi sweater dress,2,49.99,negro,L,52.0,1
+191,faux gem cutout midi sweater dress,2,49.99,negro,XL,39.0,1
+192,velvet illusion mini dress,2,34.99,negro,XS,35.0,3
+193,velvet illusion mini dress,2,34.99,negro,S,83.0,3
+194,velvet illusion mini dress,2,34.99,negro,M,71.0,3
+195,velvet illusion mini dress,2,34.99,negro,L,48.0,3
+196,velvet illusion mini dress,2,34.99,negro,XL,35.0,3
+197,turtleneck midi sweater dress,2,34.99,negro,XS,117.0,1
+198,turtleneck midi sweater dress,2,34.99,negro,S,273.0,1
+199,turtleneck midi sweater dress,2,34.99,negro,M,233.0,1
+200,turtleneck midi sweater dress,2,34.99,negro,L,156.0,1
+201,turtleneck midi sweater dress,2,34.99,negro,XL,117.0,1
+202,turtleneck midi sweater dress,2,34.99,rojo,XS,60.0,1
+203,turtleneck midi sweater dress,2,34.99,rojo,S,140.0,1
+204,turtleneck midi sweater dress,2,34.99,rojo,M,120.0,1
+205,turtleneck midi sweater dress,2,34.99,rojo,L,80.0,1
+206,turtleneck midi sweater dress,2,34.99,rojo,XL,60.0,1
+207,turtleneck midi sweater dress,2,34.99,blanco,XS,78.0,1
+208,turtleneck midi sweater dress,2,34.99,blanco,S,182.0,1
+209,turtleneck midi sweater dress,2,34.99,blanco,M,156.0,1
+210,turtleneck midi sweater dress,2,34.99,blanco,L,104.0,1
+211,turtleneck midi sweater dress,2,34.99,blanco,XL,78.0,1
+212,velvet sweetheart mini tube dress,2,29.99,negro,XS,36.0,3
+213,velvet sweetheart mini tube dress,2,29.99,negro,S,84.0,3
+214,velvet sweetheart mini tube dress,2,29.99,negro,M,72.0,3
+215,velvet sweetheart mini tube dress,2,29.99,negro,L,48.0,3
+216,velvet sweetheart mini tube dress,2,29.99,negro,XL,36.0,3
+217,faux gem midi sweater dress,2,39.99,negro,XS,117.0,1
+218,faux gem midi sweater dress,2,39.99,negro,S,273.0,1
+219,faux gem midi sweater dress,2,39.99,negro,M,234.0,1
+220,faux gem midi sweater dress,2,39.99,negro,L,156.0,1
+221,faux gem midi sweater dress,2,39.99,negro,XL,117.0,1
+222,fitted lace-trim romper,2,29.99,rosa,XS,42.0,4
+223,fitted lace-trim romper,2,29.99,rosa,S,98.0,4
+224,fitted lace-trim romper,2,29.99,rosa,M,84.0,4
+225,fitted lace-trim romper,2,29.99,rosa,L,56.0,4
+226,fitted lace-trim romper,2,29.99,rosa,XL,42.0,4
+227,fitted lace-trim romper,2,29.99,negro,XS,63.0,4
+228,fitted lace-trim romper,2,29.99,negro,S,147.0,4
+229,fitted lace-trim romper,2,29.99,negro,M,126.0,4
+230,fitted lace-trim romper,2,29.99,negro,L,84.0,4
+231,fitted lace-trim romper,2,29.99,negro,XL,62.0,4
+232,ruched two-tone mini tube dress,2,34.99,negro,XS,39.0,3
+233,ruched two-tone mini tube dress,2,34.99,negro,S,91.0,3
+234,ruched two-tone mini tube dress,2,34.99,negro,M,77.0,3
+235,ruched two-tone mini tube dress,2,34.99,negro,L,52.0,3
+236,ruched two-tone mini tube dress,2,34.99,negro,XL,39.0,3
+237,sweetheart bodycon mini dress,2,34.99,negro,XS,42.0,3
+238,sweetheart bodycon mini dress,2,34.99,negro,S,98.0,3
+239,sweetheart bodycon mini dress,2,34.99,negro,M,84.0,3
+240,sweetheart bodycon mini dress,2,34.99,negro,L,54.0,3
+241,sweetheart bodycon mini dress,2,34.99,negro,XL,41.0,3
+242,off-the-shoulder corset mini dress,2,39.99,negro,XS,48.0,3
+243,off-the-shoulder corset mini dress,2,39.99,negro,S,112.0,3
+244,off-the-shoulder corset mini dress,2,39.99,negro,M,96.0,3
+245,off-the-shoulder corset mini dress,2,39.99,negro,L,64.0,3
+246,off-the-shoulder corset mini dress,2,39.99,negro,XL,48.0,3
+247,plus size glitter knit midi dress,2,39.99,plata,XXL,34.0,1
+248,plus size glitter knit midi dress,2,39.99,plata,3XL,51.0,1
+249,plus size glitter knit midi dress,2,39.99,plata,4XL,51.0,1
+250,plus size glitter knit midi dress,2,39.99,plata,5XL,50.0,1
+251,plus size glitter knit midi dress,2,39.99,plata,6XL,17.0,1
+252,plus size halter m-slit mini dress,2,39.99,negro,XXL,26.0,3
+253,plus size halter m-slit mini dress,2,39.99,negro,3XL,38.0,3
+254,plus size halter m-slit mini dress,2,39.99,negro,4XL,38.0,3
+255,plus size halter m-slit mini dress,2,39.99,negro,5XL,39.0,3
+256,plus size halter m-slit mini dress,2,39.99,negro,6XL,13.0,3
+257,belted mini sweater dress,2,44.99,negro,XS,117.0,3
+258,belted mini sweater dress,2,44.99,negro,S,272.0,3
+259,belted mini sweater dress,2,44.99,negro,M,234.0,3
+260,belted mini sweater dress,2,44.99,negro,L,156.0,3
+261,belted mini sweater dress,2,44.99,negro,XL,117.0,3
+262,belted mini sweater dress,2,44.99,gris,XS,60.0,3
+263,belted mini sweater dress,2,44.99,gris,S,140.0,3
+264,belted mini sweater dress,2,44.99,gris,M,120.0,3
+265,belted mini sweater dress,2,44.99,gris,L,80.0,3
+266,belted mini sweater dress,2,44.99,gris,XL,60.0,3
+267,belted mini sweater dress,2,44.99,beige,XS,78.0,3
+268,belted mini sweater dress,2,44.99,beige,S,182.0,3
+269,belted mini sweater dress,2,44.99,beige,M,156.0,3
+270,belted mini sweater dress,2,44.99,beige,L,103.0,3
+271,belted mini sweater dress,2,44.99,beige,XL,78.0,3
+272,sheer lace bodycon mini dress,2,29.99,negro,XS,48.0,3
+273,sheer lace bodycon mini dress,2,29.99,negro,S,118.0,3
+274,sheer lace bodycon mini dress,2,29.99,negro,M,94.0,3
+275,sheer lace bodycon mini dress,2,29.99,negro,L,62.0,3
+276,sheer lace bodycon mini dress,2,29.99,negro,XL,49.0,3
+277,sheer lace bodycon mini dress,2,29.99,granate,XS,24.0,3
+278,sheer lace bodycon mini dress,2,29.99,granate,S,52.0,3
+279,sheer lace bodycon mini dress,2,29.99,granate,M,45.0,3
+280,sheer lace bodycon mini dress,2,29.99,granate,L,31.0,3
+281,sheer lace bodycon mini dress,2,29.99,granate,XL,23.0,3
+282,foldover off-the-shoulder midi dress,2,34.99,negro,XS,48.0,1
+283,foldover off-the-shoulder midi dress,2,34.99,negro,S,112.0,1
+284,foldover off-the-shoulder midi dress,2,34.99,negro,M,96.0,1
+285,foldover off-the-shoulder midi dress,2,34.99,negro,L,64.0,1
+286,foldover off-the-shoulder midi dress,2,34.99,negro,XL,48.0,1
+287,foldover off-the-shoulder midi dress,2,34.99,verde,XS,30.0,1
+288,foldover off-the-shoulder midi dress,2,34.99,verde,S,70.0,1
+289,foldover off-the-shoulder midi dress,2,34.99,verde,M,60.0,1
+290,foldover off-the-shoulder midi dress,2,34.99,verde,L,40.0,1
+291,foldover off-the-shoulder midi dress,2,34.99,verde,XL,30.0,1
+292,sheer square-neck mini dress,2,29.99,negro,XS,63.0,3
+293,sheer square-neck mini dress,2,29.99,negro,S,147.0,3
+294,sheer square-neck mini dress,2,29.99,negro,M,126.0,3
+295,sheer square-neck mini dress,2,29.99,negro,L,84.0,3
+296,sheer square-neck mini dress,2,29.99,negro,XL,63.0,3
+297,sheer square-neck mini dress,2,29.99,granate,XS,23.0,3
+298,sheer square-neck mini dress,2,29.99,granate,S,56.0,3
+299,sheer square-neck mini dress,2,29.99,granate,M,48.0,3
+300,sheer square-neck mini dress,2,29.99,granate,L,32.0,3
+301,sheer square-neck mini dress,2,29.99,granate,XL,24.0,3
+302,satin sash mini tube dress,2,39.99,negro,XS,38.0,3
+303,satin sash mini tube dress,2,39.99,negro,S,90.0,3
+304,satin sash mini tube dress,2,39.99,negro,M,77.0,3
+305,satin sash mini tube dress,2,39.99,negro,L,52.0,3
+306,satin sash mini tube dress,2,39.99,negro,XL,39.0,3
+307,satin sash mini tube dress,2,39.99,rojo,XS,21.0,3
+308,satin sash mini tube dress,2,39.99,rojo,S,55.0,3
+309,satin sash mini tube dress,2,39.99,rojo,M,46.0,3
+310,satin sash mini tube dress,2,39.99,rojo,L,32.0,3
+311,satin sash mini tube dress,2,39.99,rojo,XL,24.0,3
+312,sleeveless blazer mini dress,2,44.99,negro,XS,48.0,3
+313,sleeveless blazer mini dress,2,44.99,negro,S,112.0,3
+314,sleeveless blazer mini dress,2,44.99,negro,M,96.0,3
+315,sleeveless blazer mini dress,2,44.99,negro,L,63.0,3
+316,sleeveless blazer mini dress,2,44.99,negro,XL,48.0,3
+317,velvet blazer mini dress,2,54.99,negro,XS,41.0,3
+318,velvet blazer mini dress,2,54.99,negro,S,98.0,3
+319,velvet blazer mini dress,2,54.99,negro,M,82.0,3
+320,velvet blazer mini dress,2,54.99,negro,L,55.0,3
+321,velvet blazer mini dress,2,54.99,negro,XL,40.0,3
+322,strapless wide-leg jumpsuit,2,54.99,negro,XS,29.0,4
+323,strapless wide-leg jumpsuit,2,54.99,negro,S,70.0,4
+324,strapless wide-leg jumpsuit,2,54.99,negro,M,60.0,4
+325,strapless wide-leg jumpsuit,2,54.99,negro,L,38.0,4
+326,strapless wide-leg jumpsuit,2,54.99,negro,XL,30.0,4
+327,twist-front cutout mini dress,2,34.99,negro,XS,39.0,3
+328,twist-front cutout mini dress,2,34.99,negro,S,90.0,3
+329,twist-front cutout mini dress,2,34.99,negro,M,78.0,3
+330,twist-front cutout mini dress,2,34.99,negro,L,52.0,3
+331,twist-front cutout mini dress,2,34.99,negro,XL,38.0,3
+332,contour sculpt rhinestone mini dress,2,39.99,negro,XS,30.0,3
+333,contour sculpt rhinestone mini dress,2,39.99,negro,S,70.0,3
+334,contour sculpt rhinestone mini dress,2,39.99,negro,M,60.0,3
+335,contour sculpt rhinestone mini dress,2,39.99,negro,L,40.0,3
+336,contour sculpt rhinestone mini dress,2,39.99,negro,XL,30.0,3
+337,plus size sweetheart mini tube dress,2,29.99,negro,XXL,34.0,3
+338,plus size sweetheart mini tube dress,2,29.99,negro,3XL,51.0,3
+339,plus size sweetheart mini tube dress,2,29.99,negro,4XL,50.0,3
+340,plus size sweetheart mini tube dress,2,29.99,negro,5XL,51.0,3
+341,plus size sweetheart mini tube dress,2,29.99,negro,6XL,17.0,3
+342,plus size faux gem midi sweater dress,2,44.99,beige,XXL,30.0,1
+343,plus size faux gem midi sweater dress,2,44.99,beige,3XL,45.0,1
+344,plus size faux gem midi sweater dress,2,44.99,beige,4XL,45.0,1
+345,plus size faux gem midi sweater dress,2,44.99,beige,5XL,45.0,1
+346,plus size faux gem midi sweater dress,2,44.99,beige,6XL,15.0,1
+347,plus size faux gem midi sweater dress,2,44.99,negro,XXL,33.0,1
+348,plus size faux gem midi sweater dress,2,44.99,negro,3XL,51.0,1
+349,plus size faux gem midi sweater dress,2,44.99,negro,4XL,51.0,1
+350,plus size faux gem midi sweater dress,2,44.99,negro,5XL,51.0,1
+351,plus size faux gem midi sweater dress,2,44.99,negro,6XL,16.0,1
+352,one-shoulder bow mini tube dress,2,34.99,blanco,S,40.0,3
+353,one-shoulder bow mini tube dress,2,34.99,blanco,M,83.0,3
+354,one-shoulder bow mini tube dress,2,34.99,blanco,L,84.0,3
+355,one-shoulder bow mini tube dress,2,34.99,blanco,XL,42.0,3
+356,one-shoulder bow mini tube dress,2,34.99,negro,S,30.0,3
+357,one-shoulder bow mini tube dress,2,34.99,negro,M,65.0,3
+358,one-shoulder bow mini tube dress,2,34.99,negro,L,65.0,3
+359,one-shoulder bow mini tube dress,2,34.99,negro,XL,33.0,3
+360,sheer flocked paisley maxi dress,2,44.99,negro,XS,30.0,2
+361,sheer flocked paisley maxi dress,2,44.99,negro,S,70.0,2
+362,sheer flocked paisley maxi dress,2,44.99,negro,M,60.0,2
+363,sheer flocked paisley maxi dress,2,44.99,negro,L,40.0,2
+364,sheer flocked paisley maxi dress,2,44.99,negro,XL,29.0,2
+365,sheer flocked paisley maxi dress,2,44.99,rojo,XS,48.0,2
+366,sheer flocked paisley maxi dress,2,44.99,rojo,S,115.0,2
+367,sheer flocked paisley maxi dress,2,44.99,rojo,M,98.0,2
+368,sheer flocked paisley maxi dress,2,44.99,rojo,L,66.0,2
+369,sheer flocked paisley maxi dress,2,44.99,rojo,XL,49.0,2
+370,rhinestone buckled mini dress,2,39.99,negro,XS,30.0,3
+371,rhinestone buckled mini dress,2,39.99,negro,S,70.0,3
+372,rhinestone buckled mini dress,2,39.99,negro,M,60.0,3
+373,rhinestone buckled mini dress,2,39.99,negro,L,39.0,3
+374,rhinestone buckled mini dress,2,39.99,negro,XL,30.0,3
+375,jacquard floral halter mini dress,2,29.99,negro,XS,28.0,3
+376,jacquard floral halter mini dress,2,29.99,negro,S,92.0,3
+377,jacquard floral halter mini dress,2,29.99,negro,M,47.0,3
+378,jacquard floral halter mini dress,2,29.99,negro,L,64.0,3
+379,jacquard floral halter mini dress,2,29.99,negro,XL,39.0,3
+380,jacquard floral halter mini dress,2,29.99,granate,XS,30.0,3
+381,jacquard floral halter mini dress,2,29.99,granate,S,69.0,3
+382,jacquard floral halter mini dress,2,29.99,granate,M,60.0,3
+383,jacquard floral halter mini dress,2,29.99,granate,L,40.0,3
+384,jacquard floral halter mini dress,2,29.99,granate,XL,30.0,3
+385,velour bodycon cami mini dress,2,24.99,negro,XS,48.0,3
+386,velour bodycon cami mini dress,2,24.99,negro,S,112.0,3
+387,velour bodycon cami mini dress,2,24.99,negro,M,96.0,3
+388,velour bodycon cami mini dress,2,24.99,negro,L,64.0,3
+389,velour bodycon cami mini dress,2,24.99,negro,XL,48.0,3
+390,velour bodycon cami mini dress,2,24.99,verde,XS,36.0,3
+391,velour bodycon cami mini dress,2,24.99,verde,S,84.0,3
+392,velour bodycon cami mini dress,2,24.99,verde,M,72.0,3
+393,velour bodycon cami mini dress,2,24.99,verde,L,48.0,3
+394,velour bodycon cami mini dress,2,24.99,verde,XL,35.0,3
+395,ruched rosette plunging maxi dress,2,44.99,negro,XS,39.0,2
+396,ruched rosette plunging maxi dress,2,44.99,negro,S,91.0,2
+397,ruched rosette plunging maxi dress,2,44.99,negro,M,78.0,2
+398,ruched rosette plunging maxi dress,2,44.99,negro,L,52.0,2
+399,ruched rosette plunging maxi dress,2,44.99,negro,XL,39.0,2
+400,organza bubble-hem mini dress,2,34.99,negro,XS,69.0,3
+401,organza bubble-hem mini dress,2,34.99,negro,S,161.0,3
+402,organza bubble-hem mini dress,2,34.99,negro,M,138.0,3
+403,organza bubble-hem mini dress,2,34.99,negro,L,92.0,3
+404,organza bubble-hem mini dress,2,34.99,negro,XL,68.0,3
+405,lace & mesh combo mini dress,2,29.99,verde,XS,51.0,3
+406,lace & mesh combo mini dress,2,29.99,verde,S,119.0,3
+407,lace & mesh combo mini dress,2,29.99,verde,M,102.0,3
+408,lace & mesh combo mini dress,2,29.99,verde,L,68.0,3
+409,lace & mesh combo mini dress,2,29.99,verde,XL,51.0,3
+410,tiered floral tie-back mini dress,2,39.99,negro,XS,59.0,3
+411,tiered floral tie-back mini dress,2,39.99,negro,S,138.0,3
+412,tiered floral tie-back mini dress,2,39.99,negro,M,119.0,3
+413,tiered floral tie-back mini dress,2,39.99,negro,L,77.0,3
+414,tiered floral tie-back mini dress,2,39.99,negro,XL,57.0,3
+415,sequin holly jolly t-shirt dress,2,39.99,rojo/blanco,S,299.0,4
+416,sequin holly jolly t-shirt dress,2,39.99,rojo/blanco,M,299.0,4
+417,sequin holly jolly t-shirt dress,2,39.99,rojo/blanco,L,298.0,4
+418,sequin holly jolly t-shirt dress,2,39.99,rojo/blanco,XL,298.0,4
+419,asymmetrical rhinestone mini dress,2,39.99,beige,S,84.0,3
+420,asymmetrical rhinestone mini dress,2,39.99,beige,M,42.0,3
+421,asymmetrical rhinestone mini dress,2,39.99,beige,L,42.0,3
+422,sequin santa baby t-shirt dress,2,39.99,rojo/blanco,S,299.0,4
+423,sequin santa baby t-shirt dress,2,39.99,rojo/blanco,M,299.0,4
+424,sequin santa baby t-shirt dress,2,39.99,rojo/blanco,L,299.0,4
+425,sequin santa baby t-shirt dress,2,39.99,rojo/blanco,XL,299.0,4
+426,mesh floral print romper,2,24.99,negro,S,54.0,4
+427,mesh floral print romper,2,24.99,negro,M,53.0,4
+428,mesh floral print romper,2,24.99,negro,L,54.0,4
+429,mesh floral print romper,2,24.99,negro,XL,54.0,4
