@@ -67,6 +67,7 @@ def dbeaver_commitmany(conexion, query, df):
     Returns:
         str: Un mensaje de confirmación después del commit.
     """
+    df = pd.read_csv("../datos/dataframes/" + df + ".csv", index_col=0)
     values = [tuple(fila) for fila in df.values]
     cursor = conexion.cursor()
     cursor.executemany(query, values)
