@@ -1,0 +1,1322 @@
+,nombre,marca,precio,color,talla,categoria
+0,vestido midi plateado con cuello halter de lentejuelas de mango,Mango,133.0,plata,S,midi
+1,vestido midi plateado con cuello halter de lentejuelas de mango,Mango,133.0,plata,M,midi
+2,vestido midi plateado con cuello halter de lentejuelas de mango,Mango,133.0,plata,L,midi
+3,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,negro,XS,midi
+4,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,negro,S,midi
+5,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,negro,M,midi
+6,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,negro,L,midi
+7,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,negro,XL,midi
+8,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,rosa,XS,largo
+9,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,rosa,S,largo
+10,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,rosa,M,largo
+11,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,rosa,L,largo
+12,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,azul,XS,midi
+13,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,azul,S,midi
+14,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,azul,M,midi
+15,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,azul,L,midi
+16,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,azul,XL,midi
+17,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,azul,XS,corto
+18,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,azul,S,corto
+19,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,azul,M,corto
+20,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,azul,L,corto
+21,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,crema,XS,sin categoria
+22,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,crema,S,sin categoria
+23,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,crema,M,sin categoria
+24,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,crema,L,sin categoria
+25,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,amarillo,XS,corto
+26,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,amarillo,S,corto
+27,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,amarillo,M,corto
+28,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,amarillo,L,corto
+29,vestido playero midi plateado de croché de mango,Mango,99.99,plata,S,midi
+30,vestido playero midi plateado de croché de mango,Mango,99.99,plata,M,midi
+31,vestido playero midi plateado de croché de mango,Mango,99.99,plata,L,midi
+32,vestido largo blanco de croché con flores bordadas de mango x siedrés,Mango,249.99,blanco,S,largo
+33,vestido largo blanco de croché con flores bordadas de mango x siedrés,Mango,249.99,blanco,M,largo
+34,vestido largo blanco de croché con flores bordadas de mango x siedrés,Mango,249.99,blanco,L,largo
+35,vestido corto naranja con escote asimétrico de mango,Mango,59.99,naranja,XS,corto
+36,vestido corto naranja con escote asimétrico de mango,Mango,59.99,naranja,S,corto
+37,vestido corto naranja con escote asimétrico de mango,Mango,59.99,naranja,M,corto
+38,vestido corto naranja con escote asimétrico de mango,Mango,59.99,naranja,L,corto
+39,vestido corto naranja con escote asimétrico de mango,Mango,59.99,naranja,XL,corto
+40,vestido midi morado a cuadros variados de mango,Mango,99.99,morado,XS,midi
+41,vestido midi morado a cuadros variados de mango,Mango,99.99,morado,S,midi
+42,vestido midi morado a cuadros variados de mango,Mango,99.99,morado,M,midi
+43,vestido midi morado a cuadros variados de mango,Mango,99.99,morado,L,midi
+44,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,marrón,XS,midi
+45,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,marrón,S,midi
+46,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,marrón,M,midi
+47,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,marrón,L,midi
+48,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,marrón,XL,midi
+49,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,XS,corto
+50,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,S,corto
+51,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,M,corto
+52,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,L,corto
+53,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,XL,corto
+54,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,negro,XS,corto
+55,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,negro,S,corto
+56,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,negro,M,corto
+57,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,negro,L,corto
+58,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,negro,XL,corto
+59,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,gris,XS,midi
+60,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,gris,S,midi
+61,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,gris,M,midi
+62,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,gris,L,midi
+63,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,gris,XL,midi
+64,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,marrón,XS,corto
+65,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,marrón,S,corto
+66,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,marrón,M,corto
+67,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,marrón,L,corto
+68,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,marrón,XL,corto
+69,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,gris,XS,largo
+70,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,gris,S,largo
+71,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,gris,M,largo
+72,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,gris,L,largo
+73,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,morado,XS,largo
+74,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,morado,S,largo
+75,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,morado,M,largo
+76,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,morado,L,largo
+77,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,morado,XL,largo
+78,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,marrón,XS,sin categoria
+79,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,marrón,S,sin categoria
+80,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,marrón,M,sin categoria
+81,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,marrón,L,sin categoria
+82,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,marrón,XL,sin categoria
+83,vestido midi negro con escote bardot de mango,Mango,49.99,negro,XS,midi
+84,vestido midi negro con escote bardot de mango,Mango,49.99,negro,S,midi
+85,vestido midi negro con escote bardot de mango,Mango,49.99,negro,M,midi
+86,vestido midi negro con escote bardot de mango,Mango,49.99,negro,L,midi
+87,vestido midi negro con escote bardot de mango,Mango,49.99,negro,XL,midi
+88,vestido largo blanco con patrón variado de croché de mango,Mango,99.99,blanco,S,largo
+89,vestido largo blanco con patrón variado de croché de mango,Mango,99.99,blanco,M,largo
+90,vestido largo blanco con patrón variado de croché de mango,Mango,99.99,blanco,L,largo
+91,vestido corto negro abotonado sin mangas de mango,Mango,79.99,negro,XS,corto
+92,vestido corto negro abotonado sin mangas de mango,Mango,79.99,negro,S,corto
+93,vestido corto negro abotonado sin mangas de mango,Mango,79.99,negro,M,corto
+94,vestido corto negro abotonado sin mangas de mango,Mango,79.99,negro,L,corto
+95,vestido corto negro abotonado sin mangas de mango,Mango,79.99,negro,XL,corto
+96,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,marrón,XS,corto
+97,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,marrón,S,corto
+98,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,marrón,M,corto
+99,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,marrón,L,corto
+100,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,marrón,XL,corto
+101,vestido vaquero azul medio sin mangas de mango,Mango,99.99,azul,S,sin categoria
+102,vestido vaquero azul medio sin mangas de mango,Mango,99.99,azul,M,sin categoria
+103,vestido vaquero azul medio sin mangas de mango,Mango,99.99,azul,L,sin categoria
+104,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,negro,XS,midi
+105,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,negro,S,midi
+106,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,negro,M,midi
+107,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,negro,L,midi
+108,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,negro,XL,midi
+109,vestido midi negro con botones delanteros de mango,Mango,79.99,negro,XS,midi
+110,vestido midi negro con botones delanteros de mango,Mango,79.99,negro,S,midi
+111,vestido midi negro con botones delanteros de mango,Mango,79.99,negro,M,midi
+112,vestido midi negro con botones delanteros de mango,Mango,79.99,negro,L,midi
+113,vestido midi negro con botones delanteros de mango,Mango,79.99,negro,XL,midi
+114,vestido vaquero corto azul con estampado de estrellas de mango,Mango,99.99,azul,S,corto
+115,vestido vaquero corto azul con estampado de estrellas de mango,Mango,99.99,azul,M,corto
+116,vestido vaquero corto azul con estampado de estrellas de mango,Mango,99.99,azul,L,corto
+117,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,gris,XS,midi
+118,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,gris,S,midi
+119,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,gris,M,midi
+120,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,gris,L,midi
+121,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,XS,corto
+122,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,S,corto
+123,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,M,corto
+124,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,L,corto
+125,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,marrón,XS,midi
+126,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,marrón,S,midi
+127,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,marrón,M,midi
+128,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,marrón,L,midi
+129,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,marrón,XL,midi
+130,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,azul,XS,corto
+131,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,azul,S,corto
+132,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,azul,M,corto
+133,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,azul,L,corto
+134,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,azul,XL,corto
+135,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,azul,XS,largo
+136,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,azul,S,largo
+137,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,azul,M,largo
+138,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,azul,L,largo
+139,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,azul,XL,largo
+140,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,marrón,XS,midi
+141,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,marrón,S,midi
+142,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,marrón,M,midi
+143,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,marrón,L,midi
+144,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,marrón,XL,midi
+145,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,verde,XS,largo
+146,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,verde,S,largo
+147,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,verde,M,largo
+148,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,verde,L,largo
+149,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,verde,XL,largo
+150,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,gris,XS,corto
+151,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,gris,S,corto
+152,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,gris,M,corto
+153,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,gris,L,corto
+154,vestido midi beis de manga corta de mango,Mango,59.99,beige,XS,midi
+155,vestido midi beis de manga corta de mango,Mango,59.99,beige,S,midi
+156,vestido midi beis de manga corta de mango,Mango,59.99,beige,M,midi
+157,vestido midi beis de manga corta de mango,Mango,59.99,beige,L,midi
+158,vestido midi beis de manga corta de mango,Mango,59.99,beige,XL,midi
+159,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,rojo,XS,midi
+160,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,rojo,S,midi
+161,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,rojo,M,midi
+162,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,rojo,L,midi
+163,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,rojo,XL,midi
+164,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,blanco,XS,midi
+165,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,blanco,S,midi
+166,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,blanco,M,midi
+167,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,blanco,L,midi
+168,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,blanco,XL,midi
+169,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,negro,XS,midi
+170,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,negro,S,midi
+171,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,negro,M,midi
+172,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,negro,L,midi
+173,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,negro,XL,midi
+174,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,marrón,XS,midi
+175,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,marrón,S,midi
+176,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,marrón,M,midi
+177,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,marrón,L,midi
+178,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,marrón,XL,midi
+179,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,negro,XS,midi
+180,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,negro,S,midi
+181,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,negro,M,midi
+182,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,negro,L,midi
+183,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,negro,XL,midi
+184,vestido largo negro con detalle de abertura en la espalda de mango,Mango,129.99,negro,S,largo
+185,vestido largo negro con detalle de abertura en la espalda de mango,Mango,129.99,negro,M,largo
+186,vestido largo negro con detalle de abertura en la espalda de mango,Mango,129.99,negro,L,largo
+187,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,gris,XS,largo
+188,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,gris,S,largo
+189,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,gris,M,largo
+190,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,gris,L,largo
+191,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,gris,XL,largo
+192,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,marrón,XS,corto
+193,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,marrón,S,corto
+194,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,marrón,M,corto
+195,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,marrón,L,corto
+196,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,azul,XS,corto
+197,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,azul,S,corto
+198,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,azul,M,corto
+199,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,azul,L,corto
+200,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,azul,XL,corto
+201,vestido midi blanco con bajo de encaje de mango,Mango,99.99,blanco,XS,midi
+202,vestido midi blanco con bajo de encaje de mango,Mango,99.99,blanco,S,midi
+203,vestido midi blanco con bajo de encaje de mango,Mango,99.99,blanco,M,midi
+204,vestido midi blanco con bajo de encaje de mango,Mango,99.99,blanco,L,midi
+205,vestido midi blanco con bajo de encaje de mango,Mango,99.99,blanco,XL,midi
+206,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,marrón,XS,largo
+207,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,marrón,S,largo
+208,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,marrón,M,largo
+209,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,marrón,L,largo
+210,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,marrón,XL,largo
+0,sequin christmas tree dress,Forever21,28.0,verde/rojo,XS,sin categoria
+1,sequin christmas tree dress,Forever21,28.0,verde/rojo,S,sin categoria
+2,sequin christmas tree dress,Forever21,28.0,verde/rojo,M,sin categoria
+3,sequin christmas tree dress,Forever21,28.0,verde/rojo,L,sin categoria
+4,sequin christmas tree dress,Forever21,28.0,verde/rojo,XL,sin categoria
+5,sequin christmas tree dress,Forever21,28.0,verde,XS,sin categoria
+6,sequin christmas tree dress,Forever21,28.0,verde,S,sin categoria
+7,sequin christmas tree dress,Forever21,28.0,verde,M,sin categoria
+8,sequin christmas tree dress,Forever21,28.0,verde,L,sin categoria
+9,sequin christmas tree dress,Forever21,28.0,verde,XL,sin categoria
+10,sequin mini dress,Forever21,28.0,plata,XS,corto
+11,sequin mini dress,Forever21,28.0,plata,S,corto
+12,sequin mini dress,Forever21,28.0,plata,M,corto
+13,sequin mini dress,Forever21,28.0,plata,L,corto
+14,sequin mini dress,Forever21,28.0,plata,XL,corto
+15,sequin mini dress,Forever21,28.0,plata,XXL,corto
+16,sequin mini dress,Forever21,28.0,negro,XS,corto
+17,sequin mini dress,Forever21,28.0,negro,S,corto
+18,sequin mini dress,Forever21,28.0,negro,M,corto
+19,sequin mini dress,Forever21,28.0,negro,L,corto
+20,sequin mini dress,Forever21,28.0,negro,XL,corto
+21,sequin mini dress,Forever21,28.0,negro,XXL,corto
+22,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,XS,corto
+23,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,S,corto
+24,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,M,corto
+25,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,L,corto
+26,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,beige,XL,corto
+27,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,XS,corto
+28,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,S,corto
+29,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,M,corto
+30,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,L,corto
+31,chiffon smocked peasant-sleeve mini dress,Forever21,44.99,negro,XL,corto
+32,seamless half-zip mock neck romper,Forever21,24.99,negro,S,sin categoria
+33,seamless half-zip mock neck romper,Forever21,24.99,negro,M,sin categoria
+34,seamless half-zip mock neck romper,Forever21,24.99,negro,L,sin categoria
+35,seamless half-zip mock neck romper,Forever21,24.99,topo,S,sin categoria
+36,seamless half-zip mock neck romper,Forever21,24.99,topo,M,sin categoria
+37,seamless half-zip mock neck romper,Forever21,24.99,topo,L,sin categoria
+38,seamless half-zip mock neck romper,Forever21,24.99,rojo,S,sin categoria
+39,seamless half-zip mock neck romper,Forever21,24.99,rojo,M,sin categoria
+40,seamless half-zip mock neck romper,Forever21,24.99,rojo,L,sin categoria
+41,fair isle mini sweater dress,Forever21,34.99,rojo,S,corto
+42,fair isle mini sweater dress,Forever21,34.99,rojo,M,corto
+43,fair isle mini sweater dress,Forever21,34.99,rojo,L,corto
+44,fair isle mini sweater dress,Forever21,34.99,rojo,XL,corto
+45,sequin santa crop top & skirt set,Forever21,34.99,rojo,S,sin categoria
+46,sequin santa crop top & skirt set,Forever21,34.99,rojo,M,sin categoria
+47,sequin santa crop top & skirt set,Forever21,34.99,rojo,L,sin categoria
+48,sequin santa crop top & skirt set,Forever21,34.99,rojo,XL,sin categoria
+49,hooded striped santa mini dress,Forever21,34.99,rojo,S,corto
+50,hooded striped santa mini dress,Forever21,34.99,rojo,M,corto
+51,hooded striped santa mini dress,Forever21,34.99,rojo,L,corto
+52,plunging surplice lace mini dress,Forever21,29.99,negro,XS,corto
+53,plunging surplice lace mini dress,Forever21,29.99,negro,S,corto
+54,plunging surplice lace mini dress,Forever21,29.99,negro,M,corto
+55,plunging surplice lace mini dress,Forever21,29.99,negro,L,corto
+56,plunging surplice lace mini dress,Forever21,29.99,negro,XL,corto
+57,plunging surplice lace mini dress,Forever21,29.99,granate,XS,corto
+58,plunging surplice lace mini dress,Forever21,29.99,granate,S,corto
+59,plunging surplice lace mini dress,Forever21,29.99,granate,M,corto
+60,plunging surplice lace mini dress,Forever21,29.99,granate,L,corto
+61,plunging surplice lace mini dress,Forever21,29.99,granate,XL,corto
+62,strapless bubble-hem mini dress,Forever21,29.99,negro,XS,corto
+63,strapless bubble-hem mini dress,Forever21,29.99,negro,S,corto
+64,strapless bubble-hem mini dress,Forever21,29.99,negro,M,corto
+65,strapless bubble-hem mini dress,Forever21,29.99,negro,L,corto
+66,strapless bubble-hem mini dress,Forever21,29.99,negro,XL,corto
+67,rosette tank mini dress,Forever21,29.99,negro,XS,corto
+68,rosette tank mini dress,Forever21,29.99,negro,S,corto
+69,rosette tank mini dress,Forever21,29.99,negro,M,corto
+70,rosette tank mini dress,Forever21,29.99,negro,L,corto
+71,rosette tank mini dress,Forever21,29.99,negro,XL,corto
+72,bodycon mini sweater dress,Forever21,34.99,negro,XS,corto
+73,bodycon mini sweater dress,Forever21,34.99,negro,S,corto
+74,bodycon mini sweater dress,Forever21,34.99,negro,M,corto
+75,bodycon mini sweater dress,Forever21,34.99,negro,L,corto
+76,bodycon mini sweater dress,Forever21,34.99,negro,XL,corto
+77,bodycon mini sweater dress,Forever21,34.99,granate,XS,corto
+78,bodycon mini sweater dress,Forever21,34.99,granate,S,corto
+79,bodycon mini sweater dress,Forever21,34.99,granate,M,corto
+80,bodycon mini sweater dress,Forever21,34.99,granate,L,corto
+81,bodycon mini sweater dress,Forever21,34.99,granate,XL,corto
+82,bodycon mini sweater dress,Forever21,34.99,beige,XS,corto
+83,bodycon mini sweater dress,Forever21,34.99,beige,S,corto
+84,bodycon mini sweater dress,Forever21,34.99,beige,M,corto
+85,bodycon mini sweater dress,Forever21,34.99,beige,L,corto
+86,bodycon mini sweater dress,Forever21,34.99,beige,XL,corto
+87,bodycon mini sweater dress,Forever21,34.99,verde,XS,corto
+88,bodycon mini sweater dress,Forever21,34.99,verde,S,corto
+89,bodycon mini sweater dress,Forever21,34.99,verde,M,corto
+90,bodycon mini sweater dress,Forever21,34.99,verde,L,corto
+91,bodycon mini sweater dress,Forever21,34.99,verde,XL,corto
+92,ruched bodycon midi dress,Forever21,44.99,negro,XS,midi
+93,ruched bodycon midi dress,Forever21,44.99,negro,S,midi
+94,ruched bodycon midi dress,Forever21,44.99,negro,M,midi
+95,ruched bodycon midi dress,Forever21,44.99,negro,L,midi
+96,ruched bodycon midi dress,Forever21,44.99,negro,XL,midi
+97,ruched bodycon midi dress,Forever21,44.99,granate,XS,midi
+98,ruched bodycon midi dress,Forever21,44.99,granate,S,midi
+99,ruched bodycon midi dress,Forever21,44.99,granate,M,midi
+100,ruched bodycon midi dress,Forever21,44.99,granate,L,midi
+101,ruched bodycon midi dress,Forever21,44.99,granate,XL,midi
+102,rhinestone fringe cami mini dress,Forever21,34.99,negro,XS,corto
+103,rhinestone fringe cami mini dress,Forever21,34.99,negro,S,corto
+104,rhinestone fringe cami mini dress,Forever21,34.99,negro,M,corto
+105,rhinestone fringe cami mini dress,Forever21,34.99,negro,L,corto
+106,rhinestone fringe cami mini dress,Forever21,34.99,negro,XL,corto
+107,rhinestone fringe cami mini dress,Forever21,34.99,blanco,XS,corto
+108,rhinestone fringe cami mini dress,Forever21,34.99,blanco,S,corto
+109,rhinestone fringe cami mini dress,Forever21,34.99,blanco,M,corto
+110,rhinestone fringe cami mini dress,Forever21,34.99,blanco,L,corto
+111,rhinestone fringe cami mini dress,Forever21,34.99,blanco,XL,corto
+112,buckled asymmetrical mini dress,Forever21,34.99,negro,XS,corto
+113,buckled asymmetrical mini dress,Forever21,34.99,negro,S,corto
+114,buckled asymmetrical mini dress,Forever21,34.99,negro,M,corto
+115,buckled asymmetrical mini dress,Forever21,34.99,negro,L,corto
+116,buckled asymmetrical mini dress,Forever21,34.99,negro,XL,corto
+117,ruched halter bodycon mini dress,Forever21,34.99,negro,XS,corto
+118,ruched halter bodycon mini dress,Forever21,34.99,negro,S,corto
+119,ruched halter bodycon mini dress,Forever21,34.99,negro,M,corto
+120,ruched halter bodycon mini dress,Forever21,34.99,negro,L,corto
+121,ruched halter bodycon mini dress,Forever21,34.99,negro,XL,corto
+122,ruched halter bodycon mini dress,Forever21,34.99,rojo,XS,corto
+123,ruched halter bodycon mini dress,Forever21,34.99,rojo,S,corto
+124,ruched halter bodycon mini dress,Forever21,34.99,rojo,M,corto
+125,ruched halter bodycon mini dress,Forever21,34.99,rojo,L,corto
+126,ruched halter bodycon mini dress,Forever21,34.99,rojo,XL,corto
+127,lace off-the-shoulder mini dress,Forever21,34.99,negro,XS,corto
+128,lace off-the-shoulder mini dress,Forever21,34.99,negro,S,corto
+129,lace off-the-shoulder mini dress,Forever21,34.99,negro,M,corto
+130,lace off-the-shoulder mini dress,Forever21,34.99,negro,L,corto
+131,lace off-the-shoulder mini dress,Forever21,34.99,negro,XL,corto
+132,bow sweater mini dress,Forever21,39.99,rojo,XS,corto
+133,bow sweater mini dress,Forever21,39.99,rojo,S,corto
+134,bow sweater mini dress,Forever21,39.99,rojo,M,corto
+135,bow sweater mini dress,Forever21,39.99,rojo,L,corto
+136,bow sweater mini dress,Forever21,39.99,rojo,XL,corto
+137,velvet corset cowl maxi dress,Forever21,39.99,negro,XS,largo
+138,velvet corset cowl maxi dress,Forever21,39.99,negro,S,largo
+139,velvet corset cowl maxi dress,Forever21,39.99,negro,M,largo
+140,velvet corset cowl maxi dress,Forever21,39.99,negro,L,largo
+141,velvet corset cowl maxi dress,Forever21,39.99,negro,XL,largo
+142,strapless satin lace-up mini dress,Forever21,34.99,negro,XS,corto
+143,strapless satin lace-up mini dress,Forever21,34.99,negro,S,corto
+144,strapless satin lace-up mini dress,Forever21,34.99,negro,M,corto
+145,strapless satin lace-up mini dress,Forever21,34.99,negro,L,corto
+146,strapless satin lace-up mini dress,Forever21,34.99,negro,XL,corto
+147,strapless satin lace-up mini dress,Forever21,34.99,verde,XS,corto
+148,strapless satin lace-up mini dress,Forever21,34.99,verde,S,corto
+149,strapless satin lace-up mini dress,Forever21,34.99,verde,M,corto
+150,strapless satin lace-up mini dress,Forever21,34.99,verde,L,corto
+151,strapless satin lace-up mini dress,Forever21,34.99,verde,XL,corto
+152,strapless satin lace-up mini dress,Forever21,34.99,rojo,XS,corto
+153,strapless satin lace-up mini dress,Forever21,34.99,rojo,S,corto
+154,strapless satin lace-up mini dress,Forever21,34.99,rojo,M,corto
+155,strapless satin lace-up mini dress,Forever21,34.99,rojo,L,corto
+156,strapless satin lace-up mini dress,Forever21,34.99,rojo,XL,corto
+157,halter bubble-hem mini dress,Forever21,44.99,negro,XS,corto
+158,halter bubble-hem mini dress,Forever21,44.99,negro,S,corto
+159,halter bubble-hem mini dress,Forever21,44.99,negro,M,corto
+160,halter bubble-hem mini dress,Forever21,44.99,negro,L,corto
+161,halter bubble-hem mini dress,Forever21,44.99,negro,XL,corto
+162,halter bubble-hem mini dress,Forever21,44.99,granate,XS,corto
+163,halter bubble-hem mini dress,Forever21,44.99,granate,S,corto
+164,halter bubble-hem mini dress,Forever21,44.99,granate,M,corto
+165,halter bubble-hem mini dress,Forever21,44.99,granate,L,corto
+166,halter bubble-hem mini dress,Forever21,44.99,granate,XL,corto
+167,plus size velour mini dress,Forever21,20.0,negro,XXL,corto
+168,plus size velour mini dress,Forever21,20.0,negro,3XL,corto
+169,plus size velour mini dress,Forever21,20.0,negro,4XL,corto
+170,plus size velour mini dress,Forever21,20.0,negro,5XL,corto
+171,plus size velour mini dress,Forever21,20.0,negro,6XL,corto
+172,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,XXL,corto
+173,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,3XL,corto
+174,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,4XL,corto
+175,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,5XL,corto
+176,plus size lace bell-sleeve mini dress,Forever21,44.99,granate,6XL,corto
+177,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,XS,sin categoria
+178,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,S,sin categoria
+179,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,M,sin categoria
+180,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,L,sin categoria
+181,sequin fitted thumbhole jumpsuit,Forever21,29.99,negro,XL,sin categoria
+182,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,XS,midi
+183,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,S,midi
+184,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,M,midi
+185,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,L,midi
+186,contour sculpt rhinestone midi tube dress,Forever21,34.99,negro,XL,midi
+187,faux gem cutout midi sweater dress,Forever21,49.99,negro,XS,midi
+188,faux gem cutout midi sweater dress,Forever21,49.99,negro,S,midi
+189,faux gem cutout midi sweater dress,Forever21,49.99,negro,M,midi
+190,faux gem cutout midi sweater dress,Forever21,49.99,negro,L,midi
+191,faux gem cutout midi sweater dress,Forever21,49.99,negro,XL,midi
+192,velvet illusion mini dress,Forever21,34.99,negro,XS,corto
+193,velvet illusion mini dress,Forever21,34.99,negro,S,corto
+194,velvet illusion mini dress,Forever21,34.99,negro,M,corto
+195,velvet illusion mini dress,Forever21,34.99,negro,L,corto
+196,velvet illusion mini dress,Forever21,34.99,negro,XL,corto
+197,turtleneck midi sweater dress,Forever21,34.99,negro,XS,midi
+198,turtleneck midi sweater dress,Forever21,34.99,negro,S,midi
+199,turtleneck midi sweater dress,Forever21,34.99,negro,M,midi
+200,turtleneck midi sweater dress,Forever21,34.99,negro,L,midi
+201,turtleneck midi sweater dress,Forever21,34.99,negro,XL,midi
+202,turtleneck midi sweater dress,Forever21,34.99,rojo,XS,midi
+203,turtleneck midi sweater dress,Forever21,34.99,rojo,S,midi
+204,turtleneck midi sweater dress,Forever21,34.99,rojo,M,midi
+205,turtleneck midi sweater dress,Forever21,34.99,rojo,L,midi
+206,turtleneck midi sweater dress,Forever21,34.99,rojo,XL,midi
+207,turtleneck midi sweater dress,Forever21,34.99,blanco,XS,midi
+208,turtleneck midi sweater dress,Forever21,34.99,blanco,S,midi
+209,turtleneck midi sweater dress,Forever21,34.99,blanco,M,midi
+210,turtleneck midi sweater dress,Forever21,34.99,blanco,L,midi
+211,turtleneck midi sweater dress,Forever21,34.99,blanco,XL,midi
+212,velvet sweetheart mini tube dress,Forever21,29.99,negro,XS,corto
+213,velvet sweetheart mini tube dress,Forever21,29.99,negro,S,corto
+214,velvet sweetheart mini tube dress,Forever21,29.99,negro,M,corto
+215,velvet sweetheart mini tube dress,Forever21,29.99,negro,L,corto
+216,velvet sweetheart mini tube dress,Forever21,29.99,negro,XL,corto
+217,faux gem midi sweater dress,Forever21,39.99,negro,XS,midi
+218,faux gem midi sweater dress,Forever21,39.99,negro,S,midi
+219,faux gem midi sweater dress,Forever21,39.99,negro,M,midi
+220,faux gem midi sweater dress,Forever21,39.99,negro,L,midi
+221,faux gem midi sweater dress,Forever21,39.99,negro,XL,midi
+222,fitted lace-trim romper,Forever21,29.99,rosa,XS,sin categoria
+223,fitted lace-trim romper,Forever21,29.99,rosa,S,sin categoria
+224,fitted lace-trim romper,Forever21,29.99,rosa,M,sin categoria
+225,fitted lace-trim romper,Forever21,29.99,rosa,L,sin categoria
+226,fitted lace-trim romper,Forever21,29.99,rosa,XL,sin categoria
+227,fitted lace-trim romper,Forever21,29.99,negro,XS,sin categoria
+228,fitted lace-trim romper,Forever21,29.99,negro,S,sin categoria
+229,fitted lace-trim romper,Forever21,29.99,negro,M,sin categoria
+230,fitted lace-trim romper,Forever21,29.99,negro,L,sin categoria
+231,fitted lace-trim romper,Forever21,29.99,negro,XL,sin categoria
+232,ruched two-tone mini tube dress,Forever21,34.99,negro,XS,corto
+233,ruched two-tone mini tube dress,Forever21,34.99,negro,S,corto
+234,ruched two-tone mini tube dress,Forever21,34.99,negro,M,corto
+235,ruched two-tone mini tube dress,Forever21,34.99,negro,L,corto
+236,ruched two-tone mini tube dress,Forever21,34.99,negro,XL,corto
+237,sweetheart bodycon mini dress,Forever21,34.99,negro,XS,corto
+238,sweetheart bodycon mini dress,Forever21,34.99,negro,S,corto
+239,sweetheart bodycon mini dress,Forever21,34.99,negro,M,corto
+240,sweetheart bodycon mini dress,Forever21,34.99,negro,L,corto
+241,sweetheart bodycon mini dress,Forever21,34.99,negro,XL,corto
+242,off-the-shoulder corset mini dress,Forever21,39.99,negro,XS,corto
+243,off-the-shoulder corset mini dress,Forever21,39.99,negro,S,corto
+244,off-the-shoulder corset mini dress,Forever21,39.99,negro,M,corto
+245,off-the-shoulder corset mini dress,Forever21,39.99,negro,L,corto
+246,off-the-shoulder corset mini dress,Forever21,39.99,negro,XL,corto
+247,plus size glitter knit midi dress,Forever21,39.99,plata,XXL,midi
+248,plus size glitter knit midi dress,Forever21,39.99,plata,3XL,midi
+249,plus size glitter knit midi dress,Forever21,39.99,plata,4XL,midi
+250,plus size glitter knit midi dress,Forever21,39.99,plata,5XL,midi
+251,plus size glitter knit midi dress,Forever21,39.99,plata,6XL,midi
+252,plus size halter m-slit mini dress,Forever21,39.99,negro,XXL,corto
+253,plus size halter m-slit mini dress,Forever21,39.99,negro,3XL,corto
+254,plus size halter m-slit mini dress,Forever21,39.99,negro,4XL,corto
+255,plus size halter m-slit mini dress,Forever21,39.99,negro,5XL,corto
+256,plus size halter m-slit mini dress,Forever21,39.99,negro,6XL,corto
+257,belted mini sweater dress,Forever21,44.99,negro,XS,corto
+258,belted mini sweater dress,Forever21,44.99,negro,S,corto
+259,belted mini sweater dress,Forever21,44.99,negro,M,corto
+260,belted mini sweater dress,Forever21,44.99,negro,L,corto
+261,belted mini sweater dress,Forever21,44.99,negro,XL,corto
+262,belted mini sweater dress,Forever21,44.99,gris,XS,corto
+263,belted mini sweater dress,Forever21,44.99,gris,S,corto
+264,belted mini sweater dress,Forever21,44.99,gris,M,corto
+265,belted mini sweater dress,Forever21,44.99,gris,L,corto
+266,belted mini sweater dress,Forever21,44.99,gris,XL,corto
+267,belted mini sweater dress,Forever21,44.99,beige,XS,corto
+268,belted mini sweater dress,Forever21,44.99,beige,S,corto
+269,belted mini sweater dress,Forever21,44.99,beige,M,corto
+270,belted mini sweater dress,Forever21,44.99,beige,L,corto
+271,belted mini sweater dress,Forever21,44.99,beige,XL,corto
+272,sheer lace bodycon mini dress,Forever21,29.99,negro,XS,corto
+273,sheer lace bodycon mini dress,Forever21,29.99,negro,S,corto
+274,sheer lace bodycon mini dress,Forever21,29.99,negro,M,corto
+275,sheer lace bodycon mini dress,Forever21,29.99,negro,L,corto
+276,sheer lace bodycon mini dress,Forever21,29.99,negro,XL,corto
+277,sheer lace bodycon mini dress,Forever21,29.99,granate,XS,corto
+278,sheer lace bodycon mini dress,Forever21,29.99,granate,S,corto
+279,sheer lace bodycon mini dress,Forever21,29.99,granate,M,corto
+280,sheer lace bodycon mini dress,Forever21,29.99,granate,L,corto
+281,sheer lace bodycon mini dress,Forever21,29.99,granate,XL,corto
+282,foldover off-the-shoulder midi dress,Forever21,34.99,negro,XS,midi
+283,foldover off-the-shoulder midi dress,Forever21,34.99,negro,S,midi
+284,foldover off-the-shoulder midi dress,Forever21,34.99,negro,M,midi
+285,foldover off-the-shoulder midi dress,Forever21,34.99,negro,L,midi
+286,foldover off-the-shoulder midi dress,Forever21,34.99,negro,XL,midi
+287,foldover off-the-shoulder midi dress,Forever21,34.99,verde,XS,midi
+288,foldover off-the-shoulder midi dress,Forever21,34.99,verde,S,midi
+289,foldover off-the-shoulder midi dress,Forever21,34.99,verde,M,midi
+290,foldover off-the-shoulder midi dress,Forever21,34.99,verde,L,midi
+291,foldover off-the-shoulder midi dress,Forever21,34.99,verde,XL,midi
+292,sheer square-neck mini dress,Forever21,29.99,negro,XS,corto
+293,sheer square-neck mini dress,Forever21,29.99,negro,S,corto
+294,sheer square-neck mini dress,Forever21,29.99,negro,M,corto
+295,sheer square-neck mini dress,Forever21,29.99,negro,L,corto
+296,sheer square-neck mini dress,Forever21,29.99,negro,XL,corto
+297,sheer square-neck mini dress,Forever21,29.99,granate,XS,corto
+298,sheer square-neck mini dress,Forever21,29.99,granate,S,corto
+299,sheer square-neck mini dress,Forever21,29.99,granate,M,corto
+300,sheer square-neck mini dress,Forever21,29.99,granate,L,corto
+301,sheer square-neck mini dress,Forever21,29.99,granate,XL,corto
+302,satin sash mini tube dress,Forever21,39.99,negro,XS,corto
+303,satin sash mini tube dress,Forever21,39.99,negro,S,corto
+304,satin sash mini tube dress,Forever21,39.99,negro,M,corto
+305,satin sash mini tube dress,Forever21,39.99,negro,L,corto
+306,satin sash mini tube dress,Forever21,39.99,negro,XL,corto
+307,satin sash mini tube dress,Forever21,39.99,rojo,XS,corto
+308,satin sash mini tube dress,Forever21,39.99,rojo,S,corto
+309,satin sash mini tube dress,Forever21,39.99,rojo,M,corto
+310,satin sash mini tube dress,Forever21,39.99,rojo,L,corto
+311,satin sash mini tube dress,Forever21,39.99,rojo,XL,corto
+312,sleeveless blazer mini dress,Forever21,44.99,negro,XS,corto
+313,sleeveless blazer mini dress,Forever21,44.99,negro,S,corto
+314,sleeveless blazer mini dress,Forever21,44.99,negro,M,corto
+315,sleeveless blazer mini dress,Forever21,44.99,negro,L,corto
+316,sleeveless blazer mini dress,Forever21,44.99,negro,XL,corto
+317,velvet blazer mini dress,Forever21,54.99,negro,XS,corto
+318,velvet blazer mini dress,Forever21,54.99,negro,S,corto
+319,velvet blazer mini dress,Forever21,54.99,negro,M,corto
+320,velvet blazer mini dress,Forever21,54.99,negro,L,corto
+321,velvet blazer mini dress,Forever21,54.99,negro,XL,corto
+322,strapless wide-leg jumpsuit,Forever21,54.99,negro,XS,sin categoria
+323,strapless wide-leg jumpsuit,Forever21,54.99,negro,S,sin categoria
+324,strapless wide-leg jumpsuit,Forever21,54.99,negro,M,sin categoria
+325,strapless wide-leg jumpsuit,Forever21,54.99,negro,L,sin categoria
+326,strapless wide-leg jumpsuit,Forever21,54.99,negro,XL,sin categoria
+327,twist-front cutout mini dress,Forever21,34.99,negro,XS,corto
+328,twist-front cutout mini dress,Forever21,34.99,negro,S,corto
+329,twist-front cutout mini dress,Forever21,34.99,negro,M,corto
+330,twist-front cutout mini dress,Forever21,34.99,negro,L,corto
+331,twist-front cutout mini dress,Forever21,34.99,negro,XL,corto
+332,contour sculpt rhinestone mini dress,Forever21,39.99,negro,XS,corto
+333,contour sculpt rhinestone mini dress,Forever21,39.99,negro,S,corto
+334,contour sculpt rhinestone mini dress,Forever21,39.99,negro,M,corto
+335,contour sculpt rhinestone mini dress,Forever21,39.99,negro,L,corto
+336,contour sculpt rhinestone mini dress,Forever21,39.99,negro,XL,corto
+337,plus size sweetheart mini tube dress,Forever21,29.99,negro,XXL,corto
+338,plus size sweetheart mini tube dress,Forever21,29.99,negro,3XL,corto
+339,plus size sweetheart mini tube dress,Forever21,29.99,negro,4XL,corto
+340,plus size sweetheart mini tube dress,Forever21,29.99,negro,5XL,corto
+341,plus size sweetheart mini tube dress,Forever21,29.99,negro,6XL,corto
+342,plus size faux gem midi sweater dress,Forever21,44.99,beige,XXL,midi
+343,plus size faux gem midi sweater dress,Forever21,44.99,beige,3XL,midi
+344,plus size faux gem midi sweater dress,Forever21,44.99,beige,4XL,midi
+345,plus size faux gem midi sweater dress,Forever21,44.99,beige,5XL,midi
+346,plus size faux gem midi sweater dress,Forever21,44.99,beige,6XL,midi
+347,plus size faux gem midi sweater dress,Forever21,44.99,negro,XXL,midi
+348,plus size faux gem midi sweater dress,Forever21,44.99,negro,3XL,midi
+349,plus size faux gem midi sweater dress,Forever21,44.99,negro,4XL,midi
+350,plus size faux gem midi sweater dress,Forever21,44.99,negro,5XL,midi
+351,plus size faux gem midi sweater dress,Forever21,44.99,negro,6XL,midi
+352,one-shoulder bow mini tube dress,Forever21,34.99,blanco,S,corto
+353,one-shoulder bow mini tube dress,Forever21,34.99,blanco,M,corto
+354,one-shoulder bow mini tube dress,Forever21,34.99,blanco,L,corto
+355,one-shoulder bow mini tube dress,Forever21,34.99,blanco,XL,corto
+356,one-shoulder bow mini tube dress,Forever21,34.99,negro,S,corto
+357,one-shoulder bow mini tube dress,Forever21,34.99,negro,M,corto
+358,one-shoulder bow mini tube dress,Forever21,34.99,negro,L,corto
+359,one-shoulder bow mini tube dress,Forever21,34.99,negro,XL,corto
+360,sheer flocked paisley maxi dress,Forever21,44.99,negro,XS,largo
+361,sheer flocked paisley maxi dress,Forever21,44.99,negro,S,largo
+362,sheer flocked paisley maxi dress,Forever21,44.99,negro,M,largo
+363,sheer flocked paisley maxi dress,Forever21,44.99,negro,L,largo
+364,sheer flocked paisley maxi dress,Forever21,44.99,negro,XL,largo
+365,sheer flocked paisley maxi dress,Forever21,44.99,rojo,XS,largo
+366,sheer flocked paisley maxi dress,Forever21,44.99,rojo,S,largo
+367,sheer flocked paisley maxi dress,Forever21,44.99,rojo,M,largo
+368,sheer flocked paisley maxi dress,Forever21,44.99,rojo,L,largo
+369,sheer flocked paisley maxi dress,Forever21,44.99,rojo,XL,largo
+370,rhinestone buckled mini dress,Forever21,39.99,negro,XS,corto
+371,rhinestone buckled mini dress,Forever21,39.99,negro,S,corto
+372,rhinestone buckled mini dress,Forever21,39.99,negro,M,corto
+373,rhinestone buckled mini dress,Forever21,39.99,negro,L,corto
+374,rhinestone buckled mini dress,Forever21,39.99,negro,XL,corto
+375,jacquard floral halter mini dress,Forever21,29.99,negro,XS,corto
+376,jacquard floral halter mini dress,Forever21,29.99,negro,S,corto
+377,jacquard floral halter mini dress,Forever21,29.99,negro,M,corto
+378,jacquard floral halter mini dress,Forever21,29.99,negro,L,corto
+379,jacquard floral halter mini dress,Forever21,29.99,negro,XL,corto
+380,jacquard floral halter mini dress,Forever21,29.99,granate,XS,corto
+381,jacquard floral halter mini dress,Forever21,29.99,granate,S,corto
+382,jacquard floral halter mini dress,Forever21,29.99,granate,M,corto
+383,jacquard floral halter mini dress,Forever21,29.99,granate,L,corto
+384,jacquard floral halter mini dress,Forever21,29.99,granate,XL,corto
+385,velour bodycon cami mini dress,Forever21,24.99,negro,XS,corto
+386,velour bodycon cami mini dress,Forever21,24.99,negro,S,corto
+387,velour bodycon cami mini dress,Forever21,24.99,negro,M,corto
+388,velour bodycon cami mini dress,Forever21,24.99,negro,L,corto
+389,velour bodycon cami mini dress,Forever21,24.99,negro,XL,corto
+390,velour bodycon cami mini dress,Forever21,24.99,verde,XS,corto
+391,velour bodycon cami mini dress,Forever21,24.99,verde,S,corto
+392,velour bodycon cami mini dress,Forever21,24.99,verde,M,corto
+393,velour bodycon cami mini dress,Forever21,24.99,verde,L,corto
+394,velour bodycon cami mini dress,Forever21,24.99,verde,XL,corto
+395,ruched rosette plunging maxi dress,Forever21,44.99,negro,XS,largo
+396,ruched rosette plunging maxi dress,Forever21,44.99,negro,S,largo
+397,ruched rosette plunging maxi dress,Forever21,44.99,negro,M,largo
+398,ruched rosette plunging maxi dress,Forever21,44.99,negro,L,largo
+399,ruched rosette plunging maxi dress,Forever21,44.99,negro,XL,largo
+400,organza bubble-hem mini dress,Forever21,34.99,negro,XS,corto
+401,organza bubble-hem mini dress,Forever21,34.99,negro,S,corto
+402,organza bubble-hem mini dress,Forever21,34.99,negro,M,corto
+403,organza bubble-hem mini dress,Forever21,34.99,negro,L,corto
+404,organza bubble-hem mini dress,Forever21,34.99,negro,XL,corto
+405,lace & mesh combo mini dress,Forever21,29.99,verde,XS,corto
+406,lace & mesh combo mini dress,Forever21,29.99,verde,S,corto
+407,lace & mesh combo mini dress,Forever21,29.99,verde,M,corto
+408,lace & mesh combo mini dress,Forever21,29.99,verde,L,corto
+409,lace & mesh combo mini dress,Forever21,29.99,verde,XL,corto
+410,tiered floral tie-back mini dress,Forever21,39.99,negro,XS,corto
+411,tiered floral tie-back mini dress,Forever21,39.99,negro,S,corto
+412,tiered floral tie-back mini dress,Forever21,39.99,negro,M,corto
+413,tiered floral tie-back mini dress,Forever21,39.99,negro,L,corto
+414,tiered floral tie-back mini dress,Forever21,39.99,negro,XL,corto
+415,sequin holly jolly t-shirt dress,Forever21,39.99,rojo/blanco,S,sin categoria
+416,sequin holly jolly t-shirt dress,Forever21,39.99,rojo/blanco,M,sin categoria
+417,sequin holly jolly t-shirt dress,Forever21,39.99,rojo/blanco,L,sin categoria
+418,sequin holly jolly t-shirt dress,Forever21,39.99,rojo/blanco,XL,sin categoria
+419,asymmetrical rhinestone mini dress,Forever21,39.99,beige,S,corto
+420,asymmetrical rhinestone mini dress,Forever21,39.99,beige,M,corto
+421,asymmetrical rhinestone mini dress,Forever21,39.99,beige,L,corto
+422,sequin santa baby t-shirt dress,Forever21,39.99,rojo/blanco,S,sin categoria
+423,sequin santa baby t-shirt dress,Forever21,39.99,rojo/blanco,M,sin categoria
+424,sequin santa baby t-shirt dress,Forever21,39.99,rojo/blanco,L,sin categoria
+425,sequin santa baby t-shirt dress,Forever21,39.99,rojo/blanco,XL,sin categoria
+426,mesh floral print romper,Forever21,24.99,negro,S,sin categoria
+427,mesh floral print romper,Forever21,24.99,negro,M,sin categoria
+428,mesh floral print romper,Forever21,24.99,negro,L,sin categoria
+429,mesh floral print romper,Forever21,24.99,negro,XL,sin categoria
+0,Mini Vestido Strapless Cascada,Natural by Lila,49.99,sin definir,S,corto
+1,Mini Vestido Strapless Cascada,Natural by Lila,49.99,sin definir,M,corto
+2,Vestido Asimétrico Choker Lurex,Natural by Lila,39.99,sin definir,S,corto
+3,Vestido Asimétrico Choker Lurex,Natural by Lila,39.99,sin definir,M,corto
+4,Vestido Básico Bella,Natural by Lila,36.99,sin definir,S,corto
+5,Vestido Básico Bella,Natural by Lila,36.99,sin definir,M,corto
+6,Vestido Brigitte Lentejuelas,Natural by Lila,49.99,sin definir,S,corto
+7,Vestido Brigitte Lentejuelas,Natural by Lila,49.99,sin definir,M,corto
+8,Vestido Corto Balconette,Natural by Lila,39.99,sin definir,S,corto
+9,Vestido Corto Balconette,Natural by Lila,39.99,sin definir,M,corto
+10,Vestido Mini Halter Vera,Natural by Lila,39.99,sin definir,S,corto
+11,Vestido Mini Halter Vera,Natural by Lila,39.99,sin definir,M,corto
+12,Vestido Tirantes Escote Asimétrico,Natural by Lila,39.99,sin definir,S,corto
+13,Vestido Tirantes Escote Asimétrico,Natural by Lila,39.99,sin definir,M,corto
+14,Vestido Corto Hombros Cutout,Natural by Lila,39.95,sin definir,S,corto
+15,Vestido Corto Hombros Cutout,Natural by Lila,39.95,sin definir,M,corto
+16,Vestido Olivia,Natural by Lila,39.95,sin definir,S,corto
+17,Vestido Olivia,Natural by Lila,39.95,sin definir,M,corto
+18,Vestido Silvy,Natural by Lila,36.95,sin definir,S,corto
+19,Vestido Silvy,Natural by Lila,36.95,sin definir,M,corto
+20,Vestido Corto Estampado Hombreras,Natural by Lila,39.95,sin definir,S,corto
+21,Vestido Corto Estampado Hombreras,Natural by Lila,39.95,sin definir,M,corto
+22,Vestido Evasé Olas,Natural by Lila,39.95,sin definir,S,corto
+23,Vestido Fluido Leopardo,Natural by Lila,39.95,sin definir,S,corto
+24,Vestido Fluido Leopardo,Natural by Lila,39.95,sin definir,M,corto
+25,Vestido Punto Canalé Bardot,Natural by Lila,39.95,sin definir,S,corto
+26,Vestido Punto Canalé Bardot,Natural by Lila,39.95,sin definir,M,corto
+27,Vestido Corto Halter Étnico,Natural by Lila,39.95,sin definir,S,corto
+28,Vestido Corto Halter Étnico,Natural by Lila,39.95,sin definir,M,corto
+29,Vestido Monroe Raso,Natural by Lila,29.95,sin definir,S,corto
+30,Vestido Monroe Raso,Natural by Lila,29.95,sin definir,M,corto
+31,Vestido Asimétrico Lurex,Natural by Lila,32.99,sin definir,S,corto
+32,Vestido Marilyn,Natural by Lila,29.95,sin definir,S,corto
+33,Vestido Marilyn,Natural by Lila,29.95,sin definir,M,corto
+34,Vestido Mini Cascada Glitter,Natural by Lila,39.95,sin definir,S,corto
+35,Vestido Mini Cascada Glitter,Natural by Lila,39.95,sin definir,M,corto
+36,Vestido Asimétrico Glitter Choker,Natural by Lila,44.95,sin definir,S,corto
+37,Vestido Asimétrico Glitter Choker,Natural by Lila,44.95,sin definir,M,corto
+38,Vestido Bardot Glitter,Natural by Lila,49.95,sin definir,S,corto
+39,Vestido Bardot Glitter,Natural by Lila,49.95,sin definir,M,corto
+40,Vestido Choker Velvet Corto,Natural by Lila,29.95,sin definir,S,corto
+41,Vestido Choker Velvet Corto,Natural by Lila,29.95,sin definir,M,corto
+42,Vestido Evasé Lazo,Natural by Lila,44.95,sin definir,S,corto
+43,Vestido Evasé Lazo,Natural by Lila,44.95,sin definir,M,corto
+44,Vestido Glitter Choker Cascada,Natural by Lila,34.95,sin definir,S,corto
+45,Vestido Glitter Choker Cascada,Natural by Lila,34.95,sin definir,M,corto
+46,Vestido Tulle Topos con Manguitos,Natural by Lila,29.95,sin definir,S,corto
+47,Vestido Tulle Topos con Manguitos,Natural by Lila,29.95,sin definir,M,corto
+48,Vestido Lentejuelas Alas,Natural by Lila,44.95,sin definir,S,corto
+49,Vestido Lentejuelas Alas,Natural by Lila,44.95,sin definir,M,corto
+50,Vestido Glitter Halter Sweet,Natural by Lila,39.95,sin definir,S,corto
+51,Vestido Glitter Halter Sweet,Natural by Lila,39.95,sin definir,M,corto
+52,Vestido Glitter Diva,Natural by Lila,34.95,sin definir,S,corto
+53,Vestido Glitter Diva,Natural by Lila,34.95,sin definir,M,corto
+54,Vestido Asimétrico Lentejuelas,Natural by Lila,39.95,sin definir,S,corto
+55,Vestido Asimétrico Lentejuelas,Natural by Lila,39.95,sin definir,M,corto
+56,Vestido Abierto Manga Larga,Natural by Lila,29.95,sin definir,S,corto
+57,Vestido Abierto Manga Larga,Natural by Lila,29.95,sin definir,M,corto
+58,Vestido Asimétrico Cutout Velvet Purpurina,Natural by Lila,36.95,sin definir,S,corto
+59,Vestido Asimétrico Cutout Velvet Purpurina,Natural by Lila,36.95,sin definir,M,corto
+60,Vestido Asimétrico Metalizado,Natural by Lila,29.95,sin definir,S,corto
+61,Vestido Asimétrico Metalizado,Natural by Lila,29.95,sin definir,M,corto
+62,Vestido Corsé Terciopelo,Natural by Lila,36.95,sin definir,S,corto
+63,Vestido Corsé Terciopelo,Natural by Lila,36.95,sin definir,M,corto
+64,Vestido Lurex Arandela,Natural by Lila,29.95,sin definir,S,corto
+65,Vestido Lurex Arandela,Natural by Lila,29.95,sin definir,M,corto
+66,Vestido Mini Lurex,Natural by Lila,29.95,sin definir,S,corto
+67,Vestido Mini Lurex,Natural by Lila,29.95,sin definir,M,corto
+68,Vestido Strass Espalda Cruzada,Natural by Lila,39.95,sin definir,S,corto
+69,Vestido Strass Espalda Cruzada,Natural by Lila,39.95,sin definir,M,corto
+70,Vestido Corto Corsé Raso,Natural by Lila,36.95,sin definir,S,corto
+71,Vestido Corto Corsé Raso,Natural by Lila,36.95,sin definir,M,corto
+72,Vestido Tul Mia,Natural by Lila,39.95,sin definir,S,corto
+73,Vestido Tul Mia,Natural by Lila,39.95,sin definir,M,corto
+74,Vestido Mini Halter Lurex,Natural by Lila,29.95,sin definir,S,corto
+75,Vestido Mini Halter Lurex,Natural by Lila,29.95,sin definir,M,corto
+76,Vestido Sandy Raso,Natural by Lila,29.95,sin definir,S,corto
+77,Vestido Sandy Raso,Natural by Lila,29.95,sin definir,M,corto
+78,Vestido Cut Out Lentejuelas,Natural by Lila,39.95,sin definir,S,corto
+79,Vestido Cut Out Lentejuelas,Natural by Lila,39.95,sin definir,M,corto
+80,Vestido Marilyn Lurex,Natural by Lila,29.95,sin definir,S,corto
+81,Vestido Marilyn Lurex,Natural by Lila,29.95,sin definir,M,corto
+82,Vestido Mini Elástico,Natural by Lila,24.95,sin definir,S,corto
+83,Vestido Mini Elástico,Natural by Lila,24.95,sin definir,M,corto
+84,Vestido Bardot Asimétrico Lurex,Natural by Lila,49.99,sin definir,S,largo
+85,Vestido Bardot Asimétrico Lurex,Natural by Lila,49.99,sin definir,M,largo
+86,Vestido Roma,Natural by Lila,49.95,sin definir,S,largo
+87,Vestido Roma,Natural by Lila,49.95,sin definir,M,largo
+88,Vestido Nudo Manga Larga,Natural by Lila,39.95,sin definir,S,largo
+89,Vestido Nudo Manga Larga,Natural by Lila,39.95,sin definir,M,largo
+90,Vestido Leyla,Natural by Lila,49.95,sin definir,S,largo
+91,Vestido Leyla,Natural by Lila,49.95,sin definir,M,largo
+92,Vestido Elástico Asimétrico Midi,Natural by Lila,39.95,sin definir,S,largo
+93,Vestido Elástico Asimétrico Midi,Natural by Lila,39.95,sin definir,M,largo
+94,Vestido Midi Raso Cascada,Natural by Lila,39.95,sin definir,S,largo
+95,Vestido Midi Raso Cascada,Natural by Lila,39.95,sin definir,M,largo
+96,Vestido Manga Gasa Gina,Natural by Lila,49.95,sin definir,S,largo
+97,Vestido Manga Gasa Gina,Natural by Lila,49.95,sin definir,M,largo
+98,Vestido Gasa Granada,Natural by Lila,49.95,sin definir,S,largo
+99,Vestido Gasa Granada,Natural by Lila,49.95,sin definir,M,largo
+100,Vestido Golden Diva,Natural by Lila,44.99,sin definir,S,largo
+101,Vestido Golden Diva,Natural by Lila,44.99,sin definir,M,largo
+102,Vestido Largo Lurex Asimétrico,Natural by Lila,49.99,sin definir,S,largo
+103,Vestido Largo Strass,Natural by Lila,39.99,sin definir,S,largo
+104,Vestido Largo Strass,Natural by Lila,39.99,sin definir,M,largo
+105,Vestido Naila Lurex,Natural by Lila,44.99,sin definir,S,largo
+106,Vestido Naila Lurex,Natural by Lila,44.99,sin definir,M,largo
+107,Vestido Nudo Largo Lurex,Natural by Lila,49.99,sin definir,S,largo
+108,Vestido Nudo Largo Lurex,Natural by Lila,49.99,sin definir,M,largo
+109,Vestido Rose,Natural by Lila,59.99,sin definir,S,largo
+110,Vestido Rose,Natural by Lila,59.99,sin definir,M,largo
+111,Vestido Vienna,Natural by Lila,49.95,sin definir,S,largo
+112,Vestido Vienna,Natural by Lila,49.95,sin definir,M,largo
+113,Vestido Gasa Brigitte,Natural by Lila,49.99,sin definir,S,largo
+114,Vestido Gasa Brigitte,Natural by Lila,49.99,sin definir,M,largo
+115,Vestido Ocean Velvet,Natural by Lila,49.99,sin definir,S,largo
+116,Vestido Ocean Velvet,Natural by Lila,49.99,sin definir,M,largo
+117,Vestido Tania Corsé con Drapeado,Natural by Lila,59.95,sin definir,S,largo
+118,Vestido Tania Corsé con Drapeado,Natural by Lila,59.95,sin definir,M,largo
+119,Vestido Raso Halter,Natural by Lila,49.95,sin definir,S,largo
+120,Vestido Raso Halter,Natural by Lila,49.95,sin definir,M,largo
+121,Vestido Bianca Estampado,Natural by Lila,59.99,sin definir,S,largo
+122,Vestido Bianca Estampado,Natural by Lila,59.99,sin definir,M,largo
+123,Vestido Lady,Natural by Lila,49.99,sin definir,S,largo
+124,Vestido Lady,Natural by Lila,49.99,sin definir,M,largo
+125,Vestido Gasa Estampado Geométrico,Natural by Lila,59.99,sin definir,S,largo
+126,Vestido Gasa Estampado Geométrico,Natural by Lila,59.99,sin definir,M,largo
+127,Vestido Carlota,Natural by Lila,49.95,sin definir,S,largo
+128,Vestido Carlota,Natural by Lila,49.95,sin definir,M,largo
+129,Vestido Midi Tirantes Cruzados Leah,Natural by Lila,39.99,sin definir,S,largo
+130,Vestido Midi Tirantes Cruzados Leah,Natural by Lila,39.99,sin definir,M,largo
+131,Vestido Goddess,Natural by Lila,59.95,sin definir,S,largo
+132,Vestido Goddess,Natural by Lila,59.95,sin definir,M,largo
+133,Vestido Maxi Paillettes,Natural by Lila,59.95,sin definir,S,largo
+134,Vestido Maxi Paillettes,Natural by Lila,59.95,sin definir,M,largo
+135,Vestido Midi Escote Cascada,Natural by Lila,32.95,sin definir,S,largo
+136,Vestido Midi Escote Cascada,Natural by Lila,32.95,sin definir,M,largo
+137,Vestido Gasa Sevilla,Natural by Lila,49.95,sin definir,S,largo
+138,Vestido Gasa Sevilla,Natural by Lila,49.95,sin definir,M,largo
+139,Vestido Oslo,Natural by Lila,49.95,sin definir,S,largo
+140,Vestido Oslo,Natural by Lila,49.95,sin definir,M,largo
+141,Vestido Gasa Vittoria,Natural by Lila,49.95,sin definir,S,largo
+142,Vestido Gasa Vittoria,Natural by Lila,49.95,sin definir,M,largo
+143,Vestido Sirena,Natural by Lila,39.95,sin definir,S,largo
+144,Vestido Sirena,Natural by Lila,39.95,sin definir,M,largo
+145,Vestido Málaga,Natural by Lila,49.95,sin definir,S,largo
+146,Vestido Málaga,Natural by Lila,49.95,sin definir,M,largo
+147,Vestido Asimétrico Lyon,Natural by Lila,49.95,sin definir,S,largo
+148,Vestido Asimétrico Lyon,Natural by Lila,49.95,sin definir,M,largo
+149,Vestido Giralda,Natural by Lila,79.95,sin definir,S,largo
+150,Vestido Giralda,Natural by Lila,79.95,sin definir,M,largo
+151,Vestido Greta,Natural by Lila,49.95,sin definir,S,largo
+152,Vestido Greta,Natural by Lila,49.95,sin definir,M,largo
+153,Vestido Gasa Oporto,Natural by Lila,49.95,sin definir,S,largo
+154,Vestido Gasa Oporto,Natural by Lila,49.95,sin definir,M,largo
+155,Vestido Largo Volantes Gasa Estampado,Natural by Lila,59.95,sin definir,S,largo
+156,Vestido Largo Volantes Gasa Estampado,Natural by Lila,59.95,sin definir,M,largo
+157,Vestido Lencero Raso,Natural by Lila,59.95,sin definir,S,largo
+158,Vestido Lencero Raso,Natural by Lila,59.95,sin definir,M,largo
+159,Vestido Midi Cutout Hombreras,Natural by Lila,39.95,sin definir,S,largo
+160,Vestido Midi Cutout Hombreras,Natural by Lila,39.95,sin definir,M,largo
+161,Vestido Zahara,Natural by Lila,59.95,sin definir,S,largo
+162,Vestido Zahara,Natural by Lila,59.95,sin definir,XS,largo
+163,Vestido Zahara,Natural by Lila,59.95,sin definir,M,largo
+164,Vestido Anilla Boho,Natural by Lila,59.95,sin definir,S,largo
+165,Vestido Anilla Boho,Natural by Lila,59.95,sin definir,M,largo
+166,Vestido Midi Tactel Cutout,Natural by Lila,39.95,sin definir,S,largo
+167,Vestido Midi Tactel Cutout,Natural by Lila,39.95,sin definir,M,largo
+168,Vestido Corsé Premium,Natural by Lila,89.95,sin definir,S,largo
+169,Vestido Corsé Premium,Natural by Lila,89.95,sin definir,M,largo
+170,Vestido Asimétrico con Foulard,Natural by Lila,49.95,sin definir,S,largo
+171,Vestido Asimétrico con Foulard,Natural by Lila,49.95,sin definir,M,largo
+172,Vestido Asimétrico Flor,Natural by Lila,49.95,sin definir,S,largo
+173,Vestido Asimétrico Flor,Natural by Lila,49.95,sin definir,M,largo
+174,Vestido Asimétrico Cebra,Natural by Lila,49.95,sin definir,S,largo
+175,Vestido Asimétrico Cebra,Natural by Lila,49.95,sin definir,M,largo
+176,Vestido Greek,Natural by Lila,69.95,sin definir,S,largo
+177,Vestido Greek,Natural by Lila,69.95,sin definir,L,largo
+178,Vestido Greek,Natural by Lila,69.95,sin definir,M,largo
+179,Vestido con Gasa Asimétrica,Natural by Lila,44.95,sin definir,S,largo
+180,Vestido con Gasa Asimétrica,Natural by Lila,44.95,sin definir,M,largo
+181,Vestido Rosas,Natural by Lila,45.95,sin definir,S,largo
+182,Vestido Rosas,Natural by Lila,45.95,sin definir,M,largo
+183,Vestido Lara,Natural by Lila,49.95,sin definir,S,largo
+184,Vestido Lara,Natural by Lila,49.95,sin definir,M,largo
+185,Vestido Cuore,Natural by Lila,49.95,sin definir,S,largo
+186,Vestido Cuore,Natural by Lila,49.95,sin definir,M,largo
+187,Vestido Ocean,Natural by Lila,49.95,sin definir,S,largo
+188,Vestido Ocean,Natural by Lila,49.95,sin definir,M,largo
+189,Vestido Gasa Tiedye Halter,Natural by Lila,39.95,sin definir,S,largo
+190,Vestido Gasa Tiedye Halter,Natural by Lila,39.95,sin definir,M,largo
+191,Vestido Boho Dalt Vila,Natural by Lila,114.95,sin definir,S,largo
+192,Vestido Boho Dalt Vila,Natural by Lila,114.95,sin definir,L,largo
+193,Vestido Boho Dalt Vila,Natural by Lila,114.95,sin definir,M,largo
+194,Vestido Cutout Drapeado Lurex,Natural by Lila,36.95,sin definir,S,largo
+195,Vestido Elástico Detalle Acero,Natural by Lila,69.95,sin definir,S,largo
+196,Vestido Elástico Detalle Acero,Natural by Lila,69.95,sin definir,M,largo
+197,Vestido Hombreras Estampado Lila,Natural by Lila,39.95,sin definir,S,largo
+198,Vestido Hombreras Estampado Lila,Natural by Lila,39.95,sin definir,M,largo
+199,Vestido Kyoto,Natural by Lila,59.95,sin definir,S,largo
+200,Vestido Kyoto,Natural by Lila,59.95,sin definir,M,largo
+201,Vestido Largo con Cola,Natural by Lila,99.0,sin definir,S,largo
+202,Vestido Largo con Cola,Natural by Lila,99.0,sin definir,M,largo
+203,Vestido Largo Escote Cruzado,Natural by Lila,49.95,sin definir,S,largo
+204,Vestido Largo Escote Cruzado,Natural by Lila,49.95,sin definir,M,largo
+205,Vestido Leonor,Natural by Lila,59.95,sin definir,S,largo
+206,Vestido Leonor,Natural by Lila,59.95,sin definir,M,largo
+207,Vestido Maxi Lurex Drapeado,Natural by Lila,39.95,sin definir,S,largo
+208,Vestido Maxi Lurex Drapeado,Natural by Lila,39.95,sin definir,M,largo
+209,Vestido Maxi Tirantes Volantes,Natural by Lila,49.95,sin definir,S,largo
+210,Vestido Maxi Tirantes Volantes,Natural by Lila,49.95,sin definir,M,largo
+211,Vestido Midi Ceñido Leopardo,Natural by Lila,29.95,sin definir,S,largo
+212,Vestido Midi Gasa Estampado Leopardo,Natural by Lila,49.95,sin definir,S,largo
+213,Vestido Midi Gasa Estampado Leopardo,Natural by Lila,49.95,sin definir,L,largo
+214,Vestido Midi Gasa Estampado Leopardo,Natural by Lila,49.95,sin definir,M,largo
+215,Vestido Queen,Natural by Lila,139.0,sin definir,S,largo
+216,Vestido Queen,Natural by Lila,139.0,sin definir,M,largo
+217,Vestido Rayas,Natural by Lila,44.95,sin definir,S,largo
+218,Vestido Rayas,Natural by Lila,44.95,sin definir,M,largo
+219,Vestido Sofia Olive,Natural by Lila,99.0,sin definir,S,largo
+220,Vestido Sofia Olive,Natural by Lila,99.0,sin definir,L,largo
+221,Vestido Sofia Olive,Natural by Lila,99.0,sin definir,M,largo
+222,Vestido Strapless Elástico Estampado,Natural by Lila,29.95,sin definir,S,largo
+223,Vestido Strapless Elástico Estampado,Natural by Lila,29.95,sin definir,M,largo
+224,Vestido Sugar,Natural by Lila,49.95,sin definir,S,largo
+225,Vestido Sugar,Natural by Lila,49.95,sin definir,M,largo
+226,Vestido Venezia Olive,Natural by Lila,99.0,sin definir,S,largo
+227,Vestido Venezia Olive,Natural by Lila,99.0,sin definir,M,largo
+228,Vestido Venezia Teja,Natural by Lila,99.0,sin definir,S,largo
+229,Vestido Venezia Teja,Natural by Lila,99.0,sin definir,M,largo
+230,Vestido Sofia Red,Natural by Lila,99.0,sin definir,S,largo
+231,Vestido Sofia Red,Natural by Lila,99.0,sin definir,L,largo
+232,Vestido Sofia Red,Natural by Lila,99.0,sin definir,M,largo
+233,Vestido Raso Tipo Corsé,Natural by Lila,49.95,sin definir,S,largo
+234,Vestido Raso Tipo Corsé,Natural by Lila,49.95,sin definir,M,largo
+235,Vestido Maxi Escote Cascada,Natural by Lila,49.95,sin definir,S,largo
+236,Vestido Maxi Escote Cascada,Natural by Lila,49.95,sin definir,M,largo
+237,Vestido Multiposición Largo,Natural by Lila,44.95,sin definir,S,largo
+238,Vestido Multiposición Largo,Natural by Lila,44.95,sin definir,M,largo
+239,Vestido Cascada Ceñido,Natural by Lila,49.95,sin definir,S,largo
+240,Vestido Cascada Ceñido,Natural by Lila,49.95,sin definir,M,largo
+241,Vestido Marbella,Natural by Lila,29.99,sin definir,S,largo
+242,Vestido Marbella,Natural by Lila,29.99,sin definir,M,largo
+243,Vestido Menorca,Natural by Lila,49.95,sin definir,S,largo
+244,Vestido Menorca,Natural by Lila,49.95,sin definir,M,largo
+245,Vestido Jávea,Natural by Lila,39.95,sin definir,S,largo
+246,Vestido Jávea,Natural by Lila,39.95,sin definir,M,largo
+247,Vestido Naila,Natural by Lila,49.95,sin definir,S,largo
+248,Vestido Naila,Natural by Lila,49.95,sin definir,M,largo
+249,Vestido Los Angeles,Natural by Lila,39.95,sin definir,S,largo
+250,Vestido Los Angeles,Natural by Lila,39.95,sin definir,M,largo
+251,Vestido Santa Eulàlia,Natural by Lila,44.95,sin definir,S,largo
+252,Vestido Santa Eulàlia,Natural by Lila,44.95,sin definir,M,largo
+253,Vestido Asimétrico Lycra con Tira Larga,Natural by Lila,49.95,sin definir,S,largo
+254,Vestido Asimétrico Lycra con Tira Larga,Natural by Lila,49.95,sin definir,M,largo
+255,Vestido Mirla Orange,Natural by Lila,39.95,sin definir,S,largo
+256,Vestido Mirla Orange,Natural by Lila,39.95,sin definir,M,largo
+257,Vestido Boho Marrakech,Natural by Lila,39.95,sin definir,S,largo
+258,Vestido Boho Marrakech,Natural by Lila,39.95,sin definir,M,largo
+259,Vestido Dalt Vila,Natural by Lila,44.95,sin definir,S,largo
+260,Vestido Dalt Vila,Natural by Lila,44.95,sin definir,M,largo
+261,Vestido Es Caló,Natural by Lila,44.95,sin definir,S,largo
+262,Vestido Es Caló,Natural by Lila,44.95,sin definir,M,largo
+263,Vestido Escote Corsé Popelin,Natural by Lila,39.95,sin definir,S,largo
+264,Vestido Escote Corsé Popelin,Natural by Lila,39.95,sin definir,M,largo
+265,Vestido Estampado Lurex Halter,Natural by Lila,39.95,sin definir,S,largo
+266,Vestido Estampado Lurex Halter,Natural by Lila,39.95,sin definir,M,largo
+267,Vestido Leira Asimétrico,Natural by Lila,39.95,sin definir,S,largo
+268,Vestido Leira Asimétrico,Natural by Lila,39.95,sin definir,M,largo
+269,Vestido Tirante Retorcido,Natural by Lila,39.95,sin definir,S,largo
+270,Vestido Tirante Retorcido,Natural by Lila,39.95,sin definir,M,largo
+271,Vestido Valeria Rombos,Natural by Lila,39.95,sin definir,S,largo
+272,Vestido Valeria Rombos,Natural by Lila,39.95,sin definir,M,largo
+273,Vestido Valeria Tiedye,Natural by Lila,39.95,sin definir,S,largo
+274,Vestido Valeria Tiedye,Natural by Lila,39.95,sin definir,M,largo
+275,Vestido Bardot Espalda Abierta,Natural by Lila,39.95,sin definir,S,largo
+276,Vestido Bardot Espalda Abierta,Natural by Lila,39.95,sin definir,M,largo
+277,Vestido Midi Cutout Bañera,Natural by Lila,29.95,sin definir,S,largo
+278,Vestido Midi Cutout Bañera,Natural by Lila,29.95,sin definir,M,largo
+279,Vestido Asimétrico con Flor,Natural by Lila,49.95,sin definir,S,largo
+280,Vestido Asimétrico con Flor,Natural by Lila,49.95,sin definir,M,largo
+281,Vestido Boho Pedrería,Natural by Lila,49.95,sin definir,S,largo
+282,Vestido Crochet Lurex Oro,Natural by Lila,29.95,sin definir,S,largo
+283,Vestido Crochet Lurex Oro,Natural by Lila,29.95,sin definir,M,largo
+284,Vestido Glow,Natural by Lila,59.95,sin definir,S,largo
+285,Vestido Glow,Natural by Lila,59.95,sin definir,M,largo
+286,Vestido Mermaid Lycra,Natural by Lila,49.95,sin definir,S,largo
+287,Vestido Mermaid Lycra,Natural by Lila,49.95,sin definir,M,largo
+288,Vestido Mermaid Raso,Natural by Lila,49.95,sin definir,S,largo
+289,Vestido Mermaid Raso,Natural by Lila,49.95,sin definir,M,largo
+290,Vestido Miracle,Natural by Lila,59.95,sin definir,S,largo
+291,Vestido Miracle,Natural by Lila,59.95,sin definir,M,largo
+292,Vestido Mykonos,Natural by Lila,39.95,sin definir,S,largo
+293,Vestido Mykonos,Natural by Lila,39.95,sin definir,M,largo
+294,Vestido Noe Espalda Cruzada,Natural by Lila,49.95,sin definir,S,largo
+295,Vestido Noe Espalda Cruzada,Natural by Lila,49.95,sin definir,M,largo
+296,Vestido Asimétrico Escote Cut Out,Natural by Lila,39.95,sin definir,S,largo
+297,Vestido Asimétrico Escote Cut Out,Natural by Lila,39.95,sin definir,M,largo
+298,Vestido Bardot Asimétrico,Natural by Lila,49.95,sin definir,S,largo
+299,Vestido Bardot Asimétrico,Natural by Lila,49.95,sin definir,M,largo
+300,Vestido Bardot Espalda Descubierta,Natural by Lila,39.95,sin definir,S,largo
+301,Vestido Bardot Espalda Descubierta,Natural by Lila,39.95,sin definir,M,largo
+302,Vestido Largo Cascada Lurex,Natural by Lila,49.95,sin definir,S,largo
+303,Vestido Escote Recto Drapeado,Natural by Lila,39.95,sin definir,S,largo
+304,Vestido Escote Recto Drapeado,Natural by Lila,39.95,sin definir,M,largo
+305,Vestido Gala Elástico Brillante,Natural by Lila,59.0,sin definir,S,largo
+306,Vestido Gala Elástico Brillante,Natural by Lila,59.0,sin definir,M,largo
+307,Vestido Midi Cut Out Metalizado,Natural by Lila,34.95,sin definir,S,largo
+308,Vestido Midi Cut Out Metalizado,Natural by Lila,34.95,sin definir,M,largo
+309,Vestido Sofia Green,Natural by Lila,99.0,sin definir,S,largo
+310,Vestido Sofia Green,Natural by Lila,99.0,sin definir,L,largo
+311,Vestido Sofia Green,Natural by Lila,99.0,sin definir,M,largo
+312,Vestido Sofia Klein,Natural by Lila,99.0,sin definir,S,largo
+313,Vestido Sofia Klein,Natural by Lila,99.0,sin definir,L,largo
+314,Vestido Sofia Klein,Natural by Lila,99.0,sin definir,M,largo
+315,Vestido Sofia Pink,Natural by Lila,99.0,sin definir,S,largo
+316,Vestido Sofia Pink,Natural by Lila,99.0,sin definir,L,largo
+317,Vestido Sofia Pink,Natural by Lila,99.0,sin definir,M,largo
+318,Vestido Sofia Sky,Natural by Lila,99.0,sin definir,S,largo
+319,Vestido Sofia Sky,Natural by Lila,99.0,sin definir,L,largo
+320,Vestido Sofia Sky,Natural by Lila,99.0,sin definir,M,largo
+321,Vestido Tie Dye Cut Out,Natural by Lila,29.95,sin definir,S,largo
+322,Vestido Tie Dye Cut Out,Natural by Lila,29.95,sin definir,M,largo
+323,Vestido Espalda Cruzada,Natural by Lila,69.95,sin definir,S,largo
+324,Vestido Audrey,Natural by Lila,29.95,sin definir,S,largo
+325,Vestido Audrey,Natural by Lila,29.95,sin definir,M,largo
+326,Vestido Bertha,Natural by Lila,49.95,sin definir,S,largo
+327,Vestido Bow,Natural by Lila,39.95,sin definir,S,largo
+328,Vestido Bow,Natural by Lila,39.95,sin definir,M,largo
+329,Vestido Gasa con Cinturón,Natural by Lila,49.95,sin definir,S,largo
+330,Vestido Gasa con Cinturón,Natural by Lila,49.95,sin definir,M,largo
+331,Vestido Midi Raso,Natural by Lila,39.95,sin definir,S,largo
+332,Vestido Midi Raso,Natural by Lila,39.95,sin definir,M,largo
+333,Vestido Halter Drapeado,Natural by Lila,49.95,sin definir,S,largo
+334,Vestido Halter Drapeado,Natural by Lila,49.95,sin definir,M,largo
+335,Vestido Nicole,Natural by Lila,39.95,sin definir,S,largo
+336,Vestido Nicole,Natural by Lila,39.95,sin definir,M,largo
+337,Vestido Mimi,Natural by Lila,39.95,sin definir,S,largo
+338,Vestido Mimi,Natural by Lila,39.95,sin definir,M,largo
+339,Vestido Anudado Manga Larga,Natural by Lila,34.95,sin definir,S,largo
+340,Vestido Anudado Manga Larga,Natural by Lila,34.95,sin definir,M,largo
+341,Vestido Halter Largo,Natural by Lila,39.95,sin definir,S,largo
+342,Vestido Halter Largo,Natural by Lila,39.95,sin definir,M,largo
+0,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,XXS,midi
+1,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,XS,midi
+2,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,S,midi
+3,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,M,midi
+4,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,L,midi
+5,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,XL,midi
+6,Vestido Salima,Ladypipa,"129,95",Nenúfar caldera,3XL,midi
+7,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XXS,midi
+8,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XS,midi
+9,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,S,midi
+10,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,M,midi
+11,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,L,midi
+12,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XL,midi
+13,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,XXL,midi
+14,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,3XL,midi
+15,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,4XL,midi
+16,Vestido Salima,Ladypipa,"169,95",Nenúfar negro,5XL,midi
+17,Vestido Tokyo,Ladypipa,"169,95",Manila verde,XXS,midi
+18,Vestido Tokyo,Ladypipa,"169,95",Manila verde,XS,midi
+19,Vestido Tokyo,Ladypipa,"169,95",Manila verde,S,midi
+20,Vestido Tokyo,Ladypipa,"169,95",Manila verde,M,midi
+21,Vestido Tokyo,Ladypipa,"169,95",Manila verde,L,midi
+22,Vestido Tokyo,Ladypipa,"169,95",Manila verde,XL,midi
+23,Vestido Tokyo,Ladypipa,"169,95",Marino,XXS,midi
+24,Vestido Tokyo,Ladypipa,"169,95",Marino,XS,midi
+25,Vestido Tokyo,Ladypipa,"169,95",Marino,S,midi
+26,Vestido Tokyo,Ladypipa,"169,95",Marino,M,midi
+27,Vestido Tokyo,Ladypipa,"169,95",Marino,L,midi
+28,Vestido Tokyo,Ladypipa,"169,95",Marino,5XL,midi
+29,Vestido Siracusa,Ladypipa,"169,95",Marino,XXS,largo
+30,Vestido Siracusa,Ladypipa,"169,95",Marino,XS,largo
+31,Vestido Siracusa,Ladypipa,"169,95",Marino,S,largo
+32,Vestido Siracusa,Ladypipa,"169,95",Marino,M,largo
+33,Vestido Siracusa,Ladypipa,"169,95",Marino,L,largo
+34,Vestido Siracusa,Ladypipa,"169,95",Marino,XL,largo
+35,Vestido Siracusa,Ladypipa,"169,95",Marino,XXL,largo
+36,Vestido Siracusa,Ladypipa,"169,95",Marino,3XL,largo
+37,Vestido Siracusa,Ladypipa,"169,95",Marino,4XL,largo
+38,Vestido Siracusa,Ladypipa,"169,95",Marino,5XL,largo
+39,Vestido Shiva,Ladypipa,"179,95",Aceite,XXS,largo
+40,Vestido Shiva,Ladypipa,"179,95",Aceite,XS,largo
+41,Vestido Shiva,Ladypipa,"179,95",Aceite,S,largo
+42,Vestido Shiva,Ladypipa,"179,95",Aceite,M,largo
+43,Vestido Shiva,Ladypipa,"179,95",Aceite,L,largo
+44,Vestido Shiva,Ladypipa,"179,95",Aceite,5XL,largo
+45,Vestido Shiva,Ladypipa,"129,95",Melón,XXS,largo
+46,Vestido Shiva,Ladypipa,"129,95",Melón,XS,largo
+47,Vestido Shiva,Ladypipa,"129,95",Melón,S,largo
+48,Vestido Shiva,Ladypipa,"129,95",Melón,M,largo
+49,Vestido Mila,Ladypipa,"169,95",Sakura,XXS,midi
+50,Vestido Mila,Ladypipa,"169,95",Sakura,XS,midi
+51,Vestido Mila,Ladypipa,"169,95",Sakura,S,midi
+52,Vestido Mila,Ladypipa,"169,95",Sakura,M,midi
+53,Vestido Mila,Ladypipa,"169,95",Sakura,L,midi
+54,Vestido Eclipse,Ladypipa,"99,95",Morado,XXL,largo
+55,Vestido Eclipse,Ladypipa,"99,95",Morado,3XL,largo
+56,Vestido Eclipse,Ladypipa,"99,95",Negro,XXL,largo
+57,Vestido Eclipse,Ladypipa,"99,95",Negro,3XL,largo
+58,Vestido Eclipse,Ladypipa,"129,95",Caldera,XXS,largo
+59,Vestido Eclipse,Ladypipa,"129,95",Caldera,XS,largo
+60,Vestido Eclipse,Ladypipa,"129,95",Caldera,S,largo
+61,Vestido Eclipse,Ladypipa,"129,95",Caldera,M,largo
+62,Vestido Eclipse,Ladypipa,"129,95",Caldera,L,largo
+63,Vestido Eclipse,Ladypipa,"129,95",Caldera,XL,largo
+64,Vestido Eclipse,Ladypipa,"129,95",Caldera,XXL,largo
+65,Vestido Eclipse,Ladypipa,"129,95",Caldera,3XL,largo
+66,Vestido Eclipse,Ladypipa,"129,95",Caldera,4XL,largo
+67,Vestido Eclipse,Ladypipa,"129,95",Caldera,5XL,largo
+68,Vestido Renata,Ladypipa,"159,95",Marfil,XXS,largo
+69,Vestido Renata,Ladypipa,"159,95",Marfil,XS,largo
+70,Vestido Renata,Ladypipa,"159,95",Marfil,S,largo
+71,Vestido Renata,Ladypipa,"159,95",Marfil,M,largo
+72,Vestido Renata,Ladypipa,"159,95",Marfil,L,largo
+73,Vestido Renata,Ladypipa,"159,95",Marfil,XL,largo
+74,Vestido Renata,Ladypipa,"159,95",Marfil,XXL,largo
+75,Vestido Renata,Ladypipa,"159,95",Marfil,3XL,largo
+76,Vestido Renata,Ladypipa,"159,95",Marfil,4XL,largo
+77,Vestido Renata,Ladypipa,"159,95",Marfil,5XL,largo
+78,Vestido Renata,Ladypipa,"129,95",Salvia,XXS,largo
+79,Vestido Renata,Ladypipa,"129,95",Salvia,XS,largo
+80,Vestido Renata,Ladypipa,"129,95",Salvia,S,largo
+81,Vestido Renata,Ladypipa,"129,95",Salvia,M,largo
+82,Vestido Renata,Ladypipa,"129,95",Salvia,L,largo
+83,Vestido Renata,Ladypipa,"129,95",Salvia,XL,largo
+84,Vestido Renata,Ladypipa,"129,95",Salvia,XXL,largo
+85,Vestido Renata,Ladypipa,"129,95",Salvia,3XL,largo
+86,Vestido Renata,Ladypipa,"129,95",Salvia,4XL,largo
+87,Vestido Renata,Ladypipa,"129,95",Salvia,5XL,largo
+88,Vestido Renata,Ladypipa,"89,95",Coral,4XL,largo
+89,Vestido Renata,Ladypipa,"89,95",Coral,5XL,largo
+90,Vestido Idina,Ladypipa,"169,95",Marfil,XXS,largo
+91,Vestido Idina,Ladypipa,"169,95",Marfil,XS,largo
+92,Vestido Idina,Ladypipa,"169,95",Marfil,S,largo
+93,Vestido Idina,Ladypipa,"169,95",Marfil,M,largo
+94,Vestido Idina,Ladypipa,"169,95",Marfil,L,largo
+95,Vestido Idina,Ladypipa,"169,95",Marfil,XL,largo
+96,Vestido Idina,Ladypipa,"169,95",Marfil,4XL,largo
+97,Vestido Idina,Ladypipa,"109,95",Marino,XXS,largo
+98,Vestido Idina,Ladypipa,"109,95",Marino,XS,largo
+99,Vestido Idina,Ladypipa,"109,95",Marino,S,largo
+100,Vestido Idina,Ladypipa,"109,95",Marino,M,largo
+101,Vestido Idina,Ladypipa,"109,95",Marino,L,largo
+102,Vestido Idina,Ladypipa,"109,95",Rojo,XXS,largo
+103,Vestido Idina,Ladypipa,"109,95",Rojo,XS,largo
+104,Vestido Idina,Ladypipa,"109,95",Rojo,S,largo
+105,Vestido Idina,Ladypipa,"109,95",Rojo,M,largo
+106,Vestido Idina,Ladypipa,"109,95",Rojo,L,largo
+107,Vestido Idina,Ladypipa,"109,95",Rojo,XL,largo
+108,Vestido Lillie,Ladypipa,"169,95",Irapa teja,XXS,midi
+109,Vestido Lillie,Ladypipa,"169,95",Irapa teja,XS,midi
+110,Vestido Lillie,Ladypipa,"169,95",Irapa teja,S,midi
+111,Vestido Lillie,Ladypipa,"169,95",Irapa teja,M,midi
+112,Vestido Lillie,Ladypipa,"169,95",Irapa teja,L,midi
+113,Vestido Lillie,Ladypipa,"169,95",Irapa teja,XXL,midi
+114,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,XXS,midi
+115,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,XS,midi
+116,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,S,midi
+117,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,M,midi
+118,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,L,midi
+119,Vestido Fuji Nantai marino,Ladypipa,"179,95",Nantai azul,4XL,midi
+120,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,XXS,midi
+121,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,XS,midi
+122,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,S,midi
+123,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,M,midi
+124,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,L,midi
+125,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,XL,midi
+126,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,3XL,midi
+127,Vestido Fuji,Ladypipa,"179,95",Nantai burdeos,4XL,midi
+128,Vestido Sendai,Ladypipa,"179,95",Azul,XXS,midi
+129,Vestido Sendai,Ladypipa,"179,95",Azul,XS,midi
+130,Vestido Sendai,Ladypipa,"179,95",Azul,S,midi
+131,Vestido Sendai,Ladypipa,"179,95",Azul,M,midi
+132,Vestido Sendai,Ladypipa,"179,95",Azul,L,midi
+133,Vestido Sendai,Ladypipa,"179,95",Azul,XL,midi
+134,Vestido Sendai,Ladypipa,"179,95",Azul,3XL,midi
+135,Vestido Sendai,Ladypipa,"179,95",Rojo,XXS,midi
+136,Vestido Sendai,Ladypipa,"179,95",Rojo,XS,midi
+137,Vestido Sendai,Ladypipa,"179,95",Rojo,S,midi
+138,Vestido Sendai,Ladypipa,"179,95",Rojo,M,midi
+139,Vestido Sendai,Ladypipa,"179,95",Rojo,L,midi
+140,Vestido Sendai,Ladypipa,"179,95",Rojo,XL,midi
+141,Vestido Sendai,Ladypipa,"179,95",Rojo,XXL,midi
+156,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XXS,midi
+157,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XS,midi
+158,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,S,midi
+159,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,M,midi
+160,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,L,midi
+161,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XL,midi
+162,Vestido Kyoto,Ladypipa,"169,95",Arrecife verde,XXL,midi
+163,Vestido Kyoto,Ladypipa,"169,95",Uva,XXS,midi
+164,Vestido Kyoto,Ladypipa,"169,95",Uva,XS,midi
+165,Vestido Kyoto,Ladypipa,"169,95",Uva,S,midi
+166,Vestido Kyoto,Ladypipa,"169,95",Uva,M,midi
+167,Vestido Kyoto,Ladypipa,"169,95",Uva,XL,midi
+168,Vestido Kyoto,Ladypipa,"169,95",Uva,XXL,midi
+169,Vestido Romeo,Ladypipa,"129,95",Celadón,XXS,largo
+170,Vestido Romeo,Ladypipa,"129,95",Celadón,XS,largo
+171,Vestido Romeo,Ladypipa,"129,95",Celadón,S,largo
+172,Vestido Romeo,Ladypipa,"129,95",Celadón,M,largo
+173,Vestido Romeo,Ladypipa,"129,95",Celadón,L,largo
+174,Vestido Romeo,Ladypipa,"129,95",Celadón,XL,largo
+175,Vestido Romeo,Ladypipa,"129,95",Celadón,XXL,largo
+176,Vestido Romeo,Ladypipa,"129,95",Rojo,XXS,largo
+177,Vestido Romeo,Ladypipa,"129,95",Rojo,XS,largo
+178,Vestido Romeo,Ladypipa,"129,95",Rojo,S,largo
+179,Vestido Romeo,Ladypipa,"129,95",Rojo,M,largo
+180,Vestido Romeo,Ladypipa,"129,95",Rojo,L,largo
+181,Vestido Romeo,Ladypipa,"129,95",Rojo,XXL,largo
+182,Vestido Romeo,Ladypipa,"129,95",Rojo,3XL,largo
+183,Vestido Casablanca,Ladypipa,"149,95",Caldera,XXS,midi
+184,Vestido Casablanca,Ladypipa,"149,95",Caldera,XS,midi
+185,Vestido Casablanca,Ladypipa,"149,95",Caldera,S,midi
+186,Vestido Casablanca,Ladypipa,"149,95",Caldera,M,midi
+187,Vestido Casablanca,Ladypipa,"149,95",Caldera,L,midi
+188,Vestido Casablanca,Ladypipa,"149,95",Caldera,XXL,midi
+189,Vestido Casablanca,Ladypipa,"149,95",Celadón,XXS,midi
+190,Vestido Casablanca,Ladypipa,"149,95",Celadón,XS,midi
+191,Vestido Casablanca,Ladypipa,"149,95",Celadón,S,midi
+192,Vestido Casablanca,Ladypipa,"149,95",Celadón,M,midi
+193,Vestido Casablanca,Ladypipa,"149,95",Celadón,L,midi
+194,Vestido Casablanca,Ladypipa,"149,95",Celadón,XL,midi
+195,Vestido Casablanca,Ladypipa,"149,95",Celadón,XXL,midi
+196,Vestido Casablanca,Ladypipa,"149,95",Celadón,5XL,midi
+197,Vestido Casablanca,Ladypipa,"129,95",Marino,XS,midi
+198,Vestido Casablanca,Ladypipa,"129,95",Marino,S,midi
+199,Vestido Casablanca,Ladypipa,"129,95",Marino,M,midi
+200,Vestido Casablanca,Ladypipa,"129,95",Marino,L,midi
+201,Vestido Majal,Ladypipa,"179,95",Burdeos,XXS,largo
+202,Vestido Majal,Ladypipa,"179,95",Burdeos,XS,largo
+203,Vestido Majal,Ladypipa,"179,95",Burdeos,S,largo
+204,Vestido Majal,Ladypipa,"179,95",Burdeos,M,largo
+205,Vestido Majal,Ladypipa,"179,95",Burdeos,L,largo
+206,Vestido Majal,Ladypipa,"179,95",Burdeos,XL,largo
+207,Vestido Majal,Ladypipa,"179,95",Burdeos,XXL,largo
+208,Vestido Majal,Ladypipa,"179,95",Burdeos,3XL,largo
+209,Vestido Sakai,Ladypipa,"169,95",Cobre,XXS,midi
+210,Vestido Sakai,Ladypipa,"169,95",Cobre,XS,midi
+211,Vestido Sakai,Ladypipa,"169,95",Cobre,S,midi
+212,Vestido Sakai,Ladypipa,"169,95",Cobre,M,midi
+213,Vestido Sakai,Ladypipa,"169,95",Cobre,L,midi
+214,Vestido Sakai,Ladypipa,"169,95",Cobre,XL,midi
+215,Vestido Sakai,Ladypipa,"169,95",Cobre,XXL,midi
+216,Vestido Sakai,Ladypipa,"169,95",Cobre,3XL,midi
+217,Vestido Sakai,Ladypipa,"169,95",Cobre,4XL,midi
+218,Vestido Sakai,Ladypipa,"169,95",Cobre,5XL,midi
+219,Vestido Suzette,Ladypipa,"99,95",Caldera,XXS,midi
+220,Vestido Suzette,Ladypipa,"99,95",Caldera,XS,midi
+221,Vestido Suzette,Ladypipa,"99,95",Caldera,S,midi
+222,Vestido Suzette,Ladypipa,"99,95",Caldera,M,midi
+223,Vestido Suzette,Ladypipa,"99,95",Caldera,L,midi
+224,Vestido Suzette,Ladypipa,"99,95",Caldera,XL,midi
+225,Vestido Suzette,Ladypipa,"99,95",Caldera,XXL,midi
+226,Vestido Suzette,Ladypipa,"99,95",Caldera,4XL,midi
+227,Vestido Suzette,Ladypipa,"99,95",Caldera,5XL,midi
+303,Vestido Marguerite,Ladypipa,"129,95",Marfil,XXS,largo
+304,Vestido Marguerite,Ladypipa,"129,95",Marfil,XS,largo
+305,Vestido Marguerite,Ladypipa,"129,95",Marfil,S,largo
+306,Vestido Marguerite,Ladypipa,"129,95",Marfil,M,largo
+307,Vestido Marguerite,Ladypipa,"129,95",Marfil,XXL,largo
+308,Vestido Marguerite,Ladypipa,"129,95",Marfil,3XL,largo
+309,Vestido Marguerite,Ladypipa,"129,95",Marfil,4XL,largo
+310,Vestido Marguerite,Ladypipa,"129,95",Marfil,5XL,largo
+311,Vestido Marguerite,Ladypipa,"109,95",Caldera,XXS,largo
+312,Vestido Marguerite,Ladypipa,"109,95",Caldera,XS,largo
+313,Vestido Marguerite,Ladypipa,"109,95",Caldera,S,largo
+314,Vestido Marguerite,Ladypipa,"109,95",Caldera,M,largo
+315,Vestido Marguerite,Ladypipa,"109,95",Caldera,L,largo
+316,Vestido Marguerite,Ladypipa,"109,95",Caldera,XL,largo
+317,Vestido Marguerite,Ladypipa,"109,95",Caldera,XXL,largo
+318,Vestido Marguerite,Ladypipa,"109,95",Caldera,3XL,largo
+319,Vestido Marguerite,Ladypipa,"109,95",Caldera,4XL,largo
+320,Vestido Marguerite,Ladypipa,"109,95",Caldera,5XL,largo
+321,Vestido Marguerite,Ladypipa,"129,95",Marino,XXS,largo
+322,Vestido Marguerite,Ladypipa,"129,95",Marino,XS,largo
+323,Vestido Marguerite,Ladypipa,"129,95",Marino,S,largo
+324,Vestido Marguerite,Ladypipa,"129,95",Marino,M,largo
+325,Vestido Marguerite,Ladypipa,"129,95",Marino,XXL,largo
+326,Vestido Marguerite,Ladypipa,"129,95",Marino,3XL,largo
+327,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,XXS,midi
+328,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,XS,midi
+329,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,S,midi
+330,Vestido Etna,Ladypipa,"149,95",Irapa lavanda,M,midi
+331,Vestido Etna,Ladypipa,"99,95",Perseo,XXS,midi
+332,Vestido Etna,Ladypipa,"99,95",Perseo,XS,midi
+333,Vestido Etna,Ladypipa,"99,95",Perseo,S,midi
+334,Vestido Etna,Ladypipa,"109,95",Verde,XXS,midi
+335,Vestido Etna,Ladypipa,"109,95",Verde,XS,midi
+336,Vestido Etna,Ladypipa,"109,95",Verde,S,midi
+337,Vestido Etna,Ladypipa,"109,95",Verde,M,midi
+338,Vestido Etna,Ladypipa,"109,95",Verde,L,midi
+339,Vestido Etna,Ladypipa,"109,95",Verde,XL,midi
+340,Vestido Etna,Ladypipa,"109,95",Verde,XXL,midi
+341,Vestido Etna,Ladypipa,"129,95",Nenúfar caldera,XXS,midi
+342,Vestido Etna,Ladypipa,"129,95",Nenúfar caldera,M,midi
+343,Vestido Etna,Ladypipa,"129,95",Nenúfar caldera,L,midi
+386,Vestido Daisy,Ladypipa,"169,95",Morado,XXS,largo
+387,Vestido Daisy,Ladypipa,"169,95",Morado,XS,largo
+388,Vestido Daisy,Ladypipa,"169,95",Morado,S,largo
+389,Vestido Daisy,Ladypipa,"169,95",Morado,M,largo
+390,Vestido Daisy,Ladypipa,"169,95",Morado,L,largo
+391,Vestido Daisy,Ladypipa,"169,95",Morado,XL,largo
+392,Vestido Daisy,Ladypipa,"169,95",Morado,XXL,largo
+393,Vestido Daisy,Ladypipa,"169,95",Morado,5XL,largo
+394,Vestido Margaret,Ladypipa,"189,95",Chocolate,XXS,largo
+395,Vestido Margaret,Ladypipa,"189,95",Chocolate,S,largo
+396,Vestido Margaret,Ladypipa,"189,95",Chocolate,L,largo
+397,Vestido Margaret,Ladypipa,"189,95",Chocolate,3XL,largo
+398,Vestido Margaret,Ladypipa,"189,95",Chocolate,4XL,largo
+399,Vestido Margaret,Ladypipa,"189,95",Chocolate,5XL,largo
+400,Vestido Petra,Ladypipa,"129,95",Caldera,XXS,largo
+401,Vestido Petra,Ladypipa,"129,95",Caldera,XS,largo
+402,Vestido Petra,Ladypipa,"129,95",Caldera,S,largo
+403,Vestido Petra,Ladypipa,"129,95",Caldera,XL,largo
+404,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,XXS,largo
+405,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,XS,largo
+406,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,S,largo
+407,Vestido Petra Marino,Ladypipa,"139,95",Azul marino,M,largo
+408,Vestido Petra,Ladypipa,"129,95",Rojo,XXS,largo
+409,Vestido Petra,Ladypipa,"129,95",Rojo,XS,largo
+410,Vestido Petra,Ladypipa,"129,95",Rojo,S,largo
+411,Vestido Petra,Ladypipa,"129,95",Rojo,M,largo
+412,Vestido Petra,Ladypipa,"129,95",Rojo,L,largo
+413,Vestido Petra,Ladypipa,"129,95",Rojo,XL,largo
+414,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,XXS,midi
+415,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,XS,midi
+416,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,S,midi
+417,Vestido Deia,Ladypipa,"149,95",Bogotá berenjena,M,midi
+418,Vestido Deia,Ladypipa,"99,95",Manila,XS,midi
+419,Vestido Deia,Ladypipa,"99,95",Manila,S,midi
+420,Vestido Deia,Ladypipa,"99,95",Manila,M,midi
+421,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,XS,midi
+422,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,S,midi
+423,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,M,midi
+424,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,L,midi
+425,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,XL,midi
+426,Vestido Sidonia,Ladypipa,"139,95",Irapa rojo,4XL,midi
+427,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,S,midi
+428,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,M,midi
+429,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,L,midi
+430,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,XL,midi
+431,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,XXL,midi
+432,Vestido Sidonia,Ladypipa,"99,95",Coyoacán mineral,3XL,midi
+433,Vestido Sidonia,Ladypipa,"139,95",Rosé,XXS,midi
+434,Vestido Sidonia,Ladypipa,"139,95",Rosé,XS,midi
+435,Vestido Sidonia,Ladypipa,"139,95",Rosé,S,midi
+436,Vestido Sidonia,Ladypipa,"139,95",Rosé,M,midi
+437,Vestido Sidonia,Ladypipa,"139,95",Rosé,L,midi
+438,Vestido Sidonia,Ladypipa,"139,95",Rosé,XL,midi
+439,Vestido Sidonia,Ladypipa,"139,95",Rosé,XXL,midi
+440,Vestido Sidonia,Ladypipa,"139,95",Rosé,3XL,midi
+441,Vestido Sidonia,Ladypipa,"139,95",Rosé,4XL,midi
+442,Vestido Pepa,Ladypipa,"199,95",Blanco,XXS,midi
+443,Vestido Pepa,Ladypipa,"199,95",Blanco,XS,midi
+444,Vestido Pepa,Ladypipa,"199,95",Blanco,S,midi
+445,Vestido Pepa,Ladypipa,"199,95",Blanco,M,midi
+446,Vestido Pepa,Ladypipa,"199,95",Blanco,L,midi
+447,Vestido Pepa,Ladypipa,"199,95",Blanco,XL,midi
+448,Vestido Pepa,Ladypipa,"199,95",Blanco,XXL,midi
+449,Vestido Pepa,Ladypipa,"199,95",Blanco,3XL,midi
+450,Vestido Pepa,Ladypipa,"199,95",Blanco,4XL,midi
+451,Vestido Pepa,Ladypipa,"199,95",Blanco,5XL,midi
+452,Vestido Pepa,Ladypipa,"109,95",Cereza,5XL,midi
+475,Vestido Narciso,Ladypipa,"189,95",Blanco,XXS,largo
+476,Vestido Narciso,Ladypipa,"189,95",Blanco,XS,largo
+477,Vestido Narciso,Ladypipa,"189,95",Blanco,S,largo
+478,Vestido Narciso,Ladypipa,"189,95",Blanco,4XL,largo
+479,Vestido Narciso,Ladypipa,"189,95",Blanco,5XL,largo
+498,Vestido Tibet,Ladypipa,"129,95",Aceite,XXS,largo
+499,Vestido Tibet,Ladypipa,"129,95",Aceite,XS,largo
+500,Vestido Tibet,Ladypipa,"129,95",Aceite,S,largo
+501,Vestido Tibet,Ladypipa,"129,95",Aceite,M,largo
+502,Vestido Tibet,Ladypipa,"129,95",Aceite,L,largo
+503,Vestido Tibet,Ladypipa,"129,95",Aceite,XL,largo
+504,Vestido Tibet,Ladypipa,"129,95",Aceite,XXL,largo
+505,Vestido Tibet,Ladypipa,"129,95",Aceite,3XL,largo
+506,Vestido Tibet,Ladypipa,"129,95",Aceite,4XL,largo
+507,Vestido Tibet,Ladypipa,"129,95",Aceite,5XL,largo
