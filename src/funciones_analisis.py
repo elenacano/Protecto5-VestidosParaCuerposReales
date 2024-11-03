@@ -220,12 +220,22 @@ def querie_porcentaje_por_talla(conexion):
 
 
 def grafica_porcentaje_por_talla(df):
-    
+
     talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
     df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
 
     # Ordenar el DataFrame para asegurar que las tallas estén en el orden correcto dentro de cada categoría
     df = df.sort_values('talla')
+
+    df['acumulado'] = df['vestidos_talla_normalizado'].cumsum()
+    total_vestidos = df['vestidos_talla_normalizado'].sum()
+    mediana_pos = total_vestidos / 2
+
+    # Encontrar la talla en la posición de la mediana
+    talla_mediana = df[df['acumulado'] >= mediana_pos].iloc[0]['talla']
+    valor_talla_L = df[df['talla'] == 'L']['vestidos_talla_normalizado'].values[0]
+
+
     fig = go.Figure()
 
     fig.add_trace(
@@ -261,6 +271,28 @@ def grafica_porcentaje_por_talla(df):
         yaxis_title="Porcentaje de Vestidos",
         barmode="overlay",  # Superponer la barra y el área
         showlegend=False 
+    )
+
+    fig.add_shape(
+        type="line",
+        x0=talla_mediana,
+        x1=talla_mediana,
+        y0=0,
+        y1=df['vestidos_talla_normalizado'].max(),  # Extensión de la línea
+        line=dict(color="red", width=2),  # Línea punteada
+        xref="x",
+        yref="y"
+    )
+
+    fig.add_shape(
+        type="line",
+        x0="L",
+        x1="L",
+        y0=0,
+        y1=valor_talla_L,
+        line=dict(color="green", width=2),
+        xref="x",
+        yref="y"
     )
 
     # Mostrar la figura
