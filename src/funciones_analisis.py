@@ -297,3 +297,53 @@ def grafica_porcentaje_por_talla(df):
 
     # Mostrar la figura
     fig.show()
+
+
+def grafica_vestidos_talla_f21(conexion):
+    cursor = conexion.cursor()
+    cursor.execute("""SELECT talla, count(id_vestido) AS vestidos_talla, round(COUNT(id_vestido)*100.0/(SELECT COUNT(id_vestido) FROM vestidos),2) AS vestidos_talla_normalizado
+                        FROM vestidos v 
+                        GROUP BY talla;""")
+    data = cursor.fetchall()
+    column_names = [desc[0] for desc in cursor.description]
+
+    df = pd.DataFrame(data, columns=column_names)
+    talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
+    df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
+
+    # Ordenar el DataFrame para asegurar que las tallas estén en el orden correcto dentro de cada categoría
+    df = df.sort_values('talla')
+
+    fig = px.bar(df, 
+                    x='talla', 
+                    y='vestidos_talla_normalizado', 
+                    labels={'talla': 'Talla', 'vestidos_talla_normalizado': 'Porcentaje vestidos'},
+                    title='Porcentaje de Vestidos por Talla en Forever21',
+                    text='vestidos_talla_normalizado')
+    fig.update_traces(textposition='inside')
+    fig.show()
+
+def grafica_stock_talla_f21(conexion):
+    cursor = conexion.cursor()
+    cursor.execute("""SELECT talla, sum(stock)
+                    FROM vestidos_forever21 vf
+                    GROUP BY talla;""")
+    data = cursor.fetchall()
+    column_names = [desc[0] for desc in cursor.description]
+
+    df = pd.DataFrame(data, columns=column_names)
+    talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
+    df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
+
+    # Ordenar el DataFrame para asegurar que las tallas estén en el orden correcto dentro de cada categoría
+    df = df.sort_values('talla')
+
+    fig = px.bar(df, 
+                    x='talla', 
+                    y='sum', 
+                    labels={'sum': 'Total stock', 'talla': 'Talla'},
+                    title='Stock por Talla en Forever21',
+                    text='sum')
+    fig.update_traces(textposition='inside')
+    fig.show()
+            
