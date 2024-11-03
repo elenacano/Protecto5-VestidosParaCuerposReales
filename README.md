@@ -1,4 +1,4 @@
-# 👗 Vestidos para Cuerpos Reales 
+# Vestidos para Cuerpos Reales: La problemática actual de las mujeres españolas para encontar su talla en diversas marcas.
 
 ![Descripción de la imagen](imagenes/portada.png)
 
