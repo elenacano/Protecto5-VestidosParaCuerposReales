@@ -1,0 +1,609 @@
+{
+    "status": true,
+    "timestamp": 1730631663634,
+    "data": {
+        "id": 207517138,
+        "name": "Ghospell fringe midaxi dress in olive",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>Buy the dress, the event will find you</li><li>Crew neck</li><li>Long sleeves</li><li>Ruffle details</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell fringe midaxi dress in olive",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-fringe-midaxi-dress-in-olive/prd/207517138"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido semilargo verde oliva con flecos de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-semilargo-verde-oliva-con-flecos-de-ghospell/prd/207517138"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Midaxikleid in Olivgr\u00fcn mit Fransen",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-midaxikleid-in-olivgrun-mit-fransen/prd/207517138"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Midaxi jurk met franjes in olijfgroen",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-midaxi-jurk-met-franjes-in-olijfgroen/prd/207517138"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Robe longueur mollet \u00e0 franges - Olive",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-robe-longueur-mollet-a-franges-olive/prd/207517138"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell fringe midaxi dress in olive",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-fringe-midaxi-dress-in-olive/prd/207517138"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Olivengr\u00f8n midaxikjole med frynser",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-olivengrn-midaxikjole-med-frynser/prd/207517138"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Vestito verde oliva con frange e gonna al polpaccio",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-vestito-verde-oliva-con-frange-e-gonna-al-polpaccio/prd/207517138"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Olivgr\u00f6n midaxikl\u00e4nning med fransar",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-olivgron-midaxiklanning-med-fransar/prd/207517138"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell fringe midaxi dress in olive",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-fringe-midaxi-dress-in-olive/prd/207517138"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Oliwkowa sukienka midaxi z fr\u0119dzlami",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-oliwkowa-sukienka-midaxi-z-fredzlami/prd/207517138"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "139874225",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207517144,
+                "name": "Ghospell fringe midaxi dress in olive",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "139875579",
+                "isAvailable": true,
+                "colourWayId": 207517140,
+                "colour": "Olive",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871208737"
+            },
+            {
+                "id": 207517142,
+                "name": "Ghospell fringe midaxi dress in olive",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "139875580",
+                "isAvailable": true,
+                "colourWayId": 207517140,
+                "colour": "Olive",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871208744"
+            },
+            {
+                "id": 207517141,
+                "name": "Ghospell fringe midaxi dress in olive",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "139875581",
+                "isAvailable": true,
+                "colourWayId": 207517140,
+                "colour": "Olive",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871208751"
+            },
+            {
+                "id": 207517143,
+                "name": "Ghospell fringe midaxi dress in olive",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "139875582",
+                "isAvailable": true,
+                "colourWayId": 207517140,
+                "colour": "Olive",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871208768"
+            },
+            {
+                "id": 207517145,
+                "name": "Ghospell fringe midaxi dress in olive",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "139875583",
+                "isAvailable": true,
+                "colourWayId": 207517140,
+                "colour": "Olive",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871208775"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-1-olive",
+                    "type": "Standard1",
+                    "colourWayId": 207517140,
+                    "colour": "Olive",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207517138-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517138-catwalk",
+                    "colourWayId": 207517140
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Metallic knit: shimmer finish<br><br>Lining: 100% Polyester, Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 173cm/5'7\"<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207658981,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207658981&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13491,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 15378,
+                "type": "Standard"
+            },
+            {
+                "id": 15493,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 16661,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 20816,
+                "type": "Standard"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50007,
+                "type": "Standard"
+            },
+            {
+                "id": 50041,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50089,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50481,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51044,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51121,
+                "type": "Standard"
+            },
+            {
+                "id": 51197,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51381,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 51470,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51516,
+                "type": "Standard"
+            },
+            {
+                "id": 51540,
+                "type": "Standard"
+            },
+            {
+                "id": 51541,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51928,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875910,
+                "name": "Fringed"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

@@ -1,0 +1,565 @@
+{
+    "status": true,
+    "timestamp": 1730631668622,
+    "data": {
+        "id": 207307668,
+        "name": "Ghospell Zia zebra mini dress in mono",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>For your weekend mood board</li><li>Spread collar</li><li>Press-stud placket</li><li>Short sleeves</li><li>Flap pockets</li><li>Zebra print</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell Zia zebra mini dress in mono",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-zia-zebra-mini-dress-in-mono/prd/207307668"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Zia \u2013 Svartvit minikl\u00e4nning med zebram\u00f6nster",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-zia-svartvit-miniklanning-med-zebramonster/prd/207307668"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell Zia zebra mini dress in mono",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-zia-zebra-mini-dress-in-mono/prd/207307668"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Zia - Robe courte \u00e0 z\u00e9brures - Noir et blanc",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-zia-robe-courte-a-zebrures-noir-et-blanc/prd/207307668"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Zia \u2013 Minikleid mit Zebramuster in Schwarz-Wei\u00df",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-zia-minikleid-mit-zebramuster-in-schwarz-wei/prd/207307668"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell Zia zebra mini dress in mono",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-zia-zebra-mini-dress-in-mono/prd/207307668"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Zia - Sort og hvid minikjole med zebram\u00f8nster",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-zia-sort-og-hvid-minikjole-med-zebramnster/prd/207307668"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Zia - Vestito corto monocromatico zebrato",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-zia-vestito-corto-monocromatico-zebrato/prd/207307668"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Zia \u2013 Czarno-bia\u0142a sukienka mini w paski zebry",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-zia-czarno-biaa-sukienka-mini-w-paski-zebry/prd/207307668"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto monocrom\u00e1tico con estampado de cebra Zia de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-corto-monocromatico-con-estampado-de-cebra-zia-de-ghospell/prd/207307668"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Zia - Mini jurk met zebraprint in mono",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-zia-mini-jurk-met-zebraprint-in-mono/prd/207307668"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138840540",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207307680,
+                "name": "Ghospell Zia zebra mini dress in mono",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "138840580",
+                "isAvailable": true,
+                "colourWayId": 207307675,
+                "colour": "ZEBRA",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871204876"
+            },
+            {
+                "id": 207307679,
+                "name": "Ghospell Zia zebra mini dress in mono",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "138840581",
+                "isAvailable": true,
+                "colourWayId": 207307675,
+                "colour": "ZEBRA",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871204883"
+            },
+            {
+                "id": 207307677,
+                "name": "Ghospell Zia zebra mini dress in mono",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "138840582",
+                "isAvailable": true,
+                "colourWayId": 207307675,
+                "colour": "ZEBRA",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871204890"
+            },
+            {
+                "id": 207307678,
+                "name": "Ghospell Zia zebra mini dress in mono",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "138840583",
+                "isAvailable": true,
+                "colourWayId": 207307675,
+                "colour": "ZEBRA",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871204906"
+            },
+            {
+                "id": 207307676,
+                "name": "Ghospell Zia zebra mini dress in mono",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "138840584",
+                "isAvailable": true,
+                "colourWayId": 207307675,
+                "colour": "ZEBRA",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871204913"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-1-zebra",
+                    "type": "Standard1",
+                    "colourWayId": 207307675,
+                    "colour": "ZEBRA",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207307668-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307668-catwalk",
+                    "colourWayId": 207307675
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Stretch, plain-woven fabric<br><br>Main: 90% Polyester, 10% Elastane.",
+            "sizeAndFit": "Model's height: 176cm / 5' 9\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207455246,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207455246&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 13053,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 13928,
+                "type": "Standard"
+            },
+            {
+                "id": 13929,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15343,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51197,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51638,
+                "type": "Standard"
+            },
+            {
+                "id": 51666,
+                "type": "Standard"
+            },
+            {
+                "id": 51724,
+                "type": "Standard"
+            },
+            {
+                "id": 51727,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875923,
+                "name": "Animal print"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

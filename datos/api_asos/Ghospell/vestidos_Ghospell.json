@@ -1,0 +1,1993 @@
+{
+    "status": true,
+    "timestamp": 1730631644064,
+    "data": {
+        "searchTerm": "",
+        "categoryName": "Ghospell",
+        "itemCount": 37,
+        "redirectUrl": "",
+        "products": [
+            {
+                "id": 207517138,
+                "name": "Ghospell fringe midaxi dress in olive",
+                "price": {
+                    "current": {
+                        "value": 150,
+                        "text": "$150.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Olive",
+                "colourWayId": 207517140,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874225,
+                "productType": "Product",
+                "url": "ghospell/ghospell-fringe-midaxi-dress-in-olive/prd/207517138#colourWayId-207517140",
+                "imageUrl": "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-1-olive",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-2",
+                    "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-3",
+                    "images.asos-media.com/products/ghospell-fringe-midaxi-dress-in-olive/207517138-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517138-catwalk",
+                "showVideo": false,
+                "isSellingFast": true,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207517127,
+                "name": "Ghospell oversized ruched top in white",
+                "price": {
+                    "current": {
+                        "value": 113,
+                        "text": "$113.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "White",
+                "colourWayId": 207517128,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874224,
+                "productType": "Product",
+                "url": "ghospell/ghospell-oversized-ruched-top-in-white/prd/207517127#colourWayId-207517128",
+                "imageUrl": "images.asos-media.com/products/ghospell-oversized-ruched-top-in-white/207517127-1-white",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-oversized-ruched-top-in-white/207517127-2",
+                    "images.asos-media.com/products/ghospell-oversized-ruched-top-in-white/207517127-3",
+                    "images.asos-media.com/products/ghospell-oversized-ruched-top-in-white/207517127-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517127-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307724,
+                "name": "Ghospell Salome jacquard mini dress in black",
+                "price": {
+                    "current": {
+                        "value": 118,
+                        "text": "$118.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207307725,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840547,
+                "productType": "Product",
+                "url": "ghospell/ghospell-salome-jacquard-mini-dress-in-black/prd/207307724#colourWayId-207307725",
+                "imageUrl": "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-2",
+                    "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-3",
+                    "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307724-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207518325,
+                "name": "Ghospell fringe mini dress in black",
+                "price": {
+                    "current": {
+                        "value": 127,
+                        "text": "$127.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207518326,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874234,
+                "productType": "Product",
+                "url": "ghospell/ghospell-fringe-mini-dress-in-black/prd/207518325#colourWayId-207518326",
+                "imageUrl": "images.asos-media.com/products/ghospell-fringe-mini-dress-in-black/207518325-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-fringe-mini-dress-in-black/207518325-2",
+                    "images.asos-media.com/products/ghospell-fringe-mini-dress-in-black/207518325-3",
+                    "images.asos-media.com/products/ghospell-fringe-mini-dress-in-black/207518325-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207518325-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307766,
+                "name": "Ghospell Briar quilted jacket with bow detail in black",
+                "price": {
+                    "current": {
+                        "value": 137,
+                        "text": "$137.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207307767,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840554,
+                "productType": "Product",
+                "url": "ghospell/ghospell-briar-quilted-jacket-with-bow-detail-in-black/prd/207307766#colourWayId-207307767",
+                "imageUrl": "images.asos-media.com/products/ghospell-briar-quilted-jacket-with-bow-detail-in-black/207307766-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-briar-quilted-jacket-with-bow-detail-in-black/207307766-2",
+                    "images.asos-media.com/products/ghospell-briar-quilted-jacket-with-bow-detail-in-black/207307766-3",
+                    "images.asos-media.com/products/ghospell-briar-quilted-jacket-with-bow-detail-in-black/207307766-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307766-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307688,
+                "name": "Ghospell Drew mini dress with oversized collar in denim",
+                "price": {
+                    "current": {
+                        "value": 128,
+                        "text": "$128.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "DENIM",
+                "colourWayId": 207307689,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840542,
+                "productType": "Product",
+                "url": "ghospell/ghospell-drew-mini-dress-with-oversized-collar-in-denim/prd/207307688#colourWayId-207307689",
+                "imageUrl": "images.asos-media.com/products/ghospell-drew-mini-dress-with-oversized-collar-in-denim/207307688-1-denim",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-drew-mini-dress-with-oversized-collar-in-denim/207307688-2",
+                    "images.asos-media.com/products/ghospell-drew-mini-dress-with-oversized-collar-in-denim/207307688-3",
+                    "images.asos-media.com/products/ghospell-drew-mini-dress-with-oversized-collar-in-denim/207307688-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081364,
+                "name": "Ghospell bow detail textured mini dress in dark wash denim",
+                "price": {
+                    "current": {
+                        "value": 130,
+                        "text": "$130.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Dark Denim",
+                "colourWayId": 207081365,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514503,
+                "productType": "Product",
+                "url": "ghospell/ghospell-bow-detail-textured-mini-dress-in-dark-wash-denim/prd/207081364#colourWayId-207081365",
+                "imageUrl": "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-dark-wash-denim/207081364-1-darkdenim",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-dark-wash-denim/207081364-2",
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-dark-wash-denim/207081364-3",
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-dark-wash-denim/207081364-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081364-catwalk",
+                "showVideo": false,
+                "isSellingFast": true,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081381,
+                "name": "Ghospell asymmetric ruched top in black",
+                "price": {
+                    "current": {
+                        "value": 120,
+                        "text": "$120.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207081382,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514513,
+                "productType": "Product",
+                "url": "ghospell/ghospell-asymmetric-ruched-top-in-black/prd/207081381#colourWayId-207081382",
+                "imageUrl": "images.asos-media.com/products/ghospell-asymmetric-ruched-top-in-black/207081381-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-asymmetric-ruched-top-in-black/207081381-2",
+                    "images.asos-media.com/products/ghospell-asymmetric-ruched-top-in-black/207081381-3",
+                    "images.asos-media.com/products/ghospell-asymmetric-ruched-top-in-black/207081381-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081381-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207517185,
+                "name": "Ghospell asymmetric tailored wrap top in black",
+                "price": {
+                    "current": {
+                        "value": 88,
+                        "text": "$88.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207517186,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874228,
+                "productType": "Product",
+                "url": "ghospell/ghospell-asymmetric-tailored-wrap-top-in-black/prd/207517185#colourWayId-207517186",
+                "imageUrl": "images.asos-media.com/products/ghospell-asymmetric-tailored-wrap-top-in-black/207517185-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-asymmetric-tailored-wrap-top-in-black/207517185-2",
+                    "images.asos-media.com/products/ghospell-asymmetric-tailored-wrap-top-in-black/207517185-3",
+                    "images.asos-media.com/products/ghospell-asymmetric-tailored-wrap-top-in-black/207517185-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517185-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207517078,
+                "name": "Ghospell contrast bow mini dress in navy",
+                "price": {
+                    "current": {
+                        "value": 127,
+                        "text": "$127.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Navy",
+                "colourWayId": 207517079,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874217,
+                "productType": "Product",
+                "url": "ghospell/ghospell-contrast-bow-mini-dress-in-navy/prd/207517078#colourWayId-207517079",
+                "imageUrl": "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-1-navy",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-2",
+                    "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-3",
+                    "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517078-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207326603,
+                "name": "Ghospell ruched midi dress in black",
+                "price": {
+                    "current": {
+                        "value": 113,
+                        "text": "$113.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "black",
+                "colourWayId": 207326604,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138943896,
+                "productType": "Product",
+                "url": "ghospell/ghospell-ruched-midi-dress-in-black/prd/207326603#colourWayId-207326604",
+                "imageUrl": "images.asos-media.com/products/ghospell-ruched-midi-dress-in-black/207326603-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-ruched-midi-dress-in-black/207326603-2",
+                    "images.asos-media.com/products/ghospell-ruched-midi-dress-in-black/207326603-3",
+                    "images.asos-media.com/products/ghospell-ruched-midi-dress-in-black/207326603-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207326603-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307668,
+                "name": "Ghospell Zia zebra mini dress in mono",
+                "price": {
+                    "current": {
+                        "value": 118,
+                        "text": "$118.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Zebra",
+                "colourWayId": 207307675,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840540,
+                "productType": "Product",
+                "url": "ghospell/ghospell-zia-zebra-mini-dress-in-mono/prd/207307668#colourWayId-207307675",
+                "imageUrl": "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-1-zebra",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-2",
+                    "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-3",
+                    "images.asos-media.com/products/ghospell-zia-zebra-mini-dress-in-mono/207307668-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307668-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081334,
+                "name": "Ghospell Athena shirred mini dress in chocolate brown",
+                "price": {
+                    "current": {
+                        "value": 137,
+                        "text": "$137.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Choc",
+                "colourWayId": 207081335,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514508,
+                "productType": "Product",
+                "url": "ghospell/ghospell-athena-shirred-mini-dress-in-chocolate-brown/prd/207081334#colourWayId-207081335",
+                "imageUrl": "images.asos-media.com/products/ghospell-athena-shirred-mini-dress-in-chocolate-brown/207081334-1-choc",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-athena-shirred-mini-dress-in-chocolate-brown/207081334-2",
+                    "images.asos-media.com/products/ghospell-athena-shirred-mini-dress-in-chocolate-brown/207081334-3",
+                    "images.asos-media.com/products/ghospell-athena-shirred-mini-dress-in-chocolate-brown/207081334-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081334-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207517120,
+                "name": "Ghospell oversized jacquard top in black",
+                "price": {
+                    "current": {
+                        "value": 113,
+                        "text": "$113.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207517121,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874223,
+                "productType": "Product",
+                "url": "ghospell/ghospell-oversized-jacquard-top-in-black/prd/207517120#colourWayId-207517121",
+                "imageUrl": "images.asos-media.com/products/ghospell-oversized-jacquard-top-in-black/207517120-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-oversized-jacquard-top-in-black/207517120-2",
+                    "images.asos-media.com/products/ghospell-oversized-jacquard-top-in-black/207517120-3",
+                    "images.asos-media.com/products/ghospell-oversized-jacquard-top-in-black/207517120-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517120-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207517204,
+                "name": "Ghospell jacquard bow mini dress in black",
+                "price": {
+                    "current": {
+                        "value": 117,
+                        "text": "$117.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207517205,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874229,
+                "productType": "Product",
+                "url": "ghospell/ghospell-jacquard-bow-mini-dress-in-black/prd/207517204#colourWayId-207517205",
+                "imageUrl": "images.asos-media.com/products/ghospell-jacquard-bow-mini-dress-in-black/207517204-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-jacquard-bow-mini-dress-in-black/207517204-2",
+                    "images.asos-media.com/products/ghospell-jacquard-bow-mini-dress-in-black/207517204-3",
+                    "images.asos-media.com/products/ghospell-jacquard-bow-mini-dress-in-black/207517204-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517204-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081448,
+                "name": "Ghospell Morgan tie side wrap mini dress in mono",
+                "price": {
+                    "current": {
+                        "value": 120,
+                        "text": "$120.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "MONO",
+                "colourWayId": 207081449,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514506,
+                "productType": "Product",
+                "url": "ghospell/ghospell-morgan-tie-side-wrap-mini-dress-in-mono/prd/207081448#colourWayId-207081449",
+                "imageUrl": "images.asos-media.com/products/ghospell-morgan-tie-side-wrap-mini-dress-in-mono/207081448-1-mono",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-morgan-tie-side-wrap-mini-dress-in-mono/207081448-2",
+                    "images.asos-media.com/products/ghospell-morgan-tie-side-wrap-mini-dress-in-mono/207081448-3",
+                    "images.asos-media.com/products/ghospell-morgan-tie-side-wrap-mini-dress-in-mono/207081448-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081448-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206581151,
+                "name": "Ghospell bow detail textured mini dress in black",
+                "price": {
+                    "current": {
+                        "value": 105,
+                        "text": "$105.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 206581152,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135637106,
+                "productType": "Product",
+                "url": "ghospell/ghospell-bow-detail-textured-mini-dress-in-black/prd/206581151#colourWayId-206581152",
+                "imageUrl": "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-2",
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-3",
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307710,
+                "name": "Ghospell Bobbi plaid bow mini dress in black and white",
+                "price": {
+                    "current": {
+                        "value": 124,
+                        "text": "$124.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "MONO",
+                "colourWayId": 207307712,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840545,
+                "productType": "Product",
+                "url": "ghospell/ghospell-bobbi-plaid-bow-mini-dress-in-black-and-white/prd/207307710#colourWayId-207307712",
+                "imageUrl": "images.asos-media.com/products/ghospell-bobbi-plaid-bow-mini-dress-in-black-and-white/207307710-1-mono",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-bobbi-plaid-bow-mini-dress-in-black-and-white/207307710-2",
+                    "images.asos-media.com/products/ghospell-bobbi-plaid-bow-mini-dress-in-black-and-white/207307710-3",
+                    "images.asos-media.com/products/ghospell-bobbi-plaid-bow-mini-dress-in-black-and-white/207307710-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307710-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307709,
+                "name": "Ghospell Frankie fringe mini dress in black",
+                "price": {
+                    "current": {
+                        "value": 132,
+                        "text": "$132.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207307711,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840546,
+                "productType": "Product",
+                "url": "ghospell/ghospell-frankie-fringe-mini-dress-in-black/prd/207307709#colourWayId-207307711",
+                "imageUrl": "images.asos-media.com/products/ghospell-frankie-fringe-mini-dress-in-black/207307709-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-frankie-fringe-mini-dress-in-black/207307709-2",
+                    "images.asos-media.com/products/ghospell-frankie-fringe-mini-dress-in-black/207307709-3",
+                    "images.asos-media.com/products/ghospell-frankie-fringe-mini-dress-in-black/207307709-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207517106,
+                "name": "Ghospell oversized ruched mini dress in black",
+                "price": {
+                    "current": {
+                        "value": 136,
+                        "text": "$136.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207517107,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 139874221,
+                "productType": "Product",
+                "url": "ghospell/ghospell-oversized-ruched-mini-dress-in-black/prd/207517106#colourWayId-207517107",
+                "imageUrl": "images.asos-media.com/products/ghospell-oversized-ruched-mini-dress-in-black/207517106-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-oversized-ruched-mini-dress-in-black/207517106-2",
+                    "images.asos-media.com/products/ghospell-oversized-ruched-mini-dress-in-black/207517106-3",
+                    "images.asos-media.com/products/ghospell-oversized-ruched-mini-dress-in-black/207517106-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517106-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307751,
+                "name": "Ghospell Drew oversized collar blouse in white",
+                "price": {
+                    "current": {
+                        "value": 82,
+                        "text": "$82.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "WHITE",
+                "colourWayId": 207307753,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840552,
+                "productType": "Product",
+                "url": "ghospell/ghospell-drew-oversized-collar-blouse-in-white/prd/207307751#colourWayId-207307753",
+                "imageUrl": "images.asos-media.com/products/ghospell-drew-oversized-collar-blouse-in-white/207307751-1-white",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-drew-oversized-collar-blouse-in-white/207307751-2",
+                    "images.asos-media.com/products/ghospell-drew-oversized-collar-blouse-in-white/207307751-3",
+                    "images.asos-media.com/products/ghospell-drew-oversized-collar-blouse-in-white/207307751-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307639,
+                "name": "Ghospell Harriet tiered midi dress in black",
+                "price": {
+                    "current": {
+                        "value": 166,
+                        "text": "$166.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207307640,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840535,
+                "productType": "Product",
+                "url": "ghospell/ghospell-harriet-tiered-midi-dress-in-black/prd/207307639#colourWayId-207307640",
+                "imageUrl": "images.asos-media.com/products/ghospell-harriet-tiered-midi-dress-in-black/207307639-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-harriet-tiered-midi-dress-in-black/207307639-2",
+                    "images.asos-media.com/products/ghospell-harriet-tiered-midi-dress-in-black/207307639-3",
+                    "images.asos-media.com/products/ghospell-harriet-tiered-midi-dress-in-black/207307639-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307639-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307681,
+                "name": "Ghospell Ayesha organza mini dress in emerald green",
+                "price": {
+                    "current": {
+                        "value": 132,
+                        "text": "$132.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Emerald",
+                "colourWayId": 207307682,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840541,
+                "productType": "Product",
+                "url": "ghospell/ghospell-ayesha-organza-mini-dress-in-emerald-green/prd/207307681#colourWayId-207307682",
+                "imageUrl": "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-1-emerald",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-2",
+                    "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-3",
+                    "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307681-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081410,
+                "name": "Ghospell bow detail textured mini dress in leopard print",
+                "price": {
+                    "current": {
+                        "value": 137,
+                        "text": "$137.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "LEOPARD",
+                "colourWayId": 207081412,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514505,
+                "productType": "Product",
+                "url": "ghospell/ghospell-bow-detail-textured-mini-dress-in-leopard-print/prd/207081410#colourWayId-207081412",
+                "imageUrl": "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-leopard-print/207081410-1-leopard",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-leopard-print/207081410-2",
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-leopard-print/207081410-3",
+                    "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-leopard-print/207081410-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081410-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307702,
+                "name": "Ghospell Mara mini dress with side bow detail in black",
+                "price": {
+                    "current": {
+                        "value": 100,
+                        "text": "$100.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207307703,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840544,
+                "productType": "Product",
+                "url": "ghospell/ghospell-mara-mini-dress-with-side-bow-detail-in-black/prd/207307702#colourWayId-207307703",
+                "imageUrl": "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-2",
+                    "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-3",
+                    "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307702-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207307646,
+                "name": "Ghospell Keoni knitted midi dress in cobalt",
+                "price": {
+                    "current": {
+                        "value": 110,
+                        "text": "$110.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "BLUE",
+                "colourWayId": 207307647,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 138840536,
+                "productType": "Product",
+                "url": "ghospell/ghospell-keoni-knitted-midi-dress-in-cobalt/prd/207307646#colourWayId-207307647",
+                "imageUrl": "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-1-blue",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-2",
+                    "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-3",
+                    "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307646-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206870517,
+                "name": "Ghospell contrast bow midi skirt in leopard - part of a set",
+                "price": {
+                    "current": {
+                        "value": 97,
+                        "text": "$97.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Leopard",
+                "colourWayId": 206870533,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 136598036,
+                "productType": "Product",
+                "url": "ghospell/ghospell-contrast-bow-midi-skirt-in-leopard-part-of-a-set/prd/206870517#colourWayId-206870533",
+                "imageUrl": "images.asos-media.com/products/ghospell-contrast-bow-midi-skirt-in-leopard-part-of-a-set/206870517-1-leopard",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-contrast-bow-midi-skirt-in-leopard-part-of-a-set/206870517-2",
+                    "images.asos-media.com/products/ghospell-contrast-bow-midi-skirt-in-leopard-part-of-a-set/206870517-3",
+                    "images.asos-media.com/products/ghospell-contrast-bow-midi-skirt-in-leopard-part-of-a-set/206870517-4",
+                    "images.asos-media.com/products/ghospell-contrast-bow-midi-skirt-in-leopard-part-of-a-set/206870517-5"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206581179,
+                "name": "Ghospell oversized collar mini dress in cream",
+                "price": {
+                    "current": {
+                        "value": 111,
+                        "text": "$111.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Cream",
+                "colourWayId": 206581180,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135637107,
+                "productType": "Product",
+                "url": "ghospell/ghospell-oversized-collar-mini-dress-in-cream/prd/206581179#colourWayId-206581180",
+                "imageUrl": "images.asos-media.com/products/ghospell-oversized-collar-mini-dress-in-cream/206581179-1-cream",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-oversized-collar-mini-dress-in-cream/206581179-2",
+                    "images.asos-media.com/products/ghospell-oversized-collar-mini-dress-in-cream/206581179-3",
+                    "images.asos-media.com/products/ghospell-oversized-collar-mini-dress-in-cream/206581179-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081371,
+                "name": "Ghospell Greta floral mini dress in mono jacquard",
+                "price": {
+                    "current": {
+                        "value": 90,
+                        "text": "$90.00"
+                    },
+                    "previous": {
+                        "value": 120,
+                        "text": "$120.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "MONO",
+                "colourWayId": 207081372,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514507,
+                "productType": "Product",
+                "url": "ghospell/ghospell-greta-floral-mini-dress-in-mono-jacquard/prd/207081371#colourWayId-207081372",
+                "imageUrl": "images.asos-media.com/products/ghospell-greta-floral-mini-dress-in-mono-jacquard/207081371-1-mono",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-greta-floral-mini-dress-in-mono-jacquard/207081371-2",
+                    "images.asos-media.com/products/ghospell-greta-floral-mini-dress-in-mono-jacquard/207081371-3",
+                    "images.asos-media.com/products/ghospell-greta-floral-mini-dress-in-mono-jacquard/207081371-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081425,
+                "name": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "price": {
+                    "current": {
+                        "value": 116.5,
+                        "text": "$116.50"
+                    },
+                    "previous": {
+                        "value": 155,
+                        "text": "$155.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "NAVY",
+                "colourWayId": 207081427,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514496,
+                "productType": "Product",
+                "url": "ghospell/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/prd/207081425#colourWayId-207081427",
+                "imageUrl": "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-1-navy",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-2",
+                    "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-3",
+                    "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081425-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081403,
+                "name": "Ghospell bow detail shirt mini dress in mono",
+                "price": {
+                    "current": {
+                        "value": 97.5,
+                        "text": "$97.50"
+                    },
+                    "previous": {
+                        "value": 130,
+                        "text": "$130.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 207081404,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514502,
+                "productType": "Product",
+                "url": "ghospell/ghospell-bow-detail-shirt-mini-dress-in-mono/prd/207081403#colourWayId-207081404",
+                "imageUrl": "images.asos-media.com/products/ghospell-bow-detail-shirt-mini-dress-in-mono/207081403-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-bow-detail-shirt-mini-dress-in-mono/207081403-2",
+                    "images.asos-media.com/products/ghospell-bow-detail-shirt-mini-dress-in-mono/207081403-3",
+                    "images.asos-media.com/products/ghospell-bow-detail-shirt-mini-dress-in-mono/207081403-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081403-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081440,
+                "name": "Ghospell Kali shirred dropwaist midi dress in red",
+                "price": {
+                    "current": {
+                        "value": 115.5,
+                        "text": "$115.50"
+                    },
+                    "previous": {
+                        "value": 165,
+                        "text": "$165.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "RED",
+                "colourWayId": 207081442,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514499,
+                "productType": "Product",
+                "url": "ghospell/ghospell-kali-shirred-dropwaist-midi-dress-in-red/prd/207081440#colourWayId-207081442",
+                "imageUrl": "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-1-red",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-2",
+                    "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-3",
+                    "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081440-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081418,
+                "name": "Ghospell Teo asymmetric bow top in dark denim",
+                "price": {
+                    "current": {
+                        "value": 73,
+                        "text": "$73.00"
+                    },
+                    "previous": {
+                        "value": 91,
+                        "text": "$91.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Dark Denim",
+                "colourWayId": 207081419,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514511,
+                "productType": "Product",
+                "url": "ghospell/ghospell-teo-asymmetric-bow-top-in-dark-denim/prd/207081418#colourWayId-207081419",
+                "imageUrl": "images.asos-media.com/products/ghospell-teo-asymmetric-bow-top-in-dark-denim/207081418-1-darkdenim",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-teo-asymmetric-bow-top-in-dark-denim/207081418-2",
+                    "images.asos-media.com/products/ghospell-teo-asymmetric-bow-top-in-dark-denim/207081418-3",
+                    "images.asos-media.com/products/ghospell-teo-asymmetric-bow-top-in-dark-denim/207081418-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081418-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081341,
+                "name": "Ghospell Lia textured asymmetric midi dress in apple green",
+                "price": {
+                    "current": {
+                        "value": 116.5,
+                        "text": "$116.50"
+                    },
+                    "previous": {
+                        "value": 155,
+                        "text": "$155.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Apple green",
+                "colourWayId": 207081343,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514500,
+                "productType": "Product",
+                "url": "ghospell/ghospell-lia-textured-asymmetric-midi-dress-in-apple-green/prd/207081341#colourWayId-207081343",
+                "imageUrl": "images.asos-media.com/products/ghospell-lia-textured-asymmetric-midi-dress-in-apple-green/207081341-1-applegreen",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-lia-textured-asymmetric-midi-dress-in-apple-green/207081341-2",
+                    "images.asos-media.com/products/ghospell-lia-textured-asymmetric-midi-dress-in-apple-green/207081341-3",
+                    "images.asos-media.com/products/ghospell-lia-textured-asymmetric-midi-dress-in-apple-green/207081341-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081341-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 207081395,
+                "name": "Ghospell bow detail shirt midi dress in brown tonal",
+                "price": {
+                    "current": {
+                        "value": 124,
+                        "text": "$124.00"
+                    },
+                    "previous": {
+                        "value": 155,
+                        "text": "$155.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "BROWN",
+                "colourWayId": 207081396,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 137514501,
+                "productType": "Product",
+                "url": "ghospell/ghospell-bow-detail-shirt-midi-dress-in-brown-tonal/prd/207081395#colourWayId-207081396",
+                "imageUrl": "images.asos-media.com/products/ghospell-bow-detail-shirt-midi-dress-in-brown-tonal/207081395-1-brown",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-bow-detail-shirt-midi-dress-in-brown-tonal/207081395-2",
+                    "images.asos-media.com/products/ghospell-bow-detail-shirt-midi-dress-in-brown-tonal/207081395-3",
+                    "images.asos-media.com/products/ghospell-bow-detail-shirt-midi-dress-in-brown-tonal/207081395-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081395-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206581221,
+                "name": "Ghospell oversized tie shirt in ivory",
+                "price": {
+                    "current": {
+                        "value": 97,
+                        "text": "$97.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Ivory",
+                "colourWayId": 206581222,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135637119,
+                "productType": "Product",
+                "url": "ghospell/ghospell-oversized-tie-shirt-in-ivory/prd/206581221#colourWayId-206581222",
+                "imageUrl": "images.asos-media.com/products/ghospell-oversized-tie-shirt-in-ivory/206581221-1-ivory",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-oversized-tie-shirt-in-ivory/206581221-2",
+                    "images.asos-media.com/products/ghospell-oversized-tie-shirt-in-ivory/206581221-3",
+                    "images.asos-media.com/products/ghospell-oversized-tie-shirt-in-ivory/206581221-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206604534,
+                "name": "Ghospell asymmetric bow detail mini dress in pink",
+                "price": {
+                    "current": {
+                        "value": 151,
+                        "text": "$151.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Pink",
+                "colourWayId": 206604535,
+                "brandName": "Ghospell",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135706093,
+                "productType": "Product",
+                "url": "ghospell/ghospell-asymmetric-bow-detail-mini-dress-in-pink/prd/206604534#colourWayId-206604535",
+                "imageUrl": "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-1-pink",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-2",
+                    "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-3",
+                    "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            }
+        ],
+        "facets": [
+            {
+                "id": "range",
+                "name": "Sale/New Season",
+                "facetValues": [
+                    {
+                        "count": 30,
+                        "id": "new_season",
+                        "name": "New Season",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 7,
+                        "id": "sale",
+                        "name": "Sale",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "size",
+                "name": "Size",
+                "facetValues": [
+                    {
+                        "count": 27,
+                        "id": "5179",
+                        "name": "XS",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 26,
+                        "id": "4421",
+                        "name": "S",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 29,
+                        "id": "4409",
+                        "name": "M",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 23,
+                        "id": "5155",
+                        "name": "L",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "attribute_1047",
+                "name": "Product Type",
+                "facetValues": [
+                    {
+                        "count": 4,
+                        "id": "8392",
+                        "name": "Blouses",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8406",
+                        "name": "Coats",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 28,
+                        "id": "8416",
+                        "name": "Dresses",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "8390",
+                        "name": "Shirts",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8402",
+                        "name": "Skirts",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "attribute_1046",
+                "name": "Style",
+                "facetValues": [
+                    {
+                        "count": 10,
+                        "id": "61468",
+                        "name": "Other",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 5,
+                        "id": "8364",
+                        "name": "Long Sleeve",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "61462",
+                        "name": "Smock Dresses",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "8192",
+                        "name": "Regular",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "8314",
+                        "name": "A Line",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8299",
+                        "name": "Skater",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8300",
+                        "name": "Slip",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8301",
+                        "name": "T-Shirt",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8332",
+                        "name": "Wrap",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8352",
+                        "name": "Denim",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "72017",
+                        "name": "Tiered",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8289",
+                        "name": "Quilted",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8295",
+                        "name": "Shirt",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8311",
+                        "name": "Swing",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "base_colour",
+                "name": "Color",
+                "facetValues": [
+                    {
+                        "count": 15,
+                        "id": "4",
+                        "name": "Black",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 5,
+                        "id": "3",
+                        "name": "Blue",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 4,
+                        "id": "17",
+                        "name": "Multi",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 4,
+                        "id": "5",
+                        "name": "White",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "10",
+                        "name": "Brown",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "2",
+                        "name": "Green",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "1",
+                        "name": "Red",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "33",
+                        "name": "Navy",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "9",
+                        "name": "pink",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "attribute_10992",
+                "name": "Category",
+                "facetValues": [
+                    {
+                        "count": 28,
+                        "id": "61379",
+                        "name": "Dresses",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 7,
+                        "id": "61383",
+                        "name": "Tops",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "61376",
+                        "name": "Skirts",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "61380",
+                        "name": "Outerwear",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "discount_band",
+                "name": "Discount %",
+                "facetValues": [
+                    {
+                        "count": 1,
+                        "id": "3",
+                        "name": "30% - 40%",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 5,
+                        "id": "2",
+                        "name": "20% - 30%",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "1",
+                        "name": "Up to 20%",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            }
+        ],
+        "diagnostics": {
+            "requestId": "bfb438ed-4779-4a0e-91fb-8c1ceb7257dd",
+            "processingTime": 98,
+            "queryTime": 31,
+            "recommendationsEnabled": false,
+            "recommendationsAnalytics": {
+                "personalisationStatus": 5,
+                "numberOfItems": 0,
+                "numberOfRecs": 0,
+                "personalisationType": "",
+                "experimentTrackerkey": "",
+                "items": []
+            },
+            "advertisementsEnabled": true,
+            "advertisementsAnalytics": {
+                "status": 10,
+                "customerOptIn": false,
+                "numberOfItemsFromPartner": 0,
+                "items": [],
+                "itemsFromPartner": [],
+                "placementBeacons": {
+                    "onLoadBeacon": null,
+                    "onViewBeacon": null
+                }
+            },
+            "curationAnalytics": {
+                "status": 9,
+                "numberOfCuratedItems": 0,
+                "elevatedItems": [],
+                "fixedItems": [],
+                "comingSoonItems": [],
+                "advertisementPositions": [],
+                "marketingItems": []
+            }
+        },
+        "searchPassMeta": {
+            "isPartial": false,
+            "isSpellcheck": false,
+            "searchPass": [],
+            "alternateSearchTerms": []
+        },
+        "queryId": null,
+        "discoverSearchProductTypes": [],
+        "campaigns": {
+            "imageTiles": [],
+            "promoBanners": [],
+            "sponsoredProducts": []
+        }
+    }
+}

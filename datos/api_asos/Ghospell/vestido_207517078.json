@@ -1,0 +1,516 @@
+{
+    "status": true,
+    "timestamp": 1730631667302,
+    "data": {
+        "id": 207517078,
+        "name": "Ghospell contrast bow mini dress in navy",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>For your weekend plans</li><li>Crew neck</li><li>Wrap front </li><li>Contrast bow fastening</li><li>Short sleeves</li><li>Mini cut </li><li>Back pleat</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell contrast bow mini dress in navy",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-contrast-bow-mini-dress-in-navy/prd/207517078"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Marinbl\u00e5 minikl\u00e4nning med kontrastf\u00e4rgade rosetter",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-marinbla-miniklanning-med-kontrastfargade-rosetter/prd/207517078"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Robe courte avec n\u0153uds contrastants - Bleu marine",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-robe-courte-avec-nuds-contrastants-bleu-marine/prd/207517078"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell contrast bow mini dress in navy",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-contrast-bow-mini-dress-in-navy/prd/207517078"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell contrast bow mini dress in navy",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-contrast-bow-mini-dress-in-navy/prd/207517078"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Marinebl\u00e5 minikjole med kontrastfarvet sl\u00f8jfe",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-marinebla-minikjole-med-kontrastfarvet-sljfe/prd/207517078"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Minikleid in Marineblau mit farblich abgesetzten Schleifen",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-minikleid-in-marineblau-mit-farblich-abgesetzten-schleifen/prd/207517078"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Mini jurk met contrasterende strik in marineblauw",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-mini-jurk-met-contrasterende-strik-in-marineblauw/prd/207517078"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto azul marino con lazos en contraste de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-corto-azul-marino-con-lazos-en-contraste-de-ghospell/prd/207517078"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Vestito corto blu navy con fiocchi a contrasto",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-vestito-corto-blu-navy-con-fiocchi-a-contrasto/prd/207517078"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Granatowa sukienka mini z kontrastowymi kokardkami",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-granatowa-sukienka-mini-z-kontrastowymi-kokardkami/prd/207517078"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "139874217",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207517080,
+                "name": "Ghospell contrast bow mini dress in navy",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "139874565",
+                "isAvailable": true,
+                "colourWayId": 207517079,
+                "colour": "Navy",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871208379"
+            },
+            {
+                "id": 207517081,
+                "name": "Ghospell contrast bow mini dress in navy",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "139874566",
+                "isAvailable": true,
+                "colourWayId": 207517079,
+                "colour": "Navy",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871208386"
+            },
+            {
+                "id": 207517082,
+                "name": "Ghospell contrast bow mini dress in navy",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "139874567",
+                "isAvailable": true,
+                "colourWayId": 207517079,
+                "colour": "Navy",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871208393"
+            },
+            {
+                "id": 207517084,
+                "name": "Ghospell contrast bow mini dress in navy",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "139874568",
+                "isAvailable": true,
+                "colourWayId": 207517079,
+                "colour": "Navy",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871208409"
+            },
+            {
+                "id": 207517083,
+                "name": "Ghospell contrast bow mini dress in navy",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "139874569",
+                "isAvailable": true,
+                "colourWayId": 207517079,
+                "colour": "Navy",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871208416"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-1-navy",
+                    "type": "Standard1",
+                    "colourWayId": 207517079,
+                    "colour": "Navy",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-contrast-bow-mini-dress-in-navy/207517078-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207517078-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207517078-catwalk",
+                    "colourWayId": 207517079
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Corduroy: ribbed, velvet-feel texture<br><br>Main: 97% Cotton, 3% Elastane, Trim: 100% Cotton.",
+            "sizeAndFit": "Model's height: 173cm/5'7\"<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207656852,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207656852&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 16181,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 28918,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51197,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51923,
+                "type": "Standard"
+            },
+            {
+                "id": 51929,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

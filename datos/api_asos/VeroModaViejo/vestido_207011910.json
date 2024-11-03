@@ -1,0 +1,583 @@
+{
+    "status": true,
+    "timestamp": 1730627992090,
+    "data": {
+        "id": 207011910,
+        "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Tall</strong></a><br><ul><li>We like your style</li><li>V-neck</li><li>Fitted waist</li><li>Button-through front</li><li>Long sleeves</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "pdpUrl": "https://www.asos.com/vero-moda-tall/vero-moda-tall-buttondown-knitted-mini-dress-in-light-grey-melange/prd/207011910"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda Tall button down knit mini dress in light gray melange",
+                "pdpUrl": "https://www.asos.com/us/vero-moda-tall/vero-moda-tall-button-down-knit-mini-dress-in-light-gray-melange/prd/207011910"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda Tall - Lysegr\u00e5meleret strikket minikjole med knapper",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda-tall/vero-moda-tall-lysegrameleret-strikket-minikjole-med-knapper/prd/207011910"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda Tall button down knitted mini dress in light grey melange",
+                "pdpUrl": "https://www.asos.com/au/vero-moda-tall/vero-moda-tall-button-down-knitted-mini-dress-in-light-grey-melange/prd/207011910"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda Tall \u2013 Jasnoszara melan\u017cowa sukienka dzianinowa mini z zapi\u0119ciem na guziki",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda-tall/vero-moda-tall-jasnoszara-melanzowa-sukienka-dzianinowa-mini-z-zapieciem-na-guziki/prd/207011910"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda Tall - Gebreide mini jurk met knopen in gem\u00ealeerd lichtgrijs",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda-tall/vero-moda-tall-gebreide-mini-jurk-met-knopen-in-gemeleerd-lichtgrijs/prd/207011910"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto gris claro jaspeado abotonado de punto de Vero Moda Tall",
+                "pdpUrl": "https://www.asos.com/es/vero-moda-tall/vestido-corto-gris-claro-jaspeado-abotonado-de-punto-de-vero-moda-tall/prd/207011910"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda Tall - Vestito corto grigio chiaro m\u00e9lange in maglia con bottoni",
+                "pdpUrl": "https://www.asos.com/it/vero-moda-tall/vero-moda-tall-vestito-corto-grigio-chiaro-melange-in-maglia-con-bottoni/prd/207011910"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda Tall \u2013 Ljusgr\u00e5, stickad minikl\u00e4nning med kn\u00e4ppning",
+                "pdpUrl": "https://www.asos.com/se/vero-moda-tall/vero-moda-tall-ljusgra-stickad-miniklanning-med-knappning/prd/207011910"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda Tall - Robe courte boutonn\u00e9e en maille - Gris clair chin\u00e9",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda-tall/vero-moda-tall-robe-courte-boutonnee-en-maille-gris-clair-chine/prd/207011910"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda Tall \u2013 Minikleid aus Strick in Hellgrau meliert mit Knopfleiste",
+                "pdpUrl": "https://www.asos.com/de/vero-moda-tall/vero-moda-tall-minikleid-aus-strick-in-hellgrau-meliert-mit-knopfleiste/prd/207011910"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137130546",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 14457,
+            "name": "Vero Moda Tall",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Tall</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Tall</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/3653%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207011920,
+                "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "sizeId": 721310,
+                "brandSize": "XXS",
+                "displaySizeText": "XXS - 2XS",
+                "sizeOrder": 0,
+                "sku": "137130632",
+                "isAvailable": true,
+                "colourWayId": 207011911,
+                "colour": "Light Grey",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669712113"
+            },
+            {
+                "id": 207011918,
+                "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "sizeId": 439485,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 4",
+                "sizeOrder": 1,
+                "sku": "137130633",
+                "isAvailable": true,
+                "colourWayId": 207011911,
+                "colour": "Light Grey",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669712045"
+            },
+            {
+                "id": 207011913,
+                "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "sizeId": 439484,
+                "brandSize": "S",
+                "displaySizeText": "S - US 6",
+                "sizeOrder": 2,
+                "sku": "137130634",
+                "isAvailable": true,
+                "colourWayId": 207011911,
+                "colour": "Light Grey",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669712052"
+            },
+            {
+                "id": 207011916,
+                "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "sizeId": 439482,
+                "brandSize": "M",
+                "displaySizeText": "M - US 8",
+                "sizeOrder": 3,
+                "sku": "137130635",
+                "isAvailable": true,
+                "colourWayId": 207011911,
+                "colour": "Light Grey",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669712069"
+            },
+            {
+                "id": 207011914,
+                "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "sizeId": 439486,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 4,
+                "sku": "137130636",
+                "isAvailable": true,
+                "colourWayId": 207011911,
+                "colour": "Light Grey",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669712083"
+            },
+            {
+                "id": 207011915,
+                "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "sizeId": 439483,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 12",
+                "sizeOrder": 5,
+                "sku": "137130637",
+                "isAvailable": true,
+                "colourWayId": 207011911,
+                "colour": "Light Grey",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669712076"
+            },
+            {
+                "id": 207011917,
+                "name": "Vero Moda Tall buttondown knitted mini dress in light grey melange",
+                "sizeId": 439487,
+                "brandSize": "2XL",
+                "displaySizeText": "2XL - US 14",
+                "sizeOrder": 6,
+                "sku": "137130638",
+                "isAvailable": true,
+                "colourWayId": 207011911,
+                "colour": "Light Grey",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669712120"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-buttondown-knitted-mini-dress-in-light-grey-melange/207011910-1-lightgrey",
+                    "type": "Standard1",
+                    "colourWayId": 207011911,
+                    "colour": "Light Grey",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-buttondown-knitted-mini-dress-in-light-grey-melange/207011910-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-buttondown-knitted-mini-dress-in-light-grey-melange/207011910-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-buttondown-knitted-mini-dress-in-light-grey-melange/207011910-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207011910-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207011910-catwalk",
+                    "colourWayId": 207011911
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Wool-mix knit<br><br>Main: 84% Polyester, 10% Nylon, 3% Elastane, 3% Wool.",
+            "sizeAndFit": "Model's height: 180.5cm / 5' 11''<br/>Model is wearing: S - US 6",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207392935,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207392935&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12686,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 16181,
+                "type": "Standard"
+            },
+            {
+                "id": 18984,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 19780,
+                "type": "Standard"
+            },
+            {
+                "id": 20061,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50086,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51115,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 16154190,
+                "name": "Knitted"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

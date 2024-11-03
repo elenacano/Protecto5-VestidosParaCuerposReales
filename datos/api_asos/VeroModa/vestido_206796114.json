@@ -1,0 +1,536 @@
+{
+    "status": true,
+    "timestamp": 1730632278262,
+    "data": {
+        "id": 206796114,
+        "name": "Vero Moda long sleeved mesh dress in blurred neutral print",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a><br><ul><li>For your weekend mood board</li><li>Abstract design</li><li>Round neck</li><li>Long sleeves</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "pdpUrl": "https://www.asos.com/vero-moda/vero-moda-long-sleeved-mesh-dress-in-blurred-neutral-print/prd/206796114"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido de tonos neutros de manga larga con estampado difuminado de malla de Vero Moda",
+                "pdpUrl": "https://www.asos.com/es/vero-moda/vestido-de-tonos-neutros-de-manga-larga-con-estampado-difuminado-de-malla-de-vero-moda/prd/206796114"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda - Robe \u00e0 manches longues en tulle avec imprim\u00e9 flou neutre",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda/vero-moda-robe-a-manches-longues-en-tulle-avec-imprime-flou-neutre/prd/206796114"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda - Vestito a maniche lunghe in rete con stampa neutra sfocata",
+                "pdpUrl": "https://www.asos.com/it/vero-moda/vero-moda-vestito-a-maniche-lunghe-in-rete-con-stampa-neutra-sfocata/prd/206796114"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda \u2013 Lang\u00e4rmliges Netzstoffkleid mit verschwommenem Muster in neutralen Farben",
+                "pdpUrl": "https://www.asos.com/de/vero-moda/vero-moda-langarmliges-netzstoffkleid-mit-verschwommenem-muster-in-neutralen-farben/prd/206796114"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda \u2013 L\u00e5ng\u00e4rmad kl\u00e4nning i mesh med suddigt m\u00f6nster",
+                "pdpUrl": "https://www.asos.com/se/vero-moda/vero-moda-langarmad-klanning-i-mesh-med-suddigt-monster/prd/206796114"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "pdpUrl": "https://www.asos.com/au/vero-moda/vero-moda-long-sleeved-mesh-dress-in-blurred-neutral-print/prd/206796114"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda - Meshkjole med lange \u00e6rmer og sl\u00f8ret neutralt print",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda/vero-moda-meshkjole-med-lange-rmer-og-slret-neutralt-print/prd/206796114"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda - Jurk van mesh met lange mouwen en vervaagde print in neutraal",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda/vero-moda-jurk-van-mesh-met-lange-mouwen-en-vervaagde-print-in-neutraal/prd/206796114"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda \u2013 Siateczkowa sukienka z d\u0142ugim r\u0119kawem i rozmytym wzorem w neutralnych odcieniach",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda/vero-moda-siateczkowa-sukienka-z-dugim-rekawem-i-rozmytym-wzorem-w-neutralnych-odcieniach/prd/206796114"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "pdpUrl": "https://www.asos.com/us/vero-moda/vero-moda-long-sleeved-mesh-dress-in-blurred-neutral-print/prd/206796114"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136337155",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 3098,
+            "name": "Vero Moda",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/5185%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206796121,
+                "name": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "sizeId": 387560,
+                "brandSize": "XS",
+                "displaySizeText": "XS",
+                "sizeOrder": 2,
+                "sku": "136337175",
+                "isAvailable": true,
+                "colourWayId": 206796115,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5715675011033"
+            },
+            {
+                "id": 206796117,
+                "name": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "sizeId": 387558,
+                "brandSize": "S",
+                "displaySizeText": "S",
+                "sizeOrder": 3,
+                "sku": "136337176",
+                "isAvailable": true,
+                "colourWayId": 206796115,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5715675011040"
+            },
+            {
+                "id": 206796118,
+                "name": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "sizeId": 387559,
+                "brandSize": "M",
+                "displaySizeText": "M",
+                "sizeOrder": 4,
+                "sku": "136337177",
+                "isAvailable": true,
+                "colourWayId": 206796115,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5715675011057"
+            },
+            {
+                "id": 206796116,
+                "name": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "sizeId": 387557,
+                "brandSize": "L",
+                "displaySizeText": "L",
+                "sizeOrder": 5,
+                "sku": "136337178",
+                "isAvailable": true,
+                "colourWayId": 206796115,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5715675011064"
+            },
+            {
+                "id": 206796120,
+                "name": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "sizeId": 387561,
+                "brandSize": "XL",
+                "displaySizeText": "XL",
+                "sizeOrder": 6,
+                "sku": "136337179",
+                "isAvailable": true,
+                "colourWayId": 206796115,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5715675058120"
+            },
+            {
+                "id": 206796119,
+                "name": "Vero Moda long sleeved mesh dress in blurred neutral print",
+                "sizeId": 387562,
+                "brandSize": "2XL",
+                "displaySizeText": "2XL",
+                "sizeOrder": 7,
+                "sku": "136337180",
+                "isAvailable": true,
+                "colourWayId": 206796115,
+                "colour": "BROWN",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5715675058113"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-long-sleeved-mesh-dress-in-blurred-neutral-print/206796114-1-brown",
+                    "type": "Standard1",
+                    "colourWayId": 206796115,
+                    "colour": "BROWN",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-long-sleeved-mesh-dress-in-blurred-neutral-print/206796114-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-long-sleeved-mesh-dress-in-blurred-neutral-print/206796114-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-long-sleeved-mesh-dress-in-blurred-neutral-print/206796114-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206796114-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206796114-catwalk",
+                    "colourWayId": 206796115
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Mesh: fine, soft and sheer<br><br>Main: 95% Polyester, 5% Elastane.",
+            "sizeAndFit": "Model's height: 175cm / 5' 9''<br/>Model is wearing: S",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207328920,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207328920&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 17404,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 52059,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875912,
+                "name": "Mesh"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

@@ -1,0 +1,530 @@
+{
+    "status": true,
+    "timestamp": 1730629634752,
+    "data": {
+        "id": 206415016,
+        "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/na-kd/cat/?cid=28466\"><strong>NA-KD</strong></a><br><ul><li>Occasions made easy</li><li>Halterneck style</li><li>Adjustable straps</li><li>Ruffle details</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "pdpUrl": "https://www.asos.com/na-kd/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/prd/206415016"
+            },
+            {
+                "locale": "en-US",
+                "title": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "pdpUrl": "https://www.asos.com/us/na-kd/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/prd/206415016"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo rosa estructurado con volantes de chif\u00f3n de NA-KD",
+                "pdpUrl": "https://www.asos.com/es/na-kd/vestido-largo-rosa-estructurado-con-volantes-de-chifon-de-na-kd/prd/206415016"
+            },
+            {
+                "locale": "de-DE",
+                "title": "NA-KD \u2013 Strukturiertes Chiffon-Maxikleid in Rosa mit R\u00fcschen",
+                "pdpUrl": "https://www.asos.com/de/na-kd/na-kd-strukturiertes-chiffon-maxikleid-in-rosa-mit-ruschen/prd/206415016"
+            },
+            {
+                "locale": "it-IT",
+                "title": "NA-KD - Vestito lungo in chiffon strutturato rosa con volant",
+                "pdpUrl": "https://www.asos.com/it/na-kd/na-kd-vestito-lungo-in-chiffon-strutturato-rosa-con-volant/prd/206415016"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "NA-KD - Maxi jurk van gestructureerde chiffon met ruches in roze",
+                "pdpUrl": "https://www.asos.com/nl/na-kd/na-kd-maxi-jurk-van-gestructureerde-chiffon-met-ruches-in-roze/prd/206415016"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "NA-KD \u2013 Rosa strukturerad maxikl\u00e4nning i chiffong med volang",
+                "pdpUrl": "https://www.asos.com/se/na-kd/na-kd-rosa-strukturerad-maxiklanning-i-chiffong-med-volang/prd/206415016"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "NA-KD - Robe longue structur\u00e9e en mousseline \u00e0 volants - Rose",
+                "pdpUrl": "https://www.asos.com/fr/na-kd/na-kd-robe-longue-structuree-en-mousseline-a-volants-rose/prd/206415016"
+            },
+            {
+                "locale": "en-AU",
+                "title": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "pdpUrl": "https://www.asos.com/au/na-kd/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/prd/206415016"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "NA-KD \u2013 R\u00f3\u017cowa sukienka maxi z falbankami z usztywnianego szyfonu",
+                "pdpUrl": "https://www.asos.com/pl/na-kd/na-kd-rozowa-sukienka-maxi-z-falbankami-z-usztywnianego-szyfonu/prd/206415016"
+            },
+            {
+                "locale": "da-DK",
+                "title": "NA-KD - Lyser\u00f8d maxikjole med fl\u00e6ser og struktur i chiffon",
+                "pdpUrl": "https://www.asos.com/dk/na-kd/na-kd-lyserd-maxikjole-med-flser-og-struktur-i-chiffon/prd/206415016"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135131140",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 15883,
+            "name": "NA-KD",
+            "description": "If classic street style with a touch of tailoring is your thing, then it\u2019s time to get excited because that\u2019s exactly what Swedish brand <a href=\"/women/a-to-z-of-brands/na-kd/cat/?cid=28466\"><strong>NA-KD</strong></a> all about. Pad out your wardrobe with puffer jackets and tailored coats, or stock up on fail-safe pieces like jeans, jumpers and T-shirts. Its statement prints make for standout looks, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/249%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206415018,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "sizeId": 408640,
+                "brandSize": "EU 32",
+                "displaySizeText": "EU 32 - US 0",
+                "sizeOrder": 10,
+                "sku": "135131168",
+                "isAvailable": true,
+                "colourWayId": 206415017,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949063316"
+            },
+            {
+                "id": 206415023,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "sizeId": 408644,
+                "brandSize": "EU 34",
+                "displaySizeText": "EU 34 - US 2",
+                "sizeOrder": 20,
+                "sku": "135131169",
+                "isAvailable": true,
+                "colourWayId": 206415017,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949063323"
+            },
+            {
+                "id": 206415019,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "sizeId": 408643,
+                "brandSize": "EU 36",
+                "displaySizeText": "EU 36 - US 4",
+                "sizeOrder": 30,
+                "sku": "135131170",
+                "isAvailable": true,
+                "colourWayId": 206415017,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949063330"
+            },
+            {
+                "id": 206415021,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "sizeId": 409134,
+                "brandSize": "EU 38",
+                "displaySizeText": "EU 38 - US 6",
+                "sizeOrder": 40,
+                "sku": "135131171",
+                "isAvailable": true,
+                "colourWayId": 206415017,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949063347"
+            },
+            {
+                "id": 206415024,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "sizeId": 408639,
+                "brandSize": "EU 40",
+                "displaySizeText": "EU 40 - US 8",
+                "sizeOrder": 50,
+                "sku": "135131172",
+                "isAvailable": true,
+                "colourWayId": 206415017,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949063354"
+            },
+            {
+                "id": 206415020,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "sizeId": 408642,
+                "brandSize": "EU 42",
+                "displaySizeText": "EU 42 - US 10",
+                "sizeOrder": 60,
+                "sku": "135131173",
+                "isAvailable": true,
+                "colourWayId": 206415017,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949063361"
+            },
+            {
+                "id": 206415022,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "sizeId": 409135,
+                "brandSize": "EU 44",
+                "displaySizeText": "EU 44 - US 12",
+                "sizeOrder": 70,
+                "sku": "135131174",
+                "isAvailable": true,
+                "colourWayId": 206415017,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949063378"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-1-pink",
+                    "type": "Standard1",
+                    "colourWayId": 206415017,
+                    "colour": "Pink",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Chiffon: sheer, lightweight fabric with a grainy feel<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 20035,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 28464,
+                "type": "Brand"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50090,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51513,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

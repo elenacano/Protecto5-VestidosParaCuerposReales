@@ -1,0 +1,533 @@
+{
+    "status": true,
+    "timestamp": 1730631678021,
+    "data": {
+        "id": 207081425,
+        "name": "Ghospell Ula beaded strap cotton maxi dress in navy",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>Too good to only wear once</li><li>Square neck</li><li>Fixed straps</li><li>Bead embellishments</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/prd/207081425"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Ula \u2013 Granatowa bawe\u0142niana sukienka maxi rami\u0105czkach z koralikami",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-ula-granatowa-baweniana-sukienka-maxi-ramiczkach-z-koralikami/prd/207081425"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Ula \u2013 Marinbl\u00e5 maxikl\u00e4nning i bomull med p\u00e4rlprydda axelband",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-ula-marinbl-maxiklnning-i-bomull-med-prlprydda-axelband/prd/207081425"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Ula - Robe longue en coton avec bretelles orn\u00e9es de perles - Bleu marine",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-ula-robe-longue-en-coton-avec-bretelles-ornes-de-perles-bleu-marine/prd/207081425"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/prd/207081425"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/prd/207081425"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Ula - Vestito lungo in cotone blu navy con perline sulle spalline",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-ula-vestito-lungo-in-cotone-blu-navy-con-perline-sulle-spalline/prd/207081425"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Ula - Marinebl\u00e5 maxikjole med stropper med perler i bomuld",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-ula-marinebl-maxikjole-med-stropper-med-perler-i-bomuld/prd/207081425"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo azul marino con cuentas en los tirantes de algod\u00f3n Ula de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-largo-azul-marino-con-cuentas-en-los-tirantes-de-algodn-ula-de-ghospell/prd/207081425"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Ula \u2013 Baumwoll-Maxikleid in Marineblau mit perlenbesetzten Tr\u00e4gern",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-ula-baumwoll-maxikleid-in-marineblau-mit-perlenbesetzten-tragern/prd/207081425"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Ula - Maxi jurk van katoen met bandjes met kralen in marineblauw",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-ula-maxi-jurk-van-katoen-met-bandjes-met-kralen-in-marineblauw/prd/207081425"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137514496",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207081428,
+                "name": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "137514519",
+                "isAvailable": true,
+                "colourWayId": 207081427,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871195136"
+            },
+            {
+                "id": 207081429,
+                "name": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "137514520",
+                "isAvailable": true,
+                "colourWayId": 207081427,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871195143"
+            },
+            {
+                "id": 207081430,
+                "name": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "137514521",
+                "isAvailable": true,
+                "colourWayId": 207081427,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871195150"
+            },
+            {
+                "id": 207081432,
+                "name": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "137514522",
+                "isAvailable": true,
+                "colourWayId": 207081427,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871195167"
+            },
+            {
+                "id": 207081431,
+                "name": "Ghospell Ula beaded strap cotton maxi dress in navy",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "137514523",
+                "isAvailable": true,
+                "colourWayId": 207081427,
+                "colour": "NAVY",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871195174"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-1-navy",
+                    "type": "Standard1",
+                    "colourWayId": 207081427,
+                    "colour": "NAVY",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-ula-beaded-strap-cotton-maxi-dress-in-navy/207081425-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207081425-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081425-catwalk",
+                    "colourWayId": 207081427
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Cotton: lightweight, soft and strong<br><br>Body: 100% Cotton.",
+            "sizeAndFit": "Model's height: 176cm / 5' 9\"<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207235241,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207235241&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 16303,
+                "type": "Standard"
+            },
+            {
+                "id": 16824,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51325,
+                "type": "Standard"
+            },
+            {
+                "id": 51359,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51491,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875911,
+                "name": "Beaded"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

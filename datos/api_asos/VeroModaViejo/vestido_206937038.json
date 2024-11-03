@@ -1,0 +1,603 @@
+{
+    "status": true,
+    "timestamp": 1730628006637,
+    "data": {
+        "id": 206937038,
+        "name": "Vero Moda Curve midi shirt dress in khaki",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Curve</strong></a><br><ul><li>Occasions made easy</li><li>Plain design</li><li>Spread collar</li><li>Button placket</li><li>Long sleeves</li><li>Tie waist</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda Curve midi shirt dress in khaki",
+                "pdpUrl": "https://www.asos.com/vero-moda-curve/vero-moda-curve-midi-shirt-dress-in-khaki/prd/206937038"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda Curve - Robe chemise mi-longue - Kaki",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda-curve/vero-moda-curve-robe-chemise-mi-longue-kaki/prd/206937038"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda Curve \u2013 Midi-Hemdblusenkleid in Khaki",
+                "pdpUrl": "https://www.asos.com/de/vero-moda-curve/vero-moda-curve-midi-hemdblusenkleid-in-khaki/prd/206937038"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda Curve - Kakigr\u00f8n midi-skjortekjole",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda-curve/vero-moda-curve-kakigrn-midi-skjortekjole/prd/206937038"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda Curve midi shirt dress in khaki",
+                "pdpUrl": "https://www.asos.com/au/vero-moda-curve/vero-moda-curve-midi-shirt-dress-in-khaki/prd/206937038"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda Curve midi shirt dress in khaki",
+                "pdpUrl": "https://www.asos.com/us/vero-moda-curve/vero-moda-curve-midi-shirt-dress-in-khaki/prd/206937038"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda Curve \u2013 Sukienka koszulowa midi w kolorze khaki",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda-curve/vero-moda-curve-sukienka-koszulowa-midi-w-kolorze-khaki/prd/206937038"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda Curve - Vestito camicia midi kaki",
+                "pdpUrl": "https://www.asos.com/it/vero-moda-curve/vero-moda-curve-vestito-camicia-midi-kaki/prd/206937038"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda Curve \u2013 Kakif\u00e4rgad skjortkl\u00e4nning i midil\u00e4ngd",
+                "pdpUrl": "https://www.asos.com/se/vero-moda-curve/vero-moda-curve-kakifargad-skjortklanning-i-midilangd/prd/206937038"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda Curve - Midi-overhemdjurk in kaki",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda-curve/vero-moda-curve-midi-overhemdjurk-in-kaki/prd/206937038"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido camisero midi caqui de Vero Moda Curve",
+                "pdpUrl": "https://www.asos.com/es/vero-moda-curve/vestido-camisero-midi-caqui-de-vero-moda-curve/prd/206937038"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136855918",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 15812,
+            "name": "Vero Moda Curve",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Curve</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Curve</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/1620%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206937048,
+                "name": "Vero Moda Curve midi shirt dress in khaki",
+                "sizeId": 494165,
+                "brandSize": "EU 46",
+                "displaySizeText": "EU 46 - US 14",
+                "sizeOrder": 3,
+                "sku": "136856277",
+                "isAvailable": true,
+                "colourWayId": 206937041,
+                "colour": "Khaki",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715612865927"
+            },
+            {
+                "id": 206937052,
+                "name": "Vero Moda Curve midi shirt dress in khaki",
+                "sizeId": 494166,
+                "brandSize": "EU 48",
+                "displaySizeText": "EU 48 - US 16",
+                "sizeOrder": 4,
+                "sku": "136856278",
+                "isAvailable": true,
+                "colourWayId": 206937041,
+                "colour": "Khaki",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715612865934"
+            },
+            {
+                "id": 206937046,
+                "name": "Vero Moda Curve midi shirt dress in khaki",
+                "sizeId": 494168,
+                "brandSize": "EU 50",
+                "displaySizeText": "EU 50 - US 18",
+                "sizeOrder": 5,
+                "sku": "136856279",
+                "isAvailable": true,
+                "colourWayId": 206937041,
+                "colour": "Khaki",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715612865941"
+            },
+            {
+                "id": 206937045,
+                "name": "Vero Moda Curve midi shirt dress in khaki",
+                "sizeId": 494167,
+                "brandSize": "EU 52",
+                "displaySizeText": "EU 52 - US 20",
+                "sizeOrder": 6,
+                "sku": "136856280",
+                "isAvailable": true,
+                "colourWayId": 206937041,
+                "colour": "Khaki",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715612865958"
+            },
+            {
+                "id": 206937044,
+                "name": "Vero Moda Curve midi shirt dress in khaki",
+                "sizeId": 554477,
+                "brandSize": "EU 54",
+                "displaySizeText": "EU 54 - US 22",
+                "sizeOrder": 7,
+                "sku": "136856281",
+                "isAvailable": true,
+                "colourWayId": 206937041,
+                "colour": "Khaki",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715612865965"
+            },
+            {
+                "id": 206937050,
+                "name": "Vero Moda Curve midi shirt dress in khaki",
+                "sizeId": 554478,
+                "brandSize": "EU 56",
+                "displaySizeText": "EU 56 - US 24",
+                "sizeOrder": 8,
+                "sku": "136856282",
+                "isAvailable": true,
+                "colourWayId": 206937041,
+                "colour": "Khaki",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669193158"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-curve-midi-shirt-dress-in-khaki/206937038-1-khaki",
+                    "type": "Standard1",
+                    "colourWayId": 206937041,
+                    "colour": "Khaki",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-curve-midi-shirt-dress-in-khaki/206937038-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-curve-midi-shirt-dress-in-khaki/206937038-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-curve-midi-shirt-dress-in-khaki/206937038-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206937038-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206937038-catwalk",
+                    "colourWayId": 206937041
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Viscose: lightweight, soft and drapey<br><br>Main: 80% Viscose, 20% Polyamide.",
+            "sizeAndFit": "Model's height: 166cm/5'5.5\"<br/>Model is wearing: EU 46 - US 14",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207340735,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207340735&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 9577,
+                "type": "Standard"
+            },
+            {
+                "id": 9579,
+                "type": "Standard"
+            },
+            {
+                "id": 10528,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13053,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15626,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 20423,
+                "type": "Standard"
+            },
+            {
+                "id": 20493,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 28023,
+                "type": "Standard"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51390,
+                "type": "Standard"
+            },
+            {
+                "id": 51470,
+                "type": "Standard"
+            },
+            {
+                "id": 51770,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

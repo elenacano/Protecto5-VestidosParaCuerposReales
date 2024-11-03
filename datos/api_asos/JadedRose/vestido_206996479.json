@@ -1,0 +1,566 @@
+{
+    "status": true,
+    "timestamp": 1730631074320,
+    "data": {
+        "id": 206996479,
+        "name": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/jaded-rose/cat/?cid=18936\"><strong>Jaded Rose</strong></a><br><ul><li>Occasions made easy</li><li>High neck</li><li>Sleeveless style</li><li>Zip-back fastening</li><li>Asymmetric hem</li><li>Bodycon fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "pdpUrl": "https://www.asos.com/jaded-rose/jaded-rose-asymmetric-minimal-velvet-mini-dress-in-midnight-navy/prd/206996479"
+            },
+            {
+                "locale": "en-US",
+                "title": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "pdpUrl": "https://www.asos.com/us/jaded-rose/jaded-rose-asymmetric-minimal-velvet-mini-dress-in-midnight-navy/prd/206996479"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "pdpUrl": "https://www.asos.com/au/jaded-rose/jaded-rose-asymmetric-minimal-velvet-mini-dress-in-midnight-navy/prd/206996479"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto azul marino medianoche con dise\u00f1o minimalista asim\u00e9trico de terciopelo de Jaded Rose",
+                "pdpUrl": "https://www.asos.com/es/jaded-rose/vestido-corto-azul-marino-medianoche-con-diseno-minimalista-asimetrico-de-terciopelo-de-jaded-rose/prd/206996479"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Jaded Rose \u2013 M\u00f6rkbl\u00e5, asymmetrisk, minimalistisk minikl\u00e4nning i sammet",
+                "pdpUrl": "https://www.asos.com/se/jaded-rose/jaded-rose-morkbla-asymmetrisk-minimalistisk-miniklanning-i-sammet/prd/206996479"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Jaded Rose - Asymmetrisk, minimalistisk minikjole i m\u00f8rk marinebl\u00e5 velour",
+                "pdpUrl": "https://www.asos.com/dk/jaded-rose/jaded-rose-asymmetrisk-minimalistisk-minikjole-i-mrk-marinebla-velour/prd/206996479"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Jaded Rose \u2013 Granatowa asymetryczna sukienka mini z aksamitu",
+                "pdpUrl": "https://www.asos.com/pl/jaded-rose/jaded-rose-granatowa-asymetryczna-sukienka-mini-z-aksamitu/prd/206996479"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Jaded Rose - Vestito corto minimal asimmetrico blu navy mezzanotte in velluto",
+                "pdpUrl": "https://www.asos.com/it/jaded-rose/jaded-rose-vestito-corto-minimal-asimmetrico-blu-navy-mezzanotte-in-velluto/prd/206996479"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Jaded Rose - Robe courte asym\u00e9trique minimaliste en velours - Bleu marine nuit",
+                "pdpUrl": "https://www.asos.com/fr/jaded-rose/jaded-rose-robe-courte-asymetrique-minimaliste-en-velours-bleu-marine-nuit/prd/206996479"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Jaded Rose \u2013 Asymmetrisches, figurbetontes Minikleid aus Samt in Mitternachtsblau",
+                "pdpUrl": "https://www.asos.com/de/jaded-rose/jaded-rose-asymmetrisches-figurbetontes-minikleid-aus-samt-in-mitternachtsblau/prd/206996479"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Jaded Rose - Asymmetrische minimalistische mini jurk van fluweel in middernacht marineblauw",
+                "pdpUrl": "https://www.asos.com/nl/jaded-rose/jaded-rose-asymmetrische-minimalistische-mini-jurk-van-fluweel-in-middernacht-marineblauw/prd/206996479"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137083449",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 14185,
+            "name": "Jaded Rose",
+            "description": "<a href=\"/women/a-to-z-of-brands/jaded-rose/cat/?cid=18936\"><strong>Jaded Rose</strong></a> launches their first collection exclusively on ASOS (we\u2019re super happy about that btw!). Calling on the catwalk, <a href=\"/women/a-to-z-of-brands/jaded-rose/cat/?cid=18936\"><strong>Jaded Rose</strong></a> bring us a big hit of embellished evening dresses \u2013 their star piece is the sequined shift dress. Think grown up glam for when you\u2019re dressing to impress."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/999%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 206996506,
+                "name": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "sizeId": 456364,
+                "brandSize": "US 2",
+                "displaySizeText": "US 2",
+                "sizeOrder": 20,
+                "sku": "137083645",
+                "isAvailable": true,
+                "colourWayId": 206996503,
+                "colour": "Midnight Navy",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 206996505,
+                "name": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "sizeId": 456363,
+                "brandSize": "US 4",
+                "displaySizeText": "US 4",
+                "sizeOrder": 30,
+                "sku": "137083646",
+                "isAvailable": true,
+                "colourWayId": 206996503,
+                "colour": "Midnight Navy",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 206996507,
+                "name": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "sizeId": 456366,
+                "brandSize": "US 6",
+                "displaySizeText": "US 6",
+                "sizeOrder": 40,
+                "sku": "137083641",
+                "isAvailable": true,
+                "colourWayId": 206996503,
+                "colour": "Midnight Navy",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 206996508,
+                "name": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "sizeId": 456365,
+                "brandSize": "US 8",
+                "displaySizeText": "US 8",
+                "sizeOrder": 50,
+                "sku": "137083642",
+                "isAvailable": true,
+                "colourWayId": 206996503,
+                "colour": "Midnight Navy",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 206996510,
+                "name": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "sizeId": 456362,
+                "brandSize": "US 10",
+                "displaySizeText": "US 10",
+                "sizeOrder": 60,
+                "sku": "137083644",
+                "isAvailable": true,
+                "colourWayId": 206996503,
+                "colour": "Midnight Navy",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 206996509,
+                "name": "Jaded Rose asymmetric minimal velvet mini dress in midnight navy",
+                "sizeId": 456368,
+                "brandSize": "US 12",
+                "displaySizeText": "US 12",
+                "sizeOrder": 70,
+                "sku": "137083643",
+                "isAvailable": true,
+                "colourWayId": 206996503,
+                "colour": "Midnight Navy",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-asymmetric-minimal-velvet-mini-dress-in-midnight-navy/206996479-1-midnightnavy",
+                    "type": "Standard1",
+                    "colourWayId": 206996503,
+                    "colour": "Midnight Navy",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-asymmetric-minimal-velvet-mini-dress-in-midnight-navy/206996479-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-asymmetric-minimal-velvet-mini-dress-in-midnight-navy/206996479-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-asymmetric-minimal-velvet-mini-dress-in-midnight-navy/206996479-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206996479-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206996479-catwalk",
+                    "colourWayId": 206996503
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Velvet: plush, dense-pile fabric with a surface sheen<br><br>Lining: 100% Polyester, Main: 95% Polyester, 5% Elastane.",
+            "sizeAndFit": "Model's height: 171cm/5'7.5\"<br/>Model is wearing: US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 14710,
+                "type": "Standard"
+            },
+            {
+                "id": 15343,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 23183,
+                "type": "Brand"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50457,
+                "type": "Standard"
+            },
+            {
+                "id": 50599,
+                "type": "Standard"
+            },
+            {
+                "id": 50602,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51356,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51381,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875893,
+                "name": "Velvet"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

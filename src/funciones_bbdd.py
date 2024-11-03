@@ -1,5 +1,5 @@
 import psycopg2 # type: ignore
-import pandas as pd
+import pandas as pd # type: ignore
 
 def crear_db(database_name, postgres_pass, usuario):
     # conexion a postgres

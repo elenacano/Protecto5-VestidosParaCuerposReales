@@ -1,0 +1,581 @@
+{
+    "status": true,
+    "timestamp": 1730632298608,
+    "data": {
+        "id": 206839775,
+        "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+        "description": "<a href=\"/women/petite/cat/?cid=4177\"><strong>Petite</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Petite</strong></a><br><ul><li>Let's hear it for the dress</li><li>V-neck</li><li>Adjustable straps</li><li>Lace inserts</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "pdpUrl": "https://www.asos.com/vero-moda-petite/vero-moda-petite-satin-maxi-dress-with-lace-trim-in-black/prd/206839775"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "pdpUrl": "https://www.asos.com/us/vero-moda-petite/vero-moda-petite-satin-maxi-dress-with-lace-trim-in-black/prd/206839775"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda Petite - Robe longue en satin avec bordures en dentelle - Noir",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda-petite/vero-moda-petite-robe-longue-en-satin-avec-bordures-en-dentelle-noir/prd/206839775"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda Petite \u2013 Satin-Maxikleid in Schwarz mit Spitzenbesatz",
+                "pdpUrl": "https://www.asos.com/de/vero-moda-petite/vero-moda-petite-satin-maxikleid-in-schwarz-mit-spitzenbesatz/prd/206839775"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda Petite \u2013 Czarna satynowa sukienka maxi z koronkowym wyko\u0144czeniem",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda-petite/vero-moda-petite-czarna-satynowa-sukienka-maxi-z-koronkowym-wykonczeniem/prd/206839775"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda Petite - Vestito lungo in raso nero con finiture",
+                "pdpUrl": "https://www.asos.com/it/vero-moda-petite/vero-moda-petite-vestito-lungo-in-raso-nero-con-finiture/prd/206839775"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "pdpUrl": "https://www.asos.com/au/vero-moda-petite/vero-moda-petite-satin-maxi-dress-with-lace-trim-in-black/prd/206839775"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda Petite \u2013 Svart maxikl\u00e4nning i satin med spetskant",
+                "pdpUrl": "https://www.asos.com/se/vero-moda-petite/vero-moda-petite-svart-maxiklanning-i-satin-med-spetskant/prd/206839775"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda Petite - Sort maxikjole med blondekant i satin",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda-petite/vero-moda-petite-sort-maxikjole-med-blondekant-i-satin/prd/206839775"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido largo negro de sat\u00e9n con ribete de encaje de Vero Moda Petite",
+                "pdpUrl": "https://www.asos.com/es/vero-moda-petite/vestido-largo-negro-de-saten-con-ribete-de-encaje-de-vero-moda-petite/prd/206839775"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda Petite - Maxi jurk van satijn met kanten rand in zwart",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda-petite/vero-moda-petite-maxi-jurk-van-satijn-met-kanten-rand-in-zwart/prd/206839775"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136528796",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 14304,
+            "name": "Vero Moda Petite",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Petite</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Petite</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/2487%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206839796,
+                "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "sizeId": 692292,
+                "brandSize": "XXL",
+                "displaySizeText": "XXL - 2XL",
+                "sizeOrder": 0,
+                "sku": "136529396",
+                "isAvailable": true,
+                "colourWayId": 206839794,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715615738129"
+            },
+            {
+                "id": 206839798,
+                "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "sizeId": 439535,
+                "brandSize": "2XS",
+                "displaySizeText": "2XS - US 0",
+                "sizeOrder": 1,
+                "sku": "136529390",
+                "isAvailable": true,
+                "colourWayId": 206839794,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669336814"
+            },
+            {
+                "id": 206839803,
+                "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "sizeId": 439536,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "136529391",
+                "isAvailable": true,
+                "colourWayId": 206839794,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669336838"
+            },
+            {
+                "id": 206839802,
+                "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "sizeId": 439532,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "136529392",
+                "isAvailable": true,
+                "colourWayId": 206839794,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669336845"
+            },
+            {
+                "id": 206839799,
+                "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "sizeId": 439533,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "136529393",
+                "isAvailable": true,
+                "colourWayId": 206839794,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669336821"
+            },
+            {
+                "id": 206839801,
+                "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "sizeId": 439534,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "136529394",
+                "isAvailable": true,
+                "colourWayId": 206839794,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669336852"
+            },
+            {
+                "id": 206839800,
+                "name": "Vero Moda Petite satin maxi dress with lace trim in black",
+                "sizeId": 439531,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "136529395",
+                "isAvailable": true,
+                "colourWayId": 206839794,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715669336876"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-satin-maxi-dress-with-lace-trim-in-black/206839775-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 206839794,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-satin-maxi-dress-with-lace-trim-in-black/206839775-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-satin-maxi-dress-with-lace-trim-in-black/206839775-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-satin-maxi-dress-with-lace-trim-in-black/206839775-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206839775-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206839775-catwalk",
+                    "colourWayId": 206839794
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Satin-style fabric: glossy, drapey and silky-smooth<br><br>Main: 95% Polyester, 5% Elastane.",
+            "sizeAndFit": "Model's height: 161cm / 5' 3\u00bd''<br/>Model is wearing: XS - US 2",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 4177,
+                "type": "SEO"
+            },
+            {
+                "id": 8350,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "Standard"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 12970,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 14550,
+                "type": "Standard"
+            },
+            {
+                "id": 15343,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 15600,
+                "type": "Standard"
+            },
+            {
+                "id": 18761,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50417,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875888,
+                "name": "Lace"
+            },
+            {
+                "id": 8875907,
+                "name": "Satin"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

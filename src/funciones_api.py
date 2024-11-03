@@ -1,28 +1,65 @@
 import json
 import os
+import requests # type: ignore
+import dotenv # type: ignore
 
-# colores = {
-#     'SILVER': 'plata',
-#     'BLACK': 'negro',
-#     'PINK': 'rosa',
-#     'MID BLUE': 'azul medio',
-#     'LIGHT BLUE': 'azul claro',
-#     'CREAM': 'crema',
-#     'YELLOW': 'amarillo',
-#     'WHITE': 'blanco',
-#     'ORANGE': 'naranja',
-#     'PURPLE': 'morado',
-#     'BROWN': 'marrón',
-#     'BEIGE': 'beige',
-#     'GREY': 'gris',
-#     'BLUE': 'azul',
-#     'NAVY': 'azul marino',
-#     'GREEN': 'verde',
-#     'RED': 'rojo',
-#     'DARK BROWN': 'marrón oscuro'
-# }
+dotenv.load_dotenv()
 
-def creacion_diccionario_asos(dic_precio):
+def busqueda_vestido_marca(lista_id, lista_marcas):
+
+    url = "https://asos10.p.rapidapi.com/api/v1/getProductList"
+    # lista_id = [8264, 4715, 28466]
+    # lista_marcas = ["Mango", "VeroModa", "NAKD"]
+    api_key = os.getenv("api_asos")
+
+    for i in range(len(lista_id)):
+        
+        id=lista_id[i]
+        marca = lista_marcas[i]
+
+        querystring = {"categoryId":id, "sort":"recommended", "limit":2000}
+
+        headers = {
+            "x-rapidapi-key": api_key,
+            "x-rapidapi-host": "asos10.p.rapidapi.com"
+        }
+
+        response = requests.get(url, headers=headers, params=querystring)
+        response_mango = response.json()
+
+        # Guardamos el resultado en datos
+        os.makedirs(f"../datos/api_asos/{marca}", exist_ok=True)
+        with open(f"../datos/api_asos/{marca}/vestidos_{marca}.json", 'w') as file:
+            json.dump(response_mango, file, indent=4)
+
+
+
+def detalles_vestido(lista_marcas, dic_info):
+    api_key = os.getenv("api_asos")
+
+    for marca in lista_marcas:
+        lista_id_vestido = dic_info[marca][0]
+
+        for id in lista_id_vestido:
+
+            url = "https://asos10.p.rapidapi.com/api/v1/getProductDetails"
+
+            querystring = {"productId":[id]}
+
+            headers = {
+                "x-rapidapi-key": api_key,
+                "x-rapidapi-host": "asos10.p.rapidapi.com"
+            }
+
+            response = requests.get(url, headers=headers, params=querystring)
+
+            res = response.json()
+            with open(f"../datos/api_asos/{marca}/vestido_{id}.json", 'w') as file:
+                json.dump(res, file, indent=4)
+
+
+
+def creacion_diccionario_asos(dic_info, lista_marcas):
     dic_vestido = {
         "nombre" : [],
         "marca" : [],
@@ -32,30 +69,33 @@ def creacion_diccionario_asos(dic_precio):
         "disponible" : []
     }
 
-    for archivo in os.listdir("../datos/api_asos")[1:]:
+    for marca in lista_marcas:
+        print(marca)
+        for archivo in os.listdir(f"../datos/api_asos/{marca}")[1:]:
 
-        with open(f"../datos/api_asos/{archivo}", 'r') as file:
-            vestido = json.load(file)
+            with open(f"../datos/api_asos/{marca}/{archivo}", 'r') as file:
+                vestido = json.load(file)
 
-        id = int(archivo.split("_")[1][:-5])
-        marca = "Mango"
-        for i in range(len(vestido["data"]["localisedData"])):
-            if vestido["data"]["localisedData"][i]["locale"] == "es-ES":
-                nombre = vestido["data"]["localisedData"][i]["title"]
+            id = int(archivo.split("_")[1][:-5])
+            marca = marca
+            for i in range(len(vestido["data"]["localisedData"])):
+                if vestido["data"]["localisedData"][i]["locale"] == "es-ES":
+                    nombre = vestido["data"]["localisedData"][i]["title"]
 
-        for j in range(len(vestido["data"]["variants"])):
-            color = vestido["data"]["variants"][j]["colour"]
-            talla = vestido["data"]["variants"][j]["brandSize"]
-            dispomible = vestido["data"]["variants"][j]["isAvailable"]
+            for j in range(len(vestido["data"]["variants"])):
+                color = vestido["data"]["variants"][j]["colour"]
+                talla = vestido["data"]["variants"][j]["brandSize"]
+                dispomible = vestido["data"]["variants"][j]["isAvailable"]
 
-            dic_vestido["nombre"].append(nombre)
-            dic_vestido["marca"].append(marca)
-            dic_vestido["precio"].append(dic_precio[id])
-            dic_vestido["color"].append(color)
-            dic_vestido["talla"].append(talla)
-            dic_vestido["disponible"].append(dispomible)
+                dic_vestido["nombre"].append(nombre)
+                dic_vestido["marca"].append(marca)
+                dic_vestido["precio"].append(dic_info[marca][1][id])
+                dic_vestido["color"].append(color)
+                dic_vestido["talla"].append(talla)
+                dic_vestido["disponible"].append(dispomible)
 
     return dic_vestido
+
 
 def creacion_diccionario_forever21_vieja():
     dic_vestido = {

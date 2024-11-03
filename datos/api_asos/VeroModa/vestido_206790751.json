@@ -1,0 +1,695 @@
+{
+    "status": true,
+    "timestamp": 1730632287637,
+    "data": {
+        "id": 206790751,
+        "name": "Vero Moda Tall low back satin mini dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Tall</strong></a><br><ul><li>The one that goes with everything</li><li>Plain design</li><li>V-neck</li><li>Adjustable straps</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda Tall low back satin mini dress in black",
+                "pdpUrl": "https://www.asos.com/vero-moda-tall/vero-moda-tall-low-back-satin-mini-dress-in-black/prd/206790751"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda Tall low back satin mini dress in black",
+                "pdpUrl": "https://www.asos.com/au/vero-moda-tall/vero-moda-tall-low-back-satin-mini-dress-in-black/prd/206790751"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda Tall \u2013 Satin-Minikleid in Schwarz mit tiefem R\u00fcckenausschnitt",
+                "pdpUrl": "https://www.asos.com/de/vero-moda-tall/vero-moda-tall-satin-minikleid-in-schwarz-mit-tiefem-rckenausschnitt/prd/206790751"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda Tall - Satijnen mini jurk met lage rug in zwart",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda-tall/vero-moda-tall-satijnen-mini-jurk-met-lage-rug-in-zwart/prd/206790751"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda Tall \u2013 Czarna satynowa sukienka mini z odkrytymi plecami",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda-tall/vero-moda-tall-czarna-satynowa-sukienka-mini-z-odkrytymi-plecami/prd/206790751"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda Tall - Sort minikjole med lav ryg i satin",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda-tall/vero-moda-tall-sort-minikjole-med-lav-ryg-i-satin/prd/206790751"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda Tall low back satin mini dress in black",
+                "pdpUrl": "https://www.asos.com/us/vero-moda-tall/vero-moda-tall-low-back-satin-mini-dress-in-black/prd/206790751"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda Tall \u2013 Svart minikl\u00e4nning i satin med l\u00e5g rygg",
+                "pdpUrl": "https://www.asos.com/se/vero-moda-tall/vero-moda-tall-svart-miniklnning-i-satin-med-lg-rygg/prd/206790751"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto negro con espalda baja de sat\u00e9n de Vero Moda Tall",
+                "pdpUrl": "https://www.asos.com/es/vero-moda-tall/vestido-corto-negro-con-espalda-baja-de-satn-de-vero-moda-tall/prd/206790751"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda Tall - Robe courte en satin avec dos d\u00e9collet\u00e9 - Noir",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda-tall/vero-moda-tall-robe-courte-en-satin-avec-dos-dcollet-noir/prd/206790751"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda Tall - Vestito corto nero in raso scollato sul retro",
+                "pdpUrl": "https://www.asos.com/it/vero-moda-tall/vero-moda-tall-vestito-corto-nero-in-raso-scollato-sul-retro/prd/206790751"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "136332695",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 14457,
+            "name": "Vero Moda Tall",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Tall</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Tall</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/3653%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206790765,
+                "name": "Vero Moda Tall low back satin mini dress in black",
+                "sizeId": 721310,
+                "brandSize": "XXS",
+                "displaySizeText": "XXS - 2XS",
+                "sizeOrder": 0,
+                "sku": "136332935",
+                "isAvailable": true,
+                "colourWayId": 206790755,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715673163239"
+            },
+            {
+                "id": 206790767,
+                "name": "Vero Moda Tall low back satin mini dress in black",
+                "sizeId": 439485,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 4",
+                "sizeOrder": 1,
+                "sku": "136332936",
+                "isAvailable": true,
+                "colourWayId": 206790755,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715673163246"
+            },
+            {
+                "id": 206790763,
+                "name": "Vero Moda Tall low back satin mini dress in black",
+                "sizeId": 439484,
+                "brandSize": "S",
+                "displaySizeText": "S - US 6",
+                "sizeOrder": 2,
+                "sku": "136332937",
+                "isAvailable": true,
+                "colourWayId": 206790755,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715673163253"
+            },
+            {
+                "id": 206790766,
+                "name": "Vero Moda Tall low back satin mini dress in black",
+                "sizeId": 439482,
+                "brandSize": "M",
+                "displaySizeText": "M - US 8",
+                "sizeOrder": 3,
+                "sku": "136332938",
+                "isAvailable": true,
+                "colourWayId": 206790755,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715673163260"
+            },
+            {
+                "id": 206790768,
+                "name": "Vero Moda Tall low back satin mini dress in black",
+                "sizeId": 439486,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 4,
+                "sku": "136332939",
+                "isAvailable": true,
+                "colourWayId": 206790755,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715673163277"
+            },
+            {
+                "id": 206790762,
+                "name": "Vero Moda Tall low back satin mini dress in black",
+                "sizeId": 439483,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 12",
+                "sizeOrder": 5,
+                "sku": "136332940",
+                "isAvailable": true,
+                "colourWayId": 206790755,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715673163291"
+            },
+            {
+                "id": 206790764,
+                "name": "Vero Moda Tall low back satin mini dress in black",
+                "sizeId": 439487,
+                "brandSize": "2XL",
+                "displaySizeText": "2XL - US 14",
+                "sizeOrder": 6,
+                "sku": "136332941",
+                "isAvailable": true,
+                "colourWayId": 206790755,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715673163284"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-low-back-satin-mini-dress-in-black/206790751-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 206790755,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-low-back-satin-mini-dress-in-black/206790751-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-low-back-satin-mini-dress-in-black/206790751-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-tall-low-back-satin-mini-dress-in-black/206790751-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206790751-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206790751-catwalk",
+                    "colourWayId": 206790755
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Satin-style fabric: glossy, drapey and silky-smooth<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 180.5cm / 5' 11''<br/>Model is wearing: S - US 6",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207188764,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207188764&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9419,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 14710,
+                "type": "Standard"
+            },
+            {
+                "id": 15093,
+                "type": "Standard"
+            },
+            {
+                "id": 15624,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 17241,
+                "type": "Standard"
+            },
+            {
+                "id": 18984,
+                "type": "Standard"
+            },
+            {
+                "id": 19366,
+                "type": "Standard"
+            },
+            {
+                "id": 19597,
+                "type": "Standard"
+            },
+            {
+                "id": 19780,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 27424,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50417,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51317,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51325,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 52072,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875907,
+                "name": "Satin"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

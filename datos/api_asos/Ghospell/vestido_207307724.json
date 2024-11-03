@@ -1,0 +1,577 @@
+{
+    "status": true,
+    "timestamp": 1730631664426,
+    "data": {
+        "id": 207307724,
+        "name": "Ghospell Salome jacquard mini dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>Mini dress, major impact</li><li>High neck</li><li>Puff sleeves</li><li>Zip-back fastening</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell Salome jacquard mini dress in black",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-salome-jacquard-mini-dress-in-black/prd/207307724"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Salome - Sort minikjole i jacquard",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-salome-sort-minikjole-i-jacquard/prd/207307724"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Salome \u2013 Jacquard-Minikleid in Schwarz",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-salome-jacquard-minikleid-in-schwarz/prd/207307724"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Salome \u2013 Czarna sukienka mini z \u017cakardowym wzorem",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-salome-czarna-sukienka-mini-z-zakardowym-wzorem/prd/207307724"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell Salome jacquard mini dress in black",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-salome-jacquard-mini-dress-in-black/prd/207307724"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Salome - Jacquard mini jurk in zwart",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-salome-jacquard-mini-jurk-in-zwart/prd/207307724"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Salome - Vestito corto nero in jacquard",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-salome-vestito-corto-nero-in-jacquard/prd/207307724"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto negro de jacquard Salome de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-corto-negro-de-jacquard-salome-de-ghospell/prd/207307724"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Svart minikl\u00e4nning i jacquard",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-svart-miniklanning-i-jacquard/prd/207307724"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell Salome jacquard mini dress in black",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-salome-jacquard-mini-dress-in-black/prd/207307724"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Salome - Robe courte en jacquard - Noir",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-salome-robe-courte-en-jacquard-noir/prd/207307724"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138840547",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207307727,
+                "name": "Ghospell Salome jacquard mini dress in black",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "138840615",
+                "isAvailable": true,
+                "colourWayId": 207307725,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206078"
+            },
+            {
+                "id": 207307728,
+                "name": "Ghospell Salome jacquard mini dress in black",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "138840616",
+                "isAvailable": true,
+                "colourWayId": 207307725,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206085"
+            },
+            {
+                "id": 207307730,
+                "name": "Ghospell Salome jacquard mini dress in black",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "138840617",
+                "isAvailable": true,
+                "colourWayId": 207307725,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206092"
+            },
+            {
+                "id": 207307731,
+                "name": "Ghospell Salome jacquard mini dress in black",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "138840618",
+                "isAvailable": true,
+                "colourWayId": 207307725,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206108"
+            },
+            {
+                "id": 207307729,
+                "name": "Ghospell Salome jacquard mini dress in black",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "138840619",
+                "isAvailable": true,
+                "colourWayId": 207307725,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206115"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 207307725,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-salome-jacquard-mini-dress-in-black/207307724-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207307724-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307724-catwalk",
+                    "colourWayId": 207307725
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Jacquard: structured fabric with an intricate, interwoven pattern<br><br>Lining: 100% Polyester, Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 176cm / 5' 9\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207456959,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207456959&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9419,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15343,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 16824,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50041,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50457,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51197,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51381,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51759,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 10403179,
+                "name": "Jacquard"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

@@ -1,0 +1,879 @@
+{
+    "status": true,
+    "timestamp": 1730630402525,
+    "data": {
+        "searchTerm": "",
+        "categoryName": "NA-KD",
+        "itemCount": 12,
+        "redirectUrl": "",
+        "products": [
+            {
+                "id": 206291358,
+                "name": "NA-KD deep v neck lace mini dress in black",
+                "price": {
+                    "current": {
+                        "value": 55,
+                        "text": "$55.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 206291360,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 134824322,
+                "productType": "Product",
+                "url": "na-kd/na-kd-deep-v-neck-lace-mini-dress-in-black/prd/206291358#colourWayId-206291360",
+                "imageUrl": "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-2",
+                    "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-3",
+                    "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206291358-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206170806,
+                "name": "NA-KD satin maxi skirt in black",
+                "price": {
+                    "current": {
+                        "value": 63,
+                        "text": "$63.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 206170807,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 134509756,
+                "productType": "Product",
+                "url": "na-kd/na-kd-satin-maxi-skirt-in-black/prd/206170806#colourWayId-206170807",
+                "imageUrl": "images.asos-media.com/products/na-kd-satin-maxi-skirt-in-black/206170806-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-satin-maxi-skirt-in-black/206170806-2",
+                    "images.asos-media.com/products/na-kd-satin-maxi-skirt-in-black/206170806-3",
+                    "images.asos-media.com/products/na-kd-satin-maxi-skirt-in-black/206170806-4",
+                    "images.asos-media.com/products/na-kd-satin-maxi-skirt-in-black/206170806-5"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206415016,
+                "name": "NA-KD structured chiffon ruffle maxi dress in pink",
+                "price": {
+                    "current": {
+                        "value": 87,
+                        "text": "$87.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Pink",
+                "colourWayId": 206415017,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135131140,
+                "productType": "Product",
+                "url": "na-kd/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/prd/206415016#colourWayId-206415017",
+                "imageUrl": "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-1-pink",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-2",
+                    "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-3",
+                    "images.asos-media.com/products/na-kd-structured-chiffon-ruffle-maxi-dress-in-pink/206415016-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206217500,
+                "name": "NA-KD wide sleeve blazer in sand - part of a set",
+                "price": {
+                    "current": {
+                        "value": 96,
+                        "text": "$96.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Sand",
+                "colourWayId": 206217502,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": 206649074,
+                "productCode": 134630311,
+                "productType": "MixMatchProduct",
+                "url": "na-kd/na-kd-tailored-blazer-and-pants-set-in-sand/grp/206649074#colourWayId-206217502&productId-206217500",
+                "imageUrl": "images.asos-media.com/products/na-kd-wide-sleeve-blazer-in-sand-part-of-a-set/206217500-1-sand",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-wide-sleeve-blazer-in-sand-part-of-a-set/206217500-2",
+                    "images.asos-media.com/products/na-kd-wide-sleeve-blazer-in-sand-part-of-a-set/206217500-3",
+                    "images.asos-media.com/products/na-kd-wide-sleeve-blazer-in-sand-part-of-a-set/206217500-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206291456,
+                "name": "NA-KD lace pants in white",
+                "price": {
+                    "current": {
+                        "value": 42,
+                        "text": "$42.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "White",
+                "colourWayId": 206291457,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 134824321,
+                "productType": "Product",
+                "url": "na-kd/na-kd-lace-pants-in-white/prd/206291456#colourWayId-206291457",
+                "imageUrl": "images.asos-media.com/products/na-kd-lace-pants-in-white/206291456-1-white",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-lace-pants-in-white/206291456-2",
+                    "images.asos-media.com/products/na-kd-lace-pants-in-white/206291456-3",
+                    "images.asos-media.com/products/na-kd-lace-pants-in-white/206291456-4",
+                    "images.asos-media.com/products/na-kd-lace-pants-in-white/206291456-5"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206291456-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206291518,
+                "name": "NA-KD sleeveless shirt top in white",
+                "price": {
+                    "current": {
+                        "value": 46,
+                        "text": "$46.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "White",
+                "colourWayId": 206291519,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 134824328,
+                "productType": "Product",
+                "url": "na-kd/na-kd-sleeveless-shirt-top-in-white/prd/206291518#colourWayId-206291519",
+                "imageUrl": "images.asos-media.com/products/na-kd-sleeveless-shirt-top-in-white/206291518-1-white",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-sleeveless-shirt-top-in-white/206291518-2",
+                    "images.asos-media.com/products/na-kd-sleeveless-shirt-top-in-white/206291518-3",
+                    "images.asos-media.com/products/na-kd-sleeveless-shirt-top-in-white/206291518-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206291518-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206579985,
+                "name": "NA-KD square toe heeled sandals with corsage detail in off-white",
+                "price": {
+                    "current": {
+                        "value": 70,
+                        "text": "$70.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Off-white",
+                "colourWayId": 206580001,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135627419,
+                "productType": "Product",
+                "url": "na-kd/na-kd-square-toe-heeled-sandals-with-corsage-detail-in-off-white/prd/206579985#colourWayId-206580001",
+                "imageUrl": "images.asos-media.com/products/na-kd-square-toe-heeled-sandals-with-corsage-detail-in-off-white/206579985-1-offwhite",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-square-toe-heeled-sandals-with-corsage-detail-in-off-white/206579985-2",
+                    "images.asos-media.com/products/na-kd-square-toe-heeled-sandals-with-corsage-detail-in-off-white/206579985-3",
+                    "images.asos-media.com/products/na-kd-square-toe-heeled-sandals-with-corsage-detail-in-off-white/206579985-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206291339,
+                "name": "NA-KD linen collarless jacket in white",
+                "price": {
+                    "current": {
+                        "value": 92,
+                        "text": "$92.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "White",
+                "colourWayId": 206291341,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 134824318,
+                "productType": "Product",
+                "url": "na-kd/na-kd-linen-collarless-jacket-in-white/prd/206291339#colourWayId-206291341",
+                "imageUrl": "images.asos-media.com/products/na-kd-linen-collarless-jacket-in-white/206291339-1-white",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-linen-collarless-jacket-in-white/206291339-2",
+                    "images.asos-media.com/products/na-kd-linen-collarless-jacket-in-white/206291339-3",
+                    "images.asos-media.com/products/na-kd-linen-collarless-jacket-in-white/206291339-4"
+                ],
+                "videoUrl": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206291339-catwalk",
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206580044,
+                "name": "NA-KD heeled sandals with bow detail in black",
+                "price": {
+                    "current": {
+                        "value": 60,
+                        "text": "$60.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Black",
+                "colourWayId": 206580045,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135627420,
+                "productType": "Product",
+                "url": "na-kd/na-kd-heeled-sandals-with-bow-detail-in-black/prd/206580044#colourWayId-206580045",
+                "imageUrl": "images.asos-media.com/products/na-kd-heeled-sandals-with-bow-detail-in-black/206580044-1-black",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-heeled-sandals-with-bow-detail-in-black/206580044-2",
+                    "images.asos-media.com/products/na-kd-heeled-sandals-with-bow-detail-in-black/206580044-3",
+                    "images.asos-media.com/products/na-kd-heeled-sandals-with-bow-detail-in-black/206580044-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206346799,
+                "name": "NA-KD high neck fine knit top in gray",
+                "price": {
+                    "current": {
+                        "value": 44,
+                        "text": "$44.00"
+                    },
+                    "previous": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": false,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "gray",
+                "colourWayId": 206346800,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 134950714,
+                "productType": "Product",
+                "url": "na-kd/na-kd-high-neck-fine-knit-top-in-gray/prd/206346799#colourWayId-206346800",
+                "imageUrl": "images.asos-media.com/products/na-kd-high-neck-fine-knit-top-in-gray/206346799-1-grey",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-high-neck-fine-knit-top-in-gray/206346799-2",
+                    "images.asos-media.com/products/na-kd-high-neck-fine-knit-top-in-gray/206346799-3",
+                    "images.asos-media.com/products/na-kd-high-neck-fine-knit-top-in-gray/206346799-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206649074,
+                "name": "NA-KD tailored blazer and pants set in sand",
+                "price": {
+                    "current": {
+                        "value": 152.7,
+                        "text": "$152.70"
+                    },
+                    "previous": {
+                        "value": 159,
+                        "text": "$159.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Sand",
+                "colourWayId": 206217502,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": true,
+                "groupId": 206649074,
+                "productCode": 134630311,
+                "productType": "MixMatchGroup",
+                "url": "na-kd/na-kd-tailored-blazer-and-pants-set-in-sand/grp/206649074#colourWayId-206217502",
+                "imageUrl": "images.asos-media.com/groups/na-kd-tailored-blazer-and-pants-set-in-sand/206649074-group-1",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-wide-sleeve-blazer-in-sand-part-of-a-set/206217500-1-sand",
+                    "images.asos-media.com/products/na-kd-tailored-high-waist-pants-in-sand-part-of-a-set/206217517-1-sand"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            },
+            {
+                "id": 206415025,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "price": {
+                    "current": {
+                        "value": 51,
+                        "text": "$51.00"
+                    },
+                    "previous": {
+                        "value": 68,
+                        "text": "$68.00"
+                    },
+                    "rrp": {
+                        "value": null,
+                        "text": ""
+                    },
+                    "isMarkedDown": true,
+                    "isOutletPrice": false,
+                    "currency": "USD"
+                },
+                "colour": "Pink",
+                "colourWayId": 206415026,
+                "brandName": "NA-KD",
+                "hasVariantColours": false,
+                "hasMultiplePrices": false,
+                "groupId": null,
+                "productCode": 135131139,
+                "productType": "Product",
+                "url": "na-kd/na-kd-chiffon-flower-detail-mini-dress-in-pink/prd/206415025#colourWayId-206415026",
+                "imageUrl": "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-1-pink",
+                "additionalImageUrls": [
+                    "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-2",
+                    "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-3",
+                    "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-4"
+                ],
+                "videoUrl": null,
+                "showVideo": false,
+                "isSellingFast": false,
+                "isRestockingSoon": false,
+                "isPromotion": false,
+                "sponsoredCampaignId": null,
+                "facetGroupings": [],
+                "advertisement": null
+            }
+        ],
+        "facets": [
+            {
+                "id": "range",
+                "name": "Sale/New Season",
+                "facetValues": [
+                    {
+                        "count": 11,
+                        "id": "new_season",
+                        "name": "New Season",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "sale",
+                        "name": "Sale",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "size",
+                "name": "Size",
+                "facetValues": [
+                    {
+                        "count": 1,
+                        "id": "5131",
+                        "name": "2XS",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "74",
+                        "name": "US 0",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 5,
+                        "id": "86",
+                        "name": "US 2",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "98",
+                        "name": "US 4",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "6385",
+                        "name": "US 5.5",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "14",
+                        "name": "US 6",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "5933",
+                        "name": "US 6.5",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 6,
+                        "id": "26",
+                        "name": "US 8",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "38",
+                        "name": "US 10",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "5336",
+                        "name": "US 10.5",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "50",
+                        "name": "US 12",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "attribute_1047",
+                "name": "Product Type",
+                "facetValues": [
+                    {
+                        "count": 3,
+                        "id": "8400",
+                        "name": "Blazers",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "8416",
+                        "name": "Dresses",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8397",
+                        "name": "Pants",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8600",
+                        "name": "Sandals",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8390",
+                        "name": "Shirts",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8402",
+                        "name": "Skirts",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8387",
+                        "name": "Sweaters",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "attribute_1046",
+                "name": "Style",
+                "facetValues": [
+                    {
+                        "count": 6,
+                        "id": "8192",
+                        "name": "Regular",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "8642",
+                        "name": "Heeled",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "61468",
+                        "name": "Other",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8300",
+                        "name": "Slip",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8311",
+                        "name": "Swing",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8337",
+                        "name": "High Waisted",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8364",
+                        "name": "Long Sleeve",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "8648",
+                        "name": "Mule",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "base_colour",
+                "name": "Color",
+                "facetValues": [
+                    {
+                        "count": 3,
+                        "id": "37",
+                        "name": "Neutral",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "4",
+                        "name": "Black",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "5",
+                        "name": "White",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "9",
+                        "name": "pink",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "16",
+                        "name": "Gray",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            },
+            {
+                "id": "attribute_10992",
+                "name": "Category",
+                "facetValues": [
+                    {
+                        "count": 3,
+                        "id": "61379",
+                        "name": "Dresses",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 3,
+                        "id": "61467",
+                        "name": "Suits & Tailoring",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "61377",
+                        "name": "Jeans & Trousers",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 2,
+                        "id": "61388",
+                        "name": "Footwear",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "61376",
+                        "name": "Skirts",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "61382",
+                        "name": "Knitwear & Sweats",
+                        "isSelected": false
+                    },
+                    {
+                        "count": 1,
+                        "id": "61383",
+                        "name": "Tops",
+                        "isSelected": false
+                    }
+                ],
+                "facetType": "TextMultiSelect",
+                "hasSelectedValues": false
+            }
+        ],
+        "diagnostics": {
+            "requestId": "efc90f16-1c4f-4705-bfaa-051a1ac87453",
+            "processingTime": 107,
+            "queryTime": 41,
+            "recommendationsEnabled": false,
+            "recommendationsAnalytics": {
+                "personalisationStatus": 5,
+                "numberOfItems": 0,
+                "numberOfRecs": 0,
+                "personalisationType": "",
+                "experimentTrackerkey": "",
+                "items": []
+            },
+            "advertisementsEnabled": true,
+            "advertisementsAnalytics": {
+                "status": 10,
+                "customerOptIn": false,
+                "numberOfItemsFromPartner": 0,
+                "items": [],
+                "itemsFromPartner": [],
+                "placementBeacons": {
+                    "onLoadBeacon": null,
+                    "onViewBeacon": null
+                }
+            },
+            "curationAnalytics": {
+                "status": 9,
+                "numberOfCuratedItems": 0,
+                "elevatedItems": [],
+                "fixedItems": [],
+                "comingSoonItems": [],
+                "advertisementPositions": [],
+                "marketingItems": []
+            }
+        },
+        "searchPassMeta": {
+            "isPartial": false,
+            "isSpellcheck": false,
+            "searchPass": [],
+            "alternateSearchTerms": []
+        },
+        "queryId": null,
+        "discoverSearchProductTypes": [],
+        "campaigns": {
+            "imageTiles": [],
+            "promoBanners": [],
+            "sponsoredProducts": []
+        }
+    }
+}

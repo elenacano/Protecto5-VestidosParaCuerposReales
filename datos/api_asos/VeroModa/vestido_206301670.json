@@ -1,0 +1,649 @@
+{
+    "status": true,
+    "timestamp": 1730632286529,
+    "data": {
+        "id": 206301670,
+        "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a><br><ul><li>Let's hear it for the dress</li><li>Plain design</li><li>Crew neck</li><li>Short sleeves</li><li>Lettuce-edge trims</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "pdpUrl": "https://www.asos.com/vero-moda/vero-moda-textured-jersey-ankle-dress-with-lettuce-edge-in-cream/prd/206301670"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda \u2013 Teksturowana d\u017cersejowa sukienka do \u0142ydki z karbowanym wyko\u0144czeniem w kremowym kolorze",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda/vero-moda-teksturowana-dzersejowa-sukienka-do-ydki-z-karbowanym-wykonczeniem-w-kremowym-kolorze/prd/206301670"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "pdpUrl": "https://www.asos.com/au/vero-moda/vero-moda-textured-jersey-ankle-dress-with-lettuce-edge-in-cream/prd/206301670"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda - Ankellang kjole med tekstur og b\u00f8lgekant i cremehvidt jersey",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda/vero-moda-ankellang-kjole-med-tekstur-og-blgekant-i-cremehvidt-jersey/prd/206301670"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido semilargo color crema con bordes ondulados de punto texturizado de Vero Moda",
+                "pdpUrl": "https://www.asos.com/es/vero-moda/vestido-semilargo-color-crema-con-bordes-ondulados-de-punto-texturizado-de-vero-moda/prd/206301670"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "pdpUrl": "https://www.asos.com/us/vero-moda/vero-moda-textured-jersey-ankle-dress-with-lettuce-edge-in-cream/prd/206301670"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda - Vestito alla caviglia in jersey testurizzato crema con bordi ondulati",
+                "pdpUrl": "https://www.asos.com/it/vero-moda/vero-moda-vestito-alla-caviglia-in-jersey-testurizzato-crema-con-bordi-ondulati/prd/206301670"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda \u2013 Gr\u00e4ddvit, ankell\u00e5ng kl\u00e4nning i jersey med textur och rullf\u00e5ll",
+                "pdpUrl": "https://www.asos.com/se/vero-moda/vero-moda-graddvit-ankellang-klanning-i-jersey-med-textur-och-rullfall/prd/206301670"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda - Robe longueur mollet en jersey textur\u00e9 avec bords festonn\u00e9s - Cr\u00e8me",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda/vero-moda-robe-longueur-mollet-en-jersey-texture-avec-bords-festonnes-creme/prd/206301670"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda - Enkellange jurk van getextureerde jersey met golvende rand in cr\u00e8me",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda/vero-moda-enkellange-jurk-van-getextureerde-jersey-met-golvende-rand-in-creme/prd/206301670"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda \u2013 Kn\u00f6chellanges Kleid in Creme aus strukturiertem Jersey mit Kr\u00e4uselsaum",
+                "pdpUrl": "https://www.asos.com/de/vero-moda/vero-moda-knochellanges-kleid-in-creme-aus-strukturiertem-jersey-mit-krauselsaum/prd/206301670"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "134842527",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 3098,
+            "name": "Vero Moda",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/5185%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206301678,
+                "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "sizeId": 573052,
+                "brandSize": "XXS",
+                "displaySizeText": "XXS - 2XS",
+                "sizeOrder": 1,
+                "sku": "134843065",
+                "isAvailable": true,
+                "colourWayId": 206301673,
+                "colour": "BIRCH",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715607471072"
+            },
+            {
+                "id": 206301686,
+                "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "sizeId": 387560,
+                "brandSize": "XS",
+                "displaySizeText": "XS",
+                "sizeOrder": 2,
+                "sku": "134843066",
+                "isAvailable": true,
+                "colourWayId": 206301673,
+                "colour": "BIRCH",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715606900177"
+            },
+            {
+                "id": 206301674,
+                "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "sizeId": 387558,
+                "brandSize": "S",
+                "displaySizeText": "S",
+                "sizeOrder": 3,
+                "sku": "134843067",
+                "isAvailable": true,
+                "colourWayId": 206301673,
+                "colour": "BIRCH",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715606900184"
+            },
+            {
+                "id": 206301680,
+                "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "sizeId": 387559,
+                "brandSize": "M",
+                "displaySizeText": "M",
+                "sizeOrder": 4,
+                "sku": "134843068",
+                "isAvailable": true,
+                "colourWayId": 206301673,
+                "colour": "BIRCH",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715606900191"
+            },
+            {
+                "id": 206301684,
+                "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "sizeId": 387557,
+                "brandSize": "L",
+                "displaySizeText": "L",
+                "sizeOrder": 5,
+                "sku": "134843069",
+                "isAvailable": true,
+                "colourWayId": 206301673,
+                "colour": "BIRCH",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715606900207"
+            },
+            {
+                "id": 206301676,
+                "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "sizeId": 387561,
+                "brandSize": "XL",
+                "displaySizeText": "XL",
+                "sizeOrder": 6,
+                "sku": "134843070",
+                "isAvailable": true,
+                "colourWayId": 206301673,
+                "colour": "BIRCH",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715606900214"
+            },
+            {
+                "id": 206301682,
+                "name": "Vero Moda textured jersey ankle dress with lettuce edge in cream",
+                "sizeId": 387562,
+                "brandSize": "2XL",
+                "displaySizeText": "2XL",
+                "sizeOrder": 7,
+                "sku": "134843071",
+                "isAvailable": true,
+                "colourWayId": 206301673,
+                "colour": "BIRCH",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715607471089"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-jersey-ankle-dress-with-lettuce-edge-in-cream/206301670-1-birch",
+                    "type": "Standard1",
+                    "colourWayId": 206301673,
+                    "colour": "BIRCH",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-jersey-ankle-dress-with-lettuce-edge-in-cream/206301670-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-jersey-ankle-dress-with-lettuce-edge-in-cream/206301670-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-jersey-ankle-dress-with-lettuce-edge-in-cream/206301670-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Jersey: soft and stretchy<br><br>Main: 77% Polyester, 18% Cotton, 5% Elastane.",
+            "sizeAndFit": "Model's height: 175cm / 5' 9''<br>Model is wearing: UK S/ EU S/ US XS",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 206820663,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=206820663&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": {
+            "averageOverallRating": 4,
+            "averageOverallStarRating": 4,
+            "totalReviewCount": 1
+        },
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15625,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 16650,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 28041,
+                "type": "Standard"
+            },
+            {
+                "id": 28193,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50050,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51308,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51312,
+                "type": "Standard"
+            },
+            {
+                "id": 51327,
+                "type": "Standard"
+            },
+            {
+                "id": 51328,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875903,
+                "name": "Textured"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

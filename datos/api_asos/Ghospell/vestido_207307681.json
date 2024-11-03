@@ -1,0 +1,560 @@
+{
+    "status": true,
+    "timestamp": 1730631674161,
+    "data": {
+        "id": 207307681,
+        "name": "Ghospell Ayesha organza mini dress in emerald green",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>Dancefloor dress code</li><li>Round neck</li><li>Puff sleeves</li><li>Ruffle details</li><li>Button-keyhole back</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell Ayesha organza mini dress in emerald green",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-ayesha-organza-mini-dress-in-emerald-green/prd/207307681"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Ayesha - Robe courte en organza - Vert \u00e9meraude",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-ayesha-robe-courte-en-organza-vert-emeraude/prd/207307681"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Ayesha - Smaragdgr\u00f8n minikjole i organza",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-ayesha-smaragdgrn-minikjole-i-organza/prd/207307681"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Ayesha \u2013 Minikleid aus Organza in Smaragdgr\u00fcn",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-ayesha-minikleid-aus-organza-in-smaragdgrun/prd/207307681"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell Ayesha organza mini dress in emerald green",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-ayesha-organza-mini-dress-in-emerald-green/prd/207307681"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell Ayesha organza mini dress in emerald green",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-ayesha-organza-mini-dress-in-emerald-green/prd/207307681"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Ayesha \u2013 Sukienka mini z organzy w kolorze szmaragdowej zieleni",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-ayesha-sukienka-mini-z-organzy-w-kolorze-szmaragdowej-zieleni/prd/207307681"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Ayesha \u2013 Smaragdgr\u00f6n minikl\u00e4nning i organza",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-ayesha-smaragdgron-miniklanning-i-organza/prd/207307681"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Ayesha - Vestito corto in organza verde smeraldo",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-ayesha-vestito-corto-in-organza-verde-smeraldo/prd/207307681"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Ayesha - Organza mini jurk in smaragdgroen",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-ayesha-organza-mini-jurk-in-smaragdgroen/prd/207307681"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto verde esmeralda de organza Ayesha de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-corto-verde-esmeralda-de-organza-ayesha-de-ghospell/prd/207307681"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138840541",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207307684,
+                "name": "Ghospell Ayesha organza mini dress in emerald green",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "138840585",
+                "isAvailable": true,
+                "colourWayId": 207307682,
+                "colour": "EMERALD",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871206672"
+            },
+            {
+                "id": 207307687,
+                "name": "Ghospell Ayesha organza mini dress in emerald green",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "138840586",
+                "isAvailable": true,
+                "colourWayId": 207307682,
+                "colour": "EMERALD",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871206689"
+            },
+            {
+                "id": 207307685,
+                "name": "Ghospell Ayesha organza mini dress in emerald green",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "138840587",
+                "isAvailable": true,
+                "colourWayId": 207307682,
+                "colour": "EMERALD",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871206696"
+            },
+            {
+                "id": 207307683,
+                "name": "Ghospell Ayesha organza mini dress in emerald green",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "138840588",
+                "isAvailable": true,
+                "colourWayId": 207307682,
+                "colour": "EMERALD",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871206702"
+            },
+            {
+                "id": 207307686,
+                "name": "Ghospell Ayesha organza mini dress in emerald green",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "138840589",
+                "isAvailable": true,
+                "colourWayId": 207307682,
+                "colour": "EMERALD",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871206719"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-1-emerald",
+                    "type": "Standard1",
+                    "colourWayId": 207307682,
+                    "colour": "EMERALD",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-ayesha-organza-mini-dress-in-emerald-green/207307681-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207307681-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307681-catwalk",
+                    "colourWayId": 207307682
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Organza: sheer, smooth and crisp to touch<br><br>Lining: 100% Polyester, Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 176cm / 5' 9\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207433376,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207433376&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": {
+            "averageOverallRating": 4,
+            "averageOverallStarRating": 4,
+            "totalReviewCount": 1
+        },
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 14710,
+                "type": "Standard"
+            },
+            {
+                "id": 15343,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50041,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50457,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51197,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51381,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 51470,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

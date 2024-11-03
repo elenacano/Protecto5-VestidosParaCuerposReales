@@ -1,0 +1,596 @@
+{
+    "status": true,
+    "timestamp": 1730632285314,
+    "data": {
+        "id": 204859678,
+        "name": "Vero Moda Petite knitted jumper midi dress in cream",
+        "description": "<a href=\"/women/petite/cat/?cid=4177\"><strong>Petite</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Petite</strong></a><br><ul><li>Low effort, high reward</li><li>Round neck</li><li>Long sleeves</li><li>Side split</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda Petite knitted jumper midi dress in cream",
+                "pdpUrl": "https://www.asos.com/vero-moda-petite/vero-moda-petite-knitted-jumper-midi-dress-in-cream/prd/204859678"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda Petite \u2013 Midi-Pulloverkleid aus Strick in Creme",
+                "pdpUrl": "https://www.asos.com/de/vero-moda-petite/vero-moda-petite-midi-pulloverkleid-aus-strick-in-creme/prd/204859678"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda Petite knitted sweater midi dress in cream",
+                "pdpUrl": "https://www.asos.com/us/vero-moda-petite/vero-moda-petite-knitted-sweater-midi-dress-in-cream/prd/204859678"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda Petite - Vestito midi in maglia crema",
+                "pdpUrl": "https://www.asos.com/it/vero-moda-petite/vero-moda-petite-vestito-midi-in-maglia-crema/prd/204859678"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda Petite - Gebreide midi trui-jurk in cr\u00e8me",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda-petite/vero-moda-petite-gebreide-midi-trui-jurk-in-creme/prd/204859678"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda Petite \u2013 Kremowa dzianinowa sukienka midi",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda-petite/vero-moda-petite-kremowa-dzianinowa-sukienka-midi/prd/204859678"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda Petite knitted jumper midi dress in cream",
+                "pdpUrl": "https://www.asos.com/au/vero-moda-petite/vero-moda-petite-knitted-jumper-midi-dress-in-cream/prd/204859678"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda Petite - Robe pull mi-longue en maille - Cr\u00e8me",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda-petite/vero-moda-petite-robe-pull-mi-longue-en-maille-creme/prd/204859678"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda Petite - Cremehvid strikket sweater-midikjole",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda-petite/vero-moda-petite-cremehvid-strikket-sweater-midikjole/prd/204859678"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi color crema estilo jersey de punto de Vero Moda Petite",
+                "pdpUrl": "https://www.asos.com/es/vero-moda-petite/vestido-midi-color-crema-estilo-jersey-de-punto-de-vero-moda-petite/prd/204859678"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda Petite \u2013 Gr\u00e4ddvit stickad tr\u00f6jkl\u00e4nning i midil\u00e4ngd",
+                "pdpUrl": "https://www.asos.com/se/vero-moda-petite/vero-moda-petite-graddvit-stickad-trojklanning-i-midilangd/prd/204859678"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "130544460",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 14304,
+            "name": "Vero Moda Petite",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Petite</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda Petite</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/2487%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 204859700,
+                "name": "Vero Moda Petite knitted jumper midi dress in cream",
+                "sizeId": 692292,
+                "brandSize": "XXL",
+                "displaySizeText": "XXL - 2XL",
+                "sizeOrder": 0,
+                "sku": "130544759",
+                "isAvailable": true,
+                "colourWayId": 204859695,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715431847135"
+            },
+            {
+                "id": 204859703,
+                "name": "Vero Moda Petite knitted jumper midi dress in cream",
+                "sizeId": 439535,
+                "brandSize": "2XS",
+                "displaySizeText": "2XS - US 0",
+                "sizeOrder": 1,
+                "sku": "130544753",
+                "isAvailable": true,
+                "colourWayId": 204859695,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715431375300"
+            },
+            {
+                "id": 204859696,
+                "name": "Vero Moda Petite knitted jumper midi dress in cream",
+                "sizeId": 439536,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 2,
+                "sku": "130544754",
+                "isAvailable": true,
+                "colourWayId": 204859695,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715431375317"
+            },
+            {
+                "id": 204859701,
+                "name": "Vero Moda Petite knitted jumper midi dress in cream",
+                "sizeId": 439532,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 3,
+                "sku": "130544755",
+                "isAvailable": true,
+                "colourWayId": 204859695,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715431375324"
+            },
+            {
+                "id": 204859697,
+                "name": "Vero Moda Petite knitted jumper midi dress in cream",
+                "sizeId": 439533,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 4,
+                "sku": "130544756",
+                "isAvailable": true,
+                "colourWayId": 204859695,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715431375331"
+            },
+            {
+                "id": 204859698,
+                "name": "Vero Moda Petite knitted jumper midi dress in cream",
+                "sizeId": 439534,
+                "brandSize": "L",
+                "displaySizeText": "L - US 8",
+                "sizeOrder": 5,
+                "sku": "130544757",
+                "isAvailable": true,
+                "colourWayId": 204859695,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715431375348"
+            },
+            {
+                "id": 204859699,
+                "name": "Vero Moda Petite knitted jumper midi dress in cream",
+                "sizeId": 439531,
+                "brandSize": "XL",
+                "displaySizeText": "XL - US 10",
+                "sizeOrder": 6,
+                "sku": "130544758",
+                "isAvailable": true,
+                "colourWayId": 204859695,
+                "colour": "CREAM",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715431375355"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-knitted-jumper-midi-dress-in-cream/204859678-1-cream",
+                    "type": "Standard1",
+                    "colourWayId": 204859695,
+                    "colour": "CREAM",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-knitted-jumper-midi-dress-in-cream/204859678-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-knitted-jumper-midi-dress-in-cream/204859678-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-petite-knitted-jumper-midi-dress-in-cream/204859678-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "204859678-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/204859678-catwalk",
+                    "colourWayId": 204859695
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Mid-weight knit<br><br>Main: 70% Acrylic, 27% Nylon, 3% Elastane.",
+            "sizeAndFit": "Model's height: 160cm/5'3\"<br>Model is wearing: UK XS/ EU XS/ US XS",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": {
+            "averageOverallRating": 5,
+            "averageOverallStarRating": 5,
+            "totalReviewCount": 1
+        },
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 4177,
+                "type": "SEO"
+            },
+            {
+                "id": 8350,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "Standard"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12686,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13491,
+                "type": "Standard"
+            },
+            {
+                "id": 15378,
+                "type": "Standard"
+            },
+            {
+                "id": 16650,
+                "type": "Standard"
+            },
+            {
+                "id": 16661,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 20061,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 50041,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50086,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50457,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51115,
+                "type": "Standard"
+            },
+            {
+                "id": 51118,
+                "type": "Standard"
+            },
+            {
+                "id": 51121,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51381,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

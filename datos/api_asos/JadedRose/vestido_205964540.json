@@ -1,0 +1,640 @@
+{
+    "status": true,
+    "timestamp": 1730631432897,
+    "data": {
+        "id": 205964540,
+        "name": "Jaded Rose stretch satin drape midaxi dress in blue print",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/jaded-rose/cat/?cid=18936\"><strong>Jaded Rose</strong></a><br><ul><li>Best dressed: secured</li><li>Abstract design</li><li>Cowl neck</li><li>Adjustable straps</li><li>Wrap front</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "pdpUrl": "https://www.asos.com/jaded-rose/jaded-rose-stretch-satin-drape-midaxi-dress-in-blue-print/prd/205964540"
+            },
+            {
+                "locale": "en-US",
+                "title": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "pdpUrl": "https://www.asos.com/us/jaded-rose/jaded-rose-stretch-satin-drape-midaxi-dress-in-blue-print/prd/205964540"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "pdpUrl": "https://www.asos.com/au/jaded-rose/jaded-rose-stretch-satin-drape-midaxi-dress-in-blue-print/prd/205964540"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Jaded Rose - Draperet midaxikjole med stretch i satin med bl\u00e5 print",
+                "pdpUrl": "https://www.asos.com/dk/jaded-rose/jaded-rose-draperet-midaxikjole-med-stretch-i-satin-med-bla-print/prd/205964540"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Jaded Rose - Robe drap\u00e9e longueur mollet en satin stretch imprim\u00e9 - Bleu",
+                "pdpUrl": "https://www.asos.com/fr/jaded-rose/jaded-rose-robe-drapee-longueur-mollet-en-satin-stretch-imprime-bleu/prd/205964540"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Jaded Rose - Satijnen midaxi jurk met stretch, drapering en print in blauw",
+                "pdpUrl": "https://www.asos.com/nl/jaded-rose/jaded-rose-satijnen-midaxi-jurk-met-stretch-drapering-en-print-in-blauw/prd/205964540"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Jaded Rose\u2013 Drapiertes Midaxi-Kleid aus Satin in Blau mit Stretchanteil und Muster",
+                "pdpUrl": "https://www.asos.com/de/jaded-rose/jaded-rose-drapiertes-midaxi-kleid-aus-satin-in-blau-mit-stretchanteil-und-muster/prd/205964540"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido semilargo azul estampado con dise\u00f1o drapeado de sat\u00e9n el\u00e1stico de Jaded Rose",
+                "pdpUrl": "https://www.asos.com/es/jaded-rose/vestido-semilargo-azul-estampado-con-diseno-drapeado-de-saten-elastico-de-jaded-rose/prd/205964540"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Jaded Rose \u2013 Niebieska satynowa sukienka midaxi z drapowaniem i stretchem we wz\u00f3r",
+                "pdpUrl": "https://www.asos.com/pl/jaded-rose/jaded-rose-niebieska-satynowa-sukienka-midaxi-z-drapowaniem-i-stretchem-we-wzor/prd/205964540"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Jaded Rose - Vestito al polpaccio elasticizzato in raso blu stampato con drappeggio",
+                "pdpUrl": "https://www.asos.com/it/jaded-rose/jaded-rose-vestito-al-polpaccio-elasticizzato-in-raso-blu-stampato-con-drappeggio/prd/205964540"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Jaded Rose \u2013 Bl\u00e5m\u00f6nstrad, draperad midaxikl\u00e4nning i stretchig satin",
+                "pdpUrl": "https://www.asos.com/se/jaded-rose/jaded-rose-blamonstrad-draperad-midaxiklanning-i-stretchig-satin/prd/205964540"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "134005821",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 14185,
+            "name": "Jaded Rose",
+            "description": "<a href=\"/women/a-to-z-of-brands/jaded-rose/cat/?cid=18936\"><strong>Jaded Rose</strong></a> launches their first collection exclusively on ASOS (we\u2019re super happy about that btw!). Calling on the catwalk, <a href=\"/women/a-to-z-of-brands/jaded-rose/cat/?cid=18936\"><strong>Jaded Rose</strong></a> bring us a big hit of embellished evening dresses \u2013 their star piece is the sequined shift dress. Think grown up glam for when you\u2019re dressing to impress."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/999%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 205964543,
+                "name": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "sizeId": 456364,
+                "brandSize": "US 2",
+                "displaySizeText": "US 2",
+                "sizeOrder": 20,
+                "sku": "134005900",
+                "isAvailable": true,
+                "colourWayId": 205964541,
+                "colour": "blue print",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 205964542,
+                "name": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "sizeId": 456363,
+                "brandSize": "US 4",
+                "displaySizeText": "US 4",
+                "sizeOrder": 30,
+                "sku": "134005901",
+                "isAvailable": true,
+                "colourWayId": 205964541,
+                "colour": "blue print",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 205964547,
+                "name": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "sizeId": 456366,
+                "brandSize": "US 6",
+                "displaySizeText": "US 6",
+                "sizeOrder": 40,
+                "sku": "134005902",
+                "isAvailable": true,
+                "colourWayId": 205964541,
+                "colour": "blue print",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 205964545,
+                "name": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "sizeId": 456365,
+                "brandSize": "US 8",
+                "displaySizeText": "US 8",
+                "sizeOrder": 50,
+                "sku": "134005903",
+                "isAvailable": true,
+                "colourWayId": 205964541,
+                "colour": "blue print",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 205964546,
+                "name": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "sizeId": 456362,
+                "brandSize": "US 10",
+                "displaySizeText": "US 10",
+                "sizeOrder": 60,
+                "sku": "134005904",
+                "isAvailable": true,
+                "colourWayId": 205964541,
+                "colour": "blue print",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            },
+            {
+                "id": 205964544,
+                "name": "Jaded Rose stretch satin drape midaxi dress in blue print",
+                "sizeId": 456368,
+                "brandSize": "US 12",
+                "displaySizeText": "US 12",
+                "sizeOrder": 70,
+                "sku": "134005905",
+                "isAvailable": true,
+                "colourWayId": 205964541,
+                "colour": "blue print",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": null
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-stretch-satin-drape-midaxi-dress-in-blue-print/205964540-1-blueprint",
+                    "type": "Standard1",
+                    "colourWayId": 205964541,
+                    "colour": "blue print",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-stretch-satin-drape-midaxi-dress-in-blue-print/205964540-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-stretch-satin-drape-midaxi-dress-in-blue-print/205964540-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/jaded-rose-stretch-satin-drape-midaxi-dress-in-blue-print/205964540-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "205964540-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/205964540-catwalk",
+                    "colourWayId": 205964541
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Satin-style fabric: glossy, drapey and silky-smooth<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 167.5cm/5'6\"<br>Model is wearing: UK 8/ EU 36/ US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 206474307,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=206474307&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9979,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 12957,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13935,
+                "type": "Standard"
+            },
+            {
+                "id": 15624,
+                "type": "Standard"
+            },
+            {
+                "id": 15625,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 23183,
+                "type": "Brand"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50090,
+                "type": "Standard"
+            },
+            {
+                "id": 50417,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51218,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51513,
+                "type": "Standard"
+            },
+            {
+                "id": 52072,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875907,
+                "name": "Satin"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

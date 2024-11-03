@@ -1,0 +1,533 @@
+{
+    "status": true,
+    "timestamp": 1730631671071,
+    "data": {
+        "id": 206581151,
+        "name": "Ghospell bow detail textured mini dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>Mirror-selfie, pending</li><li>Textured finish</li><li>Round neck</li><li>Short sleeves</li><li>Bow detail</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell bow detail textured mini dress in black",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-bow-detail-textured-mini-dress-in-black/prd/206581151"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Czarna fakturowana sukienka mini z kokardkami",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-czarna-fakturowana-sukienka-mini-z-kokardkami/prd/206581151"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Mini jurk met strikdetail en textuur in zwart",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-mini-jurk-met-strikdetail-en-textuur-in-zwart/prd/206581151"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Svart, strukturerad minikl\u00e4nning med rosett",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-svart-strukturerad-miniklanning-med-rosett/prd/206581151"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell bow detail textured mini dress in black",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-bow-detail-textured-mini-dress-in-black/prd/206581151"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Sort minikjole med tekstur og sl\u00f8jfedetalje",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-sort-minikjole-med-tekstur-og-sljfedetalje/prd/206581151"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Strukturiertes Minikleid in Schwarz mit Schleifendetail",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-strukturiertes-minikleid-in-schwarz-mit-schleifendetail/prd/206581151"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Vestito corto nero testurizzato con fiocco",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-vestito-corto-nero-testurizzato-con-fiocco/prd/206581151"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell bow detail textured mini dress in black",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-bow-detail-textured-mini-dress-in-black/prd/206581151"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto negro con detalle de lazo de tejido texturizado de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-corto-negro-con-detalle-de-lazo-de-tejido-texturizado-de-ghospell/prd/206581151"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Robe courte textur\u00e9e avec n\u0153uds - Noir",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-robe-courte-texturee-avec-nuds-noir/prd/206581151"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135637106",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206581153,
+                "name": "Ghospell bow detail textured mini dress in black",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "135637128",
+                "isAvailable": true,
+                "colourWayId": 206581152,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871178054"
+            },
+            {
+                "id": 206581154,
+                "name": "Ghospell bow detail textured mini dress in black",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "135637129",
+                "isAvailable": true,
+                "colourWayId": 206581152,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871178061"
+            },
+            {
+                "id": 206581155,
+                "name": "Ghospell bow detail textured mini dress in black",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "135637130",
+                "isAvailable": true,
+                "colourWayId": 206581152,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871178078"
+            },
+            {
+                "id": 206581157,
+                "name": "Ghospell bow detail textured mini dress in black",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "135637131",
+                "isAvailable": true,
+                "colourWayId": 206581152,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871178085"
+            },
+            {
+                "id": 206581156,
+                "name": "Ghospell bow detail textured mini dress in black",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "135637132",
+                "isAvailable": true,
+                "colourWayId": 206581152,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871178092"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 206581152,
+                    "colour": "Black",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-bow-detail-textured-mini-dress-in-black/206581151-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Body: 100% Polyester, Body Lining: 100% Polyester.",
+            "sizeAndFit": "",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": {
+            "averageOverallRating": 5,
+            "averageOverallStarRating": 5,
+            "totalReviewCount": 1
+        },
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9419,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 28249,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50041,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50457,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875903,
+                "name": "Textured"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

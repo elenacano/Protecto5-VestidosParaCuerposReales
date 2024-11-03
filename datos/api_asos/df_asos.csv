@@ -1,0 +1,902 @@
+,nombre,marca,precio,color,talla,categoria
+0,vestido midi plateado con cuello halter de lentejuelas de mango,Mango,133.0,silver,S,midi
+1,vestido midi plateado con cuello halter de lentejuelas de mango,Mango,133.0,silver,M,midi
+2,vestido midi plateado con cuello halter de lentejuelas de mango,Mango,133.0,silver,L,midi
+3,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,black,XS,midi
+4,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,black,S,midi
+5,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,black,M,midi
+6,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,black,L,midi
+7,vestido midi negro con estampado floral y abertura hasta el muslo de mango,Mango,129.99,black,XL,midi
+8,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,pink,XS,largo
+9,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,pink,S,largo
+10,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,pink,M,largo
+11,vestido largo rosa con cuello desbocado de terciopelo devoré de mango,Mango,139.99,pink,L,largo
+12,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,mid blue,XS,midi
+13,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,mid blue,S,midi
+14,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,mid blue,M,midi
+15,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,mid blue,L,midi
+16,vestido midi azul a rayas con escote bardot de mango,Mango,110.0,mid blue,XL,midi
+17,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,light blue,XS,corto
+18,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,light blue,S,corto
+19,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,light blue,M,corto
+20,vestido corto azul claro con detalle de lazada y diseño de doble capa selection de mango,Mango,139.99,light blue,L,corto
+21,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,cream,XS,
+22,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,cream,S,
+23,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,cream,M,
+24,vestido color crema con bajo asimétrico y detalles de croché selection de mango,Mango,199.99,cream,L,
+25,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,yellow,XS,corto
+26,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,yellow,S,corto
+27,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,yellow,M,corto
+28,vestido corto amarillo con escote palabra de honor de mango,Mango,139.99,yellow,L,corto
+29,vestido playero midi plateado de croché de mango,Mango,99.99,silver,S,midi
+30,vestido playero midi plateado de croché de mango,Mango,99.99,silver,M,midi
+31,vestido playero midi plateado de croché de mango,Mango,99.99,silver,L,midi
+32,vestido largo blanco de croché con flores bordadas de mango x siedrés,Mango,249.99,white,S,largo
+33,vestido largo blanco de croché con flores bordadas de mango x siedrés,Mango,249.99,white,M,largo
+34,vestido largo blanco de croché con flores bordadas de mango x siedrés,Mango,249.99,white,L,largo
+35,vestido corto naranja con escote asimétrico de mango,Mango,59.99,orange,XS,corto
+36,vestido corto naranja con escote asimétrico de mango,Mango,59.99,orange,S,corto
+37,vestido corto naranja con escote asimétrico de mango,Mango,59.99,orange,M,corto
+38,vestido corto naranja con escote asimétrico de mango,Mango,59.99,orange,L,corto
+39,vestido corto naranja con escote asimétrico de mango,Mango,59.99,orange,XL,corto
+40,vestido midi morado a cuadros variados de mango,Mango,99.99,purple,XS,midi
+41,vestido midi morado a cuadros variados de mango,Mango,99.99,purple,S,midi
+42,vestido midi morado a cuadros variados de mango,Mango,99.99,purple,M,midi
+43,vestido midi morado a cuadros variados de mango,Mango,99.99,purple,L,midi
+44,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,brown,XS,midi
+45,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,brown,S,midi
+46,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,brown,M,midi
+47,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,brown,L,midi
+48,vestido midi marrón de tirantes con estampado de leopardo de mango,Mango,59.99,brown,XL,midi
+49,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,XS,corto
+50,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,S,corto
+51,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,M,corto
+52,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,L,corto
+53,vestido corto beis claro con lazada delantera de mezcla de lino de mango,Mango,49.99,beige,XL,corto
+54,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,black,XS,corto
+55,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,black,S,corto
+56,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,black,M,corto
+57,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,black,L,corto
+58,vestido corto negro con ribete de encaje en el cuello de mango,Mango,49.99,black,XL,corto
+59,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,grey,XS,midi
+60,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,grey,S,midi
+61,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,grey,M,midi
+62,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,grey,L,midi
+63,vestido midi gris plisado con estampado de serpiente y cuello halter de mango,Mango,99.99,grey,XL,midi
+64,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,brown,XS,corto
+65,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,brown,S,corto
+66,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,brown,M,corto
+67,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,brown,L,corto
+68,vestido corto marrón de tirantes con estampado de leopardo de mango,Mango,69.99,brown,XL,corto
+69,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,grey,XS,largo
+70,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,grey,S,largo
+71,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,grey,M,largo
+72,vestido largo gris de tirantes con estampado de serpiente de mango,Mango,99.99,grey,L,largo
+73,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,purple,XS,largo
+74,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,purple,S,largo
+75,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,purple,M,largo
+76,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,purple,L,largo
+77,vestido largo morado plisado con cuello alto y estampado floral de mango,Mango,199.99,purple,XL,largo
+78,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,brown,XS,
+79,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,brown,S,
+80,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,brown,M,
+81,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,brown,L,
+82,vestido marrón de tirantes con estampado de leopardo de mango,Mango,45.99,brown,XL,
+83,vestido midi negro con escote bardot de mango,Mango,49.99,black,XS,midi
+84,vestido midi negro con escote bardot de mango,Mango,49.99,black,S,midi
+85,vestido midi negro con escote bardot de mango,Mango,49.99,black,M,midi
+86,vestido midi negro con escote bardot de mango,Mango,49.99,black,L,midi
+87,vestido midi negro con escote bardot de mango,Mango,49.99,black,XL,midi
+88,vestido largo blanco con patrón variado de croché de mango,Mango,99.99,white,S,largo
+89,vestido largo blanco con patrón variado de croché de mango,Mango,99.99,white,M,largo
+90,vestido largo blanco con patrón variado de croché de mango,Mango,99.99,white,L,largo
+91,vestido corto negro abotonado sin mangas de mango,Mango,79.99,black,XS,corto
+92,vestido corto negro abotonado sin mangas de mango,Mango,79.99,black,S,corto
+93,vestido corto negro abotonado sin mangas de mango,Mango,79.99,black,M,corto
+94,vestido corto negro abotonado sin mangas de mango,Mango,79.99,black,L,corto
+95,vestido corto negro abotonado sin mangas de mango,Mango,79.99,black,XL,corto
+96,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,brown,XS,corto
+97,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,brown,S,corto
+98,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,brown,M,corto
+99,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,brown,L,corto
+100,vestido corto marrón con estampado de leopardo y lazada delantera de mango,Mango,89.99,brown,XL,corto
+101,vestido vaquero azul medio sin mangas de mango,Mango,99.99,blue,S,
+102,vestido vaquero azul medio sin mangas de mango,Mango,99.99,blue,M,
+103,vestido vaquero azul medio sin mangas de mango,Mango,99.99,blue,L,
+104,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,black,XS,midi
+105,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,black,S,midi
+106,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,black,M,midi
+107,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,black,L,midi
+108,vestido midi negro sin mangas con lateral ceñido de mango,Mango,99.99,black,XL,midi
+109,vestido midi negro con botones delanteros de mango,Mango,79.99,black,XS,midi
+110,vestido midi negro con botones delanteros de mango,Mango,79.99,black,S,midi
+111,vestido midi negro con botones delanteros de mango,Mango,79.99,black,M,midi
+112,vestido midi negro con botones delanteros de mango,Mango,79.99,black,L,midi
+113,vestido midi negro con botones delanteros de mango,Mango,79.99,black,XL,midi
+114,vestido vaquero corto azul con estampado de estrellas de mango,Mango,99.99,blue,S,corto
+115,vestido vaquero corto azul con estampado de estrellas de mango,Mango,99.99,blue,M,corto
+116,vestido vaquero corto azul con estampado de estrellas de mango,Mango,99.99,blue,L,corto
+117,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,grey,XS,midi
+118,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,grey,S,midi
+119,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,grey,M,midi
+120,vestido de sastre midi gris con raya diplomática y escote palabra de honor de mango,Mango,79.99,grey,L,midi
+121,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,XS,corto
+122,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,S,corto
+123,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,M,corto
+124,vestido corto marrón de tirantes con volantes de mango,Mango,179.99,beige,L,corto
+125,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,brown,XS,midi
+126,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,brown,S,midi
+127,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,brown,M,midi
+128,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,brown,L,midi
+129,vestido midi asimétrico con estampado de leopardo de mango,Mango,99.99,brown,XL,midi
+130,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,navy,XS,corto
+131,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,navy,S,corto
+132,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,navy,M,corto
+133,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,navy,L,corto
+134,"vestido corto azul marino con cremallera, raya diplomática y lateral fruncido de mango",Mango,69.99,navy,XL,corto
+135,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,navy,XS,largo
+136,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,navy,S,largo
+137,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,navy,M,largo
+138,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,navy,L,largo
+139,vestido largo azul marino de manga larga con cuello alzado de mango,Mango,59.99,navy,XL,largo
+140,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,brown,XS,midi
+141,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,brown,S,midi
+142,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,brown,M,midi
+143,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,brown,L,midi
+144,vestido midi marrón de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,brown,XL,midi
+145,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,green,XS,largo
+146,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,green,S,largo
+147,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,green,M,largo
+148,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,green,L,largo
+149,vestido largo verde oscuro con cuello alto y abertura en el lateral de punto de mango,Mango,59.99,green,XL,largo
+150,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,grey,XS,corto
+151,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,grey,S,corto
+152,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,grey,M,corto
+153,vestido corto gris medio de satén de la colección cápsula de mango,Mango,179.99,grey,L,corto
+154,vestido midi beis de manga corta de mango,Mango,59.99,beige,XS,midi
+155,vestido midi beis de manga corta de mango,Mango,59.99,beige,S,midi
+156,vestido midi beis de manga corta de mango,Mango,59.99,beige,M,midi
+157,vestido midi beis de manga corta de mango,Mango,59.99,beige,L,midi
+158,vestido midi beis de manga corta de mango,Mango,59.99,beige,XL,midi
+159,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,red,XS,midi
+160,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,red,S,midi
+161,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,red,M,midi
+162,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,red,L,midi
+163,vestido midi rojo con estampado de cuadros y cuello desbocado de mango,Mango,99.99,red,XL,midi
+164,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,white,XS,midi
+165,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,white,S,midi
+166,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,white,M,midi
+167,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,white,L,midi
+168,vestido midi blanco de manga larga con estampado de leopardo y cuello de pico de mango,Mango,49.99,white,XL,midi
+169,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,black,XS,midi
+170,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,black,S,midi
+171,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,black,M,midi
+172,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,black,L,midi
+173,vestido midi negro de manga con detalle de cinturón de mango,Mango,59.99,black,XL,midi
+174,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,brown,XS,midi
+175,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,brown,S,midi
+176,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,brown,M,midi
+177,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,brown,L,midi
+178,vestido midi marrón de manga larga con cuello alto de canalé de mango,Mango,59.99,brown,XL,midi
+179,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,black,XS,midi
+180,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,black,S,midi
+181,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,black,M,midi
+182,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,black,L,midi
+183,vestido midi negro de manga larga con cuello alto de canalé de mango,Mango,59.99,black,XL,midi
+184,vestido largo negro con detalle de abertura en la espalda de mango,Mango,129.99,black,S,largo
+185,vestido largo negro con detalle de abertura en la espalda de mango,Mango,129.99,black,M,largo
+186,vestido largo negro con detalle de abertura en la espalda de mango,Mango,129.99,black,L,largo
+187,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,grey,XS,largo
+188,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,grey,S,largo
+189,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,grey,M,largo
+190,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,grey,L,largo
+191,vestido largo gris con cuello alto y avertura lateral de punto de mango,Mango,59.99,grey,XL,largo
+192,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,brown,XS,corto
+193,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,brown,S,corto
+194,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,brown,M,corto
+195,"vestido corto con estampado de leopardo, vuelo y escote bardot de mango",Mango,69.99,brown,L,corto
+196,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,navy,XS,corto
+197,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,navy,S,corto
+198,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,navy,M,corto
+199,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,navy,L,corto
+200,vestido de sastre corto azul marino con trabilla de botones de mango,Mango,99.99,navy,XL,corto
+201,vestido midi blanco con bajo de encaje de mango,Mango,99.99,white,XS,midi
+202,vestido midi blanco con bajo de encaje de mango,Mango,99.99,white,S,midi
+203,vestido midi blanco con bajo de encaje de mango,Mango,99.99,white,M,midi
+204,vestido midi blanco con bajo de encaje de mango,Mango,99.99,white,L,midi
+205,vestido midi blanco con bajo de encaje de mango,Mango,99.99,white,XL,midi
+206,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,dark brown,XS,largo
+207,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,dark brown,S,largo
+208,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,dark brown,M,largo
+209,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,dark brown,L,largo
+210,vestido largo marrón oscuro sin mangas con pespuntes en los bordes de mango,Mango,99.99,dark brown,XL,largo
+211,vestido corto blanco amplio con detalle de encaje de vero moda,VeroModa,45.0,white,XXS,corto
+212,vestido corto blanco amplio con detalle de encaje de vero moda,VeroModa,45.0,white,XS,corto
+213,vestido corto blanco amplio con detalle de encaje de vero moda,VeroModa,45.0,white,S,corto
+214,vestido corto blanco amplio con detalle de encaje de vero moda,VeroModa,45.0,white,M,corto
+215,vestido corto blanco amplio con detalle de encaje de vero moda,VeroModa,45.0,white,L,corto
+216,vestido corto blanco amplio con detalle de encaje de vero moda,VeroModa,45.0,white,XL,corto
+217,vestido corto blanco amplio con detalle de encaje de vero moda,VeroModa,45.0,white,XXL,corto
+218,vestido camisero blanco extragrande de tejido texturizado de vero moda,VeroModa,62.0,white,XXS,
+219,vestido camisero blanco extragrande de tejido texturizado de vero moda,VeroModa,62.0,white,XS,
+220,vestido camisero blanco extragrande de tejido texturizado de vero moda,VeroModa,62.0,white,S,
+221,vestido camisero blanco extragrande de tejido texturizado de vero moda,VeroModa,62.0,white,M,
+222,vestido camisero blanco extragrande de tejido texturizado de vero moda,VeroModa,62.0,white,L,
+223,vestido camisero blanco extragrande de tejido texturizado de vero moda,VeroModa,62.0,white,XL,
+224,vestido camisero blanco extragrande de tejido texturizado de vero moda,VeroModa,62.0,white,XXL,
+225,vestido playero corto blanco cruzado en la parte delantera de algodón de vero moda,VeroModa,47.0,snow white,XXS,corto
+226,vestido playero corto blanco cruzado en la parte delantera de algodón de vero moda,VeroModa,47.0,snow white,XS,corto
+227,vestido playero corto blanco cruzado en la parte delantera de algodón de vero moda,VeroModa,47.0,snow white,S,corto
+228,vestido playero corto blanco cruzado en la parte delantera de algodón de vero moda,VeroModa,47.0,snow white,M,corto
+229,vestido playero corto blanco cruzado en la parte delantera de algodón de vero moda,VeroModa,47.0,snow white,L,corto
+230,vestido playero corto blanco cruzado en la parte delantera de algodón de vero moda,VeroModa,47.0,snow white,XL,corto
+231,vestido playero corto blanco cruzado en la parte delantera de algodón de vero moda,VeroModa,47.0,snow white,XXL,corto
+232,vestido midi color crema estilo jersey de punto de vero moda petite,VeroModa,63.0,cream,XXL,midi
+233,vestido midi color crema estilo jersey de punto de vero moda petite,VeroModa,63.0,cream,XXS,midi
+234,vestido midi color crema estilo jersey de punto de vero moda petite,VeroModa,63.0,cream,XS,midi
+235,vestido midi color crema estilo jersey de punto de vero moda petite,VeroModa,63.0,cream,S,midi
+236,vestido midi color crema estilo jersey de punto de vero moda petite,VeroModa,63.0,cream,M,midi
+237,vestido midi color crema estilo jersey de punto de vero moda petite,VeroModa,63.0,cream,L,midi
+238,vestido midi color crema estilo jersey de punto de vero moda petite,VeroModa,63.0,cream,XL,midi
+239,vestido midi negro fruncido con lazada lateral de vero moda,VeroModa,67.0,black,XXS,midi
+240,vestido midi negro fruncido con lazada lateral de vero moda,VeroModa,67.0,black,XS,midi
+241,vestido midi negro fruncido con lazada lateral de vero moda,VeroModa,67.0,black,S,midi
+242,vestido midi negro fruncido con lazada lateral de vero moda,VeroModa,67.0,black,M,midi
+243,vestido midi negro fruncido con lazada lateral de vero moda,VeroModa,67.0,black,L,midi
+244,vestido midi negro fruncido con lazada lateral de vero moda,VeroModa,67.0,black,XL,midi
+245,vestido midi negro fruncido con lazada lateral de vero moda,VeroModa,67.0,black,XXL,midi
+246,vestido semilargo color crema con bordes ondulados de punto texturizado de vero moda,VeroModa,65.0,birch,XXS,largo
+247,vestido semilargo color crema con bordes ondulados de punto texturizado de vero moda,VeroModa,65.0,birch,XS,largo
+248,vestido semilargo color crema con bordes ondulados de punto texturizado de vero moda,VeroModa,65.0,birch,S,largo
+249,vestido semilargo color crema con bordes ondulados de punto texturizado de vero moda,VeroModa,65.0,birch,M,largo
+250,vestido semilargo color crema con bordes ondulados de punto texturizado de vero moda,VeroModa,65.0,birch,L,largo
+251,vestido semilargo color crema con bordes ondulados de punto texturizado de vero moda,VeroModa,65.0,birch,XL,largo
+252,vestido semilargo color crema con bordes ondulados de punto texturizado de vero moda,VeroModa,65.0,birch,XXL,largo
+253,vestido corto color crudo plisado con cuello alto de vero moda,VeroModa,63.0,stone,XXS,corto
+254,vestido corto color crudo plisado con cuello alto de vero moda,VeroModa,63.0,stone,XS,corto
+255,vestido corto color crudo plisado con cuello alto de vero moda,VeroModa,63.0,stone,S,corto
+256,vestido corto color crudo plisado con cuello alto de vero moda,VeroModa,63.0,stone,M,corto
+257,vestido corto color crudo plisado con cuello alto de vero moda,VeroModa,63.0,stone,L,corto
+258,vestido corto color crudo plisado con cuello alto de vero moda,VeroModa,63.0,stone,XL,corto
+259,vestido corto color crudo plisado con cuello alto de vero moda,VeroModa,63.0,stone,XXL,corto
+260,vestido corto color crudo plisado con cuello alto de vero moda petite,VeroModa,63.0,stone,XXS,corto
+261,vestido corto color crudo plisado con cuello alto de vero moda petite,VeroModa,63.0,stone,XS,corto
+262,vestido corto color crudo plisado con cuello alto de vero moda petite,VeroModa,63.0,stone,S,corto
+263,vestido corto color crudo plisado con cuello alto de vero moda petite,VeroModa,63.0,stone,M,corto
+264,vestido corto color crudo plisado con cuello alto de vero moda petite,VeroModa,63.0,stone,L,corto
+265,vestido corto color crudo plisado con cuello alto de vero moda petite,VeroModa,63.0,stone,XL,corto
+266,vestido midi negro con cuello halter y detalle retorcido de punto liso de vero moda,VeroModa,65.0,black ,XXS,midi
+267,vestido midi negro con cuello halter y detalle retorcido de punto liso de vero moda,VeroModa,65.0,black ,XS,midi
+268,vestido midi negro con cuello halter y detalle retorcido de punto liso de vero moda,VeroModa,65.0,black ,S,midi
+269,vestido midi negro con cuello halter y detalle retorcido de punto liso de vero moda,VeroModa,65.0,black ,M,midi
+270,vestido midi negro con cuello halter y detalle retorcido de punto liso de vero moda,VeroModa,65.0,black ,L,midi
+271,vestido midi negro con cuello halter y detalle retorcido de punto liso de vero moda,VeroModa,65.0,black ,XL,midi
+272,vestido midi negro con cuello halter y detalle retorcido de punto liso de vero moda,VeroModa,65.0,black ,XXL,midi
+273,vestido corto monocromático abotonado de manga larga con estampado floral de vero moda,VeroModa,65.0,black,XXS,corto
+274,vestido corto monocromático abotonado de manga larga con estampado floral de vero moda,VeroModa,65.0,black,XS,corto
+275,vestido corto monocromático abotonado de manga larga con estampado floral de vero moda,VeroModa,65.0,black,S,corto
+276,vestido corto monocromático abotonado de manga larga con estampado floral de vero moda,VeroModa,65.0,black,M,corto
+277,vestido corto monocromático abotonado de manga larga con estampado floral de vero moda,VeroModa,65.0,black,L,corto
+278,vestido corto monocromático abotonado de manga larga con estampado floral de vero moda,VeroModa,65.0,black,XL,corto
+279,vestido corto monocromático abotonado de manga larga con estampado floral de vero moda,VeroModa,65.0,black,XXL,corto
+280,vestido largo marrón de manga larga con pespuntes en contraste de punto de vero moda,VeroModa,69.0,light brown,XXS,largo
+281,vestido largo marrón de manga larga con pespuntes en contraste de punto de vero moda,VeroModa,69.0,light brown,XS,largo
+282,vestido largo marrón de manga larga con pespuntes en contraste de punto de vero moda,VeroModa,69.0,light brown,S,largo
+283,vestido largo marrón de manga larga con pespuntes en contraste de punto de vero moda,VeroModa,69.0,light brown,M,largo
+284,vestido largo marrón de manga larga con pespuntes en contraste de punto de vero moda,VeroModa,69.0,light brown,L,largo
+285,vestido largo marrón de manga larga con pespuntes en contraste de punto de vero moda,VeroModa,69.0,light brown,XL,largo
+286,vestido largo marrón de manga larga con pespuntes en contraste de punto de vero moda,VeroModa,69.0,light brown,XXL,largo
+287,vestido corto verde medio plisado con mangas acampanadas de vero moda,VeroModa,69.0,green,XXS,corto
+288,vestido corto verde medio plisado con mangas acampanadas de vero moda,VeroModa,69.0,green,XS,corto
+289,vestido corto verde medio plisado con mangas acampanadas de vero moda,VeroModa,69.0,green,S,corto
+290,vestido corto verde medio plisado con mangas acampanadas de vero moda,VeroModa,69.0,green,M,corto
+291,vestido corto verde medio plisado con mangas acampanadas de vero moda,VeroModa,69.0,green,L,corto
+292,vestido corto verde medio plisado con mangas acampanadas de vero moda,VeroModa,69.0,green,XL,corto
+293,vestido corto verde medio plisado con mangas acampanadas de vero moda,VeroModa,69.0,green,XXL,corto
+294,vestido corto negro fruncido de punto de vero moda,VeroModa,65.0,black ,XXS,corto
+295,vestido corto negro fruncido de punto de vero moda,VeroModa,65.0,black ,XS,corto
+296,vestido corto negro fruncido de punto de vero moda,VeroModa,65.0,black ,S,corto
+297,vestido corto negro fruncido de punto de vero moda,VeroModa,65.0,black ,M,corto
+298,vestido corto negro fruncido de punto de vero moda,VeroModa,65.0,black ,L,corto
+299,vestido corto negro fruncido de punto de vero moda,VeroModa,65.0,black ,XL,corto
+300,vestido corto negro fruncido de punto de vero moda,VeroModa,65.0,black ,XXL,corto
+301,vestido largo marrón de manga larga con pespuntes en contraste de punto liso de vero moda tall,VeroModa,69.0,light brown,XXS,largo
+302,vestido largo marrón de manga larga con pespuntes en contraste de punto liso de vero moda tall,VeroModa,69.0,light brown,XS,largo
+303,vestido largo marrón de manga larga con pespuntes en contraste de punto liso de vero moda tall,VeroModa,69.0,light brown,S,largo
+304,vestido largo marrón de manga larga con pespuntes en contraste de punto liso de vero moda tall,VeroModa,69.0,light brown,M,largo
+305,vestido largo marrón de manga larga con pespuntes en contraste de punto liso de vero moda tall,VeroModa,69.0,light brown,L,largo
+306,vestido largo marrón de manga larga con pespuntes en contraste de punto liso de vero moda tall,VeroModa,69.0,light brown,XL,largo
+307,vestido largo marrón de manga larga con pespuntes en contraste de punto liso de vero moda tall,VeroModa,69.0,light brown,XXL,largo
+308,vestido midi verde abotonado con estampado de leopardo de vero moda,VeroModa,63.0,green,XXS,midi
+309,vestido midi verde abotonado con estampado de leopardo de vero moda,VeroModa,63.0,green,XS,midi
+310,vestido midi verde abotonado con estampado de leopardo de vero moda,VeroModa,63.0,green,S,midi
+311,vestido midi verde abotonado con estampado de leopardo de vero moda,VeroModa,63.0,green,M,midi
+312,vestido midi verde abotonado con estampado de leopardo de vero moda,VeroModa,63.0,green,L,midi
+313,vestido midi verde abotonado con estampado de leopardo de vero moda,VeroModa,63.0,green,XL,midi
+314,vestido midi verde abotonado con estampado de leopardo de vero moda,VeroModa,63.0,green,XXL,midi
+315,vestido largo color piedra de manga larga con detalle de costuras de vero moda,VeroModa,69.0,stone,XXS,largo
+316,vestido largo color piedra de manga larga con detalle de costuras de vero moda,VeroModa,69.0,stone,XS,largo
+317,vestido largo color piedra de manga larga con detalle de costuras de vero moda,VeroModa,69.0,stone,S,largo
+318,vestido largo color piedra de manga larga con detalle de costuras de vero moda,VeroModa,69.0,stone,M,largo
+319,vestido largo color piedra de manga larga con detalle de costuras de vero moda,VeroModa,69.0,stone,L,largo
+320,vestido largo color piedra de manga larga con detalle de costuras de vero moda,VeroModa,69.0,stone,XL,largo
+321,vestido largo color piedra de manga larga con detalle de costuras de vero moda,VeroModa,69.0,stone,XXL,largo
+322,vestido corto negro plisado con cuello alto de vero moda,VeroModa,63.0,black,XXS,corto
+323,vestido corto negro plisado con cuello alto de vero moda,VeroModa,63.0,black,XS,corto
+324,vestido corto negro plisado con cuello alto de vero moda,VeroModa,63.0,black,S,corto
+325,vestido corto negro plisado con cuello alto de vero moda,VeroModa,63.0,black,M,corto
+326,vestido corto negro plisado con cuello alto de vero moda,VeroModa,63.0,black,L,corto
+327,vestido corto negro plisado con cuello alto de vero moda,VeroModa,63.0,black,XL,corto
+328,vestido corto negro plisado con cuello alto de vero moda,VeroModa,63.0,black,XXL,corto
+329,vestido corto verde medio plisado con mangas acampanadas de vero moda curve,VeroModa,69.0,med green,XL,corto
+330,vestido corto verde medio plisado con mangas acampanadas de vero moda curve,VeroModa,69.0,med green,XL,corto
+331,vestido corto verde medio plisado con mangas acampanadas de vero moda curve,VeroModa,69.0,med green,XXL,corto
+332,vestido corto verde medio plisado con mangas acampanadas de vero moda curve,VeroModa,69.0,med green,3XL,corto
+333,vestido marrón corto plisado con estampado abstracto y mangas anchas de vero moda,VeroModa,81.0,brown,XXS,corto
+334,vestido marrón corto plisado con estampado abstracto y mangas anchas de vero moda,VeroModa,81.0,brown,XS,corto
+335,vestido marrón corto plisado con estampado abstracto y mangas anchas de vero moda,VeroModa,81.0,brown,S,corto
+336,vestido marrón corto plisado con estampado abstracto y mangas anchas de vero moda,VeroModa,81.0,brown,M,corto
+337,vestido marrón corto plisado con estampado abstracto y mangas anchas de vero moda,VeroModa,81.0,brown,L,corto
+338,vestido marrón corto plisado con estampado abstracto y mangas anchas de vero moda,VeroModa,81.0,brown,XL,corto
+339,vestido marrón corto plisado con estampado abstracto y mangas anchas de vero moda,VeroModa,81.0,brown,XXL,corto
+340,vestido corto negro con espalda baja de satén de vero moda tall,VeroModa,40.0,black,XXS,corto
+341,vestido corto negro con espalda baja de satén de vero moda tall,VeroModa,40.0,black,XS,corto
+342,vestido corto negro con espalda baja de satén de vero moda tall,VeroModa,40.0,black,S,corto
+343,vestido corto negro con espalda baja de satén de vero moda tall,VeroModa,40.0,black,M,corto
+344,vestido corto negro con espalda baja de satén de vero moda tall,VeroModa,40.0,black,L,corto
+345,vestido corto negro con espalda baja de satén de vero moda tall,VeroModa,40.0,black,XL,corto
+346,vestido corto negro con espalda baja de satén de vero moda tall,VeroModa,40.0,black,XXL,corto
+347,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda,VeroModa,76.0,multi,XXS,largo
+348,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda,VeroModa,76.0,multi,XS,largo
+349,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda,VeroModa,76.0,multi,S,largo
+350,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda,VeroModa,76.0,multi,M,largo
+351,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda,VeroModa,76.0,multi,L,largo
+352,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda,VeroModa,76.0,multi,XL,largo
+353,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda,VeroModa,76.0,multi,XXL,largo
+354,vestido corto negro con espalda escotada de satén de vero moda,VeroModa,40.0,black,XXS,corto
+355,vestido corto negro con espalda escotada de satén de vero moda,VeroModa,40.0,black,XS,corto
+356,vestido corto negro con espalda escotada de satén de vero moda,VeroModa,40.0,black,S,corto
+357,vestido corto negro con espalda escotada de satén de vero moda,VeroModa,40.0,black,M,corto
+358,vestido corto negro con espalda escotada de satén de vero moda,VeroModa,40.0,black,L,corto
+359,vestido corto negro con espalda escotada de satén de vero moda,VeroModa,40.0,black,XL,corto
+360,vestido corto negro con espalda escotada de satén de vero moda,VeroModa,40.0,black,XXL,corto
+361,vestido largo negro con ribetes en contraste de punto de canalé de vero moda,VeroModa,76.0,black,XXS,largo
+362,vestido largo negro con ribetes en contraste de punto de canalé de vero moda,VeroModa,76.0,black,XS,largo
+363,vestido largo negro con ribetes en contraste de punto de canalé de vero moda,VeroModa,76.0,black,S,largo
+364,vestido largo negro con ribetes en contraste de punto de canalé de vero moda,VeroModa,76.0,black,M,largo
+365,vestido largo negro con ribetes en contraste de punto de canalé de vero moda,VeroModa,76.0,black,L,largo
+366,vestido largo negro con ribetes en contraste de punto de canalé de vero moda,VeroModa,76.0,black,XL,largo
+367,vestido largo negro con ribetes en contraste de punto de canalé de vero moda,VeroModa,76.0,black,XXL,largo
+368,vestido corto negro con espalda escotada de satén de vero moda petite,VeroModa,40.0,black,XXL,corto
+369,vestido corto negro con espalda escotada de satén de vero moda petite,VeroModa,40.0,black,XXS,corto
+370,vestido corto negro con espalda escotada de satén de vero moda petite,VeroModa,40.0,black,XS,corto
+371,vestido corto negro con espalda escotada de satén de vero moda petite,VeroModa,40.0,black,S,corto
+372,vestido corto negro con espalda escotada de satén de vero moda petite,VeroModa,40.0,black,M,corto
+373,vestido corto negro con espalda escotada de satén de vero moda petite,VeroModa,40.0,black,L,corto
+374,vestido corto negro con espalda escotada de satén de vero moda petite,VeroModa,40.0,black,XL,corto
+375,vestido de tonos neutros de manga larga con estampado difuminado de malla de vero moda,VeroModa,76.0,brown,XS,
+376,vestido de tonos neutros de manga larga con estampado difuminado de malla de vero moda,VeroModa,76.0,brown,S,
+377,vestido de tonos neutros de manga larga con estampado difuminado de malla de vero moda,VeroModa,76.0,brown,M,
+378,vestido de tonos neutros de manga larga con estampado difuminado de malla de vero moda,VeroModa,76.0,brown,L,
+379,vestido de tonos neutros de manga larga con estampado difuminado de malla de vero moda,VeroModa,76.0,brown,XL,
+380,vestido de tonos neutros de manga larga con estampado difuminado de malla de vero moda,VeroModa,76.0,brown,XXL,
+381,vestido largo verde de manga larga con estampado floral difuminado de malla de vero moda,VeroModa,72.0,green,XXS,largo
+382,vestido largo verde de manga larga con estampado floral difuminado de malla de vero moda,VeroModa,72.0,green,XS,largo
+383,vestido largo verde de manga larga con estampado floral difuminado de malla de vero moda,VeroModa,72.0,green,S,largo
+384,vestido largo verde de manga larga con estampado floral difuminado de malla de vero moda,VeroModa,72.0,green,M,largo
+385,vestido largo verde de manga larga con estampado floral difuminado de malla de vero moda,VeroModa,72.0,green,L,largo
+386,vestido largo verde de manga larga con estampado floral difuminado de malla de vero moda,VeroModa,72.0,green,XL,largo
+387,vestido largo verde de manga larga con estampado floral difuminado de malla de vero moda,VeroModa,72.0,green,XXL,largo
+388,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda,VeroModa,58.0,black,XXS,midi
+389,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda,VeroModa,58.0,black,XS,midi
+390,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda,VeroModa,58.0,black,S,midi
+391,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda,VeroModa,58.0,black,M,midi
+392,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda,VeroModa,58.0,black,L,midi
+393,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda,VeroModa,58.0,black,XL,midi
+394,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda,VeroModa,58.0,black,XXL,midi
+395,vestido largo gris de satén con ribete de encaje de vero moda,VeroModa,63.0,grey,XXS,largo
+396,vestido largo gris de satén con ribete de encaje de vero moda,VeroModa,63.0,grey,XS,largo
+397,vestido largo gris de satén con ribete de encaje de vero moda,VeroModa,63.0,grey,S,largo
+398,vestido largo gris de satén con ribete de encaje de vero moda,VeroModa,63.0,grey,M,largo
+399,vestido largo gris de satén con ribete de encaje de vero moda,VeroModa,63.0,grey,L,largo
+400,vestido largo gris de satén con ribete de encaje de vero moda,VeroModa,63.0,grey,XL,largo
+401,vestido largo gris de satén con ribete de encaje de vero moda,VeroModa,63.0,grey,XXL,largo
+402,vestido largo negro de satén con ribete de encaje de vero moda petite,VeroModa,63.0,black,XXL,largo
+403,vestido largo negro de satén con ribete de encaje de vero moda petite,VeroModa,63.0,black,XXS,largo
+404,vestido largo negro de satén con ribete de encaje de vero moda petite,VeroModa,63.0,black,XS,largo
+405,vestido largo negro de satén con ribete de encaje de vero moda petite,VeroModa,63.0,black,S,largo
+406,vestido largo negro de satén con ribete de encaje de vero moda petite,VeroModa,63.0,black,M,largo
+407,vestido largo negro de satén con ribete de encaje de vero moda petite,VeroModa,63.0,black,L,largo
+408,vestido largo negro de satén con ribete de encaje de vero moda petite,VeroModa,63.0,black,XL,largo
+409,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda petite,VeroModa,58.0,black,XXL,midi
+410,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda petite,VeroModa,58.0,black,XXS,midi
+411,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda petite,VeroModa,58.0,black,XS,midi
+412,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda petite,VeroModa,58.0,black,S,midi
+413,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda petite,VeroModa,58.0,black,M,midi
+414,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda petite,VeroModa,58.0,black,L,midi
+415,vestido midi negro con ribetes blancos en contraste de punto acanalado de vero moda petite,VeroModa,58.0,black,XL,midi
+416,vestido largo negro de satén con ribete de encaje de vero moda,VeroModa,63.0,black,XXS,largo
+417,vestido largo negro de satén con ribete de encaje de vero moda,VeroModa,63.0,black,XS,largo
+418,vestido largo negro de satén con ribete de encaje de vero moda,VeroModa,63.0,black,S,largo
+419,vestido largo negro de satén con ribete de encaje de vero moda,VeroModa,63.0,black,M,largo
+420,vestido largo negro de satén con ribete de encaje de vero moda,VeroModa,63.0,black,L,largo
+421,vestido largo negro de satén con ribete de encaje de vero moda,VeroModa,63.0,black,XL,largo
+422,vestido largo negro de satén con ribete de encaje de vero moda,VeroModa,63.0,black,XXL,largo
+423,vestido midi azul marino abotonado con estampado floral de vero moda,VeroModa,63.0,navy,XXS,midi
+424,vestido midi azul marino abotonado con estampado floral de vero moda,VeroModa,63.0,navy,XS,midi
+425,vestido midi azul marino abotonado con estampado floral de vero moda,VeroModa,63.0,navy,S,midi
+426,vestido midi azul marino abotonado con estampado floral de vero moda,VeroModa,63.0,navy,M,midi
+427,vestido midi azul marino abotonado con estampado floral de vero moda,VeroModa,63.0,navy,L,midi
+428,vestido midi azul marino abotonado con estampado floral de vero moda,VeroModa,63.0,navy,XL,midi
+429,vestido midi azul marino abotonado con estampado floral de vero moda,VeroModa,63.0,navy,XXL,midi
+430,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda tall,VeroModa,76.0,multi,XXS,largo
+431,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda tall,VeroModa,76.0,multi,XS,largo
+432,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda tall,VeroModa,76.0,multi,S,largo
+433,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda tall,VeroModa,76.0,multi,M,largo
+434,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda tall,VeroModa,76.0,multi,L,largo
+435,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda tall,VeroModa,76.0,multi,XL,largo
+436,vestido largo a rayas de canalé supersuave de hilos mezclados de vero moda tall,VeroModa,76.0,multi,XXL,largo
+437,vestido semilargo color crema melange con cuello tipo polo de tejido muy suave de vero moda petite,VeroModa,65.0,birch,XXL,largo
+438,vestido semilargo color crema melange con cuello tipo polo de tejido muy suave de vero moda petite,VeroModa,65.0,birch,XXS,largo
+439,vestido semilargo color crema melange con cuello tipo polo de tejido muy suave de vero moda petite,VeroModa,65.0,birch,XS,largo
+440,vestido semilargo color crema melange con cuello tipo polo de tejido muy suave de vero moda petite,VeroModa,65.0,birch,S,largo
+441,vestido semilargo color crema melange con cuello tipo polo de tejido muy suave de vero moda petite,VeroModa,65.0,birch,M,largo
+442,vestido semilargo color crema melange con cuello tipo polo de tejido muy suave de vero moda petite,VeroModa,65.0,birch,L,largo
+443,vestido semilargo color crema melange con cuello tipo polo de tejido muy suave de vero moda petite,VeroModa,65.0,birch,XL,largo
+444,vestido largo negro jaspeado de canalé suave de vero moda (parte de un conjunto),VeroModa,47.0,black,XXS,largo
+445,vestido largo negro jaspeado de canalé suave de vero moda (parte de un conjunto),VeroModa,47.0,black,XS,largo
+446,vestido largo negro jaspeado de canalé suave de vero moda (parte de un conjunto),VeroModa,47.0,black,S,largo
+447,vestido largo negro jaspeado de canalé suave de vero moda (parte de un conjunto),VeroModa,47.0,black,M,largo
+448,vestido largo negro jaspeado de canalé suave de vero moda (parte de un conjunto),VeroModa,47.0,black,L,largo
+449,vestido largo negro jaspeado de canalé suave de vero moda (parte de un conjunto),VeroModa,47.0,black,XL,largo
+450,vestido largo negro jaspeado de canalé suave de vero moda (parte de un conjunto),VeroModa,47.0,black,XXL,largo
+451,vestido corto gris claro jaspeado abotonado de punto de vero moda,VeroModa,87.0,light grey,XXS,corto
+452,vestido corto gris claro jaspeado abotonado de punto de vero moda,VeroModa,87.0,light grey,XS,corto
+453,vestido corto gris claro jaspeado abotonado de punto de vero moda,VeroModa,87.0,light grey,S,corto
+454,vestido corto gris claro jaspeado abotonado de punto de vero moda,VeroModa,87.0,light grey,M,corto
+455,vestido corto gris claro jaspeado abotonado de punto de vero moda,VeroModa,87.0,light grey,L,corto
+456,vestido corto gris claro jaspeado abotonado de punto de vero moda,VeroModa,87.0,light grey,XL,corto
+457,vestido corto gris claro jaspeado abotonado de punto de vero moda,VeroModa,87.0,light grey,XXL,corto
+458,vestido verde de manga larga con estampado degradado de malla de vero moda,VeroModa,76.0,green ombre,XXS,
+459,vestido verde de manga larga con estampado degradado de malla de vero moda,VeroModa,76.0,green ombre,XS,
+460,vestido verde de manga larga con estampado degradado de malla de vero moda,VeroModa,76.0,green ombre,S,
+461,vestido verde de manga larga con estampado degradado de malla de vero moda,VeroModa,76.0,green ombre,M,
+462,vestido verde de manga larga con estampado degradado de malla de vero moda,VeroModa,76.0,green ombre,L,
+463,vestido verde de manga larga con estampado degradado de malla de vero moda,VeroModa,76.0,green ombre,XL,
+464,vestido verde de manga larga con estampado degradado de malla de vero moda,VeroModa,76.0,green ombre,XXL,
+465,vestido midi verde oliva con cremallera delantera de canalé aware de vero moda,VeroModa,87.0,olive,XXS,midi
+466,vestido midi verde oliva con cremallera delantera de canalé aware de vero moda,VeroModa,87.0,olive,XS,midi
+467,vestido midi verde oliva con cremallera delantera de canalé aware de vero moda,VeroModa,87.0,olive,S,midi
+468,vestido midi verde oliva con cremallera delantera de canalé aware de vero moda,VeroModa,87.0,olive,M,midi
+469,vestido midi verde oliva con cremallera delantera de canalé aware de vero moda,VeroModa,87.0,olive,L,midi
+470,vestido midi verde oliva con cremallera delantera de canalé aware de vero moda,VeroModa,87.0,olive,XL,midi
+471,vestido midi verde oliva con cremallera delantera de canalé aware de vero moda,VeroModa,87.0,olive,XXL,midi
+472,vestido corto negro con cuello alto y lazada en la cintura de punto de vero moda petite,VeroModa,51.0,black,XXL,corto
+473,vestido corto negro con cuello alto y lazada en la cintura de punto de vero moda petite,VeroModa,51.0,black,XXS,corto
+474,vestido corto negro con cuello alto y lazada en la cintura de punto de vero moda petite,VeroModa,51.0,black,XS,corto
+475,vestido corto negro con cuello alto y lazada en la cintura de punto de vero moda petite,VeroModa,51.0,black,S,corto
+476,vestido corto negro con cuello alto y lazada en la cintura de punto de vero moda petite,VeroModa,51.0,black,M,corto
+477,vestido corto negro con cuello alto y lazada en la cintura de punto de vero moda petite,VeroModa,51.0,black,L,corto
+478,vestido corto negro con cuello alto y lazada en la cintura de punto de vero moda petite,VeroModa,51.0,black,XL,corto
+479,vestido midi color crema con cuello de pico de punto premium de vero moda,VeroModa,87.0,cream,XXS,midi
+480,vestido midi color crema con cuello de pico de punto premium de vero moda,VeroModa,87.0,cream,XS,midi
+481,vestido midi color crema con cuello de pico de punto premium de vero moda,VeroModa,87.0,cream,S,midi
+482,vestido midi color crema con cuello de pico de punto premium de vero moda,VeroModa,87.0,cream,M,midi
+483,vestido midi color crema con cuello de pico de punto premium de vero moda,VeroModa,87.0,cream,L,midi
+484,vestido midi color crema con cuello de pico de punto premium de vero moda,VeroModa,87.0,cream,XL,midi
+485,vestido midi color crema con cuello de pico de punto premium de vero moda,VeroModa,87.0,cream,XXL,midi
+486,vestido corto gris claro jaspeado abotonado de punto de vero moda petite,VeroModa,87.0,light grey,XXL,corto
+487,vestido corto gris claro jaspeado abotonado de punto de vero moda petite,VeroModa,87.0,light grey,XXS,corto
+488,vestido corto gris claro jaspeado abotonado de punto de vero moda petite,VeroModa,87.0,light grey,XS,corto
+489,vestido corto gris claro jaspeado abotonado de punto de vero moda petite,VeroModa,87.0,light grey,S,corto
+490,vestido corto gris claro jaspeado abotonado de punto de vero moda petite,VeroModa,87.0,light grey,M,corto
+491,vestido corto gris claro jaspeado abotonado de punto de vero moda petite,VeroModa,87.0,light grey,L,corto
+492,vestido corto gris claro jaspeado abotonado de punto de vero moda petite,VeroModa,87.0,light grey,XL,corto
+493,vestido corto gris claro jaspeado abotonado de punto de vero moda tall,VeroModa,87.0,light grey,XXS,corto
+494,vestido corto gris claro jaspeado abotonado de punto de vero moda tall,VeroModa,87.0,light grey,XS,corto
+495,vestido corto gris claro jaspeado abotonado de punto de vero moda tall,VeroModa,87.0,light grey,S,corto
+496,vestido corto gris claro jaspeado abotonado de punto de vero moda tall,VeroModa,87.0,light grey,M,corto
+497,vestido corto gris claro jaspeado abotonado de punto de vero moda tall,VeroModa,87.0,light grey,L,corto
+498,vestido corto gris claro jaspeado abotonado de punto de vero moda tall,VeroModa,87.0,light grey,XL,corto
+499,vestido corto gris claro jaspeado abotonado de punto de vero moda tall,VeroModa,87.0,light grey,XXL,corto
+500,vestido corto negro con cuello de pico pronunciado de encaje de na-kd,NAKD,55.0,black,XS,corto
+501,vestido corto negro con cuello de pico pronunciado de encaje de na-kd,NAKD,55.0,black,S,corto
+502,vestido corto negro con cuello de pico pronunciado de encaje de na-kd,NAKD,55.0,black,S,corto
+503,vestido corto negro con cuello de pico pronunciado de encaje de na-kd,NAKD,55.0,black,M,corto
+504,vestido corto negro con cuello de pico pronunciado de encaje de na-kd,NAKD,55.0,black,M,corto
+505,vestido corto negro con cuello de pico pronunciado de encaje de na-kd,NAKD,55.0,black,L,corto
+506,vestido corto negro con cuello de pico pronunciado de encaje de na-kd,NAKD,55.0,black,L,corto
+507,vestido largo rosa estructurado con volantes de chifón de na-kd,NAKD,87.0,pink,XS,largo
+508,vestido largo rosa estructurado con volantes de chifón de na-kd,NAKD,87.0,pink,S,largo
+509,vestido largo rosa estructurado con volantes de chifón de na-kd,NAKD,87.0,pink,S,largo
+510,vestido largo rosa estructurado con volantes de chifón de na-kd,NAKD,87.0,pink,M,largo
+511,vestido largo rosa estructurado con volantes de chifón de na-kd,NAKD,87.0,pink,M,largo
+512,vestido largo rosa estructurado con volantes de chifón de na-kd,NAKD,87.0,pink,L,largo
+513,vestido largo rosa estructurado con volantes de chifón de na-kd,NAKD,87.0,pink,L,largo
+514,vestido corto rosa con detalle de flor de chifón de na-kd,NAKD,51.0,pink,XS,corto
+515,vestido corto rosa con detalle de flor de chifón de na-kd,NAKD,51.0,pink,S,corto
+516,vestido corto rosa con detalle de flor de chifón de na-kd,NAKD,51.0,pink,S,corto
+517,vestido corto rosa con detalle de flor de chifón de na-kd,NAKD,51.0,pink,M,corto
+518,vestido corto rosa con detalle de flor de chifón de na-kd,NAKD,51.0,pink,M,corto
+519,vestido corto rosa con detalle de flor de chifón de na-kd,NAKD,51.0,pink,L,corto
+520,vestido corto rosa con detalle de flor de chifón de na-kd,NAKD,51.0,pink,L,corto
+521,vestido de tirantes con estampado floral y detalle de aberturas de satén de love triangle ,LoveTriangle,87.0,multi,XXS,
+522,vestido de tirantes con estampado floral y detalle de aberturas de satén de love triangle ,LoveTriangle,87.0,multi,XS,
+523,vestido de tirantes con estampado floral y detalle de aberturas de satén de love triangle ,LoveTriangle,87.0,multi,S,
+524,vestido de tirantes con estampado floral y detalle de aberturas de satén de love triangle ,LoveTriangle,87.0,multi,S,
+525,vestido de tirantes con estampado floral y detalle de aberturas de satén de love triangle ,LoveTriangle,87.0,multi,M,
+526,vestido de tirantes con estampado floral y detalle de aberturas de satén de love triangle ,LoveTriangle,87.0,multi,M,
+527,vestido largo azul escotado con detalle floral de satén de love triangle,LoveTriangle,96.0,blue,XXS,largo
+528,vestido largo azul escotado con detalle floral de satén de love triangle,LoveTriangle,96.0,blue,XS,largo
+529,vestido largo azul escotado con detalle floral de satén de love triangle,LoveTriangle,96.0,blue,S,largo
+530,vestido largo azul escotado con detalle floral de satén de love triangle,LoveTriangle,96.0,blue,S,largo
+531,vestido largo azul escotado con detalle floral de satén de love triangle,LoveTriangle,96.0,blue,M,largo
+532,vestido largo azul escotado con detalle floral de satén de love triangle,LoveTriangle,96.0,blue,M,largo
+533,vestido corto color albaricoque con escote en forma de corazón de encaje de love triangle,LoveTriangle,104.0,apricot,XXS,corto
+534,vestido corto color albaricoque con escote en forma de corazón de encaje de love triangle,LoveTriangle,104.0,apricot,XS,corto
+535,vestido corto color albaricoque con escote en forma de corazón de encaje de love triangle,LoveTriangle,104.0,apricot,S,corto
+536,vestido corto color albaricoque con escote en forma de corazón de encaje de love triangle,LoveTriangle,104.0,apricot,S,corto
+537,vestido corto color albaricoque con escote en forma de corazón de encaje de love triangle,LoveTriangle,104.0,apricot,M,corto
+538,vestido corto color albaricoque con escote en forma de corazón de encaje de love triangle,LoveTriangle,104.0,apricot,M,corto
+539,vestido corto negro de encaje con detalle de lazo rosa de love triangle,LoveTriangle,77.0,black,XXS,corto
+540,vestido corto negro de encaje con detalle de lazo rosa de love triangle,LoveTriangle,77.0,black,XS,corto
+541,vestido corto negro de encaje con detalle de lazo rosa de love triangle,LoveTriangle,77.0,black,S,corto
+542,vestido corto negro de encaje con detalle de lazo rosa de love triangle,LoveTriangle,77.0,black,S,corto
+543,vestido corto negro de encaje con detalle de lazo rosa de love triangle,LoveTriangle,77.0,black,M,corto
+544,vestido corto negro de encaje con detalle de lazo rosa de love triangle,LoveTriangle,77.0,black,M,corto
+545,vestido corto negro y color crema envejecido con detalle de corsé en contraste de love triangle,LoveTriangle,94.5,black,XXS,corto
+546,vestido corto negro y color crema envejecido con detalle de corsé en contraste de love triangle,LoveTriangle,94.5,black,XS,corto
+547,vestido corto negro y color crema envejecido con detalle de corsé en contraste de love triangle,LoveTriangle,94.5,black,S,corto
+548,vestido corto negro y color crema envejecido con detalle de corsé en contraste de love triangle,LoveTriangle,94.5,black,S,corto
+549,vestido corto negro y color crema envejecido con detalle de corsé en contraste de love triangle,LoveTriangle,94.5,black,M,corto
+550,vestido corto negro y color crema envejecido con detalle de corsé en contraste de love triangle,LoveTriangle,94.5,black,M,corto
+551,vestido midi azul marino con detalle estilo corsé de satén de love triangle,LoveTriangle,91.0,navy,XXS,midi
+552,vestido midi azul marino con detalle estilo corsé de satén de love triangle,LoveTriangle,91.0,navy,XS,midi
+553,vestido midi azul marino con detalle estilo corsé de satén de love triangle,LoveTriangle,91.0,navy,S,midi
+554,vestido midi azul marino con detalle estilo corsé de satén de love triangle,LoveTriangle,91.0,navy,S,midi
+555,vestido midi azul marino con detalle estilo corsé de satén de love triangle,LoveTriangle,91.0,navy,M,midi
+556,vestido midi azul marino con detalle estilo corsé de satén de love triangle,LoveTriangle,91.0,navy,M,midi
+557,vestido corto rojo guinda con detalle floral y espalda escotada de jacquard satinado de love triangle,LoveTriangle,67.5,cherry red,XXS,corto
+558,vestido corto rojo guinda con detalle floral y espalda escotada de jacquard satinado de love triangle,LoveTriangle,67.5,cherry red,XS,corto
+559,vestido corto rojo guinda con detalle floral y espalda escotada de jacquard satinado de love triangle,LoveTriangle,67.5,cherry red,S,corto
+560,vestido corto rojo guinda con detalle floral y espalda escotada de jacquard satinado de love triangle,LoveTriangle,67.5,cherry red,S,corto
+561,vestido corto rojo guinda con detalle floral y espalda escotada de jacquard satinado de love triangle,LoveTriangle,67.5,cherry red,M,corto
+562,vestido corto rojo guinda con detalle floral y espalda escotada de jacquard satinado de love triangle,LoveTriangle,67.5,cherry red,M,corto
+563,vestido lencero semilargo negro de corte al bies con lazada trasera de satén de love triangle ,LoveTriangle,58.5,black,XXS,largo
+564,vestido lencero semilargo negro de corte al bies con lazada trasera de satén de love triangle ,LoveTriangle,58.5,black,XS,largo
+565,vestido lencero semilargo negro de corte al bies con lazada trasera de satén de love triangle ,LoveTriangle,58.5,black,S,largo
+566,vestido lencero semilargo negro de corte al bies con lazada trasera de satén de love triangle ,LoveTriangle,58.5,black,S,largo
+567,vestido lencero semilargo negro de corte al bies con lazada trasera de satén de love triangle ,LoveTriangle,58.5,black,M,largo
+568,vestido lencero semilargo negro de corte al bies con lazada trasera de satén de love triangle ,LoveTriangle,58.5,black,M,largo
+569,vestido midi negro con lazada en la espalda de encaje de love triangle ,LoveTriangle,91.5,black,XXS,midi
+570,vestido midi negro con lazada en la espalda de encaje de love triangle ,LoveTriangle,91.5,black,XS,midi
+571,vestido midi negro con lazada en la espalda de encaje de love triangle ,LoveTriangle,91.5,black,S,midi
+572,vestido midi negro con lazada en la espalda de encaje de love triangle ,LoveTriangle,91.5,black,S,midi
+573,vestido midi negro con lazada en la espalda de encaje de love triangle ,LoveTriangle,91.5,black,M,midi
+574,vestido midi negro con lazada en la espalda de encaje de love triangle ,LoveTriangle,91.5,black,M,midi
+575,vestido de graduación corto color ciruela de corte skater con diseño floral tridimensional y lazada en la espalda de love triangle,LoveTriangle,111.5,midnight plum,XXS,corto
+576,vestido de graduación corto color ciruela de corte skater con diseño floral tridimensional y lazada en la espalda de love triangle,LoveTriangle,111.5,midnight plum,XS,corto
+577,vestido de graduación corto color ciruela de corte skater con diseño floral tridimensional y lazada en la espalda de love triangle,LoveTriangle,111.5,midnight plum,S,corto
+578,vestido de graduación corto color ciruela de corte skater con diseño floral tridimensional y lazada en la espalda de love triangle,LoveTriangle,111.5,midnight plum,S,corto
+579,vestido de graduación corto color ciruela de corte skater con diseño floral tridimensional y lazada en la espalda de love triangle,LoveTriangle,111.5,midnight plum,M,corto
+580,vestido de graduación corto color ciruela de corte skater con diseño floral tridimensional y lazada en la espalda de love triangle,LoveTriangle,111.5,midnight plum,M,corto
+581,vestido semilargo marrón con estampado de lunares y ribete de encaje de love triangle,LoveTriangle,104.0,brown multi,XXS,largo
+582,vestido semilargo marrón con estampado de lunares y ribete de encaje de love triangle,LoveTriangle,104.0,brown multi,XS,largo
+583,vestido semilargo marrón con estampado de lunares y ribete de encaje de love triangle,LoveTriangle,104.0,brown multi,S,largo
+584,vestido semilargo marrón con estampado de lunares y ribete de encaje de love triangle,LoveTriangle,104.0,brown multi,S,largo
+585,vestido semilargo marrón con estampado de lunares y ribete de encaje de love triangle,LoveTriangle,104.0,brown multi,M,largo
+586,vestido semilargo marrón con estampado de lunares y ribete de encaje de love triangle,LoveTriangle,104.0,brown multi,M,largo
+587,vestido corto color merlot con detalle de flor de chifón de love triangle,LoveTriangle,84.0,merlot,XXS,corto
+588,vestido corto color merlot con detalle de flor de chifón de love triangle,LoveTriangle,84.0,merlot,XS,corto
+589,vestido corto color merlot con detalle de flor de chifón de love triangle,LoveTriangle,84.0,merlot,S,corto
+590,vestido corto color merlot con detalle de flor de chifón de love triangle,LoveTriangle,84.0,merlot,S,corto
+591,vestido corto color merlot con detalle de flor de chifón de love triangle,LoveTriangle,84.0,merlot,M,corto
+592,vestido corto color merlot con detalle de flor de chifón de love triangle,LoveTriangle,84.0,merlot,M,corto
+593,vestido largo color ciruela intenso con detalle floral de chifón de love triangle,LoveTriangle,90.5,deep plum,XXS,largo
+594,vestido largo color ciruela intenso con detalle floral de chifón de love triangle,LoveTriangle,90.5,deep plum,XS,largo
+595,vestido largo color ciruela intenso con detalle floral de chifón de love triangle,LoveTriangle,90.5,deep plum,S,largo
+596,vestido largo color ciruela intenso con detalle floral de chifón de love triangle,LoveTriangle,90.5,deep plum,S,largo
+597,vestido largo color ciruela intenso con detalle floral de chifón de love triangle,LoveTriangle,90.5,deep plum,M,largo
+598,vestido largo color ciruela intenso con detalle floral de chifón de love triangle,LoveTriangle,90.5,deep plum,M,largo
+599,vestido corto negro con escote en forma de corazón de encaje de love triangle ,LoveTriangle,104.0,black,XXS,corto
+600,vestido corto negro con escote en forma de corazón de encaje de love triangle ,LoveTriangle,104.0,black,XS,corto
+601,vestido corto negro con escote en forma de corazón de encaje de love triangle ,LoveTriangle,104.0,black,S,corto
+602,vestido corto negro con escote en forma de corazón de encaje de love triangle ,LoveTriangle,104.0,black,S,corto
+603,vestido corto negro con escote en forma de corazón de encaje de love triangle ,LoveTriangle,104.0,black,M,corto
+604,vestido corto negro con escote en forma de corazón de encaje de love triangle ,LoveTriangle,104.0,black,M,corto
+605,vestido corto rojo con lazo en la espalda de encaje de love triangle,LoveTriangle,88.0,red,XXS,corto
+606,vestido corto rojo con lazo en la espalda de encaje de love triangle,LoveTriangle,88.0,red,XS,corto
+607,vestido corto rojo con lazo en la espalda de encaje de love triangle,LoveTriangle,88.0,red,S,corto
+608,vestido corto rojo con lazo en la espalda de encaje de love triangle,LoveTriangle,88.0,red,S,corto
+609,vestido corto rojo con lazo en la espalda de encaje de love triangle,LoveTriangle,88.0,red,M,corto
+610,vestido corto rojo con lazo en la espalda de encaje de love triangle,LoveTriangle,88.0,red,M,corto
+611,vestido largo negro de encaje transparente de love triangle,LoveTriangle,98.0,black,XXS,largo
+612,vestido largo negro de encaje transparente de love triangle,LoveTriangle,98.0,black,XS,largo
+613,vestido largo negro de encaje transparente de love triangle,LoveTriangle,98.0,black,S,largo
+614,vestido largo negro de encaje transparente de love triangle,LoveTriangle,98.0,black,S,largo
+615,vestido largo negro de encaje transparente de love triangle,LoveTriangle,98.0,black,M,largo
+616,vestido largo negro de encaje transparente de love triangle,LoveTriangle,98.0,black,M,largo
+617,vestido largo verde esmeralda escotado con detalle floral de satén de love triangle ,LoveTriangle,70.0,emerald green,XXS,largo
+618,vestido largo verde esmeralda escotado con detalle floral de satén de love triangle ,LoveTriangle,70.0,emerald green,XS,largo
+619,vestido largo verde esmeralda escotado con detalle floral de satén de love triangle ,LoveTriangle,70.0,emerald green,S,largo
+620,vestido largo verde esmeralda escotado con detalle floral de satén de love triangle ,LoveTriangle,70.0,emerald green,S,largo
+621,vestido largo verde esmeralda escotado con detalle floral de satén de love triangle ,LoveTriangle,70.0,emerald green,M,largo
+622,vestido largo verde esmeralda escotado con detalle floral de satén de love triangle ,LoveTriangle,70.0,emerald green,M,largo
+623,vestido largo color óxido asimétrico de jaded rose ,JadedRose,85.0,rust,XXS,largo
+624,vestido largo color óxido asimétrico de jaded rose ,JadedRose,85.0,rust,XS,largo
+625,vestido largo color óxido asimétrico de jaded rose ,JadedRose,85.0,rust,S,largo
+626,vestido largo color óxido asimétrico de jaded rose ,JadedRose,85.0,rust,S,largo
+627,vestido largo color óxido asimétrico de jaded rose ,JadedRose,85.0,rust,M,largo
+628,vestido largo color óxido asimétrico de jaded rose ,JadedRose,85.0,rust,M,largo
+629,vestido largo verde de tirantes con estampado floral y espalda al aire de jaded rose,JadedRose,85.0,olive,XXS,largo
+630,vestido largo verde de tirantes con estampado floral y espalda al aire de jaded rose,JadedRose,85.0,olive,XS,largo
+631,vestido largo verde de tirantes con estampado floral y espalda al aire de jaded rose,JadedRose,85.0,olive,S,largo
+632,vestido largo verde de tirantes con estampado floral y espalda al aire de jaded rose,JadedRose,85.0,olive,S,largo
+633,vestido largo verde de tirantes con estampado floral y espalda al aire de jaded rose,JadedRose,85.0,olive,M,largo
+634,vestido largo verde de tirantes con estampado floral y espalda al aire de jaded rose,JadedRose,85.0,olive,M,largo
+635,vestido largo verde asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,green,XXS,largo
+636,vestido largo verde asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,green,XS,largo
+637,vestido largo verde asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,green,S,largo
+638,vestido largo verde asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,green,S,largo
+639,vestido largo verde asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,green,M,largo
+640,vestido largo verde asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,green,M,largo
+641,vestido midi rosa intenso con detalle de corsé de satén jaded rose,JadedRose,78.0,rust,XXS,midi
+642,vestido midi rosa intenso con detalle de corsé de satén jaded rose,JadedRose,78.0,rust,XS,midi
+643,vestido midi rosa intenso con detalle de corsé de satén jaded rose,JadedRose,78.0,rust,S,midi
+644,vestido midi rosa intenso con detalle de corsé de satén jaded rose,JadedRose,78.0,rust,S,midi
+645,vestido midi rosa intenso con detalle de corsé de satén jaded rose,JadedRose,78.0,rust,M,midi
+646,vestido midi rosa intenso con detalle de corsé de satén jaded rose,JadedRose,78.0,rust,M,midi
+647,vestido azul con escote bardot y detalle de volantes de jaded rose,JadedRose,85.0,teal,XXS,
+648,vestido azul con escote bardot y detalle de volantes de jaded rose,JadedRose,85.0,teal,XS,
+649,vestido azul con escote bardot y detalle de volantes de jaded rose,JadedRose,85.0,teal,S,
+650,vestido azul con escote bardot y detalle de volantes de jaded rose,JadedRose,85.0,teal,S,
+651,vestido azul con escote bardot y detalle de volantes de jaded rose,JadedRose,85.0,teal,M,
+652,vestido azul con escote bardot y detalle de volantes de jaded rose,JadedRose,85.0,teal,M,
+653,vestido largo rosa pétalo asimétrico con detalle en la espalda de satén de jaded rose,JadedRose,85.0,rose pink,XXS,largo
+654,vestido largo rosa pétalo asimétrico con detalle en la espalda de satén de jaded rose,JadedRose,85.0,rose pink,XS,largo
+655,vestido largo rosa pétalo asimétrico con detalle en la espalda de satén de jaded rose,JadedRose,85.0,rose pink,S,largo
+656,vestido largo rosa pétalo asimétrico con detalle en la espalda de satén de jaded rose,JadedRose,85.0,rose pink,S,largo
+657,vestido largo rosa pétalo asimétrico con detalle en la espalda de satén de jaded rose,JadedRose,85.0,rose pink,M,largo
+658,vestido largo rosa pétalo asimétrico con detalle en la espalda de satén de jaded rose,JadedRose,85.0,rose pink,M,largo
+659,vestido semilargo naranja cruzado con estampado y espalda al aire de satén de jaded rose,JadedRose,90.5,orange print,XXS,largo
+660,vestido semilargo naranja cruzado con estampado y espalda al aire de satén de jaded rose,JadedRose,90.5,orange print,XS,largo
+661,vestido semilargo naranja cruzado con estampado y espalda al aire de satén de jaded rose,JadedRose,90.5,orange print,S,largo
+662,vestido semilargo naranja cruzado con estampado y espalda al aire de satén de jaded rose,JadedRose,90.5,orange print,S,largo
+663,vestido semilargo naranja cruzado con estampado y espalda al aire de satén de jaded rose,JadedRose,90.5,orange print,M,largo
+664,vestido semilargo naranja cruzado con estampado y espalda al aire de satén de jaded rose,JadedRose,90.5,orange print,M,largo
+665, vestido midi fruncido con diseño degradado de malla de jaded rose,JadedRose,85.0,multi,XXS,midi
+666, vestido midi fruncido con diseño degradado de malla de jaded rose,JadedRose,85.0,multi,XS,midi
+667, vestido midi fruncido con diseño degradado de malla de jaded rose,JadedRose,85.0,multi,S,midi
+668, vestido midi fruncido con diseño degradado de malla de jaded rose,JadedRose,85.0,multi,S,midi
+669, vestido midi fruncido con diseño degradado de malla de jaded rose,JadedRose,85.0,multi,M,midi
+670, vestido midi fruncido con diseño degradado de malla de jaded rose,JadedRose,85.0,multi,M,midi
+671,vestido semilargo azul estampado con diseño drapeado de satén elástico de jaded rose,JadedRose,94.5,blue print,XXS,largo
+672,vestido semilargo azul estampado con diseño drapeado de satén elástico de jaded rose,JadedRose,94.5,blue print,XS,largo
+673,vestido semilargo azul estampado con diseño drapeado de satén elástico de jaded rose,JadedRose,94.5,blue print,S,largo
+674,vestido semilargo azul estampado con diseño drapeado de satén elástico de jaded rose,JadedRose,94.5,blue print,S,largo
+675,vestido semilargo azul estampado con diseño drapeado de satén elástico de jaded rose,JadedRose,94.5,blue print,M,largo
+676,vestido semilargo azul estampado con diseño drapeado de satén elástico de jaded rose,JadedRose,94.5,blue print,M,largo
+677,vestido largo blanco ostra asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,ecru,XXS,largo
+678,vestido largo blanco ostra asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,ecru,XS,largo
+679,vestido largo blanco ostra asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,ecru,S,largo
+680,vestido largo blanco ostra asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,ecru,S,largo
+681,vestido largo blanco ostra asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,ecru,M,largo
+682,vestido largo blanco ostra asimétrico y fruncido de satén de jaded rose,JadedRose,88.5,ecru,M,largo
+683,vestido corto blanco marfil asimétrico con ballenas de satén de jaded rose,JadedRose,72.0,ivory,XXS,corto
+684,vestido corto blanco marfil asimétrico con ballenas de satén de jaded rose,JadedRose,72.0,ivory,XS,corto
+685,vestido corto blanco marfil asimétrico con ballenas de satén de jaded rose,JadedRose,72.0,ivory,S,corto
+686,vestido corto blanco marfil asimétrico con ballenas de satén de jaded rose,JadedRose,72.0,ivory,S,corto
+687,vestido corto blanco marfil asimétrico con ballenas de satén de jaded rose,JadedRose,72.0,ivory,M,corto
+688,vestido corto blanco marfil asimétrico con ballenas de satén de jaded rose,JadedRose,72.0,ivory,M,corto
+689,vestido semilargo azul medianoche fruncido con espalda al aire de jaded rose,JadedRose,59.0,midnight blue,XXS,largo
+690,vestido semilargo azul medianoche fruncido con espalda al aire de jaded rose,JadedRose,59.0,midnight blue,XS,largo
+691,vestido semilargo azul medianoche fruncido con espalda al aire de jaded rose,JadedRose,59.0,midnight blue,S,largo
+692,vestido semilargo azul medianoche fruncido con espalda al aire de jaded rose,JadedRose,59.0,midnight blue,S,largo
+693,vestido semilargo azul medianoche fruncido con espalda al aire de jaded rose,JadedRose,59.0,midnight blue,M,largo
+694,vestido semilargo azul medianoche fruncido con espalda al aire de jaded rose,JadedRose,59.0,midnight blue,M,largo
+695,vestido largo color coral plisado de jaded rose,JadedRose,104.0,coral,XXS,largo
+696,vestido largo color coral plisado de jaded rose,JadedRose,104.0,coral,XS,largo
+697,vestido largo color coral plisado de jaded rose,JadedRose,104.0,coral,S,largo
+698,vestido largo color coral plisado de jaded rose,JadedRose,104.0,coral,S,largo
+699,vestido largo color coral plisado de jaded rose,JadedRose,104.0,coral,M,largo
+700,vestido largo color coral plisado de jaded rose,JadedRose,104.0,coral,M,largo
+701,vestido midi rosa rubor cruzado de satén de jaded rose,JadedRose,85.0,light blushrose,XXS,midi
+702,vestido midi rosa rubor cruzado de satén de jaded rose,JadedRose,85.0,light blushrose,XS,midi
+703,vestido midi rosa rubor cruzado de satén de jaded rose,JadedRose,85.0,light blushrose,S,midi
+704,vestido midi rosa rubor cruzado de satén de jaded rose,JadedRose,85.0,light blushrose,S,midi
+705,vestido midi rosa rubor cruzado de satén de jaded rose,JadedRose,85.0,light blushrose,M,midi
+706,vestido midi rosa rubor cruzado de satén de jaded rose,JadedRose,85.0,light blushrose,M,midi
+707,vestido midi con estampado de leopardo y detalle anudado en la parte delantera de malla de jaded rose,JadedRose,72.0,leopard,XXS,midi
+708,vestido midi con estampado de leopardo y detalle anudado en la parte delantera de malla de jaded rose,JadedRose,72.0,leopard,XS,midi
+709,vestido midi con estampado de leopardo y detalle anudado en la parte delantera de malla de jaded rose,JadedRose,72.0,leopard,S,midi
+710,vestido midi con estampado de leopardo y detalle anudado en la parte delantera de malla de jaded rose,JadedRose,72.0,leopard,S,midi
+711,vestido midi con estampado de leopardo y detalle anudado en la parte delantera de malla de jaded rose,JadedRose,72.0,leopard,M,midi
+712,vestido midi con estampado de leopardo y detalle anudado en la parte delantera de malla de jaded rose,JadedRose,72.0,leopard,M,midi
+713,vestido semilargo de manga larga con estampado de leopardo y detalle fruncido de jaded rose,JadedRose,101.0,leopard,XXS,largo
+714,vestido semilargo de manga larga con estampado de leopardo y detalle fruncido de jaded rose,JadedRose,101.0,leopard,XS,largo
+715,vestido semilargo de manga larga con estampado de leopardo y detalle fruncido de jaded rose,JadedRose,101.0,leopard,S,largo
+716,vestido semilargo de manga larga con estampado de leopardo y detalle fruncido de jaded rose,JadedRose,101.0,leopard,S,largo
+717,vestido semilargo de manga larga con estampado de leopardo y detalle fruncido de jaded rose,JadedRose,101.0,leopard,M,largo
+718,vestido semilargo de manga larga con estampado de leopardo y detalle fruncido de jaded rose,JadedRose,101.0,leopard,M,largo
+719,vestido largo con espalda al aire y estampado de leopardo de satén de jaded rose,JadedRose,85.0,leopard,XXS,largo
+720,vestido largo con espalda al aire y estampado de leopardo de satén de jaded rose,JadedRose,85.0,leopard,XS,largo
+721,vestido largo con espalda al aire y estampado de leopardo de satén de jaded rose,JadedRose,85.0,leopard,S,largo
+722,vestido largo con espalda al aire y estampado de leopardo de satén de jaded rose,JadedRose,85.0,leopard,S,largo
+723,vestido largo con espalda al aire y estampado de leopardo de satén de jaded rose,JadedRose,85.0,leopard,M,largo
+724,vestido largo con espalda al aire y estampado de leopardo de satén de jaded rose,JadedRose,85.0,leopard,M,largo
+725,vestido midi marrón con estampado de leopardo y cuerpo estilo corsé de jaded rose,JadedRose,113.0,brown leopard,XXS,midi
+726,vestido midi marrón con estampado de leopardo y cuerpo estilo corsé de jaded rose,JadedRose,113.0,brown leopard,XS,midi
+727,vestido midi marrón con estampado de leopardo y cuerpo estilo corsé de jaded rose,JadedRose,113.0,brown leopard,S,midi
+728,vestido midi marrón con estampado de leopardo y cuerpo estilo corsé de jaded rose,JadedRose,113.0,brown leopard,S,midi
+729,vestido midi marrón con estampado de leopardo y cuerpo estilo corsé de jaded rose,JadedRose,113.0,brown leopard,M,midi
+730,vestido midi marrón con estampado de leopardo y cuerpo estilo corsé de jaded rose,JadedRose,113.0,brown leopard,M,midi
+731,vestido corto con estampado de leopardo y lazo en contraste de jaded rose,JadedRose,96.0,leopard,XXS,corto
+732,vestido corto con estampado de leopardo y lazo en contraste de jaded rose,JadedRose,96.0,leopard,XS,corto
+733,vestido corto con estampado de leopardo y lazo en contraste de jaded rose,JadedRose,96.0,leopard,S,corto
+734,vestido corto con estampado de leopardo y lazo en contraste de jaded rose,JadedRose,96.0,leopard,S,corto
+735,vestido corto con estampado de leopardo y lazo en contraste de jaded rose,JadedRose,96.0,leopard,M,corto
+736,vestido corto con estampado de leopardo y lazo en contraste de jaded rose,JadedRose,96.0,leopard,M,corto
+737,vestido largo dorado de manga larga de lentejuelas de jaded rose,JadedRose,148.0,gold,XXS,largo
+738,vestido largo dorado de manga larga de lentejuelas de jaded rose,JadedRose,148.0,gold,XS,largo
+739,vestido largo dorado de manga larga de lentejuelas de jaded rose,JadedRose,148.0,gold,S,largo
+740,vestido largo dorado de manga larga de lentejuelas de jaded rose,JadedRose,148.0,gold,S,largo
+741,vestido largo dorado de manga larga de lentejuelas de jaded rose,JadedRose,148.0,gold,M,largo
+742,vestido largo dorado de manga larga de lentejuelas de jaded rose,JadedRose,148.0,gold,M,largo
+743,vestido corto azul marino medianoche con diseño minimalista asimétrico de terciopelo de jaded rose,JadedRose,103.0,midnight navy,XXS,corto
+744,vestido corto azul marino medianoche con diseño minimalista asimétrico de terciopelo de jaded rose,JadedRose,103.0,midnight navy,XS,corto
+745,vestido corto azul marino medianoche con diseño minimalista asimétrico de terciopelo de jaded rose,JadedRose,103.0,midnight navy,S,corto
+746,vestido corto azul marino medianoche con diseño minimalista asimétrico de terciopelo de jaded rose,JadedRose,103.0,midnight navy,S,corto
+747,vestido corto azul marino medianoche con diseño minimalista asimétrico de terciopelo de jaded rose,JadedRose,103.0,midnight navy,M,corto
+748,vestido corto azul marino medianoche con diseño minimalista asimétrico de terciopelo de jaded rose,JadedRose,103.0,midnight navy,M,corto
+749,vestido corto estilo corsé con diseño estructurado y estampado de leopardo de satén de jaded rose,JadedRose,96.0,leopard,XXS,corto
+750,vestido corto estilo corsé con diseño estructurado y estampado de leopardo de satén de jaded rose,JadedRose,96.0,leopard,XS,corto
+751,vestido corto estilo corsé con diseño estructurado y estampado de leopardo de satén de jaded rose,JadedRose,96.0,leopard,S,corto
+752,vestido corto estilo corsé con diseño estructurado y estampado de leopardo de satén de jaded rose,JadedRose,96.0,leopard,S,corto
+753,vestido corto estilo corsé con diseño estructurado y estampado de leopardo de satén de jaded rose,JadedRose,96.0,leopard,M,corto
+754,vestido corto estilo corsé con diseño estructurado y estampado de leopardo de satén de jaded rose,JadedRose,96.0,leopard,M,corto
+755,"vestido largo con tirantes anudados, espalda escotada y estampado de leopardo de jade rose",JadedRose,84.0,leopard,XXS,largo
+756,"vestido largo con tirantes anudados, espalda escotada y estampado de leopardo de jade rose",JadedRose,84.0,leopard,XS,largo
+757,"vestido largo con tirantes anudados, espalda escotada y estampado de leopardo de jade rose",JadedRose,84.0,leopard,S,largo
+758,"vestido largo con tirantes anudados, espalda escotada y estampado de leopardo de jade rose",JadedRose,84.0,leopard,S,largo
+759,"vestido largo con tirantes anudados, espalda escotada y estampado de leopardo de jade rose",JadedRose,84.0,leopard,M,largo
+760,"vestido largo con tirantes anudados, espalda escotada y estampado de leopardo de jade rose",JadedRose,84.0,leopard,M,largo
+761,vestido corto negro con detalle de lazo de tejido texturizado de ghospell,Ghospell,105.0,black,XS,corto
+762,vestido corto negro con detalle de lazo de tejido texturizado de ghospell,Ghospell,105.0,black,S,corto
+763,vestido corto negro con detalle de lazo de tejido texturizado de ghospell,Ghospell,105.0,black,M,corto
+764,vestido corto negro con detalle de lazo de tejido texturizado de ghospell,Ghospell,105.0,black,M,corto
+765,vestido corto negro con detalle de lazo de tejido texturizado de ghospell,Ghospell,105.0,black,L,corto
+766,vestido corto color crema con cuello babero extragrande de ghospell,Ghospell,111.0,cream,XS,corto
+767,vestido corto color crema con cuello babero extragrande de ghospell,Ghospell,111.0,cream,S,corto
+768,vestido corto color crema con cuello babero extragrande de ghospell,Ghospell,111.0,cream,M,corto
+769,vestido corto color crema con cuello babero extragrande de ghospell,Ghospell,111.0,cream,M,corto
+770,vestido corto color crema con cuello babero extragrande de ghospell,Ghospell,111.0,cream,L,corto
+771,vestido corto rosa asimétrico con detalle de lazo de ghospell,Ghospell,151.0,pink,XS,corto
+772,vestido corto rosa asimétrico con detalle de lazo de ghospell,Ghospell,151.0,pink,S,corto
+773,vestido corto rosa asimétrico con detalle de lazo de ghospell,Ghospell,151.0,pink,M,corto
+774,vestido corto rosa asimétrico con detalle de lazo de ghospell,Ghospell,151.0,pink,M,corto
+775,vestido corto rosa asimétrico con detalle de lazo de ghospell,Ghospell,151.0,pink,L,corto
+776,vestido corto marrón chocolate fruncido athena de ghospell,Ghospell,137.0,choc,XS,corto
+777,vestido corto marrón chocolate fruncido athena de ghospell,Ghospell,137.0,choc,S,corto
+778,vestido corto marrón chocolate fruncido athena de ghospell,Ghospell,137.0,choc,M,corto
+779,vestido corto marrón chocolate fruncido athena de ghospell,Ghospell,137.0,choc,M,corto
+780,vestido corto marrón chocolate fruncido athena de ghospell,Ghospell,137.0,choc,L,corto
+781,vestido midi verde manzana asimétrico de tejido texturizado lia de ghospell,Ghospell,116.5,apple green,XS,midi
+782,vestido midi verde manzana asimétrico de tejido texturizado lia de ghospell,Ghospell,116.5,apple green,S,midi
+783,vestido midi verde manzana asimétrico de tejido texturizado lia de ghospell,Ghospell,116.5,apple green,M,midi
+784,vestido midi verde manzana asimétrico de tejido texturizado lia de ghospell,Ghospell,116.5,apple green,M,midi
+785,vestido midi verde manzana asimétrico de tejido texturizado lia de ghospell,Ghospell,116.5,apple green,L,midi
+786,vestido vaquero corto texturizado con lavado oscuro y detalle de lazo de ghospell,Ghospell,130.0,dark denim,XS,corto
+787,vestido vaquero corto texturizado con lavado oscuro y detalle de lazo de ghospell,Ghospell,130.0,dark denim,S,corto
+788,vestido vaquero corto texturizado con lavado oscuro y detalle de lazo de ghospell,Ghospell,130.0,dark denim,M,corto
+789,vestido vaquero corto texturizado con lavado oscuro y detalle de lazo de ghospell,Ghospell,130.0,dark denim,M,corto
+790,vestido vaquero corto texturizado con lavado oscuro y detalle de lazo de ghospell,Ghospell,130.0,dark denim,L,corto
+791,vestido corto monocromático con patrón floral de jacquard greta de ghospell,Ghospell,90.0,mono,XS,corto
+792,vestido corto monocromático con patrón floral de jacquard greta de ghospell,Ghospell,90.0,mono,S,corto
+793,vestido corto monocromático con patrón floral de jacquard greta de ghospell,Ghospell,90.0,mono,M,corto
+794,vestido corto monocromático con patrón floral de jacquard greta de ghospell,Ghospell,90.0,mono,M,corto
+795,vestido corto monocromático con patrón floral de jacquard greta de ghospell,Ghospell,90.0,mono,L,corto
+796,vestido camisero midi marrón con detalle de lazos de ghospell,Ghospell,124.0,brown,XS,midi
+797,vestido camisero midi marrón con detalle de lazos de ghospell,Ghospell,124.0,brown,S,midi
+798,vestido camisero midi marrón con detalle de lazos de ghospell,Ghospell,124.0,brown,M,midi
+799,vestido camisero midi marrón con detalle de lazos de ghospell,Ghospell,124.0,brown,M,midi
+800,vestido camisero midi marrón con detalle de lazos de ghospell,Ghospell,124.0,brown,L,midi
+801,vestido camisero corto monocromático con detalle de lazo de ghospell,Ghospell,97.5,black,XS,corto
+802,vestido camisero corto monocromático con detalle de lazo de ghospell,Ghospell,97.5,black,S,corto
+803,vestido camisero corto monocromático con detalle de lazo de ghospell,Ghospell,97.5,black,M,corto
+804,vestido camisero corto monocromático con detalle de lazo de ghospell,Ghospell,97.5,black,M,corto
+805,vestido camisero corto monocromático con detalle de lazo de ghospell,Ghospell,97.5,black,L,corto
+806,vestido corto con estampado de leopardo y detalle de lazo de tejido texturizado de ghospell,Ghospell,137.0,leopard,XS,corto
+807,vestido corto con estampado de leopardo y detalle de lazo de tejido texturizado de ghospell,Ghospell,137.0,leopard,S,corto
+808,vestido corto con estampado de leopardo y detalle de lazo de tejido texturizado de ghospell,Ghospell,137.0,leopard,M,corto
+809,vestido corto con estampado de leopardo y detalle de lazo de tejido texturizado de ghospell,Ghospell,137.0,leopard,M,corto
+810,vestido corto con estampado de leopardo y detalle de lazo de tejido texturizado de ghospell,Ghospell,137.0,leopard,L,corto
+811,vestido largo azul marino con cuentas en los tirantes de algodón ula de ghospell,Ghospell,116.5,navy,XS,largo
+812,vestido largo azul marino con cuentas en los tirantes de algodón ula de ghospell,Ghospell,116.5,navy,S,largo
+813,vestido largo azul marino con cuentas en los tirantes de algodón ula de ghospell,Ghospell,116.5,navy,M,largo
+814,vestido largo azul marino con cuentas en los tirantes de algodón ula de ghospell,Ghospell,116.5,navy,M,largo
+815,vestido largo azul marino con cuentas en los tirantes de algodón ula de ghospell,Ghospell,116.5,navy,L,largo
+816,vestido midi rojo fruncido con cintura caída kali de ghospell,Ghospell,115.5,red,XS,midi
+817,vestido midi rojo fruncido con cintura caída kali de ghospell,Ghospell,115.5,red,S,midi
+818,vestido midi rojo fruncido con cintura caída kali de ghospell,Ghospell,115.5,red,M,midi
+819,vestido midi rojo fruncido con cintura caída kali de ghospell,Ghospell,115.5,red,M,midi
+820,vestido midi rojo fruncido con cintura caída kali de ghospell,Ghospell,115.5,red,L,midi
+821,vestido corto monocromático cruzado con lazadas en el lateral morgan de ghospell,Ghospell,120.0,mono,XS,corto
+822,vestido corto monocromático cruzado con lazadas en el lateral morgan de ghospell,Ghospell,120.0,mono,S,corto
+823,vestido corto monocromático cruzado con lazadas en el lateral morgan de ghospell,Ghospell,120.0,mono,M,corto
+824,vestido corto monocromático cruzado con lazadas en el lateral morgan de ghospell,Ghospell,120.0,mono,M,corto
+825,vestido corto monocromático cruzado con lazadas en el lateral morgan de ghospell,Ghospell,120.0,mono,L,corto
+826,vestido midi negro escalonado harriet de ghospell,Ghospell,166.0,black,XS,midi
+827,vestido midi negro escalonado harriet de ghospell,Ghospell,166.0,black,S,midi
+828,vestido midi negro escalonado harriet de ghospell,Ghospell,166.0,black,M,midi
+829,vestido midi negro escalonado harriet de ghospell,Ghospell,166.0,black,M,midi
+830,vestido midi negro escalonado harriet de ghospell,Ghospell,166.0,black,L,midi
+831,vestido midi azul cobalto de punto keoni de ghospell,Ghospell,110.0,blue,XS,midi
+832,vestido midi azul cobalto de punto keoni de ghospell,Ghospell,110.0,blue,S,midi
+833,vestido midi azul cobalto de punto keoni de ghospell,Ghospell,110.0,blue,M,midi
+834,vestido midi azul cobalto de punto keoni de ghospell,Ghospell,110.0,blue,M,midi
+835,vestido midi azul cobalto de punto keoni de ghospell,Ghospell,110.0,blue,L,midi
+836,vestido corto monocromático con estampado de cebra zia de ghospell,Ghospell,118.0,zebra,XS,corto
+837,vestido corto monocromático con estampado de cebra zia de ghospell,Ghospell,118.0,zebra,S,corto
+838,vestido corto monocromático con estampado de cebra zia de ghospell,Ghospell,118.0,zebra,M,corto
+839,vestido corto monocromático con estampado de cebra zia de ghospell,Ghospell,118.0,zebra,M,corto
+840,vestido corto monocromático con estampado de cebra zia de ghospell,Ghospell,118.0,zebra,L,corto
+841,vestido corto verde esmeralda de organza ayesha de ghospell,Ghospell,132.0,emerald,XS,corto
+842,vestido corto verde esmeralda de organza ayesha de ghospell,Ghospell,132.0,emerald,S,corto
+843,vestido corto verde esmeralda de organza ayesha de ghospell,Ghospell,132.0,emerald,M,corto
+844,vestido corto verde esmeralda de organza ayesha de ghospell,Ghospell,132.0,emerald,M,corto
+845,vestido corto verde esmeralda de organza ayesha de ghospell,Ghospell,132.0,emerald,L,corto
+846,vestido corto azul denim con cuello extragrande drew de ghospell,Ghospell,128.0,denim,XS,corto
+847,vestido corto azul denim con cuello extragrande drew de ghospell,Ghospell,128.0,denim,S,corto
+848,vestido corto azul denim con cuello extragrande drew de ghospell,Ghospell,128.0,denim,M,corto
+849,vestido corto azul denim con cuello extragrande drew de ghospell,Ghospell,128.0,denim,M,corto
+850,vestido corto azul denim con cuello extragrande drew de ghospell,Ghospell,128.0,denim,L,corto
+851,vestido corto negro con detalle de lazos en el lateral mara de ghospell,Ghospell,100.0,black,XS,corto
+852,vestido corto negro con detalle de lazos en el lateral mara de ghospell,Ghospell,100.0,black,S,corto
+853,vestido corto negro con detalle de lazos en el lateral mara de ghospell,Ghospell,100.0,black,M,corto
+854,vestido corto negro con detalle de lazos en el lateral mara de ghospell,Ghospell,100.0,black,M,corto
+855,vestido corto negro con detalle de lazos en el lateral mara de ghospell,Ghospell,100.0,black,L,corto
+856,vestido corto negro con flecos frankie de ghospell,Ghospell,132.0,black,XS,corto
+857,vestido corto negro con flecos frankie de ghospell,Ghospell,132.0,black,S,corto
+858,vestido corto negro con flecos frankie de ghospell,Ghospell,132.0,black,M,corto
+859,vestido corto negro con flecos frankie de ghospell,Ghospell,132.0,black,M,corto
+860,vestido corto negro con flecos frankie de ghospell,Ghospell,132.0,black,L,corto
+861,vestido corto a cuadros monocromáticos con lazos bobbi de ghospell,Ghospell,124.0,mono,XS,corto
+862,vestido corto a cuadros monocromáticos con lazos bobbi de ghospell,Ghospell,124.0,mono,S,corto
+863,vestido corto a cuadros monocromáticos con lazos bobbi de ghospell,Ghospell,124.0,mono,M,corto
+864,vestido corto a cuadros monocromáticos con lazos bobbi de ghospell,Ghospell,124.0,mono,M,corto
+865,vestido corto a cuadros monocromáticos con lazos bobbi de ghospell,Ghospell,124.0,mono,L,corto
+866,vestido corto negro de jacquard salome de ghospell,Ghospell,118.0,black,XS,corto
+867,vestido corto negro de jacquard salome de ghospell,Ghospell,118.0,black,S,corto
+868,vestido corto negro de jacquard salome de ghospell,Ghospell,118.0,black,M,corto
+869,vestido corto negro de jacquard salome de ghospell,Ghospell,118.0,black,M,corto
+870,vestido corto negro de jacquard salome de ghospell,Ghospell,118.0,black,L,corto
+871,vestido midi negro fruncido de ghospell,Ghospell,113.0,black,XS,midi
+872,vestido midi negro fruncido de ghospell,Ghospell,113.0,black,S,midi
+873,vestido midi negro fruncido de ghospell,Ghospell,113.0,black,M,midi
+874,vestido midi negro fruncido de ghospell,Ghospell,113.0,black,M,midi
+875,vestido midi negro fruncido de ghospell,Ghospell,113.0,black,L,midi
+876,vestido corto azul marino con lazos en contraste de ghospell,Ghospell,127.0,navy,XS,corto
+877,vestido corto azul marino con lazos en contraste de ghospell,Ghospell,127.0,navy,S,corto
+878,vestido corto azul marino con lazos en contraste de ghospell,Ghospell,127.0,navy,M,corto
+879,vestido corto azul marino con lazos en contraste de ghospell,Ghospell,127.0,navy,M,corto
+880,vestido corto azul marino con lazos en contraste de ghospell,Ghospell,127.0,navy,L,corto
+881,vestido corto negro fruncido extragrande de ghospell,Ghospell,136.0,black,XS,corto
+882,vestido corto negro fruncido extragrande de ghospell,Ghospell,136.0,black,S,corto
+883,vestido corto negro fruncido extragrande de ghospell,Ghospell,136.0,black,M,corto
+884,vestido corto negro fruncido extragrande de ghospell,Ghospell,136.0,black,M,corto
+885,vestido corto negro fruncido extragrande de ghospell,Ghospell,136.0,black,L,corto
+886,vestido semilargo verde oliva con flecos de ghospell,Ghospell,150.0,olive,XS,largo
+887,vestido semilargo verde oliva con flecos de ghospell,Ghospell,150.0,olive,S,largo
+888,vestido semilargo verde oliva con flecos de ghospell,Ghospell,150.0,olive,M,largo
+889,vestido semilargo verde oliva con flecos de ghospell,Ghospell,150.0,olive,M,largo
+890,vestido semilargo verde oliva con flecos de ghospell,Ghospell,150.0,olive,L,largo
+891,vestido corto negro con patrón de jacquard y lazos de ghospell,Ghospell,117.0,black,XS,corto
+892,vestido corto negro con patrón de jacquard y lazos de ghospell,Ghospell,117.0,black,S,corto
+893,vestido corto negro con patrón de jacquard y lazos de ghospell,Ghospell,117.0,black,M,corto
+894,vestido corto negro con patrón de jacquard y lazos de ghospell,Ghospell,117.0,black,M,corto
+895,vestido corto negro con patrón de jacquard y lazos de ghospell,Ghospell,117.0,black,L,corto
+896,vestido corto negro con flecos de ghospell,Ghospell,127.0,black,XS,corto
+897,vestido corto negro con flecos de ghospell,Ghospell,127.0,black,S,corto
+898,vestido corto negro con flecos de ghospell,Ghospell,127.0,black,M,corto
+899,vestido corto negro con flecos de ghospell,Ghospell,127.0,black,M,corto
+900,vestido corto negro con flecos de ghospell,Ghospell,127.0,black,L,corto

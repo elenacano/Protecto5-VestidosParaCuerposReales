@@ -1,0 +1,533 @@
+{
+    "status": true,
+    "timestamp": 1730631679240,
+    "data": {
+        "id": 207081440,
+        "name": "Ghospell Kali shirred dropwaist midi dress in red",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>Too good to only wear once</li><li>Shirred-stretch design</li><li>High neck</li><li>Sleeveless style</li><li>Drop waist</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell Kali shirred dropwaist midi dress in red",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-kali-shirred-dropwaist-midi-dress-in-red/prd/207081440"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Kali \u2013 Gesmoktes Midikleid in Rot mit tiefer Taille",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-kali-gesmoktes-midikleid-in-rot-mit-tiefer-taille/prd/207081440"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell Kali shirred dropwaist midi dress in red",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-kali-shirred-dropwaist-midi-dress-in-red/prd/207081440"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Kali - Vestito midi rosso arricciato con vita scesa",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-kali-vestito-midi-rosso-arricciato-con-vita-scesa/prd/207081440"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell Kali shirred drop waist midi dress in red",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-kali-shirred-drop-waist-midi-dress-in-red/prd/207081440"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Kali \u2013 Marszczona czerwona sukienka midi z obni\u017conym stanem",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-kali-marszczona-czerwona-sukienka-midi-z-obnionym-stanem/prd/207081440"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Kali - Robe mi-longue fronc\u00e9e \u00e0 taille basse - Rouge",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-kali-robe-mi-longue-fronce-taille-basse-rouge/prd/207081440"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Kali - R\u00f8d midikjole med rynker og s\u00e6nket talje",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-kali-rd-midikjole-med-rynker-og-snket-talje/prd/207081440"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Kali \u2013 R\u00f6d smockad midikl\u00e4nning med s\u00e4nkt midja",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-kali-rd-smockad-midiklnning-med-snkt-midja/prd/207081440"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi rojo fruncido con cintura ca\u00edda Kali de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-midi-rojo-fruncido-con-cintura-cada-kali-de-ghospell/prd/207081440"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Kali - Midi jurk met verlaagde taille en gesmokt lijfje in rood",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-kali-midi-jurk-met-verlaagde-taille-en-gesmokt-lijfje-in-rood/prd/207081440"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "137514499",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 207081447,
+                "name": "Ghospell Kali shirred dropwaist midi dress in red",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "137514534",
+                "isAvailable": true,
+                "colourWayId": 207081442,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871196157"
+            },
+            {
+                "id": 207081445,
+                "name": "Ghospell Kali shirred dropwaist midi dress in red",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "137514535",
+                "isAvailable": true,
+                "colourWayId": 207081442,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871196164"
+            },
+            {
+                "id": 207081443,
+                "name": "Ghospell Kali shirred dropwaist midi dress in red",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "137514536",
+                "isAvailable": true,
+                "colourWayId": 207081442,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871196171"
+            },
+            {
+                "id": 207081444,
+                "name": "Ghospell Kali shirred dropwaist midi dress in red",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "137514537",
+                "isAvailable": true,
+                "colourWayId": 207081442,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871196188"
+            },
+            {
+                "id": 207081446,
+                "name": "Ghospell Kali shirred dropwaist midi dress in red",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "137514538",
+                "isAvailable": true,
+                "colourWayId": 207081442,
+                "colour": "RED",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871196195"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-1-red",
+                    "type": "Standard1",
+                    "colourWayId": 207081442,
+                    "colour": "RED",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-kali-shirred-dropwaist-midi-dress-in-red/207081440-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207081440-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207081440-catwalk",
+                    "colourWayId": 207081442
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Body: 70% Polyester, 30% Bamboo.",
+            "sizeAndFit": "Model's height: 175.5cm / 5' 9''<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207234016,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207234016&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 16303,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50007,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50482,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 51768,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52079,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875903,
+                "name": "Textured"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

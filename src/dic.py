@@ -1,3 +1,29 @@
+mapo_talla = {
+    'EU 32': 'XS',
+    'EU 34': 'S',
+    'EU 36': 'S',
+    'EU 38': 'M',
+    'EU 40': 'M',
+    'EU 42': 'L',
+    'EU 44': 'L',
+    'EU 46': 'XL',
+    'EU 48': 'XL',
+    'EU 50': 'XXL',
+    'EU 52': 'XXL',
+    'EU 54': '3XL',
+    'XXS': 'XXS',
+    '2XS': 'XXS',
+    '2XL': 'XXL',
+    'US 2' : 'XXS', 
+    'US 4' : 'XS', 
+    'US 6' : 'S', 
+    'US 8' : 'S', 
+    'US 10' : 'M',
+    'US 12': 'M', 
+    'M Plus' : 'M'
+}
+
+
 colores = {
     'SILVER': 'plata',
     'BLACK': 'negro',

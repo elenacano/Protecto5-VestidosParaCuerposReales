@@ -1,0 +1,643 @@
+{
+    "status": true,
+    "timestamp": 1730629634075,
+    "data": {
+        "id": 206291358,
+        "name": "NA-KD deep v neck  lace mini dress in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/na-kd/cat/?cid=28466\"><strong>NA-KD</strong></a><br><ul><li>Coming soon to your IG feed</li><li>V-neck</li><li>Long sleeves</li><li>Bow details</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "NA-KD deep v neck  lace mini dress in black",
+                "pdpUrl": "https://www.asos.com/na-kd/na-kd-deep-v-neck-lace-mini-dress-in-black/prd/206291358"
+            },
+            {
+                "locale": "de-DE",
+                "title": "NA-KD \u2013 Spitzen-Minikleid in Schwarz mit tiefem V-Ausschnitt",
+                "pdpUrl": "https://www.asos.com/de/na-kd/na-kd-spitzen-minikleid-in-schwarz-mit-tiefem-v-ausschnitt/prd/206291358"
+            },
+            {
+                "locale": "en-AU",
+                "title": "NA-KD deep v neck lace mini dress in black",
+                "pdpUrl": "https://www.asos.com/au/na-kd/na-kd-deep-v-neck-lace-mini-dress-in-black/prd/206291358"
+            },
+            {
+                "locale": "it-IT",
+                "title": "NA-KD - Vestito corto in pizzo nero con scollo a V profondo",
+                "pdpUrl": "https://www.asos.com/it/na-kd/na-kd-vestito-corto-in-pizzo-nero-con-scollo-a-v-profondo/prd/206291358"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto negro con cuello de pico pronunciado de encaje de NA-KD",
+                "pdpUrl": "https://www.asos.com/es/na-kd/vestido-corto-negro-con-cuello-de-pico-pronunciado-de-encaje-de-na-kd/prd/206291358"
+            },
+            {
+                "locale": "en-US",
+                "title": "NA-KD deep v neck lace mini dress in black",
+                "pdpUrl": "https://www.asos.com/us/na-kd/na-kd-deep-v-neck-lace-mini-dress-in-black/prd/206291358"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "NA-KD \u2013 Czarna koronkowa sukienka mini z g\u0142\u0119bokim dekoltem w kszta\u0142cie litery V",
+                "pdpUrl": "https://www.asos.com/pl/na-kd/na-kd-czarna-koronkowa-sukienka-mini-z-gebokim-dekoltem-w-ksztacie-litery-v/prd/206291358"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "NA-KD - Kanten mini-jurk met diepe V-hals in zwart",
+                "pdpUrl": "https://www.asos.com/nl/na-kd/na-kd-kanten-mini-jurk-met-diepe-v-hals-in-zwart/prd/206291358"
+            },
+            {
+                "locale": "da-DK",
+                "title": "NA-KD - Sort minikjole med dyb V-hals i blondestof",
+                "pdpUrl": "https://www.asos.com/dk/na-kd/na-kd-sort-minikjole-med-dyb-v-hals-i-blondestof/prd/206291358"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "NA-KD - Robe courte en dentelle \u00e0 d\u00e9collet\u00e9 plongeant en\u00a0V - Noir",
+                "pdpUrl": "https://www.asos.com/fr/na-kd/na-kd-robe-courte-en-dentelle-a-decollete-plongeant-env-noir/prd/206291358"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "NA-KD \u2013 Svart minikl\u00e4nning med djup v-ringning i spets",
+                "pdpUrl": "https://www.asos.com/se/na-kd/na-kd-svart-miniklanning-med-djup-v-ringning-i-spets/prd/206291358"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "134824322",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 15883,
+            "name": "NA-KD",
+            "description": "If classic street style with a touch of tailoring is your thing, then it\u2019s time to get excited because that\u2019s exactly what Swedish brand <a href=\"/women/a-to-z-of-brands/na-kd/cat/?cid=28466\"><strong>NA-KD</strong></a> all about. Pad out your wardrobe with puffer jackets and tailored coats, or stock up on fail-safe pieces like jeans, jumpers and T-shirts. Its statement prints make for standout looks, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/249%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206291373,
+                "name": "NA-KD deep v neck  lace mini dress in black",
+                "sizeId": 408640,
+                "brandSize": "EU 32",
+                "displaySizeText": "EU 32 - US 0",
+                "sizeOrder": 10,
+                "sku": "134824390",
+                "isAvailable": true,
+                "colourWayId": 206291360,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949054260"
+            },
+            {
+                "id": 206291370,
+                "name": "NA-KD deep v neck  lace mini dress in black",
+                "sizeId": 408644,
+                "brandSize": "EU 34",
+                "displaySizeText": "EU 34 - US 2",
+                "sizeOrder": 20,
+                "sku": "134824391",
+                "isAvailable": true,
+                "colourWayId": 206291360,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949054277"
+            },
+            {
+                "id": 206291369,
+                "name": "NA-KD deep v neck  lace mini dress in black",
+                "sizeId": 408643,
+                "brandSize": "EU 36",
+                "displaySizeText": "EU 36 - US 4",
+                "sizeOrder": 30,
+                "sku": "134824392",
+                "isAvailable": true,
+                "colourWayId": 206291360,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949054284"
+            },
+            {
+                "id": 206291372,
+                "name": "NA-KD deep v neck  lace mini dress in black",
+                "sizeId": 409134,
+                "brandSize": "EU 38",
+                "displaySizeText": "EU 38 - US 6",
+                "sizeOrder": 40,
+                "sku": "134824393",
+                "isAvailable": true,
+                "colourWayId": 206291360,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949054291"
+            },
+            {
+                "id": 206291374,
+                "name": "NA-KD deep v neck  lace mini dress in black",
+                "sizeId": 408639,
+                "brandSize": "EU 40",
+                "displaySizeText": "EU 40 - US 8",
+                "sizeOrder": 50,
+                "sku": "134824394",
+                "isAvailable": true,
+                "colourWayId": 206291360,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949054307"
+            },
+            {
+                "id": 206291366,
+                "name": "NA-KD deep v neck  lace mini dress in black",
+                "sizeId": 408642,
+                "brandSize": "EU 42",
+                "displaySizeText": "EU 42 - US 10",
+                "sizeOrder": 60,
+                "sku": "134824395",
+                "isAvailable": true,
+                "colourWayId": 206291360,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949054314"
+            },
+            {
+                "id": 206291371,
+                "name": "NA-KD deep v neck  lace mini dress in black",
+                "sizeId": 409135,
+                "brandSize": "EU 44",
+                "displaySizeText": "EU 44 - US 12",
+                "sizeOrder": 70,
+                "sku": "134824396",
+                "isAvailable": true,
+                "colourWayId": 206291360,
+                "colour": "Black",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949054321"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 206291360,
+                    "colour": "Black",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-deep-v-neck-lace-mini-dress-in-black/206291358-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "206291358-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/206291358-catwalk",
+                    "colourWayId": 206291360
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Lace: delicate, patterned fabric<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 170.5cm/5'7\"<br>Model is wearing: UK 8/ EU 36/ US 4",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 206546302,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=206546302&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 12970,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15623,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15629,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 27391,
+                "type": "Standard"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28250,
+                "type": "Standard"
+            },
+            {
+                "id": 28253,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28464,
+                "type": "Brand"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51134,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51325,
+                "type": "Standard"
+            },
+            {
+                "id": 51327,
+                "type": "Standard"
+            },
+            {
+                "id": 51328,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875888,
+                "name": "Lace"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

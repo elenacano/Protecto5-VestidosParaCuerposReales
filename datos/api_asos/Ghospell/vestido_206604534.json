@@ -1,0 +1,596 @@
+{
+    "status": true,
+    "timestamp": 1730631681103,
+    "data": {
+        "id": 206604534,
+        "name": "Ghospell asymmetric bow detail mini dress in pink",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>We like your style</li><li>Round neck</li><li>Asymmetric bow detail</li><li>Puff sleeves</li><li>Button-keyhole back</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell asymmetric bow detail mini dress in pink",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-asymmetric-bow-detail-mini-dress-in-pink/prd/206604534"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell asymmetric bow detail mini dress in pink",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-asymmetric-bow-detail-mini-dress-in-pink/prd/206604534"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 R\u00f3\u017cowa asymetryczna sukienka mini z kokardkami",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-rozowa-asymetryczna-sukienka-mini-z-kokardkami/prd/206604534"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Asymmetrisk minikjole med sl\u00f8jfedetalje i  lyser\u00f8d",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-asymmetrisk-minikjole-med-sljfedetalje-i-lyserd/prd/206604534"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell asymmetric bow detail mini dress in pink",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-asymmetric-bow-detail-mini-dress-in-pink/prd/206604534"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Mini jurk met asymmetrisch strikdetail in roze",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-mini-jurk-met-asymmetrisch-strikdetail-in-roze/prd/206604534"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto rosa asim\u00e9trico con detalle de lazo de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-corto-rosa-asimetrico-con-detalle-de-lazo-de-ghospell/prd/206604534"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Vestito corto rosa asimmetrico con fiocchi",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-vestito-corto-rosa-asimmetrico-con-fiocchi/prd/206604534"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Rosa, asymmetrisk minikl\u00e4nning med rosettdetaljer",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-rosa-asymmetrisk-miniklanning-med-rosettdetaljer/prd/206604534"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Robe courte asym\u00e9trique avec n\u0153uds - Rose",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-robe-courte-asymetrique-avec-nuds-rose/prd/206604534"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Asymmetrisches Minikleid in Rosa mit Schleifendetail",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-asymmetrisches-minikleid-in-rosa-mit-schleifendetail/prd/206604534"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135706093",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206604536,
+                "name": "Ghospell asymmetric bow detail mini dress in pink",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "135706109",
+                "isAvailable": true,
+                "colourWayId": 206604535,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871170218"
+            },
+            {
+                "id": 206604537,
+                "name": "Ghospell asymmetric bow detail mini dress in pink",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "135706110",
+                "isAvailable": true,
+                "colourWayId": 206604535,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871170225"
+            },
+            {
+                "id": 206604539,
+                "name": "Ghospell asymmetric bow detail mini dress in pink",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "135706111",
+                "isAvailable": true,
+                "colourWayId": 206604535,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871170232"
+            },
+            {
+                "id": 206604538,
+                "name": "Ghospell asymmetric bow detail mini dress in pink",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "135706112",
+                "isAvailable": true,
+                "colourWayId": 206604535,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871170249"
+            },
+            {
+                "id": 206604540,
+                "name": "Ghospell asymmetric bow detail mini dress in pink",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "135706113",
+                "isAvailable": true,
+                "colourWayId": 206604535,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5059871170256"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-1-pink",
+                    "type": "Standard1",
+                    "colourWayId": 206604535,
+                    "colour": "Pink",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-asymmetric-bow-detail-mini-dress-in-pink/206604534-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Plain-woven fabric<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "Model's height: 173.5cm / 5' 8\u00bd''<br>Model is wearing: UK S/ EU S/ US XS",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15622,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 16804,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28251,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51328,
+                "type": "Standard"
+            },
+            {
+                "id": 51487,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

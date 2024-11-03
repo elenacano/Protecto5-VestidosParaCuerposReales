@@ -1,0 +1,569 @@
+{
+    "status": true,
+    "timestamp": 1730631676080,
+    "data": {
+        "id": 207307646,
+        "name": "Ghospell Keoni knitted midi dress in cobalt",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>For your weekend mood board</li><li>High neck</li><li>Sleeveless style</li><li>Button placket to reverse</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell Keoni knitted midi dress in cobalt",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-keoni-knitted-midi-dress-in-cobalt/prd/207307646"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Keoni - Koboltbl\u00e5 midikjole i strik",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-keoni-koboltbla-midikjole-i-strik/prd/207307646"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell Keoni knitted midi dress in cobalt",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-keoni-knitted-midi-dress-in-cobalt/prd/207307646"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Keoni - Koboltbl\u00e5, stickad midikl\u00e4nning",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-keoni-koboltbla-stickad-midiklanning/prd/207307646"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell Keoni knitted midi dress in cobalt",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-keoni-knitted-midi-dress-in-cobalt/prd/207307646"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Keoni \u2013 Midi-Strickkleid in Kobaltblau",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-keoni-midi-strickkleid-in-kobaltblau/prd/207307646"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Keoni - Robe mi-longue en maille - Bleu de cobalt",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-keoni-robe-mi-longue-en-maille-bleu-de-cobalt/prd/207307646"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Keoni \u2013 Kobaltowa dzianinowa sukienka midi",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-keoni-kobaltowa-dzianinowa-sukienka-midi/prd/207307646"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Keoni - Gebreide midi-jurk in kobaltblauw",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-keoni-gebreide-midi-jurk-in-kobaltblauw/prd/207307646"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Keoni - Vestito midi in maglia blu cobalto",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-keoni-vestito-midi-in-maglia-blu-cobalto/prd/207307646"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido midi azul cobalto de punto Keoni de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-midi-azul-cobalto-de-punto-keoni-de-ghospell/prd/207307646"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138840536",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207307649,
+                "name": "Ghospell Keoni knitted midi dress in cobalt",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "138840560",
+                "isAvailable": true,
+                "colourWayId": 207307647,
+                "colour": "BLUE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871205354"
+            },
+            {
+                "id": 207307651,
+                "name": "Ghospell Keoni knitted midi dress in cobalt",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "138840561",
+                "isAvailable": true,
+                "colourWayId": 207307647,
+                "colour": "BLUE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871205361"
+            },
+            {
+                "id": 207307652,
+                "name": "Ghospell Keoni knitted midi dress in cobalt",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "138840562",
+                "isAvailable": true,
+                "colourWayId": 207307647,
+                "colour": "BLUE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871205378"
+            },
+            {
+                "id": 207307648,
+                "name": "Ghospell Keoni knitted midi dress in cobalt",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "138840563",
+                "isAvailable": true,
+                "colourWayId": 207307647,
+                "colour": "BLUE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871205385"
+            },
+            {
+                "id": 207307650,
+                "name": "Ghospell Keoni knitted midi dress in cobalt",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "138840564",
+                "isAvailable": true,
+                "colourWayId": 207307647,
+                "colour": "BLUE",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871205392"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-1-blue",
+                    "type": "Standard1",
+                    "colourWayId": 207307647,
+                    "colour": "BLUE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-keoni-knitted-midi-dress-in-cobalt/207307646-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207307646-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307646-catwalk",
+                    "colourWayId": 207307647
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Fluffy knit<br><br>Lining: 95% Polyester, 5% Elastane, Main: 90% Cotton, 10% Viscose.",
+            "sizeAndFit": "Model's height: 176cm / 5' 9\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207444429,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207444429&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 12899,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15343,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 16303,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 20037,
+                "type": "Standard"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50048,
+                "type": "Standard"
+            },
+            {
+                "id": 50049,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51115,
+                "type": "Standard"
+            },
+            {
+                "id": 51197,
+                "type": "Standard"
+            },
+            {
+                "id": 51217,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 52078,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 16154190,
+                "name": "Knitted"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

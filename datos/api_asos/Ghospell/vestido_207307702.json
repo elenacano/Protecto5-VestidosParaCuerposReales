@@ -1,0 +1,560 @@
+{
+    "status": true,
+    "timestamp": 1730631675427,
+    "data": {
+        "id": 207307702,
+        "name": "Ghospell Mara mini dress with side bow detail in black",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a><br><ul><li>From one occasion to another</li><li>Crew neck</li><li>Short sleeves</li><li>Bow sides</li><li>Zip-back fastening</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Ghospell Mara mini dress with side bow detail in black",
+                "pdpUrl": "https://www.asos.com/ghospell/ghospell-mara-mini-dress-with-side-bow-detail-in-black/prd/207307702"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Ghospell \u2013 Mara - Svart minikl\u00e4nning med rosett p\u00e5 sidan",
+                "pdpUrl": "https://www.asos.com/se/ghospell/ghospell-mara-svart-miniklanning-med-rosett-pa-sidan/prd/207307702"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Ghospell Mara mini dress with side bow detail in black",
+                "pdpUrl": "https://www.asos.com/au/ghospell/ghospell-mara-mini-dress-with-side-bow-detail-in-black/prd/207307702"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Ghospell - Mara - Robe courte avec n\u0153uds sur les c\u00f4t\u00e9s - Noir",
+                "pdpUrl": "https://www.asos.com/fr/ghospell/ghospell-mara-robe-courte-avec-nuds-sur-les-cotes-noir/prd/207307702"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Ghospell \u2013 Mara \u2013 Minikleid in Schwarz mit seitlichem Schleifendetail",
+                "pdpUrl": "https://www.asos.com/de/ghospell/ghospell-mara-minikleid-in-schwarz-mit-seitlichem-schleifendetail/prd/207307702"
+            },
+            {
+                "locale": "en-US",
+                "title": "Ghospell Mara mini dress with side bow detail in black",
+                "pdpUrl": "https://www.asos.com/us/ghospell/ghospell-mara-mini-dress-with-side-bow-detail-in-black/prd/207307702"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Ghospell - Mara - Sort minikjole med sl\u00f8jfedetalje i siden",
+                "pdpUrl": "https://www.asos.com/dk/ghospell/ghospell-mara-sort-minikjole-med-sljfedetalje-i-siden/prd/207307702"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Ghospell \u2013 Mara \u2013 Czarna sukienka mini z ozdobnymi kokardkami po bokach",
+                "pdpUrl": "https://www.asos.com/pl/ghospell/ghospell-mara-czarna-sukienka-mini-z-ozdobnymi-kokardkami-po-bokach/prd/207307702"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Ghospell - Mara - Vestito corto nero con fiocchi sui lati",
+                "pdpUrl": "https://www.asos.com/it/ghospell/ghospell-mara-vestito-corto-nero-con-fiocchi-sui-lati/prd/207307702"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto negro con detalle de lazos en el lateral Mara de Ghospell",
+                "pdpUrl": "https://www.asos.com/es/ghospell/vestido-corto-negro-con-detalle-de-lazos-en-el-lateral-mara-de-ghospell/prd/207307702"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Ghospell - Mara - Mini jurk met strikdetail aan de zijkant in zwart",
+                "pdpUrl": "https://www.asos.com/nl/ghospell/ghospell-mara-mini-jurk-met-strikdetail-aan-de-zijkant-in-zwart/prd/207307702"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "138840544",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 16018,
+            "name": "Ghospell",
+            "description": "When we heard that Sister Jane had a sibling brand, we knew we had to check it out. Enter <a href=\"/women/a-to-z-of-brands/ghospell/cat/?cid=28624\"><strong>Ghospell</strong></a> \u2013 the London-based line that combines relaxed fits with vibrant prints across a range of dresses, skirts and blouses. Our highlights include lace collars, dotted mesh and smock styling."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/4404%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": true,
+        "variants": [
+            {
+                "id": 207307704,
+                "name": "Ghospell Mara mini dress with side bow detail in black",
+                "sizeId": 783027,
+                "brandSize": "XS",
+                "displaySizeText": "XS - US 2",
+                "sizeOrder": 1,
+                "sku": "138840600",
+                "isAvailable": true,
+                "colourWayId": 207307703,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206733"
+            },
+            {
+                "id": 207307705,
+                "name": "Ghospell Mara mini dress with side bow detail in black",
+                "sizeId": 783028,
+                "brandSize": "S",
+                "displaySizeText": "S - US 4",
+                "sizeOrder": 2,
+                "sku": "138840601",
+                "isAvailable": true,
+                "colourWayId": 207307703,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206740"
+            },
+            {
+                "id": 207307707,
+                "name": "Ghospell Mara mini dress with side bow detail in black",
+                "sizeId": 783026,
+                "brandSize": "M",
+                "displaySizeText": "M - US 6",
+                "sizeOrder": 3,
+                "sku": "138840602",
+                "isAvailable": true,
+                "colourWayId": 207307703,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206757"
+            },
+            {
+                "id": 207307708,
+                "name": "Ghospell Mara mini dress with side bow detail in black",
+                "sizeId": 783029,
+                "brandSize": "M Plus",
+                "displaySizeText": "M Plus - US 8",
+                "sizeOrder": 4,
+                "sku": "138840603",
+                "isAvailable": true,
+                "colourWayId": 207307703,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206764"
+            },
+            {
+                "id": 207307706,
+                "name": "Ghospell Mara mini dress with side bow detail in black",
+                "sizeId": 783025,
+                "brandSize": "L",
+                "displaySizeText": "L - US 10",
+                "sizeOrder": 5,
+                "sku": "138840604",
+                "isAvailable": true,
+                "colourWayId": 207307703,
+                "colour": "BLACK",
+                "isPrimary": true,
+                "isProp65Risk": true,
+                "ean": "5059871206771"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-1-black",
+                    "type": "Standard1",
+                    "colourWayId": 207307703,
+                    "colour": "BLACK",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/ghospell-mara-mini-dress-with-side-bow-detail-in-black/207307702-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [
+                {
+                    "assetId": "207307702-catwalk",
+                    "url": "www.asos-video.com/video/upload/q_auto/t_legacy_product_video/207307702-catwalk",
+                    "colourWayId": 207307703
+                }
+            ],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Textured woven fabric<br><br>Main: 100% Polyester, Trim: 100% Cotton.",
+            "sizeAndFit": "Model's height: 176cm / 5' 9\u00bd''<br/>Model is wearing: S - US 4",
+            "careInfo": "Hand wash only"
+        },
+        "associatedGroups": {
+            "looks": [
+                {
+                    "id": 207455245,
+                    "type": "heroLook",
+                    "url": "https://api.asos.com/product/catalogue/v4/productlooks?lookIds=207455245&store=ROW"
+                }
+            ]
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 9419,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 13934,
+                "type": "Standard"
+            },
+            {
+                "id": 14716,
+                "type": "Standard"
+            },
+            {
+                "id": 15343,
+                "type": "Standard"
+            },
+            {
+                "id": 15347,
+                "type": "Standard"
+            },
+            {
+                "id": 15495,
+                "type": "Standard"
+            },
+            {
+                "id": 17242,
+                "type": "Standard"
+            },
+            {
+                "id": 17243,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 25893,
+                "type": "Standard"
+            },
+            {
+                "id": 28623,
+                "type": "Brand"
+            },
+            {
+                "id": 50005,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50454,
+                "type": "Standard"
+            },
+            {
+                "id": 50457,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51017,
+                "type": "Standard"
+            },
+            {
+                "id": 51124,
+                "type": "Standard"
+            },
+            {
+                "id": 51133,
+                "type": "Standard"
+            },
+            {
+                "id": 51197,
+                "type": "Standard"
+            },
+            {
+                "id": 51368,
+                "type": "Standard"
+            },
+            {
+                "id": 51381,
+                "type": "Standard"
+            },
+            {
+                "id": 51385,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51514,
+                "type": "Standard"
+            },
+            {
+                "id": 52111,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}

@@ -1,0 +1,535 @@
+{
+    "status": true,
+    "timestamp": 1730628003561,
+    "data": {
+        "id": 204531936,
+        "name": "Vero Moda textured oversized shirt dress in white",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a><br><ul><li>Daytime chic</li><li>Spread collar</li><li>Button placket</li><li>Drop shoulders</li><li>Oversized fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "Vero Moda textured oversized shirt dress in white",
+                "pdpUrl": "https://www.asos.com/vero-moda/vero-moda-textured-oversized-shirt-dress-in-white/prd/204531936"
+            },
+            {
+                "locale": "de-DE",
+                "title": "Vero Moda \u2013 Texturiertes Oversize-Hemdkleid in Wei\u00df",
+                "pdpUrl": "https://www.asos.com/de/vero-moda/vero-moda-texturiertes-oversize-hemdkleid-in-wei/prd/204531936"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido camisero blanco extragrande de tejido texturizado de Vero Moda",
+                "pdpUrl": "https://www.asos.com/es/vero-moda/vestido-camisero-blanco-extragrande-de-tejido-texturizado-de-vero-moda/prd/204531936"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "Vero Moda - Robe chemise oversize textur\u00e9e - Blanc",
+                "pdpUrl": "https://www.asos.com/fr/vero-moda/vero-moda-robe-chemise-oversize-texturee-blanc/prd/204531936"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "Vero Moda - Oversized overhemdjurk met textuur in wit",
+                "pdpUrl": "https://www.asos.com/nl/vero-moda/vero-moda-oversized-overhemdjurk-met-textuur-in-wit/prd/204531936"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "Vero Moda \u2013 Vit, texturerad skjortkl\u00e4nning i oversize",
+                "pdpUrl": "https://www.asos.com/se/vero-moda/vero-moda-vit-texturerad-skjortklanning-i-oversize/prd/204531936"
+            },
+            {
+                "locale": "it-IT",
+                "title": "Vero Moda - Vestito camicia oversize bianco testurizzato",
+                "pdpUrl": "https://www.asos.com/it/vero-moda/vero-moda-vestito-camicia-oversize-bianco-testurizzato/prd/204531936"
+            },
+            {
+                "locale": "en-US",
+                "title": "Vero Moda textured oversized shirt dress in white",
+                "pdpUrl": "https://www.asos.com/us/vero-moda/vero-moda-textured-oversized-shirt-dress-in-white/prd/204531936"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "Vero Moda \u2013 Bia\u0142a fakturowana sukienka koszulowa oversize",
+                "pdpUrl": "https://www.asos.com/pl/vero-moda/vero-moda-biaa-fakturowana-sukienka-koszulowa-oversize/prd/204531936"
+            },
+            {
+                "locale": "en-AU",
+                "title": "Vero Moda textured oversized shirt dress in white",
+                "pdpUrl": "https://www.asos.com/au/vero-moda/vero-moda-textured-oversized-shirt-dress-in-white/prd/204531936"
+            },
+            {
+                "locale": "da-DK",
+                "title": "Vero Moda - Oversized hvid skjortekjole med tekstur",
+                "pdpUrl": "https://www.asos.com/dk/vero-moda/vero-moda-oversized-hvid-skjortekjole-med-tekstur/prd/204531936"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "127514528",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 3098,
+            "name": "Vero Moda",
+            "description": "Whether you\u2019re after a wardrobe refresh or just a few staples, <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a> serves big outfit energy. Scroll for your new favourite pair of jeans, available in a variety of fits and washes, as well as tailored trousers, shorts and skirts. And it\u2019s not all about the bottom half, with blouses, blazers and dresses on offer in our <a href=\"/women/a-to-z-of-brands/vero-moda/cat/?cid=4715\"><strong>Vero Moda</strong></a> at ASOS edit \u2013 plus, there\u2019s shoes and accessories for extra style points."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/5185%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 204531960,
+                "name": "Vero Moda textured oversized shirt dress in white",
+                "sizeId": 573052,
+                "brandSize": "XXS",
+                "displaySizeText": "XXS - 2XS",
+                "sizeOrder": 1,
+                "sku": "127515131",
+                "isAvailable": true,
+                "colourWayId": 204531954,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715414172568"
+            },
+            {
+                "id": 204531965,
+                "name": "Vero Moda textured oversized shirt dress in white",
+                "sizeId": 387560,
+                "brandSize": "XS",
+                "displaySizeText": "XS",
+                "sizeOrder": 2,
+                "sku": "127515132",
+                "isAvailable": true,
+                "colourWayId": 204531954,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715365902245"
+            },
+            {
+                "id": 204531962,
+                "name": "Vero Moda textured oversized shirt dress in white",
+                "sizeId": 387558,
+                "brandSize": "S",
+                "displaySizeText": "S",
+                "sizeOrder": 3,
+                "sku": "127515133",
+                "isAvailable": true,
+                "colourWayId": 204531954,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715365902252"
+            },
+            {
+                "id": 204531963,
+                "name": "Vero Moda textured oversized shirt dress in white",
+                "sizeId": 387559,
+                "brandSize": "M",
+                "displaySizeText": "M",
+                "sizeOrder": 4,
+                "sku": "127515134",
+                "isAvailable": true,
+                "colourWayId": 204531954,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715319971082"
+            },
+            {
+                "id": 204531959,
+                "name": "Vero Moda textured oversized shirt dress in white",
+                "sizeId": 387557,
+                "brandSize": "L",
+                "displaySizeText": "L",
+                "sizeOrder": 5,
+                "sku": "127515135",
+                "isAvailable": true,
+                "colourWayId": 204531954,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715365902269"
+            },
+            {
+                "id": 204531957,
+                "name": "Vero Moda textured oversized shirt dress in white",
+                "sizeId": 387561,
+                "brandSize": "XL",
+                "displaySizeText": "XL",
+                "sizeOrder": 6,
+                "sku": "127515136",
+                "isAvailable": true,
+                "colourWayId": 204531954,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715365902276"
+            },
+            {
+                "id": 204531964,
+                "name": "Vero Moda textured oversized shirt dress in white",
+                "sizeId": 387562,
+                "brandSize": "2XL",
+                "displaySizeText": "2XL",
+                "sizeOrder": 7,
+                "sku": "127515137",
+                "isAvailable": true,
+                "colourWayId": 204531954,
+                "colour": "WHITE",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "5715365902511"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-oversized-shirt-dress-in-white/204531936-1-white",
+                    "type": "Standard1",
+                    "colourWayId": 204531954,
+                    "colour": "WHITE",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-oversized-shirt-dress-in-white/204531936-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-oversized-shirt-dress-in-white/204531936-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/vero-moda-textured-oversized-shirt-dress-in-white/204531936-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Textured cotton: lightweight, soft and strong<br><br>Main: 100% Cotton.",
+            "sizeAndFit": "Model's height: 170.5cm / 5' 7''<br>Model is wearing: UK S/ EU S/ US XS",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": {
+            "averageOverallRating": 4.3,
+            "averageOverallStarRating": 4.5,
+            "totalReviewCount": 3
+        },
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8834,
+                "type": "Standard"
+            },
+            {
+                "id": 13053,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 19680,
+                "type": "Standard"
+            },
+            {
+                "id": 21275,
+                "type": "Brand"
+            },
+            {
+                "id": 28033,
+                "type": "Standard"
+            },
+            {
+                "id": 50046,
+                "type": "Standard"
+            },
+            {
+                "id": 50047,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50714,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 51087,
+                "type": "Standard"
+            },
+            {
+                "id": 51328,
+                "type": "Standard"
+            },
+            {
+                "id": 51339,
+                "type": "Standard"
+            },
+            {
+                "id": 51346,
+                "type": "Standard"
+            },
+            {
+                "id": 51769,
+                "type": "Standard"
+            },
+            {
+                "id": 52057,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [
+            {
+                "id": 8875903,
+                "name": "Textured"
+            }
+        ],
+        "isDiscontinued": false
+    }
+}

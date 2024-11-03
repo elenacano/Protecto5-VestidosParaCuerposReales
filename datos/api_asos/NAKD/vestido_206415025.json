@@ -1,0 +1,678 @@
+{
+    "status": true,
+    "timestamp": 1730629635276,
+    "data": {
+        "id": 206415025,
+        "name": "NA-KD chiffon flower detail mini dress in pink",
+        "description": "<a href=\"/women/dresses/cat/?cid=8799\"><strong>Dresses</strong></a> by <a href=\"/women/a-to-z-of-brands/na-kd/cat/?cid=28466\"><strong>NA-KD</strong></a><br><ul><li>Occasions made easy</li><li>Halterneck style</li><li>Corsage detail</li><li>Tie-back fastening</li><li>Regular fit</li></ul>",
+        "localisedData": [
+            {
+                "locale": "en-GB",
+                "title": "NA-KD chiffon flower detail mini dress in pink",
+                "pdpUrl": "https://www.asos.com/na-kd/na-kd-chiffon-flower-detail-mini-dress-in-pink/prd/206415025"
+            },
+            {
+                "locale": "en-US",
+                "title": "NA-KD chiffon flower detail mini dress in pink",
+                "pdpUrl": "https://www.asos.com/us/na-kd/na-kd-chiffon-flower-detail-mini-dress-in-pink/prd/206415025"
+            },
+            {
+                "locale": "it-IT",
+                "title": "NA-KD - Vestito corto rosa in chiffon con dettaglio a fiore",
+                "pdpUrl": "https://www.asos.com/it/na-kd/na-kd-vestito-corto-rosa-in-chiffon-con-dettaglio-a-fiore/prd/206415025"
+            },
+            {
+                "locale": "es-ES",
+                "title": "Vestido corto rosa con detalle de flor de chif\u00f3n de NA-KD",
+                "pdpUrl": "https://www.asos.com/es/na-kd/vestido-corto-rosa-con-detalle-de-flor-de-chifon-de-na-kd/prd/206415025"
+            },
+            {
+                "locale": "en-AU",
+                "title": "NA-KD chiffon flower detail mini dress in pink",
+                "pdpUrl": "https://www.asos.com/au/na-kd/na-kd-chiffon-flower-detail-mini-dress-in-pink/prd/206415025"
+            },
+            {
+                "locale": "fr-FR",
+                "title": "NA-KD - Robe courte en mousseline avec fleur - Rose",
+                "pdpUrl": "https://www.asos.com/fr/na-kd/na-kd-robe-courte-en-mousseline-avec-fleur-rose/prd/206415025"
+            },
+            {
+                "locale": "da-DK",
+                "title": "NA-KD - Lyser\u00f8d minikjole med blomsterdetalje i chiffon",
+                "pdpUrl": "https://www.asos.com/dk/na-kd/na-kd-lyserd-minikjole-med-blomsterdetalje-i-chiffon/prd/206415025"
+            },
+            {
+                "locale": "sv-SE",
+                "title": "NA-KD \u2013 Rosa minikl\u00e4nning i chiffong med blomdetalj",
+                "pdpUrl": "https://www.asos.com/se/na-kd/na-kd-rosa-miniklanning-i-chiffong-med-blomdetalj/prd/206415025"
+            },
+            {
+                "locale": "pl-PL",
+                "title": "NA-KD \u2013 R\u00f3\u017cowa szyfonowa sukienka mini z kwiatkiem",
+                "pdpUrl": "https://www.asos.com/pl/na-kd/na-kd-rozowa-szyfonowa-sukienka-mini-z-kwiatkiem/prd/206415025"
+            },
+            {
+                "locale": "de-DE",
+                "title": "NA-KD \u2013 Minikleid aus Chiffon in Rosa mit Blumendetail",
+                "pdpUrl": "https://www.asos.com/de/na-kd/na-kd-minikleid-aus-chiffon-in-rosa-mit-blumendetail/prd/206415025"
+            },
+            {
+                "locale": "nl-NL",
+                "title": "NA-KD - Mini-jurk van chiffon met bloemdetail in roze",
+                "pdpUrl": "https://www.asos.com/nl/na-kd/na-kd-mini-jurk-van-chiffon-met-bloemdetail-in-roze/prd/206415025"
+            }
+        ],
+        "gender": "Women",
+        "productCode": "135131139",
+        "pdpLayout": "Core",
+        "brand": {
+            "id": 15883,
+            "name": "NA-KD",
+            "description": "If classic street style with a touch of tailoring is your thing, then it\u2019s time to get excited because that\u2019s exactly what Swedish brand <a href=\"/women/a-to-z-of-brands/na-kd/cat/?cid=28466\"><strong>NA-KD</strong></a> all about. Pad out your wardrobe with puffer jackets and tailored coats, or stock up on fail-safe pieces like jeans, jumpers and T-shirts. Its statement prints make for standout looks, too."
+        },
+        "sizeGuide": "https://www.asos.com/web/pages/size-guides/index.html?sizeSchema=US&data=https://www.asos.com/api/sizing/sizeapi/v1/SizeGuide/249%3flanguage%3den-GB",
+        "isNoSize": false,
+        "isOneSize": false,
+        "hasVariantsWithProp65Risk": false,
+        "variants": [
+            {
+                "id": 206415029,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "sizeId": 408640,
+                "brandSize": "EU 32",
+                "displaySizeText": "EU 32 - US 0",
+                "sizeOrder": 10,
+                "sku": "135131161",
+                "isAvailable": true,
+                "colourWayId": 206415026,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949062548"
+            },
+            {
+                "id": 206415030,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "sizeId": 408644,
+                "brandSize": "EU 34",
+                "displaySizeText": "EU 34 - US 2",
+                "sizeOrder": 20,
+                "sku": "135131162",
+                "isAvailable": true,
+                "colourWayId": 206415026,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949062555"
+            },
+            {
+                "id": 206415032,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "sizeId": 408643,
+                "brandSize": "EU 36",
+                "displaySizeText": "EU 36 - US 4",
+                "sizeOrder": 30,
+                "sku": "135131163",
+                "isAvailable": true,
+                "colourWayId": 206415026,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949062562"
+            },
+            {
+                "id": 206415028,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "sizeId": 409134,
+                "brandSize": "EU 38",
+                "displaySizeText": "EU 38 - US 6",
+                "sizeOrder": 40,
+                "sku": "135131164",
+                "isAvailable": true,
+                "colourWayId": 206415026,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949062579"
+            },
+            {
+                "id": 206415031,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "sizeId": 408639,
+                "brandSize": "EU 40",
+                "displaySizeText": "EU 40 - US 8",
+                "sizeOrder": 50,
+                "sku": "135131165",
+                "isAvailable": true,
+                "colourWayId": 206415026,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949062586"
+            },
+            {
+                "id": 206415033,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "sizeId": 408642,
+                "brandSize": "EU 42",
+                "displaySizeText": "EU 42 - US 10",
+                "sizeOrder": 60,
+                "sku": "135131166",
+                "isAvailable": true,
+                "colourWayId": 206415026,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949062593"
+            },
+            {
+                "id": 206415027,
+                "name": "NA-KD chiffon flower detail mini dress in pink",
+                "sizeId": 409135,
+                "brandSize": "EU 44",
+                "displaySizeText": "EU 44 - US 12",
+                "sizeOrder": 70,
+                "sku": "135131167",
+                "isAvailable": true,
+                "colourWayId": 206415026,
+                "colour": "Pink",
+                "isPrimary": true,
+                "isProp65Risk": false,
+                "ean": "7325949062609"
+            }
+        ],
+        "media": {
+            "images": [
+                {
+                    "url": "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-1-pink",
+                    "type": "Standard1",
+                    "colourWayId": 206415026,
+                    "colour": "Pink",
+                    "isPrimary": true
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-2",
+                    "type": "Standard2",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-3",
+                    "type": "Standard3",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                },
+                {
+                    "url": "images.asos-media.com/products/na-kd-chiffon-flower-detail-mini-dress-in-pink/206415025-4",
+                    "type": "Standard4",
+                    "colourWayId": null,
+                    "colour": "",
+                    "isPrimary": false
+                }
+            ],
+            "catwalk": [],
+            "spinset": [],
+            "swatchSprite": []
+        },
+        "badges": [],
+        "info": {
+            "aboutMe": "Chiffon: sheer, lightweight fabric with a grainy feel<br><br>Main: 100% Polyester.",
+            "sizeAndFit": "",
+            "careInfo": "Machine wash according to instructions on care label"
+        },
+        "associatedGroups": {
+            "looks": []
+        },
+        "shippingRestriction": {
+            "includedCountryCodes": [
+                "AD",
+                "AE",
+                "AG",
+                "AI",
+                "AL",
+                "AO",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BZ",
+                "CA",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GF",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KH",
+                "KI",
+                "KN",
+                "KR",
+                "KW",
+                "KY",
+                "LA",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SK",
+                "SL",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SX",
+                "SZ",
+                "TC",
+                "TD",
+                "TG",
+                "TH",
+                "TK",
+                "TN",
+                "TO",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UG",
+                "US",
+                "UY",
+                "VC",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "excludedCountryCodes": []
+        },
+        "rating": null,
+        "productType": {
+            "id": 8416,
+            "name": "Dresses"
+        },
+        "plpIds": [
+            {
+                "id": 5235,
+                "type": "Standard"
+            },
+            {
+                "id": 5524,
+                "type": "Standard"
+            },
+            {
+                "id": 7046,
+                "type": "Standard"
+            },
+            {
+                "id": 8799,
+                "type": "SEO"
+            },
+            {
+                "id": 8857,
+                "type": "Standard"
+            },
+            {
+                "id": 11057,
+                "type": "Standard"
+            },
+            {
+                "id": 13489,
+                "type": "Standard"
+            },
+            {
+                "id": 13597,
+                "type": "Standard"
+            },
+            {
+                "id": 15624,
+                "type": "Standard"
+            },
+            {
+                "id": 15627,
+                "type": "Standard"
+            },
+            {
+                "id": 15944,
+                "type": "Standard"
+            },
+            {
+                "id": 15945,
+                "type": "Standard"
+            },
+            {
+                "id": 16804,
+                "type": "Standard"
+            },
+            {
+                "id": 19903,
+                "type": "Standard"
+            },
+            {
+                "id": 27399,
+                "type": "Standard"
+            },
+            {
+                "id": 28025,
+                "type": "Standard"
+            },
+            {
+                "id": 28039,
+                "type": "Standard"
+            },
+            {
+                "id": 28041,
+                "type": "Standard"
+            },
+            {
+                "id": 28244,
+                "type": "Standard"
+            },
+            {
+                "id": 28245,
+                "type": "Standard"
+            },
+            {
+                "id": 28246,
+                "type": "Standard"
+            },
+            {
+                "id": 28247,
+                "type": "Standard"
+            },
+            {
+                "id": 28254,
+                "type": "Standard"
+            },
+            {
+                "id": 28464,
+                "type": "Brand"
+            },
+            {
+                "id": 28750,
+                "type": "Standard"
+            },
+            {
+                "id": 50053,
+                "type": "Standard"
+            },
+            {
+                "id": 50090,
+                "type": "Standard"
+            },
+            {
+                "id": 50453,
+                "type": "Standard"
+            },
+            {
+                "id": 50711,
+                "type": "Standard"
+            },
+            {
+                "id": 50712,
+                "type": "Standard"
+            },
+            {
+                "id": 50713,
+                "type": "Standard"
+            },
+            {
+                "id": 50715,
+                "type": "Standard"
+            },
+            {
+                "id": 50717,
+                "type": "Standard"
+            },
+            {
+                "id": 50718,
+                "type": "Standard"
+            },
+            {
+                "id": 50917,
+                "type": "Standard"
+            },
+            {
+                "id": 51236,
+                "type": "Standard"
+            },
+            {
+                "id": 51237,
+                "type": "Standard"
+            },
+            {
+                "id": 51238,
+                "type": "Standard"
+            },
+            {
+                "id": 51239,
+                "type": "Standard"
+            },
+            {
+                "id": 51311,
+                "type": "Standard"
+            },
+            {
+                "id": 51312,
+                "type": "Standard"
+            },
+            {
+                "id": 51317,
+                "type": "Standard"
+            },
+            {
+                "id": 51319,
+                "type": "Standard"
+            },
+            {
+                "id": 51325,
+                "type": "Standard"
+            },
+            {
+                "id": 51327,
+                "type": "Standard"
+            },
+            {
+                "id": 51328,
+                "type": "Standard"
+            },
+            {
+                "id": 51488,
+                "type": "Standard"
+            },
+            {
+                "id": 51494,
+                "type": "Standard"
+            },
+            {
+                "id": 51495,
+                "type": "Standard"
+            },
+            {
+                "id": 51498,
+                "type": "Standard"
+            },
+            {
+                "id": 51499,
+                "type": "Standard"
+            },
+            {
+                "id": 51500,
+                "type": "Standard"
+            },
+            {
+                "id": 51501,
+                "type": "Standard"
+            },
+            {
+                "id": 51513,
+                "type": "Standard"
+            },
+            {
+                "id": 51770,
+                "type": "Standard"
+            },
+            {
+                "id": 52071,
+                "type": "Standard"
+            },
+            {
+                "id": 52080,
+                "type": "Standard"
+            }
+        ],
+        "brandType": null,
+        "hairType": null,
+        "skinType": null,
+        "sellingTags": [],
+        "isDiscontinued": false
+    }
+}
