@@ -1,4 +1,4 @@
-# Vestidos para Cuerpos Reales: La problemática actual de las mujeres españolas para encontar su talla en diversas marcas.
+# Vestidos para Cuerpos Reales: La problemática actual de las mujeres españolas para encontar su talla  en diversas marcas.
 
 ![Descripción de la imagen](imagenes/portada.png)
 
@@ -8,14 +8,14 @@ Hace unos meses comencé con muchisima ilusión la busqueda del vestido perfecto
 
 Finalmente encontré mi vestido, pero me costó. Por lo que unos meses más tarde y ya con las herramientas y conocimientos necesarios planteo este proyecto abordando un problema real: **¿Son los vestidos de hoy para las mujeres del hoy?**
 
-Se inicia este proyecto a pequeña escala, analizando nueve de las marcas que visité hace unos meses en busca de vestido las cuales son: Mango, Forever21, Ghospell, Jaded Rose, Love Triangle, NA-KD, Vero Moda, Natural by Lila y Ladypipa. Siendo estas tiendas muy diversas a pqueñas y gran escala tanto españolas como europeas o americanas.
+Se inicia este proyecto a pequeña escala, analizando nueve de las marcas que visité hace unos meses en busca de vestido las cuales son: Mango, Forever21, Ghospell, Jaded Rose, Love Triangle, NA-KD, Vero Moda, Natural by Lila y Ladypipa. Siendo estas tiendas muy diversas, de pequeñas y gran escala, tanto españolas como europeas o americanas.
 
 
 # 🎯 Objetivo 
 
 El objetivo fundamental entorno al cual se desarrolla este proyecto consiste en descubrir si las marcas objeto de nuestro estudio ofrecen diversidad de tallas y suficiente oferta de tallas L y XL, las cuales son las más consumidas en España. Para ello almacenaremos todos los datos recabados y observaremos y analizaremos las siguientes cuestiones:
 
-- La ditribución de vestidos por marca.
+- La distribución de vestidos por marca.
 - La distribución de prendas por talla para cada marca.
 - El precio medio y mediano para los vestidos de cada marca.
 - El precio medio y mediano por tallas.
@@ -26,13 +26,13 @@ Además, de la marca Forever21 hemos conseguido obtener el stock para cada vesti
 
 # 📁 Estructura
 
-- El proyecto consiste en la implementación de una ETL y un posterioir análisis. Se ha estructurado en una primera fase de extracción de datos. Los datos se han obtenido mediante APIs y scraping de dos páginas web. Las APIs son: [Asos](https://rapidapi.com/DataCrawler/api/asos10) y [Forever21](https://rapidapi.com/apidojo/api/forever21) y las páginas web: [NaturalByLila](https://naturalbylila.com/) y [Ladypipa](https://ladypipa.com/). 
+- El proyecto consiste en la implementación de una ETL y un posterior análisis. Se ha estructurado en una primera fase de extracción de datos. Los datos se han obtenido mediante APIs y scraping de dos páginas web. Las APIs son: [Asos](https://rapidapi.com/DataCrawler/api/asos10) y [Forever21](https://rapidapi.com/apidojo/api/forever21) y las páginas web: [NaturalByLila](https://naturalbylila.com/) y [Ladypipa](https://ladypipa.com/). 
 
-    - La obtención de información de las APIs se ha llevado a cabo en los notebooks 1 y 2 que se pueden encontrar en la carpeta `notebooks` apoyandose en el archivo de `funciones_api.py` de la carpeta `src`. Los datos extraidos han sido almacenados en la carpeta `datos` dentro de `api_asos` y `api_forever21`.
+    - La obtención de información de las APIs se ha llevado a cabo en los notebooks 1 y 2 que se pueden encontrar en la carpeta `notebooks`, apoyandose en el archivo de `funciones_api.py` de la carpeta `src`. Los datos extraídos han sido almacenados en la carpeta `datos` dentro de `api_asos` y `api_forever21`.
 
     - El scraping de las webs se puede encontrar en los notebooks `3-scraping_lila.ipynb` y `4-scraping_ladypipa.ipynb` y las funciones de apoyo en la carpeta `src` en el archivo `funciones_craping.py`. 
 
-- Una vez etraidos todos los datos pasamos a la segunda fase de la ETL que es la transformación y limpieza, llevada a cabo en el notebook `5-limpieza.iynb`. En esta fase limpiamos las columnas de cada dataframe añadiendo nuevas columnas o quitando alguna existente y normalizando los datos para poder unificar todos los datos obtenidos en la primera fase.
+- Una vez extraidos todos los datos pasamos a la segunda fase de la ETL que es la transformación y limpieza, llevada a cabo en el notebook `5-limpieza.iynb`. En esta fase limpiamos las columnas de cada dataframe añadiendo nuevas columnas o quitando alguna existente y normalizando los datos para poder unificar todos los obtenidos en la primera fase.
 
 - El último paso es la creación y carga de los datos en una base de datos SQL, este paso se ejecuta en el notebook `6-creacion_insercion_bbdd.ipynb` apoyandose en las funciones del archivo `funciones_bbdd.py` y `queries.py`. Se crea la base de datos, las tablas y se realizan las consultas necesarias para insertar todos los datos en nuestra base de datos. 
 
