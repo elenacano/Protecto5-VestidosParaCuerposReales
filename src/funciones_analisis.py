@@ -4,6 +4,7 @@ import os
 import plotly.express as px  # type: ignore
 import plotly.graph_objects as go # type: ignore
 from plotly.subplots import make_subplots # type: ignore
+import plotly.io as pio # type: ignore
 
 
 def querie_prendas_por_marca(conexion):
@@ -119,4 +120,5 @@ def grafico_precio_por_marca(df):
                 barmode='group',  # Agrupar las barras
                 labels={'precio': 'Precio', 'tipo_precio': 'Tipo de Precio'},
                 title='Media y Mediana de Precios por Marca')
+    fig.write_html("grafico_precio_por_marca.html")
     fig.show()
