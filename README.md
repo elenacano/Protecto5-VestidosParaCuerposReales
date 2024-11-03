@@ -38,4 +38,17 @@ Además, de la marca Forever21 hemos conseguido obtener el stock para cada vesti
 
 - Finamente, pasamos a la fase del análisis mediante consultas SQL. En esta fase extraeremos la información relevante para analizar las propuestas planteadas como onjetivo y mostrar gráficas para observar de una forma más visula los resultados. Toda esta información se puede encontrar en el notebook `7-analisis.ipynb` apoyado en las funciones de `funciones_analisis.py`.
 
-├── datos │ ├── api_asos │ │ ├── df_asos.csv │ │ ├── Ghospell │ │ ├── JadedRose │ │ │ └── vestidos_JadedRose.json │ │ ├── Jarlo │ │ ├── LoveTriangle │ │ ├── Mango │ │ ├── NAKD │ │ └── VeroModa │ └── api_forever21 │ └── dataframes │ ├── df_asos.csv │ ├── df_bylila.csv │ ├── df_bylila_con_color.csv │ ├── df_categorias.csv │ ├── df_con_id_forever21.csv │ ├── df_con_id_vestidos.csv │ ├── df_final_vestidos.csv │ ├── df_forever21.csv │ ├── df_forever21_final.csv │ ├── df_forever21_sin_stock.csv │ ├── df_ladypipa.csv │ └── df_marcas.csv ├── scraping │ ├── links_ladypipa.json │ └── links_nbl.json ├── graficos │ ├── 1-vestidos_por_marca.png │ ├── 2-tallas_por_marca.png │ ├── 3-media_precios_marca.png │ ├── 4-precio_por_talla.png │ ├── 5-porcentaje_talla_por_categoria.png │ └── 6-normal_vestidos_por_talla.png ├── imagenes │ ├── portada-1.png │ └── portada.png ├── notebooks │ ├── 1-api_asos.ipynb │ ├── 2-api_forever21.ipynb │ ├── 3-scraping_lila.ipynb │ ├── 4-scraping_ladypipa.ipynb │ ├── 5-limpieza.ipynb │ ├── 6-creacion_insercion_bbdd.ipynb │ ├── 7-analisis.ipynb │ └── asos-vieja.ipynb └── src ├── dic.py ├── funciones_analisis.py ├── funciones_api.py ├── funciones_bbdd.py ├── funciones_scraping.py └── queries.py
+Por lo tanto el contenido de las carpetas es el siguiente:
+- **datos**: Contiene los datos obtenidos de las APIs y el scraping.
+  - **api_asos**: Datos obtenidos de la API de ASOS.
+  - **api_forever21**: Datos obtenidos de la API de Forever21.
+  - **scraping**: Datos obtenidos mediante técnicas de scraping.
+  - **dataframes**: Donde se almacenan los dataframes limpios de cada marca.
+
+- **graficos**: Contiene las visualizaciones generadas a partir de los datos.
+
+- **imagenes**: Imágenes utilizadas en el proyecto.
+
+- **notebooks**: Jupyter notebooks con el código y análisis del proyecto.
+
+- **src**: Scripts de Python con funciones de apoyo para los noteboks.
