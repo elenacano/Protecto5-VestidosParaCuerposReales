@@ -120,5 +120,148 @@ def grafico_precio_por_marca(df):
                 barmode='group',  # Agrupar las barras
                 labels={'precio': 'Precio', 'tipo_precio': 'Tipo de Precio'},
                 title='Media y Mediana de Precios por Marca')
-    fig.write_html("grafico_precio_por_marca.html")
+    #pio.write_image(fig, 'grafico_precio_por_marca.png', format='png')
+    fig.show()
+
+
+def querie_precio_por_talla(conexion):
+    cursor = conexion.cursor()
+    cursor.execute("""SELECT talla, round(avg(precio),2) AS media_precio, PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY precio) AS mediana_precio
+                    FROM vestidos v 
+                    GROUP BY talla;""")
+    data = cursor.fetchall()
+    column_names = [desc[0] for desc in cursor.description]
+
+    df = pd.DataFrame(data, columns=column_names)
+
+    talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
+    df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
+    df = df.sort_values('talla').reset_index(drop=True)
+
+    return df
+
+
+def grafica_precio_por_talla(df):
+    df_melted = df.melt(id_vars='talla', value_vars=['media_precio', 'mediana_precio'], var_name='tipo_precio', value_name='precio')
+    fig = px.bar(df_melted, 
+                x='talla', 
+                y='precio', 
+                color='tipo_precio',  # Usar color para distinguir media y mediana
+                barmode='group',  # Agrupar las barras
+                labels={'precio': 'Precio', 'tipo_precio': 'Tipo de Precio'},
+                title='Media y Mediana de Precios por Talla')
+    fig.show()
+    
+
+def querie_porcentaje_por_talla_categoria(conexion):
+    cursor = conexion.cursor()
+    cursor.execute("""SELECT nombre AS categoria, talla, num_tallas, porcentaje
+                    FROM (SELECT id_categoria, talla, count(talla) AS num_tallas, SUM(COUNT(talla)) OVER (PARTITION BY id_categoria) AS total_vestidos_categoria, round(count(talla)/SUM(COUNT(talla)) OVER (PARTITION BY id_categoria)*100, 2) AS porcentaje
+                                FROM vestidos v 
+                                GROUP BY id_categoria, talla
+                                ORDER BY id_categoria) AS taux
+                    INNER JOIN categorias c ON c.id_categoria=taux.id_categoria
+                    WHERE c.nombre != 'sin categoria'
+                    ORDER BY nombre;""")
+    data = cursor.fetchall()
+    column_names = [desc[0] for desc in cursor.description]
+
+    df = pd.DataFrame(data, columns=column_names)
+    return df
+
+
+def grafica_porcentaje_por_talla_categoria(df):
+    talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
+    df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
+
+    # Ordenar el DataFrame para asegurar que las tallas estén en el orden correcto dentro de cada categoría
+    df = df.sort_values(['categoria', 'talla'])
+
+    # Crear el objeto make_subplots con tres filas y una columna
+    fig = make_subplots(rows=3, cols=1, subplot_titles=("Corto", "Largo", "Midi"))
+
+    # Crear gráficos de barras para cada categoría y añadirlos al subplot correspondiente
+    categorias = ["corto", "largo", "midi"]
+    for i, categoria in enumerate(categorias, start=1):
+        datos_categoria = df[df['categoria'] == categoria]
+        fig.add_trace(
+            go.Bar(
+                x=datos_categoria['talla'],
+                y=datos_categoria['porcentaje'],
+                text=datos_categoria['porcentaje'],
+                textposition='inside',
+                name=categoria.capitalize()
+            ),
+            row=i, col=1
+        )
+
+    # Ajustar el layout de la figura
+    fig.update_layout(
+        height=700,  # Altura del gráfico total
+        title_text="Porcentaje de prendas por talla para cada categoría",
+        showlegend=False,
+    )
+
+    # Mostrar el gráfico
+    fig.show()
+
+
+def querie_porcentaje_por_talla(conexion):
+    cursor = conexion.cursor()
+    cursor.execute("""SELECT talla, count(id_vestido) AS vestidos_talla, round(COUNT(id_vestido)*100.0/(SELECT COUNT(id_vestido) FROM vestidos),2) AS vestidos_talla_normalizado
+                        FROM vestidos v 
+                        GROUP BY talla;""")
+    data = cursor.fetchall()
+    column_names = [desc[0] for desc in cursor.description]
+
+    df = pd.DataFrame(data, columns=column_names)
+
+    return df
+
+
+def grafica_porcentaje_por_talla(df):
+    
+    talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
+    df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
+
+    # Ordenar el DataFrame para asegurar que las tallas estén en el orden correcto dentro de cada categoría
+    df = df.sort_values('talla')
+    fig = go.Figure()
+
+    fig.add_trace(
+        go.Bar(
+            x=df["talla"],
+            y=df["vestidos_talla_normalizado"],
+            name="Distribución de Vestidos (Barras)",
+            text=df["vestidos_talla_normalizado"],
+            textposition="inside"
+        )
+    )
+
+    # Crear gráfico de línea con relleno
+    fig.add_trace(
+        go.Scatter(
+            x=df["talla"],
+            y=df["vestidos_talla_normalizado"],
+            mode="lines+markers",
+            name="Distribución Normalizada (Línea con Relleno)",
+            line=dict(shape="spline", width=4),  # Línea suave
+            fill='tozeroy',
+            text=df["vestidos_talla_normalizado"],
+            textposition="top center"
+        )
+    )
+
+    # Configurar el layout de la figura
+    fig.update_layout(
+        title="Distribución de Vestidos por Talla",
+        height=500,
+        width=1000,
+        xaxis_title="Talla",
+        yaxis_title="Porcentaje de Vestidos",
+        barmode="overlay",  # Superponer la barra y el área
+        showlegend=False 
+    )
+
+    # Mostrar la figura
     fig.show()
