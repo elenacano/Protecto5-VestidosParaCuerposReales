@@ -10,6 +10,19 @@ import requests # type: ignore
 import re
 
 def selenium_bylila():
+
+    """
+    Utiliza Selenium para extraer enlaces de productos de dos páginas de vestidos en 'Natural by Lila'.
+
+    Returns:
+        list: Una lista con sublistas de enlaces a los productos de vestidos cortos y largos, respectivamente.
+
+    Notes:
+        - La función abre cada página en un navegador Chrome, elimina anuncios y cookies, y desplaza
+          la página para cargar todos los productos.
+        - Requiere el controlador de Chrome ('chromedriver') en el PATH del sistema.
+    """
+
     lista_url = ["https://naturalbylila.com/ropa/vestidos/?product-cat=vestidos-cortos", "https://naturalbylila.com/ropa/vestidos/?product-cat=vestidos-largos"]
 
     lista_vestidos_cortos_largos = []
@@ -52,6 +65,21 @@ def selenium_bylila():
 
 
 def extraccion_info_bylila(lista_vestidos_cortos_largos):
+
+    """
+    Extrae la información detallada de cada vestido en 'Natural by Lila' usando BeautifulSoup.
+
+    Parameters:
+        - lista_vestidos_cortos_largos (list): Lista de enlaces a productos por categorías ('corto' o 'largo').
+
+    Returns:
+        dict: Un diccionario con la información de cada vestido, que incluye nombre, marca, precio, tallas disponibles y categoría.
+
+    Notes:
+        - La función consulta cada enlace de producto y extrae datos como el nombre, precio y tallas.
+        - Si el vestido es de 'talla única', se asignan tallas genéricas.
+    """
+
     dic_vestido = {
         "nombre" : [],
         "marca" : [],
@@ -120,6 +148,18 @@ def extraccion_info_bylila(lista_vestidos_cortos_largos):
 
 
 def obtencion_links_ladypipa():
+
+    """
+    Utiliza Selenium para extraer enlaces de todos los vestidos en la página de 'LadyPipa'.
+
+    Returns:
+        list: Una lista de enlaces a los productos en la colección de vestidos de LadyPipa.
+
+    Notes:
+        - La función abre la página en un navegador Chrome y encuentra enlaces a cada producto.
+        - Requiere el controlador de Chrome ('chromedriver') en el PATH del sistema.
+    """
+
     url = "https://ladypipa.com/collections/vestidos"
     driver = webdriver.Chrome()
     driver.get(url)
@@ -142,6 +182,22 @@ def obtencion_links_ladypipa():
 
 
 def extraccion_info_ladypipa(links_ladypipa):
+
+    """
+    Extrae información detallada de cada vestido en 'LadyPipa' usando BeautifulSoup.
+
+    Parameters:
+        - links_ladypipa (list): Lista de enlaces de productos.
+
+    Returns:
+        dict: Un diccionario con información de cada vestido, incluyendo nombre, marca, precio, color, tallas disponibles y categoría.
+
+    Notes:
+        - La función recorre cada enlace de producto para extraer datos relevantes como nombre, precio, color,
+          categoría (e.g., corto, midi), y tallas disponibles.
+        - Los datos de talla se extraen solo si están disponibles.
+    """
+    
     url_base="https://ladypipa.com"
 
     dic_vestido = {
