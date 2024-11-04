@@ -2,6 +2,20 @@ import psycopg2 # type: ignore
 import pandas as pd # type: ignore
 
 def crear_db(database_name, postgres_pass, usuario):
+
+    """
+    Crea una base de datos en PostgreSQL si aún no existe.
+
+    Parameters:
+        - database_name (str): Nombre de la base de datos a crear.
+        - postgres_pass (str): Contraseña del usuario de PostgreSQL.
+        - usuario (str): Nombre del usuario de PostgreSQL.
+
+    Notes:
+        Conecta a la base de datos predeterminada `postgres` para verificar si `database_name` ya existe.
+        Si no existe, se crea y se cierra la conexión.
+    """
+
     # conexion a postgres
     conn = establecer_conn("postgres", postgres_pass, usuario) # Nos conectamos a la base de datos de postgres por defecto para poder crear la nueva base de datos
     
@@ -26,10 +40,11 @@ def crear_db(database_name, postgres_pass, usuario):
 
 
 def establecer_conn(database_name, postgres_pass, usuario, host="localhost"):
+
     """
     Establece una conexión a una base de datos de PostgreSQL.
 
-    Params:
+    Parameters:
         - database_name (str): El nombre de la base de datos a la que conectarse.
         - postgres_pass (str): La contraseña del usuario de PostgreSQL.
         - usuario (str): El nombre del usuario de PostgreSQL.
@@ -38,6 +53,8 @@ def establecer_conn(database_name, postgres_pass, usuario, host="localhost"):
     Returns:
         psycopg2.extensions.connection: La conexión establecida a la base de datos PostgreSQL.
 
+    Notes:
+        Establece la conexión en modo autocommit, eliminando la necesidad de ejecutar `commit` en cada operación.
     """
 
     # Crear la conexión a la base de datos PostgreSQL
@@ -56,17 +73,23 @@ def establecer_conn(database_name, postgres_pass, usuario, host="localhost"):
 
 
 def dbeaver_commitmany(conexion, query, df):
+    
     """
-    Ejecuta múltiples consultas y realiza un commit de los cambios.
+    Ejecuta múltiples consultas SQL en una conexión de base de datos y confirma los cambios.
 
-    Args:
-        conexion (connection): Un objeto de conexión a la base de datos.
-        query (str): La consulta SQL a ejecutar.
-        *values: Los valores a incluir en la consulta.
+    Parameters:
+        - conexion (psycopg2.connection): Conexión a la base de datos PostgreSQL.
+        - query (str): La consulta SQL a ejecutar con `executemany`.
+        - df (str): Nombre del archivo CSV (sin extensión) que contiene los datos a insertar en la consulta SQL.
+
+    Notes:
+        Lee los datos de un archivo CSV en un DataFrame de pandas, los convierte a tuplas y ejecuta la consulta SQL
+        para cada registro en `df`. Realiza el commit de los cambios automáticamente.
 
     Returns:
-        str: Un mensaje de confirmación después del commit.
+        str: Mensaje de confirmación después de ejecutar las consultas y realizar el commit.
     """
+    
     df = pd.read_csv("../datos/dataframes/" + df + ".csv", index_col=0)
     values = [tuple(fila) for fila in df.values]
     cursor = conexion.cursor()
