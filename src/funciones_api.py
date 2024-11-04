@@ -7,6 +7,17 @@ dotenv.load_dotenv()
 
 def busqueda_vestido_marca(lista_id, lista_marcas):
 
+    """
+    Realiza consultas a la API de ASOS para obtener una lista de productos por marca y los guarda en archivos JSON.
+
+    Parameters:
+    lista_id (list): Lista de identificadores de categoría de productos.
+    lista_marcas (list): Lista de nombres de marcas correspondientes a los identificadores.
+
+    Saves:
+    JSON files: Guarda los datos JSON obtenidos de la API de ASOS en un directorio específico para cada marca.
+    """
+
     url = "https://asos10.p.rapidapi.com/api/v1/getProductList"
     api_key = os.getenv("api_asos")
 
@@ -33,6 +44,18 @@ def busqueda_vestido_marca(lista_id, lista_marcas):
 
 
 def detalles_vestido(lista_marcas, dic_info):
+
+    """
+    Realiza consultas a la API de ASOS para obtener detalles específicos de cada vestido y guarda cada uno en archivos JSON.
+
+    Parameters:
+    lista_marcas (list): Lista de nombres de marcas.
+    dic_info (dict): Diccionario con la información de los productos por marca.
+
+    Saves:
+    JSON files: Guarda los detalles de cada vestido en archivos JSON en un directorio específico por marca.
+    """
+
     api_key = os.getenv("api_asos")
 
     for marca in lista_marcas:
@@ -58,6 +81,18 @@ def detalles_vestido(lista_marcas, dic_info):
 
 
 def creacion_diccionario_asos(dic_info, lista_marcas):
+
+    """
+    Crea un diccionario consolidado con la información de los vestidos consultados desde ASOS.
+
+    Parameters:
+    dic_info (dict): Diccionario con la información básica de los vestidos por marca.
+    lista_marcas (list): Lista de nombres de marcas a procesar.
+
+    Returns:
+    dict: Diccionario que contiene la información consolidada de los vestidos, incluyendo nombre, marca, precio, color, talla y disponibilidad.
+    """
+
     dic_vestido = {
         "nombre" : [],
         "marca" : [],
@@ -96,6 +131,14 @@ def creacion_diccionario_asos(dic_info, lista_marcas):
 
 
 def creacion_diccionario_forever21():
+
+    """
+    Crea un diccionario consolidado con la información de los vestidos de Forever21 obtenida desde archivos JSON.
+
+    Returns:
+    dict: Diccionario que contiene la información consolidada de los vestidos de Forever21, incluyendo nombre, marca, precio, color, talla y nivel de stock.
+    """
+    
     dic_vestido = {
         "nombre" : [],
         "marca" : [],
