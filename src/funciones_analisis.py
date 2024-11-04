@@ -7,6 +7,17 @@ from plotly.subplots import make_subplots # type: ignore
 
 
 def querie_prendas_por_marca(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener la cantidad de vestidos por marca en la base de datos.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+
+    Returns:
+    pd.DataFrame: DataFrame con las columnas 'marca' y 'num_vestidos' ordenadas por número de vestidos en orden descendente.
+    """
+
     cursor = conexion.cursor()
     cursor.execute("""SELECT nombre AS marca, num_vestidos
                         FROM (SELECT id_marca, count(id_vestido) AS num_vestidos
@@ -19,7 +30,16 @@ def querie_prendas_por_marca(conexion):
     df = pd.DataFrame(data, columns=column_names)
     return df
 
+
 def grafica_prendas_por_marca(df):
+
+    """
+    Genera y muestra un gráfico de barras con la distribución de vestidos por marca.
+
+    Parameters:
+    df (pd.DataFrame): DataFrame que contiene las columnas 'marca' y 'num_vestidos'.
+    """
+
     fig = px.bar(df, x="marca", y="num_vestidos", 
              title="Distribución de Vestidos por Marca", 
              labels={"marca": "Marca", "num_vestidos": "Número de Vestidos"},
@@ -28,7 +48,19 @@ def grafica_prendas_por_marca(df):
     fig.update_layout(height=500, width=800)
     fig.show()
 
+
 def querie_tallas_por_marca(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener la cantidad de vestidos por talla para cada marca.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+
+    Returns:
+    pd.DataFrame: DataFrame con las columnas 'nombre', 'talla' y 'num_tallas'.
+    """
+
     cursor = conexion.cursor()
     cursor.execute(""" SELECT nombre, talla, num_tallas
                         FROM (SELECT id_marca, talla, count(talla) AS num_tallas
@@ -42,7 +74,16 @@ def querie_tallas_por_marca(conexion):
     return df
 
 
+
 def grafico_tallas_por_marca(df):
+
+    """
+    Genera un gráfico de barras que muestra la distribución de tallas para cada marca en subplots.
+
+    Parameters:
+    df (pd.DataFrame): DataFrame que contiene las columnas 'nombre', 'talla' y 'num_tallas'.
+    """
+
     talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL']
 
     # Convertir la columna 'talla' a tipo categórico y ordenar
@@ -97,6 +138,17 @@ def grafico_tallas_por_marca(df):
 
 
 def querie_precio_por_marca(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener la media y mediana de precios de vestidos por marca.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+
+    Returns:
+    pd.DataFrame: DataFrame con las columnas 'marca', 'media_precio' y 'mediana_precio', ordenadas por mediana de precio.
+    """
+
     cursor = conexion.cursor()
     cursor.execute("""SELECT nombre AS marca, media_precio, mediana_precio
                     FROM (SELECT id_marca, round(avg(precio),2) AS media_precio, PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY precio) AS mediana_precio
@@ -110,7 +162,16 @@ def querie_precio_por_marca(conexion):
     df = pd.DataFrame(data, columns=column_names)
     return df
 
+
 def grafico_precio_por_marca(df):
+
+    """
+    Genera un gráfico de barras que muestra la media y mediana de precios por marca.
+
+    Parameters:
+    df (pd.DataFrame): DataFrame con las columnas 'marca', 'media_precio' y 'mediana_precio'.
+    """
+
     df_melted = df.melt(id_vars='marca', value_vars=['media_precio', 'mediana_precio'], var_name='tipo_precio', value_name='precio')
     fig = px.bar(df_melted, 
                 x='marca', 
@@ -124,6 +185,17 @@ def grafico_precio_por_marca(df):
 
 
 def querie_precio_por_talla(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener la media y mediana de precios por talla.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+
+    Returns:
+    pd.DataFrame: DataFrame con las columnas 'talla', 'media_precio' y 'mediana_precio', ordenado por talla.
+    """
+
     cursor = conexion.cursor()
     cursor.execute("""SELECT talla, round(avg(precio),2) AS media_precio, PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY precio) AS mediana_precio
                     FROM vestidos v 
@@ -141,6 +213,14 @@ def querie_precio_por_talla(conexion):
 
 
 def grafica_precio_por_talla(df):
+
+    """
+    Genera un gráfico de barras que muestra la media y mediana de precios por talla.
+
+    Parameters:
+    df (pd.DataFrame): DataFrame que contiene las columnas 'talla', 'media_precio' y 'mediana_precio'.
+    """
+
     df_melted = df.melt(id_vars='talla', value_vars=['media_precio', 'mediana_precio'], var_name='tipo_precio', value_name='precio')
     fig = px.bar(df_melted, 
                 x='talla', 
@@ -153,6 +233,17 @@ def grafica_precio_por_talla(df):
     
 
 def querie_porcentaje_por_talla_categoria(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener el porcentaje de vestidos por talla para cada categoría de prenda.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+
+    Returns:
+    pd.DataFrame: DataFrame con las columnas 'categoria', 'talla', 'num_tallas' y 'porcentaje'.
+    """
+
     cursor = conexion.cursor()
     cursor.execute("""SELECT nombre AS categoria, talla, num_tallas, porcentaje
                     FROM (SELECT id_categoria, talla, count(talla) AS num_tallas, SUM(COUNT(talla)) OVER (PARTITION BY id_categoria) AS total_vestidos_categoria, round(count(talla)/SUM(COUNT(talla)) OVER (PARTITION BY id_categoria)*100, 2) AS porcentaje
@@ -170,6 +261,14 @@ def querie_porcentaje_por_talla_categoria(conexion):
 
 
 def grafica_porcentaje_por_talla_categoria(df):
+
+    """
+    Genera gráficos de barras en subplots que muestran el porcentaje de vestidos por talla para cada categoría de prenda.
+
+    Parameters:
+    df (pd.DataFrame): DataFrame que contiene las columnas 'categoria', 'talla', 'num_tallas' y 'porcentaje'.
+    """
+
     talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
     df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
 
@@ -206,6 +305,17 @@ def grafica_porcentaje_por_talla_categoria(df):
 
 
 def querie_porcentaje_por_talla(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener el porcentaje de vestidos por cada talla.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+
+    Returns:
+    pd.DataFrame: DataFrame con las columnas 'talla', 'vestidos_talla' y 'vestidos_talla_normalizado'.
+    """
+
     cursor = conexion.cursor()
     cursor.execute("""SELECT talla, count(id_vestido) AS vestidos_talla, round(COUNT(id_vestido)*100.0/(SELECT COUNT(id_vestido) FROM vestidos),2) AS vestidos_talla_normalizado
                         FROM vestidos v 
@@ -219,6 +329,13 @@ def querie_porcentaje_por_talla(conexion):
 
 
 def grafica_porcentaje_por_talla(df):
+
+    """
+    Genera un gráfico combinado de barras y líneas para mostrar el porcentaje de vestidos por talla.
+
+    Parameters:
+    df (pd.DataFrame): DataFrame que contiene las columnas 'talla', 'vestidos_talla' y 'vestidos_talla_normalizado'.
+    """
 
     talla_orden = ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL', '3XL', '4XL', '5XL', '6XL']
     df['talla'] = pd.Categorical(df['talla'], categories=talla_orden, ordered=True)
@@ -299,6 +416,14 @@ def grafica_porcentaje_por_talla(df):
 
 
 def grafica_vestidos_talla_f21(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener el porcentaje de vestidos por cada talla en la tienda Forever21 y muestra un gráfico de barras.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+    """
+     
     cursor = conexion.cursor()
     cursor.execute("""SELECT talla, count(id_vestido) AS vestidos_talla, round(COUNT(id_vestido)*100.0/(SELECT COUNT(id_vestido) FROM vestidos),2) AS vestidos_talla_normalizado
                         FROM vestidos v 
@@ -322,7 +447,16 @@ def grafica_vestidos_talla_f21(conexion):
     fig.update_traces(textposition='inside')
     fig.show()
 
+
 def grafica_stock_talla_f21(conexion):
+
+    """
+    Ejecuta una consulta SQL para obtener el stock total por cada talla en la tienda Forever21 y muestra un gráfico de barras.
+
+    Parameters:
+    conexion (object): Conexión a la base de datos.
+    """
+    
     cursor = conexion.cursor()
     cursor.execute("""SELECT talla, sum(stock)
                     FROM vestidos_forever21 vf
